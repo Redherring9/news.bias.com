@@ -1,0 +1,132 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>B.I.A.S. — Balanced Information, Actual Stories</title>
+  <meta name="description" content="Balanced Information, Actual Stories. Biased toward calm.">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="B.I.A.S." href="/feed.xml">
+  
+  
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <a class="wordmark" href="/">B.I.A.S.</a>
+    <p class="site-subtitle">Balanced Information, Actual Stories</p>
+    <p class="site-tagline">Biased toward calm.</p>
+  </div>
+</header>
+
+
+<div class="toolbar">
+  <div class="container toolbar-inner">
+    <input id="search-input" class="search-input" type="search"
+           placeholder="Search stories…" autocomplete="off" spellcheck="false">
+    
+    <div class="tag-filters">
+      <span class="tag-pill" data-tag="">All</span>
+      
+      <span class="tag-pill" data-tag="community">community</span>
+      
+      <span class="tag-pill" data-tag="innovation">innovation</span>
+      
+      <span class="tag-pill" data-tag="wildlife">wildlife</span>
+      
+    </div>
+    
+  </div>
+</div>
+
+
+<main>
+  
+<div class="container">
+  <p id="result-count" class="result-count"></p>
+
+  
+    
+    <article class="card"
+             data-tags="wildlife,innovation,community"
+             data-search="Turtle &#39;panel beater&#39; saving lives with 3D printer and dental glue In Victoria&#39;s Gippsland region, electrician-turned-wildlife carer Josh Neille has developed an innovative approach to helping injured turtles. Using dental resin—the same material found in tooth fillings—he repairs cracked shells on animals hit by vehicles. The process involves careful cleaning, layering primer and resin, then curing with UV light. For severe damage, Neille employs 3D scanning and printing to create custom shell replacements. Local dentist Yana Stevens supplies the materials, noting they can last five years or more. Neille has treated nearly 15 turtles in the past year at his Tinamba farm, which also shelters around 200 native animals including wombats, possums, and emus. His social media presence helps connect road users with injured wildlife, turning potential roadside tragedies into recovery stories. ABC Australia">
+
+      <div class="card-top">
+        <div class="card-tags">
+          
+          <span class="card-tag" data-tag="wildlife">wildlife</span>
+          
+          <span class="card-tag" data-tag="innovation">innovation</span>
+          
+          <span class="card-tag" data-tag="community">community</span>
+          
+        </div>
+        <span class="card-score">95/100</span>
+      </div>
+
+      <h2>Turtle &#39;panel beater&#39; saving lives with 3D printer and dental glue</h2>
+      <p class="card-summary">In Victoria&#39;s Gippsland region, electrician-turned-wildlife carer Josh Neille has developed an innovative approach to helping injured turtles. Using dental resin—the same material found in tooth fillings—he repairs cracked shells on animals hit by vehicles. The process involves careful cleaning, layering primer and resin, then curing with UV light. For severe damage, Neille employs 3D scanning and printing to create custom shell replacements. Local dentist Yana Stevens supplies the materials, noting they can last five years or more. Neille has treated nearly 15 turtles in the past year at his Tinamba farm, which also shelters around 200 native animals including wombats, possums, and emus. His social media presence helps connect road users with injured wildlife, turning potential roadside tragedies into recovery stories.</p>
+
+      <div class="card-footer">
+        <span class="card-source">
+          ABC Australia
+          
+          <span class="source-country">(AU)</span>
+          
+          · Mar 1, 2026
+        </span>
+        <a class="read-link" href="/go/2026-03-01-0136"
+           target="_blank" rel="noopener noreferrer">Read full story →</a>
+      </div>
+
+    </article>
+    
+  
+
+  
+</div>
+
+</main>
+
+<footer>
+  <div class="container">
+    <a href="/archives/">Archives</a>
+    <span class="sep">·</span>
+    <a href="/about.html">About</a>
+    <span class="sep">·</span>
+    <a href="/feed.xml">RSS</a>
+  </div>
+</footer>
+
+<script src="/js/filter.js"></script>
+<script src="/js/search.js"></script>
+
+<script>
+  // Wire card-tag clicks to the tag filter (same as toolbar pills)
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".card-tag").forEach(function (el) {
+      el.addEventListener("click", function () {
+        var tag = el.dataset.tag;
+        if (!window.BIAS) return;
+        BIAS.state.tag = tag === BIAS.state.tag ? "" : tag;
+        var url = new URL(window.location.href);
+        if (BIAS.state.tag) {
+          url.searchParams.set("tag", BIAS.state.tag);
+        } else {
+          url.searchParams.delete("tag");
+        }
+        window.history.pushState({}, "", url.toString());
+        document.querySelectorAll(".tag-pill").forEach(function (p) {
+          p.classList.toggle("active", p.dataset.tag === BIAS.state.tag);
+        });
+        BIAS.applyFilters();
+      });
+    });
+  });
+</script>
+
+</body>
+</html>
