@@ -398,6 +398,32 @@ header {
   vertical-align: middle;
 }
 
+.sources-table td.feed-flag {
+  width: 2.5rem;
+  text-align: center;
+  font-size: 1.2rem;
+  padding-left: 0;
+}
+
+.feed-qualifier {
+  color: var(--text-faint);
+  font-size: 0.82em;
+  margin-left: 0.3em;
+}
+
+.sources-suggest {
+  margin: 0.5rem 0 1.5rem;
+  font-size: 0.95rem;
+}
+
+.sources-suggest a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.sources-suggest a:hover { text-decoration: underline; }
+
 .sources-table tr:last-child td { border-bottom: none; }
 
 .sources-table a {
