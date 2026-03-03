@@ -163,7 +163,26 @@ header {
 }
 
 /* -------------------------------------------------------------------------
-   Story card
+   Status bar (visitor load average + last/next update)
+------------------------------------------------------------------------- */
+.status-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25rem 0.5rem;
+  font-size: 0.75rem;
+  color: var(--text-faint);
+  font-family: "SF Mono", "Fira Mono", "Cascadia Code", monospace;
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--border);
+}
+.status-item { display: inline-flex; align-items: baseline; gap: 0.25rem; }
+.status-label { color: var(--text-faint); }
+.status-value { color: var(--text-muted); font-weight: 500; }
+.status-unit  { color: var(--text-faint); font-size: 0.68rem; }
+.status-sep   { color: var(--border); }
+
 ------------------------------------------------------------------------- */
 .card {
   background: var(--surface);
