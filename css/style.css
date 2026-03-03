@@ -372,6 +372,58 @@ header {
 }
 
 /* -------------------------------------------------------------------------
+   Sources page
+------------------------------------------------------------------------- */
+.sources-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.5rem 0 1.5rem;
+  font-size: 0.9rem;
+}
+
+.sources-table th {
+  text-align: left;
+  padding: 0.4rem 0.75rem;
+  border-bottom: 2px solid var(--border);
+  color: var(--text-faint);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+}
+
+.sources-table td {
+  padding: 0.45rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+  vertical-align: middle;
+}
+
+.sources-table tr:last-child td { border-bottom: none; }
+
+.sources-table a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.sources-table a:hover { text-decoration: underline; }
+
+.topic-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.75rem 0 1.5rem;
+}
+
+.topic-pill {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+/* -------------------------------------------------------------------------
    AdSense
 ------------------------------------------------------------------------- */
 .ad-container {
