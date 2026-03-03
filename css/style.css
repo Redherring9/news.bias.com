@@ -267,6 +267,30 @@ header {
   opacity: 0.7;
 }
 
+.card-title-original {
+  font-size: 0.85rem;
+  color: var(--text-faint);
+  font-style: italic;
+  margin: -0.5rem 0 0.75rem;
+}
+
+.card-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+.translate-link {
+  font-size: 0.84rem;
+  color: var(--text-faint);
+  font-weight: 500;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.translate-link:hover { color: var(--accent); text-decoration: underline; }
+
 .read-link {
   font-size: 0.84rem;
   color: var(--accent);
