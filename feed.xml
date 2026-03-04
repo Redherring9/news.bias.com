@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Mar 2026 20:23:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 22:25:20 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mathews Museum in Mathews, Virginia</title>
+      <link>https://news.bias.com/go/2026-03-04-2225</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-04-2225</guid>
+      <pubDate>Wed, 04 Mar 2026 22:25:08 GMT</pubDate>
+      <description>The Mathews Museum in coastal Virginia offers more than local history—it preserves the social fabric of rural community life. At its center is an immersive walk-through general store that recreates the era when such establishments served as the heart of towns like Mathews County. These spaces weren't just for commerce; they were where news spread, credit was granted, and relationships flourished, often housing the post office where communication and daily life intersected. Visitors experience history firsthand, surrounded by period goods and authentic arrangements. Rotating exhibits of donated artifacts and family stories further illuminate life in this Chesapeake Bay community that long remained beyond industrial America's reach.</description>
+      <source url="https://www.atlasobscura.com/places/mathews-museum">Atlas Obscura</source>
+    </item>
     <item>
       <title>How Helena found freedom after being forced into marriage as a child</title>
       <link>https://news.bias.com/go/2026-03-04-2023</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 01 Mar 2026 19:23:09 GMT</pubDate>
       <description>Coastal cities may shape ocean health more than commonly realized through everyday decisions about ports, purchasing, and regulations. Major ports like Los Angeles have reduced emissions by requiring cleaner fuels and updated vessels—rules shipping companies follow because access to trade hubs is too valuable to lose. Municipal food procurement also creates ripples: when cities adopt seafood sustainability standards or respond to public concerns, supply chains adjust and fisheries face new incentives. These urban levers operate beneath the visibility of international treaties yet complement national policy. Philanthropic groups are beginning to recognize that supporting city-level actions—port electrification, procurement reform, data systems—may offer practical pathways to marine conservation even when broader cooperation stalls.</description>
       <source url="https://news.mongabay.com/2026/03/the-power-of-cities-over-the-seas/">Mongabay</source>
-    </item>
-    <item>
-      <title>Crocodiles spotted in Newcastle creek</title>
-      <link>https://news.bias.com/go/2026-03-01-1819</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-01-1819</guid>
-      <pubDate>Sun, 01 Mar 2026 18:19:36 GMT</pubDate>
-      <description>Several juvenile freshwater crocodiles have unexpectedly appeared in Ironbark Creek near Newcastle, New South Wales—well outside their natural northern habitat. Local resident Lionel Saunders first spotted five of the reptiles, initially mistaking them for lizards or logs. Australian Reptile Park rangers traveled from the Central Coast to search for the animals over the weekend. Wildlife experts believe the crocodiles were likely illegally transported from Queensland and released when they grew too large to keep. Authorities have asked residents to stay away from the area, as crowds and disturbances make the crocodiles harder to locate and could cause them to hide underwater for extended periods.</description>
-      <source url="https://www.abc.net.au/news/2026-03-01/crocodiles-spotted-in-newcastle-creek/106402122">ABC Australia</source>
     </item>
   </channel>
 </rss>
