@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Mar 2026 10:24:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 12:27:05 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Student who died in Goiânia wanted to be a doctor and generated wave of blood donations</title>
+      <link>https://news.bias.com/go/2026-03-04-1227</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-04-1227</guid>
+      <pubDate>Wed, 04 Mar 2026 12:27:04 GMT</pubDate>
+      <description>Laura Reis de Oliveira, a 19-year-old aspiring medical student in Goiás, Brazil, passed away after a recent leukemia diagnosis. Her story sparked an extraordinary wave of community solidarity: what began as a local blood donation drive organized by family and friends grew into a movement that inspired approximately 300 donations. Buses and cars traveled from her hometown of Morrinhos to support the cause, with hundreds sharing the campaign online. Described by those who knew her as cheerful, vibrant, and studious, Laura had just finished high school and was preparing for medical school entrance exams. Her school and community mourned the loss of a determined young woman whose brief battle touched many hearts.</description>
+      <source url="https://g1.globo.com/go/goias/noticia/2026/03/04/estudante-que-morreu-em-goiania-queria-ser-medica-e-gerou-corrente-de-doacao-de-sangue.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Ant transforms CO₂ into stone armor on its own body</title>
       <link>https://news.bias.com/go/2026-03-04-1024</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 01 Mar 2026 14:05:44 GMT</pubDate>
       <description>Researchers in Cumbria are studying underground fungal networks to support England's ambitious woodland creation goals. At Wild Haweswater, scientists are examining mycorrhizal fungi—microscopic organisms that form partnerships with tree roots, helping them access nutrients and water in exchange for carbon. The site is particularly interesting because its fungi shifted from tree-supporting varieties to grassland types after centuries of grazing. By identifying which fungi are present in the soil, conservationists hope to determine optimal planting locations and tree species, improving survival rates. Without the right fungal partners, newly planted trees struggle to establish and may die. The collaborative project aims to work with natural processes to create resilient, ecologically rich woodlands across upland landscapes.</description>
       <source url="https://www.bbc.com/news/articles/cx284ljnv31o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Young trees planted to expand temperate rainforest</title>
-      <link>https://news.bias.com/go/2026-03-01-1302</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-01-1302</guid>
-      <pubDate>Sun, 01 Mar 2026 13:02:15 GMT</pubDate>
-      <description>Volunteers have planted 800 young trees at Wistman's Wood on Dartmoor, helping to expand one of southwest England's rare temperate rainforests. The effort, led by Natural England alongside the Duchy of Cornwall, Moor Trees, and the Woodland Trust, follows an earlier planting of 450 saplings in March. The young trees are protected within fenced plots to help them establish. Project leaders emphasized that restoring this iconic woodland requires sustained, long-term commitment rather than single interventions, reflecting a broader dedication to creating nature-rich landscapes in the region.</description>
-      <source url="https://www.bbc.com/news/articles/cn4gwel9l7jo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
