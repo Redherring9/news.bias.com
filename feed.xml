@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Mar 2026 08:22:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 10:24:39 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ant transforms CO₂ into stone armor on its own body</title>
+      <link>https://news.bias.com/go/2026-03-04-1024</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-04-1024</guid>
+      <pubDate>Wed, 04 Mar 2026 10:24:33 GMT</pubDate>
+      <description>Scientists have discovered that the Latin American leafcutter ant Sericomyrmex amabilis transforms carbon dioxide into a mineral armor coating its body. Living in dense underground colonies where CO₂ levels can become toxic from ant and fungal respiration, these farmer ants convert the gas directly into solid carbonate on their exoskeletons—a biological version of geological weathering. The thin mineral layer covers most of their bodies, helping clean the nest air while offering insights into carbon capture technology. Though a single colony won't change global climate, researchers hope understanding how these ants rapidly form minerals at room temperature could inform new approaches to permanent carbon storage.</description>
+      <source url="https://g1.globo.com/meio-ambiente/noticia/2026/03/04/formiga-transforma-co-em-armadura-de-pedra-no-proprio-corpo.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>‘That thrush just did something incredible’: tuning in to bird calls on a North York Moors walk</title>
       <link>https://news.bias.com/go/2026-03-04-0822</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 01 Mar 2026 13:02:15 GMT</pubDate>
       <description>Volunteers have planted 800 young trees at Wistman's Wood on Dartmoor, helping to expand one of southwest England's rare temperate rainforests. The effort, led by Natural England alongside the Duchy of Cornwall, Moor Trees, and the Woodland Trust, follows an earlier planting of 450 saplings in March. The young trees are protected within fenced plots to help them establish. Project leaders emphasized that restoring this iconic woodland requires sustained, long-term commitment rather than single interventions, reflecting a broader dedication to creating nature-rich landscapes in the region.</description>
       <source url="https://www.bbc.com/news/articles/cn4gwel9l7jo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>‘Who’d guess they’re the same species?’ What Italy’s wall lizards reveal about genetic diversity and why it matters</title>
-      <link>https://news.bias.com/go/2026-03-01-1158</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-01-1158</guid>
-      <pubDate>Sun, 01 Mar 2026 11:58:49 GMT</pubDate>
-      <description>Researchers studying Italy's common wall lizards have uncovered a dramatic shift in biodiversity within a single species. Despite being the same species, these lizards display stunning differences in color, size, and behavior—from charcoal bodies with fluorescent blue spots to smaller brown forms with dark stripes. For millions of years, three color variations coexisted in delicate balance. Now, a fourth, more aggressive form appears to be disrupting this ancient equilibrium, potentially driving the original three toward extinction. The study of 2,506 lizards across Italy reveals how new traits can rapidly reshape diversity within species, offering insights into evolution and the complex nature of biodiversity beyond simple species counts.</description>
-      <source url="https://www.theguardian.com/environment/2026/feb/28/conservation-biodiversity-species-genetics-wall-lizards-aeolian-italy-aoe">The Guardian</source>
     </item>
   </channel>
 </rss>
