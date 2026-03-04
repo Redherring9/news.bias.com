@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Mar 2026 06:19:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 08:22:20 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘That thrush just did something incredible’: tuning in to bird calls on a North York Moors walk</title>
+      <link>https://news.bias.com/go/2026-03-04-0822</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-04-0822</guid>
+      <pubDate>Wed, 04 Mar 2026 08:22:19 GMT</pubDate>
+      <description>On a pre-dawn walk through the North York Moors, birding guide Richard Baines demonstrates that listening matters more than looking. Armed with the Merlin sound-identification app, the group discovers song thrushes mimicking buzzards, nightingales, and even coots—species they've never encountered locally. These mimics likely pick up calls during migration, sometimes thousands of miles away. While Merlin has revolutionized bird identification for millions of users, it's also revealing surprising gaps in ornithological knowledge. The experience transforms a potentially disappointing woodland walk into a thrilling acoustic detective story, proving that tuning into bird calls can be just as rewarding as spotting rare species through binoculars.</description>
+      <source url="https://www.theguardian.com/travel/2026/mar/04/bird-calls-north-yorkshire-moors-walk">The Guardian</source>
+    </item>
     <item>
       <title>Specieswatch: is the world’s wildlife entering its ‘samey’ era?</title>
       <link>https://news.bias.com/go/2026-03-04-0619</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 01 Mar 2026 11:58:49 GMT</pubDate>
       <description>Researchers studying Italy's common wall lizards have uncovered a dramatic shift in biodiversity within a single species. Despite being the same species, these lizards display stunning differences in color, size, and behavior—from charcoal bodies with fluorescent blue spots to smaller brown forms with dark stripes. For millions of years, three color variations coexisted in delicate balance. Now, a fourth, more aggressive form appears to be disrupting this ancient equilibrium, potentially driving the original three toward extinction. The study of 2,506 lizards across Italy reveals how new traits can rapidly reshape diversity within species, offering insights into evolution and the complex nature of biodiversity beyond simple species counts.</description>
       <source url="https://www.theguardian.com/environment/2026/feb/28/conservation-biodiversity-species-genetics-wall-lizards-aeolian-italy-aoe">The Guardian</source>
-    </item>
-    <item>
-      <title>'By the end of the year, they're making their own clothes'</title>
-      <link>https://news.bias.com/go/2026-03-01-1055</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-01-1055</guid>
-      <pubDate>Sun, 01 Mar 2026 10:55:20 GMT</pubDate>
-      <description>Heather Black teaches South Aucklanders to sew in an accessible, hands-on program that welcomes those uncomfortable in traditional classroom settings. Starting at age 12 making clothes from whatever fabric she could find, Black now runs classes across multiple communities, using recycled machines and donated materials. She employs what she calls Māori methods—teaching through visual learning and hand measurements rather than written instructions. Students pay only a gold coin donation and progress from beginners to creating garments for their families within a year. Beyond practical skills, the classes foster connection and community, though rising costs threaten some of the venues where these valuable sessions take place.</description>
-      <source url="https://www.rnz.co.nz/life/people/by-the-end-of-the-year-they-re-making-their-own-clothes">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
