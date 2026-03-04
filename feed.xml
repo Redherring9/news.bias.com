@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Mar 2026 22:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 00:13:12 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>In pictures: Year's only lunar eclipse graces NZ skies</title>
+      <link>https://news.bias.com/go/2026-03-04-0013</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-04-0013</guid>
+      <pubDate>Wed, 04 Mar 2026 00:13:06 GMT</pubDate>
+      <description>Stargazers across New Zealand stayed up late to witness the only total lunar eclipse of 2026, a celestial event that painted the moon a deep copper red. According to astronomers, New Zealand enjoyed the best vantage point in the world, as the eclipse was visible in its entirety only over the Pacific region. The blood moon began just before 10pm on March 3rd, with photographers capturing stunning images from locations ranging from Auckland to Nelson to Omarama. While lunar eclipses aren't exceptionally rare, their visibility from any given location is what makes them special. New Zealanders won't see another until 2028.</description>
+      <source url="https://www.rnz.co.nz/news/national/588540/in-pictures-only-lunar-eclipse-of-2026-graces-nz-skies">Radio New Zealand</source>
+    </item>
     <item>
       <title>No grid, no problem: How Amazon communities built their own power systems</title>
       <link>https://news.bias.com/go/2026-03-03-2210</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 01 Mar 2026 07:45:13 GMT</pubDate>
       <description>Nine-year-old Jasmine discovered an animal skull during a winter walk in the woods behind her home. Initially mistaking it for broken stones among the leaf litter, she brought her find home for closer examination. Through careful observation—measuring its 14cm length, counting 42 teeth, and noting the long slender snout and meat-eating incisors—she identified it as an adult fox skull. Her research revealed that Bristol, her home city, has the third-largest urban fox population in the UK, with about 16 foxes per square kilometre compared to just two in rural areas. The skull now rests in her family's cabinet of curiosities alongside other treasures she and her sister have collected.</description>
       <source url="https://www.theguardian.com/environment/2026/feb/28/young-country-diary-a-new-find-for-my-collection-a-fox-skull">The Guardian</source>
-    </item>
-    <item>
-      <title>I went to rural Wales to bathe in starlight and the Milky Way blew me away</title>
-      <link>https://news.bias.com/go/2026-03-01-0641</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-01-0641</guid>
-      <pubDate>Sun, 01 Mar 2026 06:41:53 GMT</pubDate>
-      <description>A visitor to rural Wales discovers the profound experience of star bathing, lying under the pristine night sky of Ceredigion's dark sky countryside. Guided by Dafydd Wyn Morgan of astrotourism company Serydda, participants gaze at Jupiter, Orion's Belt, and the Milky Way while learning myths and legends. Similar to forest bathing, the practice emphasizes emotional connection over scientific knowledge. With 98% of UK residents living under light pollution, Wales's two International Dark Sky Reserves draw travelers seeking rare glimpses of true darkness. Demand is surging—one dark skies officer reports overwhelming waiting lists, with visitors sometimes moved to tears by their first sight of shooting stars.</description>
-      <source url="https://www.bbc.com/news/articles/cj32l7kmkmko?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
