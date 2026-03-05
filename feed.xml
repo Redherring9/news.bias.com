@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 19:10:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 21:12:27 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Reverse mortgage or retirement village: Which will give you the retirement you want?</title>
+      <link>https://news.bias.com/go/2026-03-05-2112</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-2112</guid>
+      <pubDate>Thu, 05 Mar 2026 21:12:25 GMT</pubDate>
+      <description>Jo Murphy reflects on selling her freehold home and moving into a retirement village, a decision she now regrets making 15 years too early. While she initially considered a reverse mortgage, concerns about eroding her daughter's inheritance led her to choose village living instead. After moving through three villages, Murphy found her capital diminished and her autonomy reduced by ongoing fees and management decisions beyond her control. Property experts note both options involve trade-offs: reverse mortgages compound interest at rates around 7.75 percent, while retirement villages charge initial and ongoing fees. With 53,000 New Zealanders in retirement villages and 130 moving in weekly, advisors emphasize the importance of independent legal counsel and careful consideration of personal circumstances before making either choice.</description>
+      <source url="https://www.rnz.co.nz/news/business/588776/reverse-mortgage-or-retirement-village-which-will-give-you-the-retirement-you-want">Radio New Zealand</source>
+    </item>
     <item>
       <title>Pygmy possum with long fingers rediscovered in remote rainforest</title>
       <link>https://news.bias.com/go/2026-03-05-1910</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 08:04:46 GMT</pubDate>
       <description>Along South Africa's northeast coast, the Thonga community maintains a centuries-old fishing tradition using carefully crafted traps in the Kosi Bay lake system. Their technique, passed down through generations, selectively harvests migrating fish with minimal ecological impact. However, when the area became a protected reserve four decades ago, families were displaced from their ancestral lands. Today's fishers face challenges traveling from outside the park to tend their traps, while tourism offers a potential lifeline for preserving their cultural knowledge. Three generations share how they're adapting their practices and ecological wisdom in a landscape transformed by conservation boundaries.</description>
       <source url="https://news.mongabay.com/2026/03/displaced-for-conservation-south-africas-thonga-try-to-keep-unique-fishing-traditions-alive/">Mongabay</source>
-    </item>
-    <item>
-      <title>Wild spaces for butterflies to be created in Glasgow</title>
-      <link>https://news.bias.com/go/2026-03-02-0701</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-0701</guid>
-      <pubDate>Mon, 02 Mar 2026 07:01:18 GMT</pubDate>
-      <description>Glasgow is embarking on an ambitious two-year project to create 40 new wild spaces designed to support butterflies, moths, and other urban wildlife. Butterfly Conservation, working alongside Glasgow City Council, will establish habitats in parks, schools, and community centers, recruiting at least 40 volunteers to help maintain them. The £250,000 initiative aims to combat the decline of common butterfly and moth species while enriching local green spaces that already comprise over a fifth of the city. Participants will receive wildflower seed packs to create miniature havens, and organizers hope to eventually share their approach with five neighboring councils. A previous project in Perth and Stirling successfully engaged over 1,000 people.</description>
-      <source url="https://www.bbc.com/news/articles/c5yrdd4nepjo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
