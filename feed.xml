@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 15:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 17:08:05 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pevnosť Bzovík in Bzovík, Slovakia</title>
+      <link>https://news.bias.com/go/2026-03-05-1708</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-1708</guid>
+      <pubDate>Thu, 05 Mar 2026 17:08:02 GMT</pubDate>
+      <description>In the Slovak town of Bzovík stands a monastery with a turbulent nearly 900-year history. Founded in the 12th century as a Benedictine monastery, it later became a Premonstratensian center of learning before being transformed into a fortified manor in 1530. The complex endured repeated cycles of destruction and rebuilding—burned, conquered, and rebuilt multiple times between the 15th and 17th centuries. After falling into permanent disrepair in the 1800s, the site now exists as an evocative ruin open freely to visitors. While the central church structures have crumbled, ongoing reconstruction efforts preserve the fortifications, offering a tangible connection to centuries of religious, military, and agricultural history.</description>
+      <source url="https://www.atlasobscura.com/places/pevnost-bzovik">Atlas Obscura</source>
+    </item>
     <item>
       <title>DNA fingerprinting convicts Zimbabwe lion poachers in landmark case</title>
       <link>https://news.bias.com/go/2026-03-05-1505</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 05:57:47 GMT</pubDate>
       <description>As autumn settles in, the cooler weather invites a return to the warmth of the kitchen. ABC Australia has gathered five approachable recipes designed to make seasonal cooking both simple and satisfying. The collection spans meals throughout the day, from a quick spiced lentil and tomato soup that comes together in thirty minutes to a tandoori chicken tray bake reminiscent of biryani. A vegetarian pasta features kale pesto and golden halloumi, while a protein-rich chickpea and pumpkin smash offers make-ahead lunch solutions. For bakers, a chocolate cherry loaf cake with sour cream icing provides a sweet finale. Each recipe emphasizes pantry-friendly ingredients and straightforward techniques, aiming to reduce mealtime stress while bringing comfort to home cooking during the changing season.</description>
       <source url="https://www.abc.net.au/news/2026-03-02/five-of-our-best-autumn-recipes-/106392174">ABC Australia</source>
-    </item>
-    <item>
-      <title>Rare ‘blood moon’ total lunar eclipse to loom over North America, Australia and New Zealand</title>
-      <link>https://news.bias.com/go/2026-03-02-0454</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-0454</guid>
-      <pubDate>Mon, 02 Mar 2026 04:54:04 GMT</pubDate>
-      <description>A total lunar eclipse will grace the skies over North America, Australia, and New Zealand on Tuesday, transforming the moon into a striking copper-red color. This "blood moon" occurs when Earth passes between the sun and moon, with sunlight filtering through Earth's atmosphere and painting the lunar surface in sunset hues. Astrophysicists recommend finding dark locations for optimal viewing, noting that Jupiter will also be visible alongside the eclipsed moon. This marks the last opportunity to witness this celestial event until 2028, as total lunar eclipses occur only every 18 months to three years. The phenomenon offers what scientists describe as a breathtaking reminder of our planet's movement through space.</description>
-      <source url="https://www.theguardian.com/science/2026/mar/02/blood-moon-total-lunar-eclipse-2026-march-3-full-worm-what-date-time-australia-america">The Guardian</source>
     </item>
   </channel>
 </rss>
