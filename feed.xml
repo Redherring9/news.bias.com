@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 13:03:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 15:05:59 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>DNA fingerprinting convicts Zimbabwe lion poachers in landmark case</title>
+      <link>https://news.bias.com/go/2026-03-05-1505</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-1505</guid>
+      <pubDate>Thu, 05 Mar 2026 15:05:55 GMT</pubDate>
+      <description>In a groundbreaking case, Zimbabwe prosecutors used DNA forensics to convict two poachers for killing a wild lion near Hwange National Park. Scientists matched genetic material from seized lion parts—including meat, claws, and teeth—to a radio-collared lion that had been tracked and sampled years earlier. This marks the first time a lion's DNA has been traced to an individual animal to secure a wildlife trafficking conviction. The two-year prison sentence sets a powerful precedent in a region where proving wild versus captive-bred origins is crucial for prosecution. Experts believe DNA fingerprinting will become increasingly vital for bringing wildlife criminals to justice in cases that traditionally rely on circumstantial evidence.</description>
+      <source url="https://news.mongabay.com/2026/03/dna-fingerprinting-convicts-zimbabwe-lion-poachers-in-landmark-case/">Mongabay</source>
+    </item>
     <item>
       <title>Marsupials previously thought extinct for millennia discovered in New Guinea</title>
       <link>https://news.bias.com/go/2026-03-05-1303</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 04:54:04 GMT</pubDate>
       <description>A total lunar eclipse will grace the skies over North America, Australia, and New Zealand on Tuesday, transforming the moon into a striking copper-red color. This "blood moon" occurs when Earth passes between the sun and moon, with sunlight filtering through Earth's atmosphere and painting the lunar surface in sunset hues. Astrophysicists recommend finding dark locations for optimal viewing, noting that Jupiter will also be visible alongside the eclipsed moon. This marks the last opportunity to witness this celestial event until 2028, as total lunar eclipses occur only every 18 months to three years. The phenomenon offers what scientists describe as a breathtaking reminder of our planet's movement through space.</description>
       <source url="https://www.theguardian.com/science/2026/mar/02/blood-moon-total-lunar-eclipse-2026-march-3-full-worm-what-date-time-australia-america">The Guardian</source>
-    </item>
-    <item>
-      <title>Wāhine Māori acknowledged with awards for cancer research</title>
-      <link>https://news.bias.com/go/2026-03-02-0350</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-0350</guid>
-      <pubDate>Mon, 02 Mar 2026 03:50:33 GMT</pubDate>
-      <description>Three Māori women researchers have received awards for their work on improving cancer outcomes for Māori communities. Their projects span diverse approaches: one explores how traditional papakāinga living and Rongoā Māori practices can protect families facing environmental contamination linked to cancer risk; another develops advanced immunotherapies combining different immune cells for more effective treatment with fewer side effects; and a third enhances genomic prediction tools for Māori and Pasifika patients. The awards, now in their fifth year, reflect both scientific innovation and deeply personal connections—each researcher has witnessed cancer's impact within their own whānau, driving their commitment to future generations.</description>
-      <source url="https://www.rnz.co.nz/news/national/588394/wahine-maori-acknowledged-with-awards-for-cancer-research">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
