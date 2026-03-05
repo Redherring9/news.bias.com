@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 08:59:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 11:01:46 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Amazon Flies: Essential Insects for the Forest May Disappear Before Being Described by Science</title>
+      <link>https://news.bias.com/go/2026-03-05-1101</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-1101</guid>
+      <pubDate>Thu, 05 Mar 2026 11:01:44 GMT</pubDate>
+      <description>A new study reveals that much of the Amazon's biodiversity remains scientifically unknown, particularly tiny but essential organisms like sarcosaprophagous flies. These decomposer insects play crucial roles in breaking down organic matter and responding to environmental changes. Researchers analyzed over 8,000 occurrence records and found that about 40% of forested areas have less than 10% probability of scientific documentation. The research shows accessibility—roads, rivers, proximity to research centers—heavily influences where scientists study, leaving remote but ecologically valuable regions unexplored. Many species may disappear before they're even described, representing a significant gap in understanding the forest's health and function.</description>
+      <source url="https://g1.globo.com/meio-ambiente/noticia/2026/03/05/moscas-da-amazonia-insetos-essenciais-para-a-floresta-podem-desaparecer-antes-mesmo-de-serem-descritos-pela-ciencia.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>The German City That Defied McDonald’s and Dumped ‘To-Go’ Waste</title>
       <link>https://news.bias.com/go/2026-03-05-0859</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 02:47:10 GMT</pubDate>
       <description>The Fijian Flying Circus completed their first New Zealand tour to enthusiastic crowds, blending indigenous storytelling with contemporary circus arts. Performers Stuart Tuidela and Evangeline Kumar bring Fijian myths and legends to life through acrobatics, aerial silks, hair-hanging, and tightrope walking. Originally created to engage school children with their cultural heritage, the show has resonated deeply with Fijian communities abroad and wider audiences alike. Both performers transitioned from traditional dance with VOU company after training with Cuban circus artists. The troupe plans to expand their tour to New Caledonia and Australia, continuing to share their unique fusion of folklore and spectacle.</description>
       <source url="https://www.rnz.co.nz/international/pacific-news/588396/fijian-flying-circus-wows-new-zealand-crowd-in-debut-tour">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Elusive crocodile captured by reptile wranglers in Newcastle creek</title>
-      <link>https://news.bias.com/go/2026-03-02-0143</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-0143</guid>
-      <pubDate>Mon, 02 Mar 2026 01:43:43 GMT</pubDate>
-      <description>Reptile experts have successfully captured a freshwater crocodile after it was spotted in Ironbark Creek, a suburban waterway in Newcastle, Australia. Locals first noticed the sub-adult crocodile on Saturday afternoon, prompting police to secure the area. Australian Reptile Park keeper Billy Collett and his team spent more than a day searching before locating and catching the crocodile on Sunday evening. The capture required a dramatic dive into dark water. Experts believe the crocodile was likely an escaped pet, as the species doesn't naturally occur in the region. The reptile is now being assessed by veterinarians, with authorities investigating how it arrived in the suburban creek.</description>
-      <source url="https://www.abc.net.au/news/2026-03-02/newcastle-crocodile-captured-australian-reptile-park/106404254">ABC Australia</source>
     </item>
   </channel>
 </rss>
