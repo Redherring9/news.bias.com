@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 21:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 23:14:32 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>UFRJ technology uses electrical stimulation to reduce Parkinson's tremors</title>
+      <link>https://news.bias.com/go/2026-03-05-2314</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-2314</guid>
+      <pubDate>Thu, 05 Mar 2026 23:14:30 GMT</pubDate>
+      <description>Researchers at Brazil's Federal University of Rio de Janeiro have developed a low-cost device that uses electrical stimulation applied to the skin to reduce tremors in Parkinson's disease patients. The technology works by sending signals through peripheral nerves to block or attenuate dysfunctional brain rhythms that cause tremors. Initial tests at a university hospital show promising results, with some patients experiencing significant tremor reduction or complete cessation while using the device. Scientists hope to miniaturize the system into a wearable form, like a bracelet or glove, for home use. The device may also help diagnose leprosy early and assist in stroke rehabilitation, with availability through Brazil's public health system anticipated within three years.</description>
+      <source url="https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/03/05/tecnologia-da-ufrj-usa-estimulos-eletricos-para-reduzir-tremores-do-parkinson.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Reverse mortgage or retirement village: Which will give you the retirement you want?</title>
       <link>https://news.bias.com/go/2026-03-05-2112</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 09:08:07 GMT</pubDate>
       <description>At 72, taxonomist Art Borkent has identified over 300 species of biting midges, but worries no one will continue his work. His concern reflects a broader crisis: taxonomy, the science of naming and classifying life, is quietly fading. Of Earth's estimated trillion species, only about 20% have been identified—yet universities are cutting taxonomy programs, funding is scarce, and museum positions have vanished. Half of the 157 fly families are now "orphaned," with no active researchers. A recent survey found many countries have fewer than 10 plant taxonomists. As species disappear in what some call a sixth mass extinction, the scientists who document life's diversity are themselves becoming endangered, taking irreplaceable knowledge with them.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/02/identify-species-taxonomists-crisis-art-borkent">The Guardian</source>
-    </item>
-    <item>
-      <title>Displaced for conservation, South Africa’s Thonga try to keep fishing traditions alive</title>
-      <link>https://news.bias.com/go/2026-03-02-0804</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-0804</guid>
-      <pubDate>Mon, 02 Mar 2026 08:04:46 GMT</pubDate>
-      <description>Along South Africa's northeast coast, the Thonga community maintains a centuries-old fishing tradition using carefully crafted traps in the Kosi Bay lake system. Their technique, passed down through generations, selectively harvests migrating fish with minimal ecological impact. However, when the area became a protected reserve four decades ago, families were displaced from their ancestral lands. Today's fishers face challenges traveling from outside the park to tend their traps, while tourism offers a potential lifeline for preserving their cultural knowledge. Three generations share how they're adapting their practices and ecological wisdom in a landscape transformed by conservation boundaries.</description>
-      <source url="https://news.mongabay.com/2026/03/displaced-for-conservation-south-africas-thonga-try-to-keep-unique-fishing-traditions-alive/">Mongabay</source>
     </item>
   </channel>
 </rss>
