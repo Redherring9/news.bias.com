@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 02:52:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 04:55:07 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Archived camera-trap images bring Thailand’s tapirs into focus</title>
+      <link>https://news.bias.com/go/2026-03-05-0455</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-0455</guid>
+      <pubDate>Thu, 05 Mar 2026 04:55:04 GMT</pubDate>
+      <description>Archived camera-trap images originally set to monitor bears in southern Thailand's Khlong Seang–Khao Sok Forest Complex have unexpectedly revealed a significant population of Asian tapirs. Modeling suggests the area may harbor up to 436 tapirs—far exceeding previous estimates of fewer than 250 for all of Thailand and Myanmar combined, though researchers caution the actual number may be smaller due to uneven distribution. These nocturnal, slow-reproducing giants can weigh up to 350 kilograms and serve as vital seed dispersers in their ecosystems. With fewer than 2,500 mature individuals remaining globally due to habitat loss and snaring, the discovery highlights both the species' precarious status and the value of "bycatch" data in conservation research.</description>
+      <source url="https://news.mongabay.com/short-article/2026/03/archived-camera-trap-images-bring-thailands-tapirs-into-focus/">Mongabay</source>
+    </item>
     <item>
       <title>50 years after the end of whaling, humpbacks are returning</title>
       <link>https://news.bias.com/go/2026-03-05-0252</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 01 Mar 2026 23:36:50 GMT</pubDate>
       <description>Tokyo's Jimbocho district, recently named the world's coolest neighborhood, offers book lovers a unique glimpse into Japan's vibrant literary culture. With over 10,000 bookshops nationwide—nearly five times the per capita rate of the United States—Japan provides remarkable opportunities for bibliophiles. The neighborhood features atmospheric used bookstores, smoky coffeehouses, and stacks of vintage volumes. Visitors can explore various shop types, from multi-floor chains like Tsutaya and Kinokuniya to intimate antiquarian stores. While language barriers may challenge non-Japanese readers, the district's charm and Japan's growing global literary presence make it an inviting destination for anyone curious about the country's deep relationship with books and reading culture.</description>
       <source url="https://www.japantimes.co.jp/life/2026/03/02/language/japanese-language-bookstore-books/">The Japan Times</source>
-    </item>
-    <item>
-      <title>'Good sleep' is the new flex for 2026</title>
-      <link>https://news.bias.com/go/2026-03-01-2233</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-01-2233</guid>
-      <pubDate>Sun, 01 Mar 2026 22:33:27 GMT</pubDate>
-      <description>Sleep tracking has become the latest wellness trend, replacing older boasts about functioning on minimal rest. Sports physiologist Matt Driller notes that where "the sleepless elite" once bragged about few hours of sleep, people now compete for better rest quality. Wellington gym owner Brian Sciascia and Auckland shift-worker Kelly both use devices to monitor their nightly patterns, finding the data both motivating and occasionally anxiety-inducing. Researchers emphasize that poor sleep affects nearly every bodily process, making it "the big rock of recovery." With emerging science on sleep's impact on brain health and the proliferation of wearable technology, achieving quality rest has become a modern status symbol and fitness goal.</description>
-      <source url="https://www.rnz.co.nz/life/wellbeing/good-sleep-is-the-new-flex-for-2026">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
