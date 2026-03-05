@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 11:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 13:03:51 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marsupials previously thought extinct for millennia discovered in New Guinea</title>
+      <link>https://news.bias.com/go/2026-03-05-1303</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-1303</guid>
+      <pubDate>Thu, 05 Mar 2026 13:03:50 GMT</pubDate>
+      <description>In a remarkable discovery, researchers led by Australian scientist Tim Flannery have found two marsupial species in West Papua's rainforest that were believed extinct for thousands of years. The pygmy long-fingered possum, with its extraordinarily elongated fourth digit for extracting insect larvae, and a ring-tailed glider belonging to a newly described genus, are rare "Lazarus taxa"—species that vanish from fossil records only to reappear. The long-fingered possum was thought to have disappeared during the ice age, while the glider was known only from fossil fragments. Found in the remote Bird's Head peninsula, these species highlight the region's ecological importance and underscore conservation efforts with Indigenous communities to protect their threatened habitat.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/05/marsupials-discovered-new-guinea">The Guardian</source>
+    </item>
     <item>
       <title>Amazon Flies: Essential Insects for the Forest May Disappear Before Being Described by Science</title>
       <link>https://news.bias.com/go/2026-03-05-1101</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 03:50:33 GMT</pubDate>
       <description>Three Māori women researchers have received awards for their work on improving cancer outcomes for Māori communities. Their projects span diverse approaches: one explores how traditional papakāinga living and Rongoā Māori practices can protect families facing environmental contamination linked to cancer risk; another develops advanced immunotherapies combining different immune cells for more effective treatment with fewer side effects; and a third enhances genomic prediction tools for Māori and Pasifika patients. The awards, now in their fifth year, reflect both scientific innovation and deeply personal connections—each researcher has witnessed cancer's impact within their own whānau, driving their commitment to future generations.</description>
       <source url="https://www.rnz.co.nz/news/national/588394/wahine-maori-acknowledged-with-awards-for-cancer-research">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Fijian Flying Circus wows New Zealand crowd in debut tour</title>
-      <link>https://news.bias.com/go/2026-03-02-0247</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-0247</guid>
-      <pubDate>Mon, 02 Mar 2026 02:47:10 GMT</pubDate>
-      <description>The Fijian Flying Circus completed their first New Zealand tour to enthusiastic crowds, blending indigenous storytelling with contemporary circus arts. Performers Stuart Tuidela and Evangeline Kumar bring Fijian myths and legends to life through acrobatics, aerial silks, hair-hanging, and tightrope walking. Originally created to engage school children with their cultural heritage, the show has resonated deeply with Fijian communities abroad and wider audiences alike. Both performers transitioned from traditional dance with VOU company after training with Cuban circus artists. The troupe plans to expand their tour to New Caledonia and Australia, continuing to share their unique fusion of folklore and spectacle.</description>
-      <source url="https://www.rnz.co.nz/international/pacific-news/588396/fijian-flying-circus-wows-new-zealand-crowd-in-debut-tour">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
