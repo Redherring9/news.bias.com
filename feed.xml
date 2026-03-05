@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 00:50:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 02:52:11 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>50 years after the end of whaling, humpbacks are returning</title>
+      <link>https://news.bias.com/go/2026-03-05-0252</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-0252</guid>
+      <pubDate>Thu, 05 Mar 2026 02:52:09 GMT</pubDate>
+      <description>More than 50 years after New Zealand ended whaling, humpback whale populations are showing encouraging signs of recovery. Researchers from the University of Auckland discovered that breeding competition has intensified, with older, dominant males now fathering more offspring — a natural pattern that disappeared when populations were decimated in the 1960s and 70s. During those lean years, younger and older males bred equally, helping maintain genetic diversity. The return to competitive breeding suggests healthier population numbers. New Zealand transformed from a whaling nation to a vocal whale defender after its last catch in 1964, though conservationists now urge attention toward other ocean threats like bottom trawling.</description>
+      <source url="https://www.rnz.co.nz/news/national/588679/fifty-years-after-new-zealand-stopped-whaling-humpback-population-showing-signs-of-recovery">Radio New Zealand</source>
+    </item>
     <item>
       <title>Everything you need to know about the 2026 Milano Cortina Winter Paralympics</title>
       <link>https://news.bias.com/go/2026-03-05-0050</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 01 Mar 2026 22:33:27 GMT</pubDate>
       <description>Sleep tracking has become the latest wellness trend, replacing older boasts about functioning on minimal rest. Sports physiologist Matt Driller notes that where "the sleepless elite" once bragged about few hours of sleep, people now compete for better rest quality. Wellington gym owner Brian Sciascia and Auckland shift-worker Kelly both use devices to monitor their nightly patterns, finding the data both motivating and occasionally anxiety-inducing. Researchers emphasize that poor sleep affects nearly every bodily process, making it "the big rock of recovery." With emerging science on sleep's impact on brain health and the proliferation of wearable technology, achieving quality rest has become a modern status symbol and fitness goal.</description>
       <source url="https://www.rnz.co.nz/life/wellbeing/good-sleep-is-the-new-flex-for-2026">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>2026 Taite Music Prize finalists announced</title>
-      <link>https://news.bias.com/go/2026-03-01-2129</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-01-2129</guid>
-      <pubDate>Sun, 01 Mar 2026 21:29:55 GMT</pubDate>
-      <description>Ten independent albums have been named finalists for the 2026 Taite Music Prize, celebrating exceptional music-making in Aotearoa New Zealand. The award honours journalist Dylan Taite and recognizes diverse musical expressions, from Marlon Williams' te reo Māori folk album to Geneva AM's bilingual R&amp;B-electronic debut. Finalists span punk, dream-pop, hip-hop, and indie rock, representing artists from Auckland, Wellington, and Christchurch. The winner, to be announced April 29 in Auckland, receives $12,500. The selection showcases the breadth of New Zealand's independent music scene, with works exploring personal stories, cultural identity, and sonic experimentation across genres.</description>
-      <source url="https://www.rnz.co.nz/life/music/2026-taite-music-prize-finalists-announced">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
