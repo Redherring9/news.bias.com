@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 13:30:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 15:32:43 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Indonesian communities try to reclaim lands following company permit revocations</title>
+      <link>https://news.bias.com/go/2026-03-06-1532</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-1532</guid>
+      <pubDate>Fri, 06 Mar 2026 15:32:41 GMT</pubDate>
+      <description>Following deadly floods and landslides in November 2025, the Indonesian government revoked forest permits for 28 companies, including pulpwood producer PT TPL. Now, 29 Indigenous communities are seeking to reclaim 37,219 hectares of customary land they lost decades ago when the company established eucalyptus plantations. Villagers like Sahala Pasaribu have begun replanting crops and hope to restore sacred forests, but uncertainty looms: officials say state-owned enterprises will manage the former concessions, leaving the legal status of customary lands unclear. Communities express concern about trading one conflict for another, while advocating for land rights recognition and reforestation after years of industrial use.</description>
+      <source url="https://news.mongabay.com/2026/03/indonesian-communities-try-to-reclaim-lands-following-company-permit-revocations/">Mongabay</source>
+    </item>
     <item>
       <title>A century of care: Wildlife Trusts mark 100th birthday with woodland project</title>
       <link>https://news.bias.com/go/2026-03-06-1330</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 17:36:27 GMT</pubDate>
       <description>In Nantwich, England, an 1826 aqueduct designed by Thomas Telford carries the Shropshire Union Canal over a roadway using innovative cast iron construction rather than traditional stonework. Telford pioneered the use of cast iron box sections, and this early example sits atop a five-meter-high embankment that stretches 1.5 kilometers, offering peaceful walks through the town's western edge. The embankment's engineering was so successful it influenced later railway construction across the UK. Nearby, walkers can find a view of the 1644 Battle of Nantwich site, commemorated each January with historical reenactments featuring hundreds of participants, horses, and period artillery.</description>
       <source url="https://www.atlasobscura.com/places/nantwich-canal-aqueduct-and-embankment">Atlas Obscura</source>
-    </item>
-    <item>
-      <title>Why are so many statues naked? An art historian explains this tradition’s ancient roots</title>
-      <link>https://news.bias.com/go/2026-03-02-1633</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-1633</guid>
-      <pubDate>Mon, 02 Mar 2026 16:33:02 GMT</pubDate>
-      <description>Many statues throughout history are unclothed because nudity has carried diverse meanings across cultures and eras. Ancient Greeks pioneered the tradition of nude sculpture, treating nudity as a kind of "costume" that conveyed ideals of beauty, athletic excellence, and heroism. Gods, athletes, and warriors were commonly depicted without clothing, embodying abstract virtues rather than everyday reality. This artistic convention was revived during the Renaissance and neoclassical periods, when rediscovered ancient statues inspired new generations of artists. From Michelangelo's pensive David to portraits of emperors as gods, the nude form has symbolized everything from divine power to timeless human excellence, making it a enduring feature of Western sculptural tradition.</description>
-      <source url="https://theconversation.com/why-are-so-many-statues-naked-an-art-historian-explains-this-traditions-ancient-roots-271821">The Conversation</source>
     </item>
   </channel>
 </rss>
