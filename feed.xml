@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 01:16:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 03:18:52 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Town rejoices after river supplying it water comes 'back to life'</title>
+      <link>https://news.bias.com/go/2026-03-06-0318</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-0318</guid>
+      <pubDate>Fri, 06 Mar 2026 03:18:51 GMT</pubDate>
+      <description>After months of drought, the Turon River in Sofala, New South Wales, has dramatically refilled following heavy rainfall. The small town, located 45 kilometres north of Bathurst, relies entirely on tank and river water, and residents had been carting water to neighbors in need during the dry spell. The drought hit particularly hard during the Christmas tourist season, affecting local businesses. Cattle farmer Dave Murray, who had been hauling water for his livestock, described the river's return as bringing life back to the community. Now with water flowing again, residents are optimistic about the approaching Easter tourism season while hoping for continued rainfall to sustain the river.</description>
+      <source url="https://www.abc.net.au/news/2026-03-06/turon-river-sofala-fills-after-heavy-rain-nsw/106419256">ABC Australia</source>
+    </item>
     <item>
       <title>Musical memories and magic moments in dementia-friendly choir</title>
       <link>https://news.bias.com/go/2026-03-06-0116</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 11:15:25 GMT</pubDate>
       <description>Mari Katayama has been awarded the inaugural Mori Art Prize, a biennial honor recognizing mid-career artists based in Japan. The award includes ¥10 million and an exhibition opportunity at the Mori Art Museum, making it one of Japan's most substantial prizes for contemporary artists. Katayama, 39, creates self-portraits using analog photography combined with embroidery and needlework, designing handmade objects she attaches to her body. Her work explores themes of embodiment, beauty, and identity through what she calls her "living sculpture." The selection committee highlighted her powerful imagery and conceptual depth, noting her potential to resonate across cultural boundaries.</description>
       <source url="https://www.japantimes.co.jp/culture/2026/03/02/art/mori-art-museum-prize/">The Japan Times</source>
-    </item>
-    <item>
-      <title>Starwatch: Venus to meet Saturn in evening twilight</title>
-      <link>https://news.bias.com/go/2026-03-02-1011</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-1011</guid>
-      <pubDate>Mon, 02 Mar 2026 10:11:45 GMT</pubDate>
-      <description>Skygazers have a chance to witness Venus and Saturn meeting in the western evening sky this week. Venus will shine brilliantly at magnitude –4, while fainter Saturn sits slightly higher and eastward. Over the coming days, the two planets will draw closer together, appearing nearly side by side by March 8th. Unlike twinkling stars, both will shine steadily as they reflect sunlight from their cloud-covered surfaces—Venus appearing brilliant white and Saturn displaying more muted tones. A clear western horizon will help, as Saturn gradually sinks lower each evening. Observers in both hemispheres can enjoy watching the planets edge closer night after night.</description>
-      <source url="https://www.theguardian.com/science/2026/mar/02/starwatch-venus-to-meet-saturn-in-evening-twilight">The Guardian</source>
     </item>
   </channel>
 </rss>
