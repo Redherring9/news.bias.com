@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2026 23:14:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 01:16:39 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Musical memories and magic moments in dementia-friendly choir</title>
+      <link>https://news.bias.com/go/2026-03-06-0116</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-0116</guid>
+      <pubDate>Fri, 06 Mar 2026 01:16:36 GMT</pubDate>
+      <description>In the coastal town of Busselton, Western Australia, CareSong brings together people living with dementia and their carers for weekly singing sessions. The dementia-friendly choir uses familiar melodies to spark memories and create moments of connection, even when everyday conversation proves difficult. Coordinator David Pilpel, inspired by playing ukulele for his late father who had dementia, notes the program benefits both participants and their carers, offering social connection and a chance to see loved ones laughing and engaged. With over 400,000 Australians living with dementia, the group provides a warm antidote to the isolation often experienced by families navigating the condition.</description>
+      <source url="https://www.abc.net.au/news/2026-03-06/dementia-choir-bringing-people-together-through-song/106409484">ABC Australia</source>
+    </item>
     <item>
       <title>UFRJ technology uses electrical stimulation to reduce Parkinson's tremors</title>
       <link>https://news.bias.com/go/2026-03-05-2314</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 10:11:45 GMT</pubDate>
       <description>Skygazers have a chance to witness Venus and Saturn meeting in the western evening sky this week. Venus will shine brilliantly at magnitude –4, while fainter Saturn sits slightly higher and eastward. Over the coming days, the two planets will draw closer together, appearing nearly side by side by March 8th. Unlike twinkling stars, both will shine steadily as they reflect sunlight from their cloud-covered surfaces—Venus appearing brilliant white and Saturn displaying more muted tones. A clear western horizon will help, as Saturn gradually sinks lower each evening. Observers in both hemispheres can enjoy watching the planets edge closer night after night.</description>
       <source url="https://www.theguardian.com/science/2026/mar/02/starwatch-venus-to-meet-saturn-in-evening-twilight">The Guardian</source>
-    </item>
-    <item>
-      <title>‘I love midges because I know what their hearts look like’: is the passion for taxonomy in danger of dying out?</title>
-      <link>https://news.bias.com/go/2026-03-02-0908</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-0908</guid>
-      <pubDate>Mon, 02 Mar 2026 09:08:07 GMT</pubDate>
-      <description>At 72, taxonomist Art Borkent has identified over 300 species of biting midges, but worries no one will continue his work. His concern reflects a broader crisis: taxonomy, the science of naming and classifying life, is quietly fading. Of Earth's estimated trillion species, only about 20% have been identified—yet universities are cutting taxonomy programs, funding is scarce, and museum positions have vanished. Half of the 157 fly families are now "orphaned," with no active researchers. A recent survey found many countries have fewer than 10 plant taxonomists. As species disappear in what some call a sixth mass extinction, the scientists who document life's diversity are themselves becoming endangered, taking irreplaceable knowledge with them.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/02/identify-species-taxonomists-crisis-art-borkent">The Guardian</source>
     </item>
   </channel>
 </rss>
