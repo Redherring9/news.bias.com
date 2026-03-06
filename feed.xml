@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 09:25:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 11:28:00 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dog with 'free pass' on buses in São Paulo countryside city receives employee badge: 'Spends the day going from line to line'</title>
+      <link>https://news.bias.com/go/2026-03-06-1127</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-1127</guid>
+      <pubDate>Fri, 06 Mar 2026 11:27:58 GMT</pubDate>
+      <description>Valente, a community dog in Ourinhos, Brazil, has become an unofficial mascot of the city's bus system. After being found sick and abandoned, he was taken in by transit workers and now spends his days riding different bus routes around town. The dog knows the routes well, boarding buses in the morning from the company garage where he sleeps, traveling from neighborhood to neighborhood, and even knowing where to get off. His adventures went viral on social media, prompting the transit company to honor him with an official employee badge. Workers and passengers have embraced Valente as part of their daily commute, providing him with food and water at the garage.</description>
+      <source url="https://g1.globo.com/sp/bauru-marilia/noticia/2026/03/06/cao-com-passe-livre-em-onibus-de-cidade-do-interior-de-sp-ganha-cracha-de-funcionario-passa-o-dia-indo-de-linha-em-linha.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>How Japan adopted the Czech Republic as its second WBC team</title>
       <link>https://news.bias.com/go/2026-03-06-0925</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 15:29:36 GMT</pubDate>
       <description>Completed in 1939 by architect Arne Korsmo, Villa Stenersen stands as one of Norway's finest examples of functionalist design. Built for polymath Rolf Stenersen—businessman, Olympic athlete, and friend of Edvard Munch—the Oslo residence once displayed works Munch painted specifically for its rooms. After serving as a retreat during World War II and later housing Norwegian prime ministers and hosting Nelson Mandela, the villa was restored and opened as a museum. Visitors can admire its distinctive features, including a skylight made of 625 purple glass cones and an arc-shaped garage designed for a owner who disliked reversing. Today it belongs to the Iconic Houses Network.</description>
       <source url="https://www.atlasobscura.com/places/villa-stenersen">Atlas Obscura</source>
-    </item>
-    <item>
-      <title>Free 10-minute online programs aimed at overcoming depression led to real improvements – new research</title>
-      <link>https://news.bias.com/go/2026-03-02-1426</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-1426</guid>
-      <pubDate>Mon, 02 Mar 2026 14:26:03 GMT</pubDate>
-      <description>Researchers tested 12 different 10-minute online exercises with over 7,500 adults experiencing depression, comparing them against a control group. A month later, two programs—Interactive Cognitive Reappraisal and Finding Focus—produced measurable reductions in depressive symptoms, around 4% greater than the control. While the improvements were modest, the study demonstrates that brief, accessible interventions can offer meaningful support, especially for the millions worldwide who face barriers to traditional therapy. The goal isn't to replace professional care but to provide evidence-based tools that reach people who might otherwise go without help. All tested programs are now freely available online.</description>
-      <source url="https://theconversation.com/free-10-minute-online-programs-aimed-at-overcoming-depression-led-to-real-improvements-new-research-272493">The Conversation</source>
     </item>
   </channel>
 </rss>
