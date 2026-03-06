@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 07:23:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 09:25:44 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How Japan adopted the Czech Republic as its second WBC team</title>
+      <link>https://news.bias.com/go/2026-03-06-0925</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-0925</guid>
+      <pubDate>Fri, 06 Mar 2026 09:25:43 GMT</pubDate>
+      <description>A unique friendship has blossomed between Japanese baseball fans and the Czech Republic's national team since the World Baseball Classic three years ago. Czech players arriving in Japan for the 2026 WBC have been warmly welcomed by enthusiastic supporters wearing Czech jerseys, waving signs, and cheering from the stands. While Japan's own Samurai Japan remains the primary favorite, Czech Republic has earned a special place as the country's adopted second team. The bond showcases how international sports competitions can forge unexpected cultural connections that endure well beyond the tournament itself.</description>
+      <source url="https://www.japantimes.co.jp/sports/2026/03/06/baseball/japanese-baseball/czech-japan-baseball/">The Japan Times</source>
+    </item>
     <item>
       <title>From deer fawn to falcons: volunteer biologist cares for wild animals and transforms her own home into a sanctuary in Rio Grande do Sul</title>
       <link>https://news.bias.com/go/2026-03-06-0723</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 14:26:03 GMT</pubDate>
       <description>Researchers tested 12 different 10-minute online exercises with over 7,500 adults experiencing depression, comparing them against a control group. A month later, two programs—Interactive Cognitive Reappraisal and Finding Focus—produced measurable reductions in depressive symptoms, around 4% greater than the control. While the improvements were modest, the study demonstrates that brief, accessible interventions can offer meaningful support, especially for the millions worldwide who face barriers to traditional therapy. The goal isn't to replace professional care but to provide evidence-based tools that reach people who might otherwise go without help. All tested programs are now freely available online.</description>
       <source url="https://theconversation.com/free-10-minute-online-programs-aimed-at-overcoming-depression-led-to-real-improvements-new-research-272493">The Conversation</source>
-    </item>
-    <item>
-      <title>How a police data centre is heating London’s homes</title>
-      <link>https://news.bias.com/go/2026-03-02-1322</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-1322</guid>
-      <pubDate>Mon, 02 Mar 2026 13:22:20 GMT</pubDate>
-      <description>A redevelopment project in west London is pioneering an innovative approach to sustainable heating by capturing waste heat from a data centre, underground tunnels, and other local sources. The system will circulate low-temperature water through pipes to provide heating for 4,000 homes and commercial spaces, operating at roughly 264% efficiency compared to traditional gas boilers. The £8bn Earl's Court development aims to be operationally net-zero carbon from the start, with plans to eventually export excess heat to neighbouring communities. While heat networks in Britain have faced challenges with reliability and pricing, developers say their design includes backup systems and inherent resilience features to avoid earlier pitfalls.</description>
-      <source url="https://www.positive.news/science/innovation/how-a-police-data-centre-is-heating-londons-homes/">Positive News</source>
     </item>
   </channel>
 </rss>
