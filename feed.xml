@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 05:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 07:23:24 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>From deer fawn to falcons: volunteer biologist cares for wild animals and transforms her own home into a sanctuary in Rio Grande do Sul</title>
+      <link>https://news.bias.com/go/2026-03-06-0723</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-0723</guid>
+      <pubDate>Fri, 06 Mar 2026 07:23:22 GMT</pubDate>
+      <description>In Alegrete, Brazil, biologist Mariana Costa has turned her home into a makeshift wildlife rehabilitation center since 2018. Working as a volunteer partner with the local Environmental Patrol, she cares for injured and orphaned wild animals in rooms adapted with screened windows and specialized equipment. Her patients have ranged from two permanently disabled falcons to baby opossums requiring round-the-clock feeding, and even a pampas deer needing special milk formula. With the nearest official wildlife center three hours away, Mariana's expertise helps authorities make quick decisions about rescued animals. Her ultimate goal is always rehabilitation and release, returning each creature to fulfill its role in nature—a moment she finds deeply rewarding after sleepless nights of intensive care.</description>
+      <source url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/06/filhote-veado-falcoes-biologa-voluntaria-animais-silvestres-casa-santuario-rs.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Climate or biodiversity? Global study maps out forestation’s dilemma</title>
       <link>https://news.bias.com/go/2026-03-06-0521</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 13:22:20 GMT</pubDate>
       <description>A redevelopment project in west London is pioneering an innovative approach to sustainable heating by capturing waste heat from a data centre, underground tunnels, and other local sources. The system will circulate low-temperature water through pipes to provide heating for 4,000 homes and commercial spaces, operating at roughly 264% efficiency compared to traditional gas boilers. The £8bn Earl's Court development aims to be operationally net-zero carbon from the start, with plans to eventually export excess heat to neighbouring communities. While heat networks in Britain have faced challenges with reliability and pricing, developers say their design includes backup systems and inherent resilience features to avoid earlier pitfalls.</description>
       <source url="https://www.positive.news/science/innovation/how-a-police-data-centre-is-heating-londons-homes/">Positive News</source>
-    </item>
-    <item>
-      <title>Can you solve it? You won’t believe these optical illusions!</title>
-      <link>https://news.bias.com/go/2026-03-02-1218</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-1218</guid>
-      <pubDate>Mon, 02 Mar 2026 12:18:48 GMT</pubDate>
-      <description>French-American inventor Olivier Redon has created a series of captivating optical illusions that challenge viewers to look beyond first impressions. Among his visual puzzles: a Coca-Cola can that isn't actually a can, a red box that's something else entirely, and identically-sized dinosaurs that appear different in a photograph. The Guardian's puzzle column presents five of Redon's images as a gentle challenge to readers, inviting them to decipher the perspective tricks behind each creation. Redon's work has been featured in museums and television programs worldwide, demonstrating how careful manipulation of angles and viewpoints can transform everyday objects into mind-bending visual experiences.</description>
-      <source url="https://www.theguardian.com/science/2026/mar/02/can-you-solve-it-you-wont-believe-these-optical-illusions">The Guardian</source>
     </item>
   </channel>
 </rss>
