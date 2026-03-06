@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 03:18:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 05:21:14 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Climate or biodiversity? Global study maps out forestation’s dilemma</title>
+      <link>https://news.bias.com/go/2026-03-06-0521</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-0521</guid>
+      <pubDate>Fri, 06 Mar 2026 05:21:13 GMT</pubDate>
+      <description>A new study reveals that approximately 13% of globally important biodiversity-rich areas overlap with sites designated for carbon removal projects like forestation and bioenergy crops. Researchers analyzed five climate models and examined impacts on 135,000 species—far more than previous studies—to better understand potential conflicts. While planting trees can help both climate and biodiversity when done thoughtfully, large-scale land use for carbon capture could harm native ecosystems if not carefully planned. The findings suggest that avoiding biodiversity hotspots entirely would reduce available carbon removal land by over half by 2050, highlighting the need for more strategic site selection and continued focus on reducing emissions.</description>
+      <source url="https://news.mongabay.com/2026/03/climate-or-biodiversity-global-study-maps-out-forestations-dilemma/">Mongabay</source>
+    </item>
     <item>
       <title>Town rejoices after river supplying it water comes 'back to life'</title>
       <link>https://news.bias.com/go/2026-03-06-0318</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 12:18:48 GMT</pubDate>
       <description>French-American inventor Olivier Redon has created a series of captivating optical illusions that challenge viewers to look beyond first impressions. Among his visual puzzles: a Coca-Cola can that isn't actually a can, a red box that's something else entirely, and identically-sized dinosaurs that appear different in a photograph. The Guardian's puzzle column presents five of Redon's images as a gentle challenge to readers, inviting them to decipher the perspective tricks behind each creation. Redon's work has been featured in museums and television programs worldwide, demonstrating how careful manipulation of angles and viewpoints can transform everyday objects into mind-bending visual experiences.</description>
       <source url="https://www.theguardian.com/science/2026/mar/02/can-you-solve-it-you-wont-believe-these-optical-illusions">The Guardian</source>
-    </item>
-    <item>
-      <title>Mari Katayama wins inaugural Mori Art Prize</title>
-      <link>https://news.bias.com/go/2026-03-02-1115</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-1115</guid>
-      <pubDate>Mon, 02 Mar 2026 11:15:25 GMT</pubDate>
-      <description>Mari Katayama has been awarded the inaugural Mori Art Prize, a biennial honor recognizing mid-career artists based in Japan. The award includes ¥10 million and an exhibition opportunity at the Mori Art Museum, making it one of Japan's most substantial prizes for contemporary artists. Katayama, 39, creates self-portraits using analog photography combined with embroidery and needlework, designing handmade objects she attaches to her body. Her work explores themes of embodiment, beauty, and identity through what she calls her "living sculpture." The selection committee highlighted her powerful imagery and conceptual depth, noting her potential to resonate across cultural boundaries.</description>
-      <source url="https://www.japantimes.co.jp/culture/2026/03/02/art/mori-art-museum-prize/">The Japan Times</source>
     </item>
   </channel>
 </rss>
