@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Mar 2026 15:58:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 18:00:50 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The long (and fortunate) journey to photograph an eclipse on a glacier in Chile</title>
+      <link>https://news.bias.com/go/2026-03-07-1800</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-07-1800</guid>
+      <pubDate>Sat, 07 Mar 2026 18:00:48 GMT</pubDate>
+      <description>Photographer Liam Man embarked on a determined journey to capture a total solar eclipse over Chile's Leones Glacier, despite forecasts predicting complete cloud cover. After losing sponsorship due to the weather outlook, he self-funded the expedition with a team of ice climbers and local guides deeply connected to the glacier. The crew endured a grueling trek—five hours by road, ten hours hiking, and a boat journey—camping for seven days on the ice. On eclipse day, the skies miraculously cleared. For Man, witnessing the moon cover the sun for the first time offered a profound shift in perspective about our place in the universe, making the risky venture worthwhile.</description>
+      <source url="https://www.bbc.com/mundo/articles/cy8g1pp75gyo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>How button football united father and sons, and became a tradition at home in the interior of São Paulo: 'There's magic'</title>
       <link>https://news.bias.com/go/2026-03-07-1558</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 03 Mar 2026 14:02:11 GMT</pubDate>
       <description>In the small town of Tuntou in China's Hebei Province, an estimated 80% of the country's lanterns are still crafted by hand using centuries-old techniques. Red lanterns hold deep cultural significance across China, serving as symbols during Lunar New Year and connecting modern citizens to ancestral traditions. Residents learn the craft young, often by age ten, watching family members work. The town has maintained its market dominance by offering diverse, customized orders at competitive prices—something modern factories haven't yet matched. However, Tuntou faces an uncertain future as younger generations increasingly leave for urban opportunities, potentially creating labor shortages in this proud lantern-making community.</description>
       <source url="https://www.bbc.com/news/articles/c15x38x7z8xo?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
-    </item>
-    <item>
-      <title>Could solar panels help strengthen global food security?</title>
-      <link>https://news.bias.com/go/2026-03-03-1159</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-03-1159</guid>
-      <pubDate>Tue, 03 Mar 2026 11:59:53 GMT</pubDate>
-      <description>Canadian researchers have found that solar panels may actually enhance food production rather than compete with it. Their study of agrivoltaic systems — where crops grow beneath solar arrays — shows the panels create protective microclimates that shield plants from extreme weather while improving soil health. Surprisingly, even decommissioned panels continue to provide agricultural benefits through passive shading. The team's modeling suggests that unpowered solar arrays could potentially increase global crop yields by hundreds of billions of dollars, offering a promising intersection between renewable energy infrastructure and food security.</description>
-      <source url="https://www.positive.news/environment/agriculture/could-solar-panels-help-strengthen-global-food-security/">Positive News</source>
     </item>
   </channel>
 </rss>
