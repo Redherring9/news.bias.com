@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Mar 2026 23:41:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 01:43:22 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Endangered buffy-tufted-ear marmoset recorded in conservation unit in Petrópolis</title>
+      <link>https://news.bias.com/go/2026-03-07-0143</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-07-0143</guid>
+      <pubDate>Sat, 07 Mar 2026 01:43:21 GMT</pubDate>
+      <description>A family of buffy-tufted-ear marmosets—an endangered species endemic to Brazil's Atlantic Forest—has been spotted in a conservation area in Petrópolis, in Rio de Janeiro's mountain region. Researchers identified three individuals during a February trail monitoring session. The tiny primates, recognizable by their white faces against dark fur, face threats from invasive marmoset species that compete for resources and can interbreed with them. These native marmosets play a vital role as seed dispersers in their mountain forest habitat. The nearly 8,000-hectare reserve was established in 2022 to protect Atlantic Forest biodiversity and strengthen ecological corridors in the region.</description>
+      <source url="https://g1.globo.com/rj/regiao-serrana/noticia/2026/03/06/sagui-caveirinha-ameacado-de-extincao-e-registrado-em-unidade-de-conservacao-em-petropolis.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>The little-known team representing Australia in powerchair hockey</title>
       <link>https://news.bias.com/go/2026-03-06-2341</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 22:54:10 GMT</pubDate>
       <description>The Hull Lifesaving Museum occupies a former life-saving station at the mouth of Boston Harbor, honoring the courageous rescuers who braved treacherous northeastern storms to save shipwrecked mariners. The station's first keeper, Joshua James, is credited with saving an estimated 500 lives as Boston emerged as a major shipping hub in the late 1800s. Today, the museum showcases the tools and techniques used by these lifesavers and shares stories of their daring rescues. Visitors can take guided tours to learn about this vital chapter in Massachusetts maritime history, easily accessible by ferry from Boston.</description>
       <source url="https://www.atlasobscura.com/places/hull-lifesaving-museum">Atlas Obscura</source>
-    </item>
-    <item>
-      <title>World’s smallest possum may live beyond its known range in Australia</title>
-      <link>https://news.bias.com/go/2026-03-02-2150</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-2150</guid>
-      <pubDate>Mon, 02 Mar 2026 21:50:46 GMT</pubDate>
-      <description>Researchers in South Australia have uncovered evidence that the world's smallest possum species may inhabit a region far beyond its previously known range. While examining wildlife survey photos from 2004–2011, scientists identified two possums with distinctive gray belly fur and smaller size—likely little pygmy possums rather than the expected western pygmy possums. If confirmed through DNA analysis, this would represent an important discovery for Yorke Peninsula, where 19 of 24 ground-dwelling mammals have disappeared. These mouse-sized marsupials serve as crucial pollinators in their woodland habitats. However, with only 13% of native vegetation remaining and no sightings in nearly two decades, researchers urge careful land management while the population's current status remains uncertain.</description>
-      <source url="https://news.mongabay.com/short-article/2026/03/worlds-smallest-possum-may-live-beyond-its-known-range-in-australia/">Mongabay</source>
     </item>
   </channel>
 </rss>
