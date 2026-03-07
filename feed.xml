@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Mar 2026 18:00:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 20:03:01 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>First shore plover fledgling born on Pitt Island in 150 years</title>
+      <link>https://news.bias.com/go/2026-03-07-2002</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-07-2002</guid>
+      <pubDate>Sat, 07 Mar 2026 20:02:59 GMT</pubDate>
+      <description>A shore plover chick has fledged on Pitt Island in the Chatham Islands for the first time in 150 years, marking a conservation milestone for this critically endangered bird. The species, known locally as tūturuatu or tchūriwat', was eliminated from Pitt Island and mainland New Zealand by feral cats in the 1870s. With only 250 birds remaining worldwide, the successful fledgling resulted from a community-led feral cat control programme initiated after COVID-19. Recovery coordinators hope sustained cat management—or ideally eradication—could double the global population to 500 birds, offering a promising glimpse of what dedicated local conservation efforts can achieve.</description>
+      <source url="https://www.rnz.co.nz/news/national/588948/first-shore-plover-fledgling-born-on-pitt-island-in-150-years">Radio New Zealand</source>
+    </item>
     <item>
       <title>The long (and fortunate) journey to photograph an eclipse on a glacier in Chile</title>
       <link>https://news.bias.com/go/2026-03-07-1800</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 03 Mar 2026 16:04:22 GMT</pubDate>
       <description>A global study spanning three continents reveals that bird communities have shifted toward smaller species over the past 80 years, with Indigenous and local knowledge documenting an estimated 72% reduction in average body mass. Researchers gathered nearly 7,000 observations from ten communities, asking people to compare birds from their childhoods with those seen today. This shift suggests larger, more vulnerable species are disappearing even where formal monitoring is limited. Traditional ecological knowledge, built through generations of daily interaction with landscapes, captures long-term environmental changes that scientific datasets—often only decades old—cannot detect. The findings demonstrate how Indigenous memory provides irreplaceable environmental records, offering early warnings of ecological changes in regions where people depend most directly on the natural world.</description>
       <source url="https://news.mongabay.com/2026/03/birds-are-changing-and-indigenous-memory-is-the-longest-record-we-have/">Mongabay</source>
-    </item>
-    <item>
-      <title>The little town making nearly all of China's lanterns</title>
-      <link>https://news.bias.com/go/2026-03-03-1402</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-03-1402</guid>
-      <pubDate>Tue, 03 Mar 2026 14:02:11 GMT</pubDate>
-      <description>In the small town of Tuntou in China's Hebei Province, an estimated 80% of the country's lanterns are still crafted by hand using centuries-old techniques. Red lanterns hold deep cultural significance across China, serving as symbols during Lunar New Year and connecting modern citizens to ancestral traditions. Residents learn the craft young, often by age ten, watching family members work. The town has maintained its market dominance by offering diverse, customized orders at competitive prices—something modern factories haven't yet matched. However, Tuntou faces an uncertain future as younger generations increasingly leave for urban opportunities, potentially creating labor shortages in this proud lantern-making community.</description>
-      <source url="https://www.bbc.com/news/articles/c15x38x7z8xo?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
     </item>
   </channel>
 </rss>
