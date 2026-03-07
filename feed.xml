@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Mar 2026 11:54:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 15:58:44 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How button football united father and sons, and became a tradition at home in the interior of São Paulo: 'There's magic'</title>
+      <link>https://news.bias.com/go/2026-03-07-1558</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-07-1558</guid>
+      <pubDate>Sat, 07 Mar 2026 15:58:42 GMT</pubDate>
+      <description>In Ribeirão Preto, Brazil, button football—a tabletop game played with disc-shaped pieces—has become a cherished tradition bridging three generations of the Tagliacolli family. Ocimir played as a child on kitchen tables and doorsteps, but the game faded during his adult years. Decades later, his son Lucas unexpectedly reignited the passion by purchasing a set while away at university. Now, Ocimir and his sons Lucas and André gather every Saturday around an official table in their living room, phones set aside, polishing buttons and playing matches. The trio has joined a local league and will even compete as rivals representing different countries at an upcoming Button Football World Cup in June.</description>
+      <source url="https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/03/07/como-futebol-de-botao-uniu-pai-e-filhos-e-virou-tradicao-em-casa-no-interior-de-sp-rola-uma-magia.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>The Neighing of Horses and Mizmar Melodies: 'Marmaḥ' — A Ramadan Ritual Reviving Upper Egypt's Heritage</title>
       <link>https://news.bias.com/go/2026-03-07-1154</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 03 Mar 2026 11:59:53 GMT</pubDate>
       <description>Canadian researchers have found that solar panels may actually enhance food production rather than compete with it. Their study of agrivoltaic systems — where crops grow beneath solar arrays — shows the panels create protective microclimates that shield plants from extreme weather while improving soil health. Surprisingly, even decommissioned panels continue to provide agricultural benefits through passive shading. The team's modeling suggests that unpowered solar arrays could potentially increase global crop yields by hundreds of billions of dollars, offering a promising intersection between renewable energy infrastructure and food security.</description>
       <source url="https://www.positive.news/environment/agriculture/could-solar-panels-help-strengthen-global-food-security/">Positive News</source>
-    </item>
-    <item>
-      <title>Hundreds of tonnes of weeds removed in Lake Horowhenua clean-up</title>
-      <link>https://news.bias.com/go/2026-03-03-0957</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-03-0957</guid>
-      <pubDate>Tue, 03 Mar 2026 09:57:40 GMT</pubDate>
-      <description>After decades of raw sewage pollution, Lake Horowhenua in New Zealand is slowly recovering through a multi-year restoration effort. A specialized harvester has just completed its fifth summer removing invasive weeds—over 400 tonnes this season alone—to help native species return and restore oxygen to the water. The weeds are composted rather than left to rot, preventing further damage to the ecosystem. While tangata tiaki Deanna Hanita-Paki notes encouraging signs like fish and eels returning, concerns remain about toxins in stormwater still entering the lake. Officials acknowledge there's no quick fix, but the careful work continues toward eventual recovery.</description>
-      <source url="https://www.rnz.co.nz/news/national/588531/hundreds-of-tonnes-of-weeds-removed-in-lake-horowhenua-clean-up">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
