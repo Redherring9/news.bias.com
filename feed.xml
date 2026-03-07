@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Mar 2026 01:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 03:45:33 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Historic 143-year-old lighthouse shines again after decades in darkness</title>
+      <link>https://news.bias.com/go/2026-03-07-0345</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-07-0345</guid>
+      <pubDate>Sat, 07 Mar 2026 03:45:32 GMT</pubDate>
+      <description>After more than 30 years of darkness, Australia's first concrete lighthouse has been recommissioned on the New South Wales coast. Built in 1883, the Green Cape Lighthouse near Eden was decommissioned in the early 1990s and replaced by a temporary lattice tower. When that structure neared the end of its life, authorities chose to restore the original 29-meter tower rather than build anew. Specialists carefully refitted the historic lens and mercury pedestal to accommodate modern LED technology. The lighthouse now guides recreational sailors and commercial fishers alike, its four beams sweeping across the horizon every 30 seconds—a practical navigation aid and a cherished piece of maritime heritage brought back to life.</description>
+      <source url="https://www.abc.net.au/news/2026-03-07/green-cape-lighthouse-recommissioned-on-nsw-south-coast/106354308">ABC Australia</source>
+    </item>
     <item>
       <title>Endangered buffy-tufted-ear marmoset recorded in conservation unit in Petrópolis</title>
       <link>https://news.bias.com/go/2026-03-07-0143</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 02 Mar 2026 23:57:36 GMT</pubDate>
       <description>Paeroa, a town of 4,600 in New Zealand, has quietly become the country's antique capital. What began with just two antique shops in 1993 has grown to seven antique stores and six second-hand shops today. The transformation happened organically as railway closures and retail changes left vacant storefronts, creating opportunities for antique dealers. Local historians note the town has fared better than many small communities, with only four of 220 shops currently empty. Newcomers continue arriving, drawn by the welcoming community and shared passion for vintage goods. The cooperative spirit among shop owners has helped foster a thriving niche economy in this historic transport hub.</description>
       <source url="https://www.rnz.co.nz/news/national/588447/forget-l-and-p-paeroa-is-the-antique-capital-of-new-zealand">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Hull Lifesaving Museum in Hull, Massachusetts</title>
-      <link>https://news.bias.com/go/2026-03-02-2254</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-02-2254</guid>
-      <pubDate>Mon, 02 Mar 2026 22:54:10 GMT</pubDate>
-      <description>The Hull Lifesaving Museum occupies a former life-saving station at the mouth of Boston Harbor, honoring the courageous rescuers who braved treacherous northeastern storms to save shipwrecked mariners. The station's first keeper, Joshua James, is credited with saving an estimated 500 lives as Boston emerged as a major shipping hub in the late 1800s. Today, the museum showcases the tools and techniques used by these lifesavers and shares stories of their daring rescues. Visitors can take guided tours to learn about this vital chapter in Massachusetts maritime history, easily accessible by ferry from Boston.</description>
-      <source url="https://www.atlasobscura.com/places/hull-lifesaving-museum">Atlas Obscura</source>
     </item>
   </channel>
 </rss>
