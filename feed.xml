@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 10:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 12:20:56 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kitty O'Neil, the 'true Wonder Woman' who defied death, survived fire and broke records</title>
+      <link>https://news.bias.com/go/2026-03-08-1220</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-08-1220</guid>
+      <pubDate>Sun, 08 Mar 2026 12:20:55 GMT</pubDate>
+      <description>Kitty O'Neil, born deaf after a severe infant illness, became a legendary Hollywood stuntwoman in the 1970s who shattered the women's land speed record in a desert run that captured global attention. Her mother taught her to speak by having her feel vocal vibrations, enabling O'Neil to even recognize music through touch. After a promising diving career was cut short by injury, she channeled her fearless spirit into skydiving, water skiing, and motorcycle racing. Known for her extraordinary courage—once nearly losing a finger in a crash yet wanting to continue—she became one of the first women to join the elite stunt group Stunts Unlimited, breaking barriers for women and deaf performers alike.</description>
+      <source url="https://www.bbc.com/mundo/articles/c5y0dey6zdeo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Indigenous woman from Amazonas becomes first female doctor of Baniwa ethnicity to care for her own community: 'I returned to help my people'</title>
       <link>https://news.bias.com/go/2026-03-08-1018</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 04 Mar 2026 08:22:19 GMT</pubDate>
       <description>On a pre-dawn walk through the North York Moors, birding guide Richard Baines demonstrates that listening matters more than looking. Armed with the Merlin sound-identification app, the group discovers song thrushes mimicking buzzards, nightingales, and even coots—species they've never encountered locally. These mimics likely pick up calls during migration, sometimes thousands of miles away. While Merlin has revolutionized bird identification for millions of users, it's also revealing surprising gaps in ornithological knowledge. The experience transforms a potentially disappointing woodland walk into a thrilling acoustic detective story, proving that tuning into bird calls can be just as rewarding as spotting rare species through binoculars.</description>
       <source url="https://www.theguardian.com/travel/2026/mar/04/bird-calls-north-yorkshire-moors-walk">The Guardian</source>
-    </item>
-    <item>
-      <title>Specieswatch: is the world’s wildlife entering its ‘samey’ era?</title>
-      <link>https://news.bias.com/go/2026-03-04-0619</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-04-0619</guid>
-      <pubDate>Wed, 04 Mar 2026 06:19:43 GMT</pubDate>
-      <description>Scientists are observing a troubling pattern they call the "homogenocene" — an era when Earth's wildlife is becoming increasingly uniform. As specialized species disappear at rates potentially reaching 150 per day, adaptable generalists like pigeons, rats, and cockroaches expand into vacant ecological niches. This homogenization began during the last ice age with mammoth extinctions and has accelerated through habitat clearing for agriculture and urbanization. Unique species with specialized roles, such as Fiji's flightless bar-winged rail, fall victim to invasive generalists introduced by humans. Ocean ecosystems face similar pressures from warming waters. However, palaeobiologists note that active conservation efforts — removing invasive species and sustainable land management — can reverse this trend, allowing biodiversity to recover.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/04/specieswatch-worlds-wildlife-samey-era-homogenocene">The Guardian</source>
     </item>
   </channel>
 </rss>
