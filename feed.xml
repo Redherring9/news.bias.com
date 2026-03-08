@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 00:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 02:09:37 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Offshore wind farm survey solves 150yo coal supply-ship mystery</title>
+      <link>https://news.bias.com/go/2026-03-08-0209</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-08-0209</guid>
+      <pubDate>Sun, 08 Mar 2026 02:09:36 GMT</pubDate>
+      <description>A 150-year-old maritime mystery has been solved off Australia's Gippsland coast, where the iron steamer City of Hobart sank in 1877 while carrying coal from Newcastle to Melbourne. Divers had searched unsuccessfully for the wreck since 2008, coming within 47 meters without finding it. The breakthrough came when a renewable energy company surveying the seabed for an offshore wind farm detected the wreckage. Technical divers then confirmed the discovery in February 2025. Built in Glasgow in 1853, the ship represents a fascinating transitional period in maritime history—designed as a sailing vessel but constructed as a steamship. Its unique rear-rudder propeller design adds to its historical significance. The site is now protected under federal heritage laws.</description>
+      <source url="https://www.abc.net.au/news/2026-03-08/city-of-hobart-shipwreck-found-off-gippsland-coast/106268896">ABC Australia</source>
+    </item>
     <item>
       <title>Free dance school run by 12yo champion pirouettes to success</title>
       <link>https://news.bias.com/go/2026-03-08-0007</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 03 Mar 2026 22:10:56 GMT</pubDate>
       <description>In Brazil's Amazon, communities near the massive Belo Monte dam still face high electricity costs and frequent outages, despite living beneath transmission lines. Rather than wait for grid expansion, residents of the Tapajós-Arapiuns Reserve built their own solution: a pilot system combining solar panels and river-current turbines launched in 2023. The shift from diesel generators has been transformative—communal freezers now run continuously, enabling food storage and commerce, while internet and emergency communications have improved. Critically, the project trained local technicians to maintain the equipment independently. Serving around 200 people, the modular system demonstrates how communities can achieve reliable power through renewable sources tailored to local conditions, bypassing the delays and costs of large infrastructure.</description>
       <source url="https://news.mongabay.com/short-article/2026/03/no-grid-no-problem-how-amazon-communities-built-their-own-power-systems/">Mongabay</source>
-    </item>
-    <item>
-      <title>Drums of Ancestry: Jongo Iracema Reaffirms Afro Roots in Goiás</title>
-      <link>https://news.bias.com/go/2026-03-03-2008</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-03-2008</guid>
-      <pubDate>Tue, 03 Mar 2026 20:08:56 GMT</pubDate>
-      <description>In Anápolis, Goiás, the Jongo Iracema group is keeping alive an Afro-Brazilian cultural tradition rooted in colonial-era resistance. Through the Projeto Continuança, supported by national cultural funding, the pioneering ensemble has deepened its practice in 2025 with meaningful exchanges, including a visit to Rio de Janeiro's Jongo da Serrinha community and participation in the Chapada dos Veadeiros cultural gathering. Founder Mestre Tuísca was formally recognized as a Jongo master, marking a milestone for the group. Jongo—a circular dance accompanied by drumming and song—is considered an ancestor of samba and was designated Brazilian Intangible Cultural Heritage in 2005. The group now offers free community workshops, passing the tradition to new generations.</description>
-      <source url="https://g1.globo.com/go/goias/especial-publicitario/jongo-iracema/noticia/2026/03/03/tambores-da-ancestralidade-jongo-iracema-reafirma-raizes-afro-em-goias.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
