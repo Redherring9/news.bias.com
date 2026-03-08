@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 18:27:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 20:30:11 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>From sugarcane cutter to adult education manager: education transforms woman's life in São Paulo interior</title>
+      <link>https://news.bias.com/go/2026-03-08-2030</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-08-2030</guid>
+      <pubDate>Sun, 08 Mar 2026 20:30:05 GMT</pubDate>
+      <description>Maria Alice Zacharias spent her childhood cutting sugarcane in São Paulo's interior, working grueling days under the sun before attending night school. Daughter of farm workers who couldn't read or write, she persevered through interrupted studies and exhausting labor. Returning to education as an adult through a youth and adult learning program, she completed her teaching degree and discovered her calling. For 30 years, she's volunteered in literacy education, recognizing her students' stories mirror her own. Now 55, she manages São Paulo's adult education program and serves as a regional coordinator for a national literacy initiative, proving that education offers not just skills, but autonomy and transformation.</description>
+      <source url="https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/03/08/de-cortadora-de-cana-a-gestora-da-eja-educacao-transforma-vida-de-mulher-no-interior-de-sp.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Who was Urraca, the first woman to reign in Europe</title>
       <link>https://news.bias.com/go/2026-03-08-1827</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 04 Mar 2026 16:31:14 GMT</pubDate>
       <description>Two-year-old twins Heloísa and Helena, born conjoined at the head, are recovering well after their third separation surgery at a hospital in Ribeirão Preto, Brazil. The seven-hour procedure involved over 50 medical professionals and achieved approximately 75% separation of the brain and shared blood vessels. Two more surgeries are planned: one in March to implant silicone skin expanders, and a final separation scheduled for late June. Doctors are optimistic the girls will adapt to independent life with rehabilitation. Their father expressed hope that his daughters will soon see each other's faces and play together for the first time.</description>
       <source url="https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/03/04/entenda-o-que-falta-e-o-tempo-estimado-para-gemeas-unidas-pela-cabeca-serem-totalmente-separadas-em-ribeirao-preto.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>I study why zebrafish larva prefer to circle left or right, to understand how and why human brains encode right- and left-handedness</title>
-      <link>https://news.bias.com/go/2026-03-04-1429</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-04-1429</guid>
-      <pubDate>Wed, 04 Mar 2026 14:29:15 GMT</pubDate>
-      <description>A researcher explores why zebrafish larvae prefer circling left or right when light disappears, seeking clues about how brains encode handedness. Like humans, most animal species show behavioral asymmetries—preferences for one hand, paw, or eye. While this seems risky (an injury to your dominant hand could be devastating), the trait's universality suggests evolutionary benefits. The lab discovered roughly 60 neurons in the zebrafish thalamus linked to directional preference, and five other fish species showed similar behavior. Intriguingly, blind cavefish living in perpetual darkness showed no such asymmetry, suggesting these preferences evolved as responses to environmental challenges common across species.</description>
-      <source url="https://theconversation.com/i-study-why-zebrafish-larva-prefer-to-circle-left-or-right-to-understand-how-and-why-human-brains-encode-right-and-left-handedness-274578">The Conversation</source>
     </item>
   </channel>
 </rss>
