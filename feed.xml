@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 16:25:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 18:27:52 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Who was Urraca, the first woman to reign in Europe</title>
+      <link>https://news.bias.com/go/2026-03-08-1827</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-08-1827</guid>
+      <pubDate>Sun, 08 Mar 2026 18:27:51 GMT</pubDate>
+      <description>Nine centuries ago, Urraca I of León and Galicia became the first woman to rule a European kingdom in her own right—not as a queen consort. Born in 1080, she was her father's eldest child but initially passed over for her half-brother Sancho. When he died in battle in 1108, King Alfonso VI named Urraca his heir, though nobles insisted she remarry. She ascended the throne and held the title "Empress of All Hispania," governing for nearly 17 years amid constant challenges to her authority. Historians note that while medieval law permitted female succession, her reign was exceptional, and many details of women's roles in this era were omitted from historical records.</description>
+      <source url="https://www.bbc.com/portuguese/articles/cdxzjdk287ro?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Matriarch and activist of the samba family, Tia Ciata has long deserved to be the theme of a Rio de Janeiro Carnival samba school</title>
       <link>https://news.bias.com/go/2026-03-08-1625</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 04 Mar 2026 14:29:15 GMT</pubDate>
       <description>A researcher explores why zebrafish larvae prefer circling left or right when light disappears, seeking clues about how brains encode handedness. Like humans, most animal species show behavioral asymmetries—preferences for one hand, paw, or eye. While this seems risky (an injury to your dominant hand could be devastating), the trait's universality suggests evolutionary benefits. The lab discovered roughly 60 neurons in the zebrafish thalamus linked to directional preference, and five other fish species showed similar behavior. Intriguingly, blind cavefish living in perpetual darkness showed no such asymmetry, suggesting these preferences evolved as responses to environmental challenges common across species.</description>
       <source url="https://theconversation.com/i-study-why-zebrafish-larva-prefer-to-circle-left-or-right-to-understand-how-and-why-human-brains-encode-right-and-left-handedness-274578">The Conversation</source>
-    </item>
-    <item>
-      <title>Student who died in Goiânia wanted to be a doctor and generated wave of blood donations</title>
-      <link>https://news.bias.com/go/2026-03-04-1227</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-04-1227</guid>
-      <pubDate>Wed, 04 Mar 2026 12:27:04 GMT</pubDate>
-      <description>Laura Reis de Oliveira, a 19-year-old aspiring medical student in Goiás, Brazil, passed away after a recent leukemia diagnosis. Her story sparked an extraordinary wave of community solidarity: what began as a local blood donation drive organized by family and friends grew into a movement that inspired approximately 300 donations. Buses and cars traveled from her hometown of Morrinhos to support the cause, with hundreds sharing the campaign online. Described by those who knew her as cheerful, vibrant, and studious, Laura had just finished high school and was preparing for medical school entrance exams. Her school and community mourned the loss of a determined young woman whose brief battle touched many hearts.</description>
-      <source url="https://g1.globo.com/go/goias/noticia/2026/03/04/estudante-que-morreu-em-goiania-queria-ser-medica-e-gerou-corrente-de-doacao-de-sangue.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
