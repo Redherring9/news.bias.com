@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 16:52:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 18:54:37 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Human trials about to take place on universal flu vaccine</title>
+      <link>https://news.bias.com/go/2026-03-09-1854</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-1854</guid>
+      <pubDate>Mon, 09 Mar 2026 18:54:36 GMT</pubDate>
+      <description>A universal flu vaccine that could protect against all strains of influenza—past, present, and future—is entering human trials in Australia. Unlike current flu vaccines, which must be updated annually as viruses evolve, Centiflu 01 targets parts of the flu virus that remain constant across thousands of years. Dr. Jacob Glanville, the immunoengineer leading the trials, reports that animal studies showed stronger immune responses than commercial vaccines, which are typically 10-60 percent effective. The vaccine demonstrated protection against viruses 15 years after initial testing. Phase one will involve roughly 300 volunteers across both hemispheres, with subsequent phases planned for 2026 and 2028.</description>
+      <source url="https://www.rnz.co.nz/news/world/589103/human-trials-about-to-take-place-on-universal-flu-vaccine">Radio New Zealand</source>
+    </item>
     <item>
       <title>Help a toad across the road – and five more ways to save these endangered amphibians</title>
       <link>https://news.bias.com/go/2026-03-09-1652</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 05 Mar 2026 13:03:50 GMT</pubDate>
       <description>In a remarkable discovery, researchers led by Australian scientist Tim Flannery have found two marsupial species in West Papua's rainforest that were believed extinct for thousands of years. The pygmy long-fingered possum, with its extraordinarily elongated fourth digit for extracting insect larvae, and a ring-tailed glider belonging to a newly described genus, are rare "Lazarus taxa"—species that vanish from fossil records only to reappear. The long-fingered possum was thought to have disappeared during the ice age, while the glider was known only from fossil fragments. Found in the remote Bird's Head peninsula, these species highlight the region's ecological importance and underscore conservation efforts with Indigenous communities to protect their threatened habitat.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/05/marsupials-discovered-new-guinea">The Guardian</source>
-    </item>
-    <item>
-      <title>Amazon Flies: Essential Insects for the Forest May Disappear Before Being Described by Science</title>
-      <link>https://news.bias.com/go/2026-03-05-1101</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-1101</guid>
-      <pubDate>Thu, 05 Mar 2026 11:01:44 GMT</pubDate>
-      <description>A new study reveals that much of the Amazon's biodiversity remains scientifically unknown, particularly tiny but essential organisms like sarcosaprophagous flies. These decomposer insects play crucial roles in breaking down organic matter and responding to environmental changes. Researchers analyzed over 8,000 occurrence records and found that about 40% of forested areas have less than 10% probability of scientific documentation. The research shows accessibility—roads, rivers, proximity to research centers—heavily influences where scientists study, leaving remote but ecologically valuable regions unexplored. Many species may disappear before they're even described, representing a significant gap in understanding the forest's health and function.</description>
-      <source url="https://g1.globo.com/meio-ambiente/noticia/2026/03/05/moscas-da-amazonia-insetos-essenciais-para-a-floresta-podem-desaparecer-antes-mesmo-de-serem-descritos-pela-ciencia.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
