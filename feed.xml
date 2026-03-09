@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 22:32:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 00:34:28 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What it's like living with cancer, rather than dying from it</title>
+      <link>https://news.bias.com/go/2026-03-09-0034</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-0034</guid>
+      <pubDate>Mon, 09 Mar 2026 00:34:26 GMT</pubDate>
+      <description>Paula Miles and Karen Barnett are living with incurable metastatic cancer, navigating what oncologist Dr. David Okonji describes as a challenging middle ground—neither cancer-free nor immediately dying. Miles, five years past her initial prognosis, finds joy in her Golden Bay garden, bare feet on dewy grass, and the song of native birds. Barnett, who has outlived her timeline by six months, pursues adventures with growing defiance. Okonji observes that many in their situation struggle with "the guilt of living," a paralysis that can steal life's joy. Both women exemplify his hope: learning to live moment to moment, discovering calm and delight amid uncertainty, and finding meaning in the time they have.</description>
+      <source url="https://www.rnz.co.nz/life/people/what-it-s-like-living-with-cancer-rather-than-dying-from-cancer">Radio New Zealand</source>
+    </item>
     <item>
       <title>'Amazing' generosity helps bushfire survivors back on their feet</title>
       <link>https://news.bias.com/go/2026-03-08-2232</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 04 Mar 2026 20:23:05 GMT</pubDate>
       <description>Helena Hassani was promised into marriage at age 11 in Pakistan after being born in Afghanistan. She pursued education relentlessly as her path to independence, completing multiple degrees and entering the workforce. Her divorce in 2019 marked what she calls the happiest moment of her life. Now in Australia, she advocates for awareness after reports of forced marriage to Australian authorities jumped nearly 30 percent last year. Hassani founded Boland Parwaz to work with communities and agencies on prevention, and urges schools to help identify at-risk children. She emphasizes that many migrant families don't realize forced marriage is a crime in Australia.</description>
       <source url="https://www.abc.net.au/news/2026-03-05/rise-in-forced-marriage-in-australia-helena-hassani-shares-story/106349560">ABC Australia</source>
-    </item>
-    <item>
-      <title>Across South America, canopy bridges evolve as a lifeline for tree-dwelling wildlife</title>
-      <link>https://news.bias.com/go/2026-03-04-1833</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-04-1833</guid>
-      <pubDate>Wed, 04 Mar 2026 18:33:38 GMT</pubDate>
-      <description>Researchers across South America are using canopy bridges—suspended corridors of ropes, nets, and platforms—to help tree-dwelling animals navigate fragmented forests. In Peru's Amazon, scientists monitored sloths, saki monkeys, and porcupines using these artificial crossings, revealing how the structures work in intact forests. The insights could improve wildlife connectivity in areas divided by highways and development. Camera traps captured animals moving safely between treetops, offering fresh understanding of arboreal behavior. Experts say these bridges reduce roadkill, connect isolated populations, and maintain genetic diversity for endangered species. The research marks a shift from traditional field surveys to more sophisticated monitoring, opening new possibilities for protecting animals that depend on continuous canopy to survive.</description>
-      <source url="https://news.mongabay.com/2026/03/across-south-america-canopy-bridges-evolve-as-a-lifeline-for-tree-dwelling-wildlife/">Mongabay</source>
     </item>
   </channel>
 </rss>
