@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 02:36:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 04:39:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>After years of kidney problems, Jackson Antunes receives kidney from wife and celebrates recovery</title>
+      <link>https://news.bias.com/go/2026-03-09-0439</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-0439</guid>
+      <pubDate>Mon, 09 Mar 2026 04:39:01 GMT</pubDate>
+      <description>Brazilian actor Jackson Antunes has spent decades managing health challenges with quiet determination and humor. After suffering thromboses in the 1990s, he discovered he had only one kidney—a revelation he initially took lightly. Years later, chronic kidney disease progressed, and by 2024 he was balancing television work with regular dialysis sessions. When doctors recommended a transplant, his wife Cris of 33 years tested as a match and donated her kidney. The couple now celebrates recovery together, their story highlighting both the power of love and Brazil's broader transplant needs: 42,000 people await kidney donations, while an estimated 20 million Brazilians live with undiagnosed kidney disease.</description>
+      <source url="https://g1.globo.com/fantastico/noticia/2026/03/08/apos-anos-de-problemas-renais-jackson-antunes-recebe-rim-da-esposa-e-comemora-recuperacao.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Bitter times for cocoa farmers as chocolate market slumps</title>
       <link>https://news.bias.com/go/2026-03-09-0236</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 05 Mar 2026 00:27:22 GMT</pubDate>
       <description>A clinical trial at UCL and Great Ormond Street Hospital has shown promising results for children with Dravet syndrome, a genetic form of treatment-resistant epilepsy affecting approximately 3,000 people in the UK. The drug Zorevunersen reduced seizures by 50% on average in 81 participants aged 2 to 18, with some experiencing 80% fewer seizures after three doses. The treatment also improved quality of life, including motor skills and communication. Researchers are celebrating the findings as a potential breakthrough that targets the underlying genetic cause rather than just managing symptoms. A phase 3 trial will assess long-term safety and effectiveness, offering hope not only for Dravet syndrome but potentially for hundreds of other genetic epilepsies.</description>
       <source url="https://www.theguardian.com/society/2026/mar/04/scientists-drug-children-zorevunersen-epilepsy-dravet">The Guardian</source>
-    </item>
-    <item>
-      <title>Mathews Museum in Mathews, Virginia</title>
-      <link>https://news.bias.com/go/2026-03-04-2225</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-04-2225</guid>
-      <pubDate>Wed, 04 Mar 2026 22:25:08 GMT</pubDate>
-      <description>The Mathews Museum in coastal Virginia offers more than local history—it preserves the social fabric of rural community life. At its center is an immersive walk-through general store that recreates the era when such establishments served as the heart of towns like Mathews County. These spaces weren't just for commerce; they were where news spread, credit was granted, and relationships flourished, often housing the post office where communication and daily life intersected. Visitors experience history firsthand, surrounded by period goods and authentic arrangements. Rotating exhibits of donated artifacts and family stories further illuminate life in this Chesapeake Bay community that long remained beyond industrial America's reach.</description>
-      <source url="https://www.atlasobscura.com/places/mathews-museum">Atlas Obscura</source>
     </item>
   </channel>
 </rss>
