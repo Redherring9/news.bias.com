@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 06:41:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 08:43:22 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Starwatch: patience is needed to observe Cancer’s beehive cluster</title>
+      <link>https://news.bias.com/go/2026-03-09-0843</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-0843</guid>
+      <pubDate>Mon, 09 Mar 2026 08:43:21 GMT</pubDate>
+      <description>Cancer, the crab constellation, currently rides high in the southern evening sky, offering stargazers a chance to spot M44, the beehive cluster. Though Cancer lacks bright stars, this ancient star cluster—spanning roughly three times the width of a full moon—rewards patient observers. To find it, locate Cancer between Gemini and Leo, then look to the constellation's center. The cluster appears as a faint patch of light visible to the naked eye under dark skies, preferably away from city lights after allowing about twenty minutes for eyes to adjust. From the southern hemisphere, Cancer sits lower in the northwestern sky.</description>
+      <source url="https://www.theguardian.com/science/2026/mar/09/starwatch-patience-is-needed-to-observe-cancer-beehive-cluster">The Guardian</source>
+    </item>
     <item>
       <title>Ten years without Naná Vasconcelos: the work of the Pernambuco artist who won eight Grammys continues to inspire generations in Brazil and worldwide</title>
       <link>https://news.bias.com/go/2026-03-09-0641</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 05 Mar 2026 02:52:09 GMT</pubDate>
       <description>More than 50 years after New Zealand ended whaling, humpback whale populations are showing encouraging signs of recovery. Researchers from the University of Auckland discovered that breeding competition has intensified, with older, dominant males now fathering more offspring — a natural pattern that disappeared when populations were decimated in the 1960s and 70s. During those lean years, younger and older males bred equally, helping maintain genetic diversity. The return to competitive breeding suggests healthier population numbers. New Zealand transformed from a whaling nation to a vocal whale defender after its last catch in 1964, though conservationists now urge attention toward other ocean threats like bottom trawling.</description>
       <source url="https://www.rnz.co.nz/news/national/588679/fifty-years-after-new-zealand-stopped-whaling-humpback-population-showing-signs-of-recovery">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Everything you need to know about the 2026 Milano Cortina Winter Paralympics</title>
-      <link>https://news.bias.com/go/2026-03-05-0050</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-0050</guid>
-      <pubDate>Thu, 05 Mar 2026 00:50:06 GMT</pubDate>
-      <description>Australia is sending one of its largest teams to the 2026 Milano Cortina Winter Paralympics, which begin March 6 with competition running through March 15. Marking the 50th anniversary of the Winter Paralympics, the Games will be held across five venues in northeast Italy. For the first time, Australian athletes will compete in four sports: Para Cross-Country, Para Biathlon, Para Snowboarding, and Para Alpine Skiing. The events showcase remarkable athleticism, from alpine skiers reaching speeds of 100 kilometers per hour to biathletes combining endurance and precision shooting. Athletes compete in categories including standing, sitting, and vision-impaired, using specialized equipment like sit-skis and outriggers. The Games continue Australia's proud Paralympic tradition on the slopes.</description>
-      <source url="https://www.abc.net.au/news/2026-03-05/winter-paralympics-2026-milano-cortina-when-is-it-how-to-watch/106390376">ABC Australia</source>
     </item>
   </channel>
 </rss>
