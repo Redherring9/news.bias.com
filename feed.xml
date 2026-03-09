@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 20:57:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 22:59:05 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fire knife warriors light up Auckland at Siva Afi Festiva</title>
+      <link>https://news.bias.com/go/2026-03-09-2259</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-2259</guid>
+      <pubDate>Mon, 09 Mar 2026 22:59:03 GMT</pubDate>
+      <description>Auckland's Siva Afi Festival brought together fire knife dancers from across the Pacific to celebrate and share the ancient Samoan art form. Competitors from Samoa, Tahiti, Niue, and the Cook Islands spun blazing nifo oti in a vibrant display of skill and cultural pride. Festival director Amo Ieriko emphasized the art's inclusive spirit, noting how it builds confidence and enables intergenerational learning across cultures. Tahitian champion Hikitahi Pokoe claimed his second consecutive title, while newcomer Vandross Pere won the intermediate category after just one year of training. Judges and participants alike highlighted the welcoming community, where knowledge flows freely and performers of all backgrounds connect with Pacific heritage through flame and movement.</description>
+      <source url="https://www.rnz.co.nz/international/pacific-news/589128/fire-knife-warriors-light-up-auckland-at-siva-afi-festiva">Radio New Zealand</source>
+    </item>
     <item>
       <title>Ecuador’s new ecological corridor connects Andes and Amazon ecosystems</title>
       <link>https://news.bias.com/go/2026-03-09-2057</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 05 Mar 2026 17:08:02 GMT</pubDate>
       <description>In the Slovak town of Bzovík stands a monastery with a turbulent nearly 900-year history. Founded in the 12th century as a Benedictine monastery, it later became a Premonstratensian center of learning before being transformed into a fortified manor in 1530. The complex endured repeated cycles of destruction and rebuilding—burned, conquered, and rebuilt multiple times between the 15th and 17th centuries. After falling into permanent disrepair in the 1800s, the site now exists as an evocative ruin open freely to visitors. While the central church structures have crumbled, ongoing reconstruction efforts preserve the fortifications, offering a tangible connection to centuries of religious, military, and agricultural history.</description>
       <source url="https://www.atlasobscura.com/places/pevnost-bzovik">Atlas Obscura</source>
-    </item>
-    <item>
-      <title>DNA fingerprinting convicts Zimbabwe lion poachers in landmark case</title>
-      <link>https://news.bias.com/go/2026-03-05-1505</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-1505</guid>
-      <pubDate>Thu, 05 Mar 2026 15:05:55 GMT</pubDate>
-      <description>In a groundbreaking case, Zimbabwe prosecutors used DNA forensics to convict two poachers for killing a wild lion near Hwange National Park. Scientists matched genetic material from seized lion parts—including meat, claws, and teeth—to a radio-collared lion that had been tracked and sampled years earlier. This marks the first time a lion's DNA has been traced to an individual animal to secure a wildlife trafficking conviction. The two-year prison sentence sets a powerful precedent in a region where proving wild versus captive-bred origins is crucial for prosecution. Experts believe DNA fingerprinting will become increasingly vital for bringing wildlife criminals to justice in cases that traditionally rely on circumstantial evidence.</description>
-      <source url="https://news.mongabay.com/2026/03/dna-fingerprinting-convicts-zimbabwe-lion-poachers-in-landmark-case/">Mongabay</source>
     </item>
   </channel>
 </rss>
