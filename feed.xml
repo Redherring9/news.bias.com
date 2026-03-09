@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 08:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 10:45:33 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘In Romania now, you don’t see a bottle anywhere’</title>
+      <link>https://news.bias.com/go/2026-03-09-1045</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-1045</guid>
+      <pubDate>Mon, 09 Mar 2026 10:45:31 GMT</pubDate>
+      <description>Romania has transformed its recycling landscape with a remarkably successful deposit return scheme launched in 2023. Consumers pay a small deposit on bottles and cans, then reclaim their money at reverse vending machines in stores. The results have been striking: over 8 billion containers collected, with 90% of Romanians participating at least once. The not-for-profit system ensures full traceability, with collected materials sorted and sold to recyclers who provide certificates proving proper processing. While beverage containers represent only 5% of Romania's waste, neighboring countries are watching closely, and the UK plans to launch its own scheme next year.</description>
+      <source url="https://www.positive.news/economics/romanias-recycling-revolution-lifts-off/">Positive News</source>
+    </item>
     <item>
       <title>Starwatch: patience is needed to observe Cancer’s beehive cluster</title>
       <link>https://news.bias.com/go/2026-03-09-0843</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 05 Mar 2026 04:55:04 GMT</pubDate>
       <description>Archived camera-trap images originally set to monitor bears in southern Thailand's Khlong Seang–Khao Sok Forest Complex have unexpectedly revealed a significant population of Asian tapirs. Modeling suggests the area may harbor up to 436 tapirs—far exceeding previous estimates of fewer than 250 for all of Thailand and Myanmar combined, though researchers caution the actual number may be smaller due to uneven distribution. These nocturnal, slow-reproducing giants can weigh up to 350 kilograms and serve as vital seed dispersers in their ecosystems. With fewer than 2,500 mature individuals remaining globally due to habitat loss and snaring, the discovery highlights both the species' precarious status and the value of "bycatch" data in conservation research.</description>
       <source url="https://news.mongabay.com/short-article/2026/03/archived-camera-trap-images-bring-thailands-tapirs-into-focus/">Mongabay</source>
-    </item>
-    <item>
-      <title>50 years after the end of whaling, humpbacks are returning</title>
-      <link>https://news.bias.com/go/2026-03-05-0252</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-0252</guid>
-      <pubDate>Thu, 05 Mar 2026 02:52:09 GMT</pubDate>
-      <description>More than 50 years after New Zealand ended whaling, humpback whale populations are showing encouraging signs of recovery. Researchers from the University of Auckland discovered that breeding competition has intensified, with older, dominant males now fathering more offspring — a natural pattern that disappeared when populations were decimated in the 1960s and 70s. During those lean years, younger and older males bred equally, helping maintain genetic diversity. The return to competitive breeding suggests healthier population numbers. New Zealand transformed from a whaling nation to a vocal whale defender after its last catch in 1964, though conservationists now urge attention toward other ocean threats like bottom trawling.</description>
-      <source url="https://www.rnz.co.nz/news/national/588679/fifty-years-after-new-zealand-stopped-whaling-humpback-population-showing-signs-of-recovery">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
