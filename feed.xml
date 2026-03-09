@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 10:45:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 12:47:49 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Large tortoiseshell butterfly confirmed no longer extinct in UK</title>
+      <link>https://news.bias.com/go/2026-03-09-1247</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-1247</guid>
+      <pubDate>Mon, 09 Mar 2026 12:47:48 GMT</pubDate>
+      <description>The large tortoiseshell butterfly has been confirmed as a resident UK species again after becoming extinct in Britain by the 1960s. Recent sightings across southern England, from Kent to Cornwall, show the insect emerging from hibernation in woodlands, bringing Britain's native butterfly count to 60. Unlike its garden-dwelling cousin, this tree-dwelling butterfly feeds on elm, willow, and other trees as a caterpillar. Scientists believe warming temperatures and growing populations in the Netherlands and France have helped the species migrate back across the Channel. Wild caterpillars discovered since 2020 confirm successful breeding, though experts remain cautiously optimistic about the butterfly's long-term establishment in British landscapes.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/09/large-tortoiseshell-butterfly-no-longer-extinct-uk">The Guardian</source>
+    </item>
     <item>
       <title>‘In Romania now, you don’t see a bottle anywhere’</title>
       <link>https://news.bias.com/go/2026-03-09-1045</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 05 Mar 2026 06:57:20 GMT</pubDate>
       <description>A tiny loggerhead turtle hatchling, found stranded unusually far south in New South Wales, has become an unexpected messenger about climate change. Named Bulwal Bilima—"strong turtle" in the local Aboriginal language—the 110-gram baby was rehabilitated at Sydney's Taronga Zoo before being released with a satellite tracker. Scientists are discovering that the strengthening East Australian Current is pushing warm waters and marine species, including endangered loggerheads, into southern territories where they've rarely been recorded. Researchers are now tracking turtle movements to anticipate future migration patterns and identify habitats that may need protection. The southward shift raises concerns about sex ratio imbalances, disease exposure, and increased human encounters, prompting conservationists to gather crucial baseline data in previously unmonitored waters.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/05/baby-turtle-australian-scientists-climate-crisis-loggerhead-new-south-wales-taronga-zoo">The Guardian</source>
-    </item>
-    <item>
-      <title>Archived camera-trap images bring Thailand’s tapirs into focus</title>
-      <link>https://news.bias.com/go/2026-03-05-0455</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-0455</guid>
-      <pubDate>Thu, 05 Mar 2026 04:55:04 GMT</pubDate>
-      <description>Archived camera-trap images originally set to monitor bears in southern Thailand's Khlong Seang–Khao Sok Forest Complex have unexpectedly revealed a significant population of Asian tapirs. Modeling suggests the area may harbor up to 436 tapirs—far exceeding previous estimates of fewer than 250 for all of Thailand and Myanmar combined, though researchers caution the actual number may be smaller due to uneven distribution. These nocturnal, slow-reproducing giants can weigh up to 350 kilograms and serve as vital seed dispersers in their ecosystems. With fewer than 2,500 mature individuals remaining globally due to habitat loss and snaring, the discovery highlights both the species' precarious status and the value of "bycatch" data in conservation research.</description>
-      <source url="https://news.mongabay.com/short-article/2026/03/archived-camera-trap-images-bring-thailands-tapirs-into-focus/">Mongabay</source>
     </item>
   </channel>
 </rss>
