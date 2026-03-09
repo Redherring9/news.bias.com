@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 12:47:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 14:50:16 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What does the appendix do? Biologists explain the complicated evolution of this inconvenient organ</title>
+      <link>https://news.bias.com/go/2026-03-09-1450</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-1450</guid>
+      <pubDate>Mon, 09 Mar 2026 14:50:14 GMT</pubDate>
+      <description>Long dismissed as a useless evolutionary leftover since Darwin's time, the appendix turns out to be far more fascinating. New research reveals it evolved independently at least 32 times across mammalian species—a pattern suggesting genuine survival advantages. The small pouch supports immune system development, especially during childhood, by helping the body distinguish friendly gut bacteria from harmful pathogens. Scientists also propose it serves as a microbial refuge, sheltering beneficial bacteria during severe infections so they can repopulate the intestines afterward. This convergent evolution across marsupials, primates, and rodents indicates the appendix isn't an accident—it's an organ evolution kept reinventing under different ecological conditions.</description>
+      <source url="https://theconversation.com/what-does-the-appendix-do-biologists-explain-the-complicated-evolution-of-this-inconvenient-organ-277012">The Conversation</source>
+    </item>
     <item>
       <title>Large tortoiseshell butterfly confirmed no longer extinct in UK</title>
       <link>https://news.bias.com/go/2026-03-09-1247</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 05 Mar 2026 08:59:37 GMT</pubDate>
       <description>Tübingen, a picturesque German university city, has tackled its mounting waste problem with a novel approach: charging businesses 50 cents for each piece of disposable to-go packaging and 20 cents for throwaway cutlery. Launched in January 2022, the packaging tax applies to all single-use items regardless of material, even compostable ones. Four years in, the results are striking: reusable container use has quadrupled, three-quarters of eateries have reduced disposable packaging, and the city's streets are visibly cleaner. The initiative emerged after voluntary programs failed and national regulations proved insufficient. By making single-use packaging just inconvenient enough, Tübingen is demonstrating that financial nudges can shift behavior where appeals to environmental conscience alone could not.</description>
       <source url="https://reasonstobecheerful.world/tubingen-germany-defied-mcdonalds-dumped-to-go-waste/">Reasons to be Cheerful</source>
-    </item>
-    <item>
-      <title>Tiny, lost and constipated: what a baby turtle told Australian scientists about warming seas</title>
-      <link>https://news.bias.com/go/2026-03-05-0657</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-0657</guid>
-      <pubDate>Thu, 05 Mar 2026 06:57:20 GMT</pubDate>
-      <description>A tiny loggerhead turtle hatchling, found stranded unusually far south in New South Wales, has become an unexpected messenger about climate change. Named Bulwal Bilima—"strong turtle" in the local Aboriginal language—the 110-gram baby was rehabilitated at Sydney's Taronga Zoo before being released with a satellite tracker. Scientists are discovering that the strengthening East Australian Current is pushing warm waters and marine species, including endangered loggerheads, into southern territories where they've rarely been recorded. Researchers are now tracking turtle movements to anticipate future migration patterns and identify habitats that may need protection. The southward shift raises concerns about sex ratio imbalances, disease exposure, and increased human encounters, prompting conservationists to gather crucial baseline data in previously unmonitored waters.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/05/baby-turtle-australian-scientists-climate-crisis-loggerhead-new-south-wales-taronga-zoo">The Guardian</source>
     </item>
   </channel>
 </rss>
