@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 18:54:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 20:57:03 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ecuador’s new ecological corridor connects Andes and Amazon ecosystems</title>
+      <link>https://news.bias.com/go/2026-03-09-2057</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-2057</guid>
+      <pubDate>Mon, 09 Mar 2026 20:57:02 GMT</pubDate>
+      <description>Ecuador has established a new 2,159-square-kilometer biological corridor linking Llanganates National Park in the Andes with Yasuní Biosphere Reserve in the Amazon Rainforest. The corridor is notable for its "altitudinal connectivity," bridging ecosystems from 4,000-meter mountain peaks to lowland rainforests. Conservation organizations and local governments collaborated on the project, which aims to help species like the black-and-chestnut eagle migrate between elevations and adapt to climate change. The initiative also supports local communities whose livelihoods depend on healthy ecosystems, balancing conservation with sustainable economic practices in an area historically affected by agriculture and extractive industries.</description>
+      <source url="https://news.mongabay.com/2026/03/ecuadors-new-ecological-corridor-connects-andes-and-amazon-ecosystems/">Mongabay</source>
+    </item>
     <item>
       <title>Human trials about to take place on universal flu vaccine</title>
       <link>https://news.bias.com/go/2026-03-09-1854</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 05 Mar 2026 15:05:55 GMT</pubDate>
       <description>In a groundbreaking case, Zimbabwe prosecutors used DNA forensics to convict two poachers for killing a wild lion near Hwange National Park. Scientists matched genetic material from seized lion parts—including meat, claws, and teeth—to a radio-collared lion that had been tracked and sampled years earlier. This marks the first time a lion's DNA has been traced to an individual animal to secure a wildlife trafficking conviction. The two-year prison sentence sets a powerful precedent in a region where proving wild versus captive-bred origins is crucial for prosecution. Experts believe DNA fingerprinting will become increasingly vital for bringing wildlife criminals to justice in cases that traditionally rely on circumstantial evidence.</description>
       <source url="https://news.mongabay.com/2026/03/dna-fingerprinting-convicts-zimbabwe-lion-poachers-in-landmark-case/">Mongabay</source>
-    </item>
-    <item>
-      <title>Marsupials previously thought extinct for millennia discovered in New Guinea</title>
-      <link>https://news.bias.com/go/2026-03-05-1303</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-1303</guid>
-      <pubDate>Thu, 05 Mar 2026 13:03:50 GMT</pubDate>
-      <description>In a remarkable discovery, researchers led by Australian scientist Tim Flannery have found two marsupial species in West Papua's rainforest that were believed extinct for thousands of years. The pygmy long-fingered possum, with its extraordinarily elongated fourth digit for extracting insect larvae, and a ring-tailed glider belonging to a newly described genus, are rare "Lazarus taxa"—species that vanish from fossil records only to reappear. The long-fingered possum was thought to have disappeared during the ice age, while the glider was known only from fossil fragments. Found in the remote Bird's Head peninsula, these species highlight the region's ecological importance and underscore conservation efforts with Indigenous communities to protect their threatened habitat.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/05/marsupials-discovered-new-guinea">The Guardian</source>
     </item>
   </channel>
 </rss>
