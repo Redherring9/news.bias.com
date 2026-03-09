@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 14:50:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 16:52:21 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Help a toad across the road – and five more ways to save these endangered amphibians</title>
+      <link>https://news.bias.com/go/2026-03-09-1652</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-1652</guid>
+      <pubDate>Mon, 09 Mar 2026 16:52:19 GMT</pubDate>
+      <description>Common toads, charming amphibians with copper eyes and pest-eating habits, have declined by 41% in the UK since 1985. Road mortality during their dramatic spring migration—when hundreds of thousands journey to ancestral ponds—is a major threat, along with lost habitat, pollution, declining invertebrate prey, and climate impacts. Volunteers can join toad patrols to help these creatures cross roads safely during wet spring evenings. One patrol in Bath has reduced toad casualties from 60% to 3% and saved 50,000 toads over two decades. These citizen scientists gather valuable data while protecting wildlife, finding fulfillment in collective conservation efforts that give toads a fighting chance.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/09/help-a-toad-across-the-road-and-five-more-ways-to-save-these-endangered-amphibians">The Guardian</source>
+    </item>
     <item>
       <title>What does the appendix do? Biologists explain the complicated evolution of this inconvenient organ</title>
       <link>https://news.bias.com/go/2026-03-09-1450</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 05 Mar 2026 11:01:44 GMT</pubDate>
       <description>A new study reveals that much of the Amazon's biodiversity remains scientifically unknown, particularly tiny but essential organisms like sarcosaprophagous flies. These decomposer insects play crucial roles in breaking down organic matter and responding to environmental changes. Researchers analyzed over 8,000 occurrence records and found that about 40% of forested areas have less than 10% probability of scientific documentation. The research shows accessibility—roads, rivers, proximity to research centers—heavily influences where scientists study, leaving remote but ecologically valuable regions unexplored. Many species may disappear before they're even described, representing a significant gap in understanding the forest's health and function.</description>
       <source url="https://g1.globo.com/meio-ambiente/noticia/2026/03/05/moscas-da-amazonia-insetos-essenciais-para-a-floresta-podem-desaparecer-antes-mesmo-de-serem-descritos-pela-ciencia.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>The German City That Defied McDonald’s and Dumped ‘To-Go’ Waste</title>
-      <link>https://news.bias.com/go/2026-03-05-0859</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-0859</guid>
-      <pubDate>Thu, 05 Mar 2026 08:59:37 GMT</pubDate>
-      <description>Tübingen, a picturesque German university city, has tackled its mounting waste problem with a novel approach: charging businesses 50 cents for each piece of disposable to-go packaging and 20 cents for throwaway cutlery. Launched in January 2022, the packaging tax applies to all single-use items regardless of material, even compostable ones. Four years in, the results are striking: reusable container use has quadrupled, three-quarters of eateries have reduced disposable packaging, and the city's streets are visibly cleaner. The initiative emerged after voluntary programs failed and national regulations proved insufficient. By making single-use packaging just inconvenient enough, Tübingen is demonstrating that financial nudges can shift behavior where appeals to environmental conscience alone could not.</description>
-      <source url="https://reasonstobecheerful.world/tubingen-germany-defied-mcdonalds-dumped-to-go-waste/">Reasons to be Cheerful</source>
     </item>
   </channel>
 </rss>
