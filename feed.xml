@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 21:24:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 23:26:54 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How elephants experience time, and what this tells us about protecting them</title>
+      <link>https://news.bias.com/go/2026-03-10-2326</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-2326</guid>
+      <pubDate>Tue, 10 Mar 2026 23:26:53 GMT</pubDate>
+      <description>Researcher Khatijah Rahmat is exploring how elephants experience time—a concept she calls animal temporality. By examining elephants' eco-cultural heritage, their responses to human-impacted time, and individual histories, she argues that recognizing animals as temporal beings could deepen our empathy and transform conservation approaches. Her work relies on indirect observation rather than laboratory experiments, since temporal experience can't be easily replicated in controlled settings. Rahmat believes this perspective could expand conservation beyond population numbers to include considerations of intangible heritage and trauma. The research might also help scientists express observations they've traditionally felt constrained from sharing due to scientific rigor.</description>
+      <source url="https://news.mongabay.com/podcast/2026/03/how-elephants-experience-time-and-what-this-tells-us-about-protecting-them/">Mongabay</source>
+    </item>
     <item>
       <title>South Australian man sails around the world in homemade boat</title>
       <link>https://news.bias.com/go/2026-03-10-2124</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 06 Mar 2026 17:34:53 GMT</pubDate>
       <description>Salvador has officially recognized the trio elétrico as part of the city's intangible cultural and historical heritage. Created in the 1950s by musicians Dodô and Osmar Macedo, this mobile sound system transformed carnival celebrations in the Brazilian city. The trio elétrico—named for its original three musicians and amplified instruments—began as a simple open car with speakers and evolved into the large truck-mounted stages that now define Salvador's famous street carnival, drawing millions of revelers annually. The new designation ensures municipal protection for this beloved cultural tradition.</description>
       <source url="https://g1.globo.com/ba/bahia/noticia/2026/03/06/trio-eletrico-e-reconhecido-como-patrimonio-imaterial-cultural-e-historico-de-salvador.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Indonesian communities try to reclaim lands following company permit revocations</title>
-      <link>https://news.bias.com/go/2026-03-06-1532</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-1532</guid>
-      <pubDate>Fri, 06 Mar 2026 15:32:41 GMT</pubDate>
-      <description>Following deadly floods and landslides in November 2025, the Indonesian government revoked forest permits for 28 companies, including pulpwood producer PT TPL. Now, 29 Indigenous communities are seeking to reclaim 37,219 hectares of customary land they lost decades ago when the company established eucalyptus plantations. Villagers like Sahala Pasaribu have begun replanting crops and hope to restore sacred forests, but uncertainty looms: officials say state-owned enterprises will manage the former concessions, leaving the legal status of customary lands unclear. Communities express concern about trading one conflict for another, while advocating for land rights recognition and reforestation after years of industrial use.</description>
-      <source url="https://news.mongabay.com/2026/03/indonesian-communities-try-to-reclaim-lands-following-company-permit-revocations/">Mongabay</source>
     </item>
   </channel>
 </rss>
