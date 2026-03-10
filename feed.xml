@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 22:59:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 01:01:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Birdwatching will have guided outings during COP15 in Campo Grande</title>
+      <link>https://news.bias.com/go/2026-03-10-0101</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-0101</guid>
+      <pubDate>Tue, 10 Mar 2026 01:01:17 GMT</pubDate>
+      <description>During the UN's COP15 wildlife conservation conference in Campo Grande, Brazil, residents and visitors will have the opportunity to join guided birdwatching outings, known locally as "passarinhadas." Specialized guides will help participants identify local and migratory bird species in the city's parks and green spaces. The activity is part of a growing birdwatching movement in the region, coordinated by the Mamede Institute for Environmental Research and Ecotourism. Free outings are organized by participants themselves, with binoculars provided for beginners. Environmental educator Maristela Benites notes that birdwatching is becoming an established cultural practice in Campo Grande and throughout Mato Grosso do Sul state.</description>
+      <source url="https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/03/09/observacao-de-aves-tera-saidas-guiadas-durante-a-cop15-em-campo-grande.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Fire knife warriors light up Auckland at Siva Afi Festiva</title>
       <link>https://news.bias.com/go/2026-03-09-2259</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 05 Mar 2026 19:10:04 GMT</pubDate>
       <description>In the remote rainforests of West Papua, researchers have confirmed the existence of two remarkable marsupials previously known only from fossils. A villager's nocturnal encounter led to the identification of the pygmy long-fingered possum, distinguished by an extraordinarily elongated fourth digit used to extract beetle larvae from wood. Alongside it, scientists documented the ring-tailed glider, recognized by local elders. These "Lazarus taxa"—species that reappear after being presumed extinct—emerged through collaboration between international scientists and West Papuan communities. While the discoveries deepen understanding of Australasian marsupial evolution, researchers emphasize the urgent need to assess conservation status and determine whether these elusive animals inhabit protected areas, as logging threatens their forest habitat.</description>
       <source url="https://www.abc.net.au/news/science/2026-03-06/pygmy-long-fingered-possum-and-ring-tailed-glider-fossil/106415912">ABC Australia</source>
-    </item>
-    <item>
-      <title>Pevnosť Bzovík in Bzovík, Slovakia</title>
-      <link>https://news.bias.com/go/2026-03-05-1708</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-1708</guid>
-      <pubDate>Thu, 05 Mar 2026 17:08:02 GMT</pubDate>
-      <description>In the Slovak town of Bzovík stands a monastery with a turbulent nearly 900-year history. Founded in the 12th century as a Benedictine monastery, it later became a Premonstratensian center of learning before being transformed into a fortified manor in 1530. The complex endured repeated cycles of destruction and rebuilding—burned, conquered, and rebuilt multiple times between the 15th and 17th centuries. After falling into permanent disrepair in the 1800s, the site now exists as an evocative ruin open freely to visitors. While the central church structures have crumbled, ongoing reconstruction efforts preserve the fortifications, offering a tangible connection to centuries of religious, military, and agricultural history.</description>
-      <source url="https://www.atlasobscura.com/places/pevnost-bzovik">Atlas Obscura</source>
     </item>
   </channel>
 </rss>
