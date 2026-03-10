@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 11:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 13:15:41 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Women of the Rosenstrasse protest challenged the Nazi regime for their detained Jewish husbands’ freedom – and won</title>
+      <link>https://news.bias.com/go/2026-03-10-1315</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-1315</guid>
+      <pubDate>Tue, 10 Mar 2026 13:15:39 GMT</pubDate>
+      <description>In February 1943, hundreds of non-Jewish women gathered on Berlin's Rosenstrasse to demand the release of their Jewish husbands, who had been arrested in a Nazi roundup of over 9,000 Jews. For nearly a week, these wives and mothers protested publicly—a rare act of defiance under Hitler's regime. On March 6, most of the nearly 2,000 detained men were released, while 7,000 other Jews arrested in the same sweep were deported to Auschwitz. Scholars continue to debate the protest's influence, though American intelligence at the time suggested the action was discontinued due to public outcry. The event raises enduring questions about resistance, family bonds, and the limits of Nazi power.</description>
+      <source url="https://theconversation.com/women-of-the-rosenstrasse-protest-challenged-the-nazi-regime-for-their-detained-jewish-husbands-freedom-and-won-277154">The Conversation</source>
+    </item>
     <item>
       <title>The Desert Lives: Sea of Flowers in Death Valley</title>
       <link>https://news.bias.com/go/2026-03-10-1113</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 06 Mar 2026 07:23:22 GMT</pubDate>
       <description>In Alegrete, Brazil, biologist Mariana Costa has turned her home into a makeshift wildlife rehabilitation center since 2018. Working as a volunteer partner with the local Environmental Patrol, she cares for injured and orphaned wild animals in rooms adapted with screened windows and specialized equipment. Her patients have ranged from two permanently disabled falcons to baby opossums requiring round-the-clock feeding, and even a pampas deer needing special milk formula. With the nearest official wildlife center three hours away, Mariana's expertise helps authorities make quick decisions about rescued animals. Her ultimate goal is always rehabilitation and release, returning each creature to fulfill its role in nature—a moment she finds deeply rewarding after sleepless nights of intensive care.</description>
       <source url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/06/filhote-veado-falcoes-biologa-voluntaria-animais-silvestres-casa-santuario-rs.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Climate or biodiversity? Global study maps out forestation’s dilemma</title>
-      <link>https://news.bias.com/go/2026-03-06-0521</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-0521</guid>
-      <pubDate>Fri, 06 Mar 2026 05:21:13 GMT</pubDate>
-      <description>A new study reveals that approximately 13% of globally important biodiversity-rich areas overlap with sites designated for carbon removal projects like forestation and bioenergy crops. Researchers analyzed five climate models and examined impacts on 135,000 species—far more than previous studies—to better understand potential conflicts. While planting trees can help both climate and biodiversity when done thoughtfully, large-scale land use for carbon capture could harm native ecosystems if not carefully planned. The findings suggest that avoiding biodiversity hotspots entirely would reduce available carbon removal land by over half by 2050, highlighting the need for more strategic site selection and continued focus on reducing emissions.</description>
-      <source url="https://news.mongabay.com/2026/03/climate-or-biodiversity-global-study-maps-out-forestations-dilemma/">Mongabay</source>
     </item>
   </channel>
 </rss>
