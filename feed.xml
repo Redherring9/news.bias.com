@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 05:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 07:08:26 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Testing the waters: can pumping chemicals into the ocean help stop global heating?</title>
+      <link>https://news.bias.com/go/2026-03-10-0708</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-0708</guid>
+      <pubDate>Tue, 10 Mar 2026 07:08:24 GMT</pubDate>
+      <description>Scientists deliberately released 65,000 liters of alkaline chemicals into the Gulf of Maine to test ocean alkalinity enhancement, a technology designed to help oceans absorb more carbon dioxide. The experiment, which turned the water maroon with dye, measured around 10 tonnes of carbon absorption and raised local pH to preindustrial levels over five days. The approach mimics natural weathering but works faster, potentially addressing both global heating and ocean acidification. While preliminary results showed no significant harm to plankton and larvae, critics worry about unforeseen consequences at scale. The technique resembles agricultural liming practices used for millennia, and several startups now sell carbon credits based on this method, though its safety and effectiveness at climate-relevant scales remain uncertain.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/10/sodium-hydroxide-ocean-global-heating-solution">The Guardian</source>
+    </item>
     <item>
       <title>Pilbara artist's work taken on 5,000km road trip for Sydney show</title>
       <link>https://news.bias.com/go/2026-03-10-0505</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 06 Mar 2026 01:16:36 GMT</pubDate>
       <description>In the coastal town of Busselton, Western Australia, CareSong brings together people living with dementia and their carers for weekly singing sessions. The dementia-friendly choir uses familiar melodies to spark memories and create moments of connection, even when everyday conversation proves difficult. Coordinator David Pilpel, inspired by playing ukulele for his late father who had dementia, notes the program benefits both participants and their carers, offering social connection and a chance to see loved ones laughing and engaged. With over 400,000 Australians living with dementia, the group provides a warm antidote to the isolation often experienced by families navigating the condition.</description>
       <source url="https://www.abc.net.au/news/2026-03-06/dementia-choir-bringing-people-together-through-song/106409484">ABC Australia</source>
-    </item>
-    <item>
-      <title>UFRJ technology uses electrical stimulation to reduce Parkinson's tremors</title>
-      <link>https://news.bias.com/go/2026-03-05-2314</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-2314</guid>
-      <pubDate>Thu, 05 Mar 2026 23:14:30 GMT</pubDate>
-      <description>Researchers at Brazil's Federal University of Rio de Janeiro have developed a low-cost device that uses electrical stimulation applied to the skin to reduce tremors in Parkinson's disease patients. The technology works by sending signals through peripheral nerves to block or attenuate dysfunctional brain rhythms that cause tremors. Initial tests at a university hospital show promising results, with some patients experiencing significant tremor reduction or complete cessation while using the device. Scientists hope to miniaturize the system into a wearable form, like a bracelet or glove, for home use. The device may also help diagnose leprosy early and assist in stroke rehabilitation, with availability through Brazil's public health system anticipated within three years.</description>
-      <source url="https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/03/05/tecnologia-da-ufrj-usa-estimulos-eletricos-para-reduzir-tremores-do-parkinson.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
