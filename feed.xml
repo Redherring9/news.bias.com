@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 17:19:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 19:22:13 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Otago Peninsula officially declared possum free</title>
+      <link>https://news.bias.com/go/2026-03-10-1922</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-1922</guid>
+      <pubDate>Tue, 10 Mar 2026 19:22:12 GMT</pubDate>
+      <description>After more than 15 years of community-led effort, New Zealand's Otago Peninsula has been declared possum-free, with over 24,000 possums removed from 10,000 hectares of challenging terrain. The final phase employed innovative tools including AI traps, thermal drones, and a specially trained detection dog named Scout to track down the last possums hiding in cliff faces and backyards. Native birds like tūī and bellbirds are already returning, spreading seeds across the landscape in what conservationists describe as a "human-induced mast event." The achievement represents a significant milestone toward New Zealand's ambitious Predator Free 2050 goal, demonstrating how sustained community commitment combined with modern technology can restore ecosystems.</description>
+      <source url="https://www.rnz.co.nz/news/national/589214/otago-peninsula-officially-declared-possum-free">Radio New Zealand</source>
+    </item>
     <item>
       <title>Alfredo Bryce Echenique, the writer who acidly portrayed Peru's elite in 'A World for Julius,' dies at 87</title>
       <link>https://news.bias.com/go/2026-03-10-1719</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 06 Mar 2026 13:30:03 GMT</pubDate>
       <description>Norfolk Wildlife Trust is celebrating its centenary by purchasing 336 acres of former farmland to restore an ancient woodland lost during World War II. Founded in 1925 when a Norwich doctor and twelve supporters bought marshland at Cley, it became the first of what are now 47 Wildlife Trusts across Britain. The Wood Norton project marks a shift in conservation strategy—from merely protecting rare habitats to actively restoring lost ones and rebuilding overall wildlife abundance. The site will benefit skylarks, deer, pollinators, and water quality in the River Wensum. While some critics worry about reducing food production, managers argue the grade-three farmland was heavily reliant on chemicals and will now provide crucial ecosystem services to neighboring farms.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/06/wildlife-trusts-mark-100th-birthday-with-woodland-project-norfolk">The Guardian</source>
-    </item>
-    <item>
-      <title>Dog with 'free pass' on buses in São Paulo countryside city receives employee badge: 'Spends the day going from line to line'</title>
-      <link>https://news.bias.com/go/2026-03-06-1127</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-1127</guid>
-      <pubDate>Fri, 06 Mar 2026 11:27:58 GMT</pubDate>
-      <description>Valente, a community dog in Ourinhos, Brazil, has become an unofficial mascot of the city's bus system. After being found sick and abandoned, he was taken in by transit workers and now spends his days riding different bus routes around town. The dog knows the routes well, boarding buses in the morning from the company garage where he sleeps, traveling from neighborhood to neighborhood, and even knowing where to get off. His adventures went viral on social media, prompting the transit company to honor him with an official employee badge. Workers and passengers have embraced Valente as part of their daily commute, providing him with food and water at the garage.</description>
-      <source url="https://g1.globo.com/sp/bauru-marilia/noticia/2026/03/06/cao-com-passe-livre-em-onibus-de-cidade-do-interior-de-sp-ganha-cracha-de-funcionario-passa-o-dia-indo-de-linha-em-linha.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
