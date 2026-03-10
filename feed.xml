@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 13:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 15:17:44 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Promising breakthrough creates plastics that self-deconstruct on cue: Study</title>
+      <link>https://news.bias.com/go/2026-03-10-1517</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-1517</guid>
+      <pubDate>Tue, 10 Mar 2026 15:17:43 GMT</pubDate>
+      <description>Chemists at Rutgers University have developed a promising approach to tackle plastic pollution by creating materials that can be programmed to break down on schedule or in response to triggers like sunlight. Drawing inspiration from how natural polymers such as proteins and DNA decompose, researchers embedded self-destructing mechanisms directly into plastic's molecular structure. This innovation could resolve the long-standing trade-off between durability and degradability, allowing plastics to remain strong during use but automatically deconstruct afterward. With over 8.3 billion metric tons of plastic produced since the 1950s still polluting ecosystems, and billions more tons expected by 2050, such breakthroughs offer hope for moving away from the linear "take-make-waste" model toward more circular, nature-inspired manufacturing systems.</description>
+      <source url="https://news.mongabay.com/2026/03/promising-breakthrough-creates-plastics-that-self-deconstruct-on-cue-study/">Mongabay</source>
+    </item>
     <item>
       <title>Women of the Rosenstrasse protest challenged the Nazi regime for their detained Jewish husbands’ freedom – and won</title>
       <link>https://news.bias.com/go/2026-03-10-1315</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 06 Mar 2026 09:25:43 GMT</pubDate>
       <description>A unique friendship has blossomed between Japanese baseball fans and the Czech Republic's national team since the World Baseball Classic three years ago. Czech players arriving in Japan for the 2026 WBC have been warmly welcomed by enthusiastic supporters wearing Czech jerseys, waving signs, and cheering from the stands. While Japan's own Samurai Japan remains the primary favorite, Czech Republic has earned a special place as the country's adopted second team. The bond showcases how international sports competitions can forge unexpected cultural connections that endure well beyond the tournament itself.</description>
       <source url="https://www.japantimes.co.jp/sports/2026/03/06/baseball/japanese-baseball/czech-japan-baseball/">The Japan Times</source>
-    </item>
-    <item>
-      <title>From deer fawn to falcons: volunteer biologist cares for wild animals and transforms her own home into a sanctuary in Rio Grande do Sul</title>
-      <link>https://news.bias.com/go/2026-03-06-0723</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-0723</guid>
-      <pubDate>Fri, 06 Mar 2026 07:23:22 GMT</pubDate>
-      <description>In Alegrete, Brazil, biologist Mariana Costa has turned her home into a makeshift wildlife rehabilitation center since 2018. Working as a volunteer partner with the local Environmental Patrol, she cares for injured and orphaned wild animals in rooms adapted with screened windows and specialized equipment. Her patients have ranged from two permanently disabled falcons to baby opossums requiring round-the-clock feeding, and even a pampas deer needing special milk formula. With the nearest official wildlife center three hours away, Mariana's expertise helps authorities make quick decisions about rescued animals. Her ultimate goal is always rehabilitation and release, returning each creature to fulfill its role in nature—a moment she finds deeply rewarding after sleepless nights of intensive care.</description>
-      <source url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/06/filhote-veado-falcoes-biologa-voluntaria-animais-silvestres-casa-santuario-rs.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
