@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 09:11:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 11:13:17 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Desert Lives: Sea of Flowers in Death Valley</title>
+      <link>https://news.bias.com/go/2026-03-10-1113</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-1113</guid>
+      <pubDate>Tue, 10 Mar 2026 11:13:16 GMT</pubDate>
+      <description>Death Valley, one of the world's hottest and driest deserts, is experiencing its most vibrant wildflower bloom in a decade. Golden desert sunflowers, along with purple, orange, and white blooms, have transformed the stark landscape following record rainfall since October and the wettest November on record. Seeds that lay dormant in the soil for years have finally germinated, creating a temporary sea of color. Scientists note that desert plants have evolved remarkable survival strategies, waiting decades if necessary for ideal conditions. The spectacular display is expected to last only until late March, when summer heat will return the valley to its typical extreme conditions.</description>
+      <source url="https://www.dw.com/de/die-wüste-lebt-blütenmeer-im-tal-des-todes/a-76287742?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
+    </item>
     <item>
       <title>The Spiritual Movement Saving a Gentle Giant</title>
       <link>https://news.bias.com/go/2026-03-10-0911</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 06 Mar 2026 05:21:13 GMT</pubDate>
       <description>A new study reveals that approximately 13% of globally important biodiversity-rich areas overlap with sites designated for carbon removal projects like forestation and bioenergy crops. Researchers analyzed five climate models and examined impacts on 135,000 species—far more than previous studies—to better understand potential conflicts. While planting trees can help both climate and biodiversity when done thoughtfully, large-scale land use for carbon capture could harm native ecosystems if not carefully planned. The findings suggest that avoiding biodiversity hotspots entirely would reduce available carbon removal land by over half by 2050, highlighting the need for more strategic site selection and continued focus on reducing emissions.</description>
       <source url="https://news.mongabay.com/2026/03/climate-or-biodiversity-global-study-maps-out-forestations-dilemma/">Mongabay</source>
-    </item>
-    <item>
-      <title>Town rejoices after river supplying it water comes 'back to life'</title>
-      <link>https://news.bias.com/go/2026-03-06-0318</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-0318</guid>
-      <pubDate>Fri, 06 Mar 2026 03:18:51 GMT</pubDate>
-      <description>After months of drought, the Turon River in Sofala, New South Wales, has dramatically refilled following heavy rainfall. The small town, located 45 kilometres north of Bathurst, relies entirely on tank and river water, and residents had been carting water to neighbors in need during the dry spell. The drought hit particularly hard during the Christmas tourist season, affecting local businesses. Cattle farmer Dave Murray, who had been hauling water for his livestock, described the river's return as bringing life back to the community. Now with water flowing again, residents are optimistic about the approaching Easter tourism season while hoping for continued rainfall to sustain the river.</description>
-      <source url="https://www.abc.net.au/news/2026-03-06/turon-river-sofala-fills-after-heavy-rain-nsw/106419256">ABC Australia</source>
     </item>
   </channel>
 </rss>
