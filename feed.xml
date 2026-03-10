@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 01:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 03:03:24 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Can Singapore rewild its lost reptiles?</title>
+      <link>https://news.bias.com/go/2026-03-10-0303</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-0303</guid>
+      <pubDate>Tue, 10 Mar 2026 03:03:22 GMT</pubDate>
+      <description>Singapore has lost roughly a third of its terrestrial vertebrate species since the 19th century, but reptiles have shown surprising resilience. A recent study reveals snakes and lizards declined in two waves—first during plantation-era deforestation, then through late-20th-century urbanization. Forest specialists suffered most, while adaptable species persist in degraded habitats. Though around 17% of native reptile species have disappeared, many survive in fragmented populations. Because reptiles cannot easily cross the sea barrier from Malaysia, scientists are exploring rewilding through translocation. Maturing secondary forests and restoration efforts now create opportunities to reintroduce lost species like the forest gecko Gekko hulk, potentially restoring ecological functions even if the original ecosystem cannot be fully recovered.</description>
+      <source url="https://news.mongabay.com/2026/03/can-singapore-rewild-its-lost-reptiles/">Mongabay</source>
+    </item>
     <item>
       <title>Birdwatching will have guided outings during COP15 in Campo Grande</title>
       <link>https://news.bias.com/go/2026-03-10-0101</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 05 Mar 2026 21:12:25 GMT</pubDate>
       <description>Jo Murphy reflects on selling her freehold home and moving into a retirement village, a decision she now regrets making 15 years too early. While she initially considered a reverse mortgage, concerns about eroding her daughter's inheritance led her to choose village living instead. After moving through three villages, Murphy found her capital diminished and her autonomy reduced by ongoing fees and management decisions beyond her control. Property experts note both options involve trade-offs: reverse mortgages compound interest at rates around 7.75 percent, while retirement villages charge initial and ongoing fees. With 53,000 New Zealanders in retirement villages and 130 moving in weekly, advisors emphasize the importance of independent legal counsel and careful consideration of personal circumstances before making either choice.</description>
       <source url="https://www.rnz.co.nz/news/business/588776/reverse-mortgage-or-retirement-village-which-will-give-you-the-retirement-you-want">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Pygmy possum with long fingers rediscovered in remote rainforest</title>
-      <link>https://news.bias.com/go/2026-03-05-1910</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-05-1910</guid>
-      <pubDate>Thu, 05 Mar 2026 19:10:04 GMT</pubDate>
-      <description>In the remote rainforests of West Papua, researchers have confirmed the existence of two remarkable marsupials previously known only from fossils. A villager's nocturnal encounter led to the identification of the pygmy long-fingered possum, distinguished by an extraordinarily elongated fourth digit used to extract beetle larvae from wood. Alongside it, scientists documented the ring-tailed glider, recognized by local elders. These "Lazarus taxa"—species that reappear after being presumed extinct—emerged through collaboration between international scientists and West Papuan communities. While the discoveries deepen understanding of Australasian marsupial evolution, researchers emphasize the urgent need to assess conservation status and determine whether these elusive animals inhabit protected areas, as logging threatens their forest habitat.</description>
-      <source url="https://www.abc.net.au/news/science/2026-03-06/pygmy-long-fingered-possum-and-ring-tailed-glider-fossil/106415912">ABC Australia</source>
     </item>
   </channel>
 </rss>
