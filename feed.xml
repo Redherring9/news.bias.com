@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 19:22:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 21:24:22 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>South Australian man sails around the world in homemade boat</title>
+      <link>https://news.bias.com/go/2026-03-10-2124</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-2124</guid>
+      <pubDate>Tue, 10 Mar 2026 21:24:16 GMT</pubDate>
+      <description>South Australian Dan Turner has completed a 16-month solo journey around the world, finishing second among 15 competitors in the Mini Globe Race. The remarkable achievement becomes even more impressive considering he built his 5.8-meter yacht, The Immortal Game, in his own garage. Turner navigated 28,000 nautical miles through storms with 70-knot winds, near-disasters including a snapped forestay, and profound homesickness. Yet he also discovered remote islands like the Marquesas and connected with local cultures. His wife Nikki tracked his progress from Adelaide, balancing fear with pride. The boat will sail again—Turner has sold it to another Australian competing in the 2029 race, ensuring its legacy continues.</description>
+      <source url="https://www.abc.net.au/news/2026-03-11/dan-turner-sails-around-world-mini-globe-race-homemade-boat/106432006">ABC Australia</source>
+    </item>
     <item>
       <title>Otago Peninsula officially declared possum free</title>
       <link>https://news.bias.com/go/2026-03-10-1922</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 06 Mar 2026 15:32:41 GMT</pubDate>
       <description>Following deadly floods and landslides in November 2025, the Indonesian government revoked forest permits for 28 companies, including pulpwood producer PT TPL. Now, 29 Indigenous communities are seeking to reclaim 37,219 hectares of customary land they lost decades ago when the company established eucalyptus plantations. Villagers like Sahala Pasaribu have begun replanting crops and hope to restore sacred forests, but uncertainty looms: officials say state-owned enterprises will manage the former concessions, leaving the legal status of customary lands unclear. Communities express concern about trading one conflict for another, while advocating for land rights recognition and reforestation after years of industrial use.</description>
       <source url="https://news.mongabay.com/2026/03/indonesian-communities-try-to-reclaim-lands-following-company-permit-revocations/">Mongabay</source>
-    </item>
-    <item>
-      <title>A century of care: Wildlife Trusts mark 100th birthday with woodland project</title>
-      <link>https://news.bias.com/go/2026-03-06-1330</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-1330</guid>
-      <pubDate>Fri, 06 Mar 2026 13:30:03 GMT</pubDate>
-      <description>Norfolk Wildlife Trust is celebrating its centenary by purchasing 336 acres of former farmland to restore an ancient woodland lost during World War II. Founded in 1925 when a Norwich doctor and twelve supporters bought marshland at Cley, it became the first of what are now 47 Wildlife Trusts across Britain. The Wood Norton project marks a shift in conservation strategy—from merely protecting rare habitats to actively restoring lost ones and rebuilding overall wildlife abundance. The site will benefit skylarks, deer, pollinators, and water quality in the River Wensum. While some critics worry about reducing food production, managers argue the grade-three farmland was heavily reliant on chemicals and will now provide crucial ecosystem services to neighboring farms.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/06/wildlife-trusts-mark-100th-birthday-with-woodland-project-norfolk">The Guardian</source>
     </item>
   </channel>
 </rss>
