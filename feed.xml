@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 09:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 11:40:49 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'If no one does anything, this place will become a dead land': the warning from a resident who returned to Fukushima, 15 years after the disaster</title>
+      <link>https://news.bias.com/go/2026-03-11-1140</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-11-1140</guid>
+      <pubDate>Wed, 11 Mar 2026 11:40:41 GMT</pubDate>
+      <description>Fifteen years after the Fukushima nuclear disaster, former resident Isuke Takakura has returned to Futaba, a coastal town that once held 7,200 people but now counts only 190 official residents—a 97% population loss. Walking through abandoned streets and overgrown lots, Takakura led efforts to rebuild the community's Shinto shrine, destroyed by the 2011 tsunami that triggered the nuclear accident. While the shrine offers symbolic hope, the question remains whether a community can truly be reconstructed after nearly everyone has left. The slow, uncertain recovery involves experimental projects and new industries as a handful of returnees grapple with what it means to revive a place that time seemed to forget.</description>
+      <source url="https://www.bbc.com/portuguese/articles/cgl53wze8kxo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Nearly 150,000 Amazon river turtles born in protected area, marking record in Roraima state</title>
       <link>https://news.bias.com/go/2026-03-11-0938</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 07 Mar 2026 05:47:38 GMT</pubDate>
       <description>Pascale Moehrle, who led Oceana's European office from 2019 to 2025, dedicated over four decades to ocean conservation and wildlife policy before her death in March 2026. She worked to close the gap between Europe's environmental commitments and actual outcomes, pressing governments to follow scientific advice on fisheries, end destructive practices like bottom trawling in protected areas, and enforce marine protections meaningfully. Moehrle argued that marine reserves shouldn't be mere "lines on a map" and emphasized the broader ecological impacts of fishing, including how seabed disturbance releases stored carbon. Her approach combined scientific research, legal action, and persistent advocacy to transform pledges into enforceable policy that could restore marine ecosystems.</description>
       <source url="https://news.mongabay.com/2026/03/pascale-moehrle-pressed-europe-to-take-its-seas-seriously/">Mongabay</source>
-    </item>
-    <item>
-      <title>Historic 143-year-old lighthouse shines again after decades in darkness</title>
-      <link>https://news.bias.com/go/2026-03-07-0345</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-07-0345</guid>
-      <pubDate>Sat, 07 Mar 2026 03:45:32 GMT</pubDate>
-      <description>After more than 30 years of darkness, Australia's first concrete lighthouse has been recommissioned on the New South Wales coast. Built in 1883, the Green Cape Lighthouse near Eden was decommissioned in the early 1990s and replaced by a temporary lattice tower. When that structure neared the end of its life, authorities chose to restore the original 29-meter tower rather than build anew. Specialists carefully refitted the historic lens and mercury pedestal to accommodate modern LED technology. The lighthouse now guides recreational sailors and commercial fishers alike, its four beams sweeping across the horizon every 30 seconds—a practical navigation aid and a cherished piece of maritime heritage brought back to life.</description>
-      <source url="https://www.abc.net.au/news/2026-03-07/green-cape-lighthouse-recommissioned-on-nsw-south-coast/106354308">ABC Australia</source>
     </item>
   </channel>
 </rss>
