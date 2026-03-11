@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 23:26:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 01:29:16 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘My lovely distraction’: Live stream of kākāpō – world’s fattest parrot – and her chicks captivates New Zealand</title>
+      <link>https://news.bias.com/go/2026-03-11-0129</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-11-0129</guid>
+      <pubDate>Wed, 11 Mar 2026 01:29:15 GMT</pubDate>
+      <description>Over 100,000 people worldwide have tuned in to watch a live stream of Rakiura, a kākāpō parrot, raising her chicks on a remote New Zealand island. The kākāpō—the world's fattest, only flightless and nocturnal parrot—once faced near extinction with just 51 birds remaining in 1995. A dedicated recovery program has since grown the population to 236. This breeding season, triggered by abundant native rimu berries, could be record-breaking, with 78 nests and 57 chicks hatched so far. Viewers from around the globe have found joy and wonder in watching the rare birds, describing the stream as a heartwarming distraction and a reminder that conservation efforts matter.</description>
+      <source url="https://www.theguardian.com/world/2026/mar/11/kakapo-cam-live-stream-parrot-new-zealand">The Guardian</source>
+    </item>
     <item>
       <title>How elephants experience time, and what this tells us about protecting them</title>
       <link>https://news.bias.com/go/2026-03-10-2326</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 06 Mar 2026 19:37:05 GMT</pubDate>
       <description>On 16 acres near Hastings, New Zealand, Jo and Aaron Duff have spent nearly two decades transforming bare paddocks into Kahikatea Farm, a thriving permaculture ecosystem. The farm features an established food forest, a certified organic nursery growing over 400 functional plant species, and sustainable silviculture practices. Each plant serves multiple purposes—from attracting pollinators to providing food or fixing nitrogen. Water-harvesting swales follow the land's contours, creating a green oasis amid golden summer farmland. Chickens and ducks provide natural pest control while offering daily moments of joy. The farm welcomes volunteers and students learning permaculture principles of earth care, fair share, and people care, demonstrating how working with nature can create abundance.</description>
       <source url="https://www.rnz.co.nz/news/country/588892/country-life-lessons-in-permaculture-at-kahikatea-farm">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Trio elétrico recognized as Intangible, Cultural and Historical Heritage of Salvador</title>
-      <link>https://news.bias.com/go/2026-03-06-1734</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-1734</guid>
-      <pubDate>Fri, 06 Mar 2026 17:34:53 GMT</pubDate>
-      <description>Salvador has officially recognized the trio elétrico as part of the city's intangible cultural and historical heritage. Created in the 1950s by musicians Dodô and Osmar Macedo, this mobile sound system transformed carnival celebrations in the Brazilian city. The trio elétrico—named for its original three musicians and amplified instruments—began as a simple open car with speakers and evolved into the large truck-mounted stages that now define Salvador's famous street carnival, drawing millions of revelers annually. The new designation ensures municipal protection for this beloved cultural tradition.</description>
-      <source url="https://g1.globo.com/ba/bahia/noticia/2026/03/06/trio-eletrico-e-reconhecido-como-patrimonio-imaterial-cultural-e-historico-de-salvador.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
