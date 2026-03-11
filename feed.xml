@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 07:36:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 09:38:36 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nearly 150,000 Amazon river turtles born in protected area, marking record in Roraima state</title>
+      <link>https://news.bias.com/go/2026-03-11-0938</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-11-0938</guid>
+      <pubDate>Wed, 11 Mar 2026 09:38:35 GMT</pubDate>
+      <description>In the remote beaches of Brazil's Roraima state, nearly 150,000 Amazon river turtle hatchlings are emerging this season—a record number for the region. The Amazonian Chelonian Project, a 35-year conservation effort by Brazil's environmental agency, monitors over 800 nests scattered across sandy river islands accessible only by hours-long boat journeys. Without human intervention, only 30–40% of hatchlings would survive the dash to water, falling prey to birds and other predators. The project also combats illegal trafficking. Once threatened with extinction due to hunting and egg poaching, these ancient reptiles—which can live a century and weigh up to 65 kilograms—are slowly recovering, thanks to collaboration with 16 riverside communities and local schools participating in release events.</description>
+      <source url="https://g1.globo.com/rr/roraima/noticia/2026/03/11/cerca-de-150-mil-tartarugas-da-amazonia-nascem-em-area-de-protecao-e-marcam-recorde-em-rr.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Inside the Australian hotel where Iranian footballers escaped to claim asylum</title>
       <link>https://news.bias.com/go/2026-03-11-0736</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 07 Mar 2026 03:45:32 GMT</pubDate>
       <description>After more than 30 years of darkness, Australia's first concrete lighthouse has been recommissioned on the New South Wales coast. Built in 1883, the Green Cape Lighthouse near Eden was decommissioned in the early 1990s and replaced by a temporary lattice tower. When that structure neared the end of its life, authorities chose to restore the original 29-meter tower rather than build anew. Specialists carefully refitted the historic lens and mercury pedestal to accommodate modern LED technology. The lighthouse now guides recreational sailors and commercial fishers alike, its four beams sweeping across the horizon every 30 seconds—a practical navigation aid and a cherished piece of maritime heritage brought back to life.</description>
       <source url="https://www.abc.net.au/news/2026-03-07/green-cape-lighthouse-recommissioned-on-nsw-south-coast/106354308">ABC Australia</source>
-    </item>
-    <item>
-      <title>Endangered buffy-tufted-ear marmoset recorded in conservation unit in Petrópolis</title>
-      <link>https://news.bias.com/go/2026-03-07-0143</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-07-0143</guid>
-      <pubDate>Sat, 07 Mar 2026 01:43:21 GMT</pubDate>
-      <description>A family of buffy-tufted-ear marmosets—an endangered species endemic to Brazil's Atlantic Forest—has been spotted in a conservation area in Petrópolis, in Rio de Janeiro's mountain region. Researchers identified three individuals during a February trail monitoring session. The tiny primates, recognizable by their white faces against dark fur, face threats from invasive marmoset species that compete for resources and can interbreed with them. These native marmosets play a vital role as seed dispersers in their mountain forest habitat. The nearly 8,000-hectare reserve was established in 2022 to protect Atlantic Forest biodiversity and strengthen ecological corridors in the region.</description>
-      <source url="https://g1.globo.com/rj/regiao-serrana/noticia/2026/03/06/sagui-caveirinha-ameacado-de-extincao-e-registrado-em-unidade-de-conservacao-em-petropolis.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
