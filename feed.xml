@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 21:52:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 23:54:06 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>King penguins surfing on the 'good edge' of climate change — for now</title>
+      <link>https://news.bias.com/go/2026-03-11-2354</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-11-2354</guid>
+      <pubDate>Wed, 11 Mar 2026 23:54:05 GMT</pubDate>
+      <description>King penguins on the Crozet Islands in the Southern Ocean are breeding 19 days earlier than they did two decades ago, with chick survival rates climbing from 44 percent to 62 percent. Researchers tracking over 17,000 penguins found that for each day breeding moved earlier, success rates increased by roughly one percent. The shift appears linked to improved food availability and favorable environmental conditions that allow adults to regain energy faster. While scientists call the adaptation remarkable, they caution that these penguins may be riding a temporary advantage. The findings offer a rare glimpse of climate resilience in action, though the long-term outlook remains uncertain.</description>
+      <source url="https://www.abc.net.au/news/science/2026-03-12/king-penguins-in-southern-ocean-resilient-to-climate-change/106436648">ABC Australia</source>
+    </item>
     <item>
       <title>Iguaçu Falls Park records record number of jaguar cubs; researchers warn not all may survive</title>
       <link>https://news.bias.com/go/2026-03-11-2151</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 07 Mar 2026 20:02:59 GMT</pubDate>
       <description>A shore plover chick has fledged on Pitt Island in the Chatham Islands for the first time in 150 years, marking a conservation milestone for this critically endangered bird. The species, known locally as tūturuatu or tchūriwat', was eliminated from Pitt Island and mainland New Zealand by feral cats in the 1870s. With only 250 birds remaining worldwide, the successful fledgling resulted from a community-led feral cat control programme initiated after COVID-19. Recovery coordinators hope sustained cat management—or ideally eradication—could double the global population to 500 birds, offering a promising glimpse of what dedicated local conservation efforts can achieve.</description>
       <source url="https://www.rnz.co.nz/news/national/588948/first-shore-plover-fledgling-born-on-pitt-island-in-150-years">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>The long (and fortunate) journey to photograph an eclipse on a glacier in Chile</title>
-      <link>https://news.bias.com/go/2026-03-07-1800</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-07-1800</guid>
-      <pubDate>Sat, 07 Mar 2026 18:00:48 GMT</pubDate>
-      <description>Photographer Liam Man embarked on a determined journey to capture a total solar eclipse over Chile's Leones Glacier, despite forecasts predicting complete cloud cover. After losing sponsorship due to the weather outlook, he self-funded the expedition with a team of ice climbers and local guides deeply connected to the glacier. The crew endured a grueling trek—five hours by road, ten hours hiking, and a boat journey—camping for seven days on the ice. On eclipse day, the skies miraculously cleared. For Man, witnessing the moon cover the sun for the first time offered a profound shift in perspective about our place in the universe, making the risky venture worthwhile.</description>
-      <source url="https://www.bbc.com/mundo/articles/cy8g1pp75gyo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
