@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 03:31:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 05:33:42 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Joy prevails at WOMADelaide 2026</title>
+      <link>https://news.bias.com/go/2026-03-11-0533</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-11-0533</guid>
+      <pubDate>Wed, 11 Mar 2026 05:33:40 GMT</pubDate>
+      <description>WOMADelaide 2026 brought together global artists in a celebration defined by joy amid challenging times. Australian performers Baker Boy and Barkaa delivered powerful sets blending personal storytelling with cultural pride, while 79-year-old Kimberley blues elder Kankawa Nagarra captivated audiences far from home. Legendary act Yothu Yindi proved their anthems remain timeless, and Grace Jones closed with an unforgettable hula-hoop finale. From Nigerian singer Obongjayar's psychedelic energy to Mississippi's Annie &amp; the Caldwells' gospel-funk sermon, artists from diverse traditions transformed global anxieties into shared celebration. The festival demonstrated music's unique power to build understanding across cultures and turn hardship into hope.</description>
+      <source url="https://www.abc.net.au/news/2026-03-11/womadelaide-festival-review-2026/106363674">ABC Australia</source>
+    </item>
     <item>
       <title>The Wild League aims to turn sports mascots into conservation champions</title>
       <link>https://news.bias.com/go/2026-03-11-0331</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 06 Mar 2026 23:41:12 GMT</pubDate>
       <description>The Australian Sliders, Australia's national powerchair hockey team, are preparing for the 2026 world championships in Finland with renewed energy. Kieran Watts, who discovered the sport by chance sixteen years ago, will represent his country for the third time. The modified hockey game uses motorized wheelchairs controlled by joysticks and welcomes players without manual chair mobility. Despite geographic challenges that limit training to a few interstate gatherings yearly, the revamped team has brought in experienced Dutch coaches and new players. With over $55,000 needed for travel and equipment, the underdogs are working to overcome funding gaps and raise awareness for their intense, competitive sport.</description>
       <source url="https://www.abc.net.au/news/2026-03-07/nsw-powerchair-hockey-australian-sliders-disability-competition/106294176">ABC Australia</source>
-    </item>
-    <item>
-      <title>Restoration of Brazil’s Atlantic Forest may hinge on market for native plants</title>
-      <link>https://news.bias.com/go/2026-03-06-2139</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-2139</guid>
-      <pubDate>Fri, 06 Mar 2026 21:39:10 GMT</pubDate>
-      <description>Brazil's Atlantic Forest, home to 5% of Earth's vertebrate species, has been reduced to less than a quarter of its original size. New research explores how native plants with economic potential could transform restoration efforts. Scientists found that nearly 60% of native species in recovering forest areas have bioeconomic value—their leaves, bark, and fruits can be harvested sustainably for medical, cosmetic, and industrial uses. This approach could provide income to landowners, Indigenous communities, and local residents while supporting forest recovery. With 75% of the biome privately owned, researchers hope demonstrating economic benefits alongside environmental restoration will encourage participation in reforestation projects across the region.</description>
-      <source url="https://news.mongabay.com/2026/03/restoration-of-brazils-atlantic-forest-may-hinge-on-market-for-native-plants/">Mongabay</source>
     </item>
   </channel>
 </rss>
