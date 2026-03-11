@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 13:42:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 15:45:10 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bell Homestead in Brantford, Ontario</title>
+      <link>https://news.bias.com/go/2026-03-11-1545</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-11-1545</guid>
+      <pubDate>Wed, 11 Mar 2026 15:45:08 GMT</pubDate>
+      <description>Alexander Graham Bell moved to a small farm in Brantford, Ontario in 1870, seeking relief from poor health. It was here, at his favorite spot overlooking the Grand River in 1874, that he conceived the idea for the telephone. Two years later, he made the world's first long-distance call between Brantford and Paris, Ontario. Today, the Bell Homestead is a National Historic Site where visitors can tour the family home and Canada's first telephone business office, relocated to the property. The city of Brantford celebrates this legacy as "The Telephone City," with monuments and historical sites honoring Bell's transformative invention.</description>
+      <source url="https://www.atlasobscura.com/places/bell-homestead">Atlas Obscura</source>
+    </item>
     <item>
       <title>How butterfly colors are being 'erased' in the Atlantic Forest; understand</title>
       <link>https://news.bias.com/go/2026-03-11-1342</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 07 Mar 2026 09:52:08 GMT</pubDate>
       <description>Rogerio Peres Cunha, a 64-year-old retired prison guard from Brazil, refused to let a multiple myeloma diagnosis define him. After enduring 48 chemotherapy sessions and a bone marrow transplant during the pandemic, he created an imaginary companion named "Maria Vitória" from medical equipment to lift his spirits during hospitalization. Now cancer-free, Rogerio volunteers with three cancer charities and brings joy to nursing home residents by performing as a tribute artist to Brazilian singer Sidney Magal, complete with costumes and curly wigs. The former athlete isn't slowing down—he's currently training to compete in an Ironman triathlon in 2027, embodying his conviction that he's stronger than the disease.</description>
       <source url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/07/policial-aposentado-que-venceu-cancer-leva-alegria-a-idosos-como-cover-de-sidney-magal-e-se-prepara-para-competicao-de-triatlo.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Hero teen reunited with rescuers who saved family swept out to sea</title>
-      <link>https://news.bias.com/go/2026-03-07-0749</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-07-0749</guid>
-      <pubDate>Sat, 07 Mar 2026 07:49:56 GMT</pubDate>
-      <description>Thirteen-year-old Austin Appelbee reunited with rescue crews who saved his family after they were swept 14 kilometers offshore in Western Australia. When rough swells separated them from shore during a kayaking trip, Austin swam four kilometers to land and ran another two to call for help. His mother Joanne and siblings Grace and Beau drifted for up to ten hours, clinging to tethered paddleboards while singing songs to stay hopeful. The family returned a month later to thank the marine rescue volunteers, police, and ambulance crews. Though called a hero, Austin deflected praise to the rescuers and his family. The siblings continue processing the physical and mental aftermath of their ordeal.</description>
-      <source url="https://www.abc.net.au/news/2026-03-07/appelbee-family-thanks-rescuers-who-saved-them/106425048">ABC Australia</source>
     </item>
   </channel>
 </rss>
