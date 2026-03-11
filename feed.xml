@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 05:33:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 07:36:16 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Inside the Australian hotel where Iranian footballers escaped to claim asylum</title>
+      <link>https://news.bias.com/go/2026-03-11-0736</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-11-0736</guid>
+      <pubDate>Wed, 11 Mar 2026 07:36:15 GMT</pubDate>
+      <description>Five Iranian women's football players sought asylum in Australia after their team was eliminated from the AFC Women's Asian Cup, with two more following shortly after. The escape unfolded at a Gold Coast hotel where BBC journalists observed players meeting casually with local Iranian community members before quietly departing. Concerns had grown after state TV called the team "traitors" for initially declining to sing the national anthem, though they sang it in later matches. Australian-based Iranian activists worked behind the scenes to help facilitate communication with the players, who were granted humanitarian visas within hours of their departure from the team hotel.</description>
+      <source url="https://www.bbc.com/news/articles/c15x1928n48o?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
+    </item>
     <item>
       <title>Joy prevails at WOMADelaide 2026</title>
       <link>https://news.bias.com/go/2026-03-11-0533</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 07 Mar 2026 01:43:21 GMT</pubDate>
       <description>A family of buffy-tufted-ear marmosets—an endangered species endemic to Brazil's Atlantic Forest—has been spotted in a conservation area in Petrópolis, in Rio de Janeiro's mountain region. Researchers identified three individuals during a February trail monitoring session. The tiny primates, recognizable by their white faces against dark fur, face threats from invasive marmoset species that compete for resources and can interbreed with them. These native marmosets play a vital role as seed dispersers in their mountain forest habitat. The nearly 8,000-hectare reserve was established in 2022 to protect Atlantic Forest biodiversity and strengthen ecological corridors in the region.</description>
       <source url="https://g1.globo.com/rj/regiao-serrana/noticia/2026/03/06/sagui-caveirinha-ameacado-de-extincao-e-registrado-em-unidade-de-conservacao-em-petropolis.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>The little-known team representing Australia in powerchair hockey</title>
-      <link>https://news.bias.com/go/2026-03-06-2341</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-06-2341</guid>
-      <pubDate>Fri, 06 Mar 2026 23:41:12 GMT</pubDate>
-      <description>The Australian Sliders, Australia's national powerchair hockey team, are preparing for the 2026 world championships in Finland with renewed energy. Kieran Watts, who discovered the sport by chance sixteen years ago, will represent his country for the third time. The modified hockey game uses motorized wheelchairs controlled by joysticks and welcomes players without manual chair mobility. Despite geographic challenges that limit training to a few interstate gatherings yearly, the revamped team has brought in experienced Dutch coaches and new players. With over $55,000 needed for travel and equipment, the underdogs are working to overcome funding gaps and raise awareness for their intense, competitive sport.</description>
-      <source url="https://www.abc.net.au/news/2026-03-07/nsw-powerchair-hockey-australian-sliders-disability-competition/106294176">ABC Australia</source>
     </item>
   </channel>
 </rss>
