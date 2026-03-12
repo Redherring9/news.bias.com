@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 03:58:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 06:01:05 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Where Duolingo falls down: how I learned to speak Welsh with my mother</title>
+      <link>https://news.bias.com/go/2026-03-12-0601</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-12-0601</guid>
+      <pubDate>Thu, 12 Mar 2026 06:01:02 GMT</pubDate>
+      <description>After hearing Welsh hymns at his grandmother's funeral and feeling outside the language despite being part of its heritage, a writer reflects on his journey to learn Welsh with his mother. Raised in England by a Welsh-speaking mother who left Wales in the 1960s, he grew up knowing only a handful of words like "Nain" (grandma). Though he felt protective when others dismissed Welsh as dying or difficult, he never questioned why he couldn't speak it himself. The funeral moment—being embedded in the chorus but outside the language—sparked a determination not to let his grandmother's first language slip away from the family.</description>
+      <source url="https://www.theguardian.com/uk-news/2026/mar/12/where-duolingo-falls-down-how-i-learned-to-speak-welsh-with-my-mother">The Guardian</source>
+    </item>
     <item>
       <title>Australian champion leading new era of women's motocross in the US</title>
       <link>https://news.bias.com/go/2026-03-12-0358</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 08 Mar 2026 02:09:36 GMT</pubDate>
       <description>A 150-year-old maritime mystery has been solved off Australia's Gippsland coast, where the iron steamer City of Hobart sank in 1877 while carrying coal from Newcastle to Melbourne. Divers had searched unsuccessfully for the wreck since 2008, coming within 47 meters without finding it. The breakthrough came when a renewable energy company surveying the seabed for an offshore wind farm detected the wreckage. Technical divers then confirmed the discovery in February 2025. Built in Glasgow in 1853, the ship represents a fascinating transitional period in maritime history—designed as a sailing vessel but constructed as a steamship. Its unique rear-rudder propeller design adds to its historical significance. The site is now protected under federal heritage laws.</description>
       <source url="https://www.abc.net.au/news/2026-03-08/city-of-hobart-shipwreck-found-off-gippsland-coast/106268896">ABC Australia</source>
-    </item>
-    <item>
-      <title>Free dance school run by 12yo champion pirouettes to success</title>
-      <link>https://news.bias.com/go/2026-03-08-0007</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-08-0007</guid>
-      <pubDate>Sun, 08 Mar 2026 00:07:20 GMT</pubDate>
-      <description>In Armidale, New South Wales, twelve-year-old dance champion Annabelle Arkit has created something remarkable: a free dance school for families who can't afford lessons. After competing internationally and placing second at the Dance World Cup at age ten, Annabelle recognized that many children miss out on dance due to cost. What began with three students has grown to over twenty, aged nine to nineteen. The weekly classes, run with her mother at a local church, require only modest costume fees for performances. Students describe how the program builds confidence and community, with Annabelle noting that for some foster children, dance provides vital consistency. Her school recently celebrated its first student reaching national competition level.</description>
-      <source url="https://www.abc.net.au/news/2026-03-08/free-dance-classes-in-armidale-run-by-12-year-old/106369818">ABC Australia</source>
     </item>
   </channel>
 </rss>
