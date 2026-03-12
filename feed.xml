@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 01:56:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 03:58:29 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Australian champion leading new era of women's motocross in the US</title>
+      <link>https://news.bias.com/go/2026-03-12-0358</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-12-0358</guid>
+      <pubDate>Thu, 12 Mar 2026 03:58:27 GMT</pubDate>
+      <description>Twenty-year-old Australian motocross rider Charli Cannon is pursuing a championship title in the United States as women's motocross enters a transformative period. The four-time Australian champion, who grew up racing dirt bikes with her younger brother on Queensland's Sunshine Coast, finished second in last year's US WMX Championship despite competing just days after finger surgery. This season marks a milestone for the sport: all six championship rounds will be televised for the first time, integrated into the SuperMotocross League alongside men's competition. Cannon hopes the increased visibility will inspire young girls to pursue motocross, a sport where professional opportunities for women have historically been limited.</description>
+      <source url="https://www.abc.net.au/news/2026-03-12/australian-charli-cannon-sets-sights-on-american-motocross-title/106414496">ABC Australia</source>
+    </item>
     <item>
       <title>Chopper rescues pair and dog from croc-inhabited floodwaters in Katherine</title>
       <link>https://news.bias.com/go/2026-03-12-0156</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 08 Mar 2026 00:07:20 GMT</pubDate>
       <description>In Armidale, New South Wales, twelve-year-old dance champion Annabelle Arkit has created something remarkable: a free dance school for families who can't afford lessons. After competing internationally and placing second at the Dance World Cup at age ten, Annabelle recognized that many children miss out on dance due to cost. What began with three students has grown to over twenty, aged nine to nineteen. The weekly classes, run with her mother at a local church, require only modest costume fees for performances. Students describe how the program builds confidence and community, with Annabelle noting that for some foster children, dance provides vital consistency. Her school recently celebrated its first student reaching national competition level.</description>
       <source url="https://www.abc.net.au/news/2026-03-08/free-dance-classes-in-armidale-run-by-12-year-old/106369818">ABC Australia</source>
-    </item>
-    <item>
-      <title>Unlikely team of volunteers beats the odds to reopen community pool</title>
-      <link>https://news.bias.com/go/2026-03-07-2205</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-07-2205</guid>
-      <pubDate>Sat, 07 Mar 2026 22:05:13 GMT</pubDate>
-      <description>In the small town of Glenthompson, Australia, a determined group of around 250 residents refused to let their community pool close without a fight. After the local council voted to decommission the facility in 2024, citing high costs and low usage, volunteers formed a committee and negotiated a creative solution. The council agreed to lease the pool for one dollar per year and provided funds for urgent repairs, while the community took on daily operations, fundraising, and maintenance. The pool has now reopened under this community-led model, offering hope to other struggling regional towns watching to see if grassroots management can succeed where traditional models have failed.</description>
-      <source url="https://www.abc.net.au/news/2026-03-08/glenthompson-keeps-town-pool-despite-council-closure-vote/106372106">ABC Australia</source>
     </item>
   </channel>
 </rss>
