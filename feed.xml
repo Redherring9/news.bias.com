@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 23:54:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 01:56:19 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chopper rescues pair and dog from croc-inhabited floodwaters in Katherine</title>
+      <link>https://news.bias.com/go/2026-03-12-0156</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-12-0156</guid>
+      <pubDate>Thu, 12 Mar 2026 01:56:18 GMT</pubDate>
+      <description>When a vehicle became stranded in crocodile-inhabited floodwaters near Katherine, Australia, a passing helicopter pilot and police officer conducted a dramatic rescue of two people and their German Shepherd. The dog proved especially challenging to extract after windows had to be smashed and the animal initially resisted boarding the helicopter. The rescue highlights ongoing flood dangers as Katherine recovers from its worst flooding in nearly three decades. Meanwhile, local volunteers have stepped up, using boats to ferry isolated residents across swollen rivers and delivering essential supplies—and the occasional beer—to those cut off by floodwaters for nearly a week.</description>
+      <source url="https://www.abc.net.au/news/2026-03-12/katherine-residents-flood-recovery-daly-river-flood-second-worst/106444032">ABC Australia</source>
+    </item>
     <item>
       <title>King penguins surfing on the 'good edge' of climate change — for now</title>
       <link>https://news.bias.com/go/2026-03-11-2354</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 07 Mar 2026 22:05:13 GMT</pubDate>
       <description>In the small town of Glenthompson, Australia, a determined group of around 250 residents refused to let their community pool close without a fight. After the local council voted to decommission the facility in 2024, citing high costs and low usage, volunteers formed a committee and negotiated a creative solution. The council agreed to lease the pool for one dollar per year and provided funds for urgent repairs, while the community took on daily operations, fundraising, and maintenance. The pool has now reopened under this community-led model, offering hope to other struggling regional towns watching to see if grassroots management can succeed where traditional models have failed.</description>
       <source url="https://www.abc.net.au/news/2026-03-08/glenthompson-keeps-town-pool-despite-council-closure-vote/106372106">ABC Australia</source>
-    </item>
-    <item>
-      <title>First shore plover fledgling born on Pitt Island in 150 years</title>
-      <link>https://news.bias.com/go/2026-03-07-2002</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-07-2002</guid>
-      <pubDate>Sat, 07 Mar 2026 20:02:59 GMT</pubDate>
-      <description>A shore plover chick has fledged on Pitt Island in the Chatham Islands for the first time in 150 years, marking a conservation milestone for this critically endangered bird. The species, known locally as tūturuatu or tchūriwat', was eliminated from Pitt Island and mainland New Zealand by feral cats in the 1870s. With only 250 birds remaining worldwide, the successful fledgling resulted from a community-led feral cat control programme initiated after COVID-19. Recovery coordinators hope sustained cat management—or ideally eradication—could double the global population to 500 birds, offering a promising glimpse of what dedicated local conservation efforts can achieve.</description>
-      <source url="https://www.rnz.co.nz/news/national/588948/first-shore-plover-fledgling-born-on-pitt-island-in-150-years">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
