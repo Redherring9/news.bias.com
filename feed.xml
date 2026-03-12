@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 20:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 22:19:19 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NASA targets April 1st for crewed Moon mission launch</title>
+      <link>https://news.bias.com/go/2026-03-12-2219</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-12-2219</guid>
+      <pubDate>Thu, 12 Mar 2026 22:19:18 GMT</pubDate>
+      <description>NASA has announced plans to launch Artemis II on April 1st, marking humanity's first crewed journey around the Moon in over fifty years. The ten-day mission will carry four astronauts—Reid Wiseman, Christina Koch, Victor Glover, and Canadian Jeremy Hansen—aboard the new Space Launch System rocket and Orion capsule. The spacecraft will travel farther from Earth than any previous crewed mission. Recent technical challenges, including a helium flow blockage, have been resolved through repairs and system upgrades. This mission represents a crucial step in the Artemis program's goal to return astronauts to the lunar surface later this decade, following the last human Moon visit during Apollo 17 in 1972.</description>
+      <source url="https://g1.globo.com/ciencia/noticia/2026/03/12/nasa-1o-de-abril-missao-tripulada-a-lua.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Swim rescue hero Austin Appelbee honoured by Irish president</title>
       <link>https://news.bias.com/go/2026-03-12-2017</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 08 Mar 2026 18:27:51 GMT</pubDate>
       <description>Nine centuries ago, Urraca I of León and Galicia became the first woman to rule a European kingdom in her own right—not as a queen consort. Born in 1080, she was her father's eldest child but initially passed over for her half-brother Sancho. When he died in battle in 1108, King Alfonso VI named Urraca his heir, though nobles insisted she remarry. She ascended the throne and held the title "Empress of All Hispania," governing for nearly 17 years amid constant challenges to her authority. Historians note that while medieval law permitted female succession, her reign was exceptional, and many details of women's roles in this era were omitted from historical records.</description>
       <source url="https://www.bbc.com/portuguese/articles/cdxzjdk287ro?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
-    </item>
-    <item>
-      <title>Matriarch and activist of the samba family, Tia Ciata has long deserved to be the theme of a Rio de Janeiro Carnival samba school</title>
-      <link>https://news.bias.com/go/2026-03-08-1625</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-08-1625</guid>
-      <pubDate>Sun, 08 Mar 2026 16:25:25 GMT</pubDate>
-      <description>Tia Ciata, born Hilária Batista de Almeida in 1854, will finally be honored as the theme of Rio's Paraíso do Tuiuti samba school parade in 2027—over a century after her death. A spiritual leader, cook, and matriarch who migrated from Bahia to Rio in 1876, she opened her legendary home in Praça Onze to sambistas at a time when playing samba was criminalized. There, in what became known as Little Africa, she nurtured the genre's early development through gatherings and mentorship. Though male musicians dominate official histories, Ciata's pioneering activism and cultural leadership were essential to samba's birth, making this long-overdue recognition a meaningful acknowledgment of women's contributions to Brazilian musical heritage.</description>
-      <source url="https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/03/08/matriarca-ativista-da-familia-do-samba-tia-ciata-ha-muito-merecia-ser-enredo-de-escola-do-carnaval-do-rio-de-janeiro.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
