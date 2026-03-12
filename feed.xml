@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 14:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 16:12:29 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>St Aiden’s Church and Crypt  in Bamburgh, England</title>
+      <link>https://news.bias.com/go/2026-03-12-1612</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-12-1612</guid>
+      <pubDate>Thu, 12 Mar 2026 16:12:27 GMT</pubDate>
+      <description>St Aiden's Church in Bamburgh stands on foundations dating to the 7th century, when Saint Aiden built a timber church at the request of King Oswold of Northumbria. The current stone structure, begun in the 12th century, houses remarkable features including an original "squint" window that allowed common people to view the holy chancel. The church honors local heroes through memorials and stained glass, including Grace Darling, who famously rescued shipwrecked sailors from the North Sea, and the philanthropic Sharpe family who transformed Bamburgh Castle into a community center. Below, a crypt contains the remains of hundreds of Saxon Christians, reinterred in 2016 after their seaside cemetery was disturbed by an 1817 storm.</description>
+      <source url="https://www.atlasobscura.com/places/st-aidens-church-and-crypt">Atlas Obscura</source>
+    </item>
     <item>
       <title>‘The Tibetan Book of the Dead’ is actually not just about death</title>
       <link>https://news.bias.com/go/2026-03-12-1410</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 08 Mar 2026 12:20:55 GMT</pubDate>
       <description>Kitty O'Neil, born deaf after a severe infant illness, became a legendary Hollywood stuntwoman in the 1970s who shattered the women's land speed record in a desert run that captured global attention. Her mother taught her to speak by having her feel vocal vibrations, enabling O'Neil to even recognize music through touch. After a promising diving career was cut short by injury, she channeled her fearless spirit into skydiving, water skiing, and motorcycle racing. Known for her extraordinary courage—once nearly losing a finger in a crash yet wanting to continue—she became one of the first women to join the elite stunt group Stunts Unlimited, breaking barriers for women and deaf performers alike.</description>
       <source url="https://www.bbc.com/mundo/articles/c5y0dey6zdeo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>Indigenous woman from Amazonas becomes first female doctor of Baniwa ethnicity to care for her own community: 'I returned to help my people'</title>
-      <link>https://news.bias.com/go/2026-03-08-1018</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-08-1018</guid>
-      <pubDate>Sun, 08 Mar 2026 10:18:41 GMT</pubDate>
-      <description>Ilzinei da Silva has become the first Baniwa woman to graduate as a medical doctor, returning to serve her indigenous community in the Amazon. Inspired at age eight by military doctors, she overcame significant barriers—including late literacy and her parents' lack of formal education—to complete medical school in 2020 during the pandemic. Now working at an Indigenous Health Support House and military hospital in São Gabriel da Cachoeira, she provides care in the Baniwa language, bridging cultural understanding with medical expertise. She dreams of specializing in gynecology to offer compassionate prenatal and birthing care to women in remote areas, and hopes to inspire other indigenous youth to pursue education as a path to strengthening their communities.</description>
-      <source url="https://g1.globo.com/am/amazonas/noticia/2026/03/08/indigena-do-am-se-torna-primeira-mulher-medica-da-etnia-baniwa-para-cuidar-da-propria-comunidade-voltei-para-ajudar-a-minha-gente.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
