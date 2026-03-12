@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 06:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 08:03:36 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The researcher who transformed decades of laboratory work into Brazil's first 100% homegrown dengue vaccine</title>
+      <link>https://news.bias.com/go/2026-03-12-0803</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-12-0803</guid>
+      <pubDate>Thu, 12 Mar 2026 08:03:35 GMT</pubDate>
+      <description>After decades of quiet laboratory work, Brazilian researcher Neuza Frazzati has developed the world's first single-dose dengue vaccine. Working at the Butantan Institute since the 1980s, Frazzati built her career creating vaccines, including a groundbreaking rabies vaccine that eliminated the need to sacrifice animals. Her dengue vaccine shows approximately 75% efficacy against the disease and over 90% against severe cases and hospitalizations. With more than 18,000 dengue deaths in Brazil since 2000 and 25 million cases, this fully Brazilian-developed vaccine represents a major breakthrough for a disease long considered neglected in tropical regions. Distribution has begun, with plans to reach people aged 15–59 by mid-year.</description>
+      <source url="https://g1.globo.com/saude/noticia/2026/03/12/a-pesquisadora-que-transformou-decadas-de-laboratorio-na-primeira-vacina-100percent-brasileira-contra-a-dengue.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Where Duolingo falls down: how I learned to speak Welsh with my mother</title>
       <link>https://news.bias.com/go/2026-03-12-0601</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 08 Mar 2026 04:11:36 GMT</pubDate>
       <description>Scientists exploring the deep waters around Britain's Caribbean territories have discovered an underwater world that had remained largely unknown. During a six-week expedition around the Cayman Islands, Anguilla, and Turks and Caicos, researchers diving as deep as 6,000 meters documented nearly 14,000 specimens and 290 marine species. Their findings include bioluminescent creatures like pelican eels with glowing tails, previously unmapped underwater mountains, and remarkably healthy coral reefs seemingly untouched by the disease and warming that have damaged much of the Caribbean's shallow-water corals. The expedition revealed that 146 species exist only in these territories, with many more likely to be added. Researchers emphasize the urgency of protecting these pristine environments.</description>
       <source url="https://www.bbc.com/news/articles/cgmllk32g72o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Offshore wind farm survey solves 150yo coal supply-ship mystery</title>
-      <link>https://news.bias.com/go/2026-03-08-0209</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-08-0209</guid>
-      <pubDate>Sun, 08 Mar 2026 02:09:36 GMT</pubDate>
-      <description>A 150-year-old maritime mystery has been solved off Australia's Gippsland coast, where the iron steamer City of Hobart sank in 1877 while carrying coal from Newcastle to Melbourne. Divers had searched unsuccessfully for the wreck since 2008, coming within 47 meters without finding it. The breakthrough came when a renewable energy company surveying the seabed for an offshore wind farm detected the wreckage. Technical divers then confirmed the discovery in February 2025. Built in Glasgow in 1853, the ship represents a fascinating transitional period in maritime history—designed as a sailing vessel but constructed as a steamship. Its unique rear-rudder propeller design adds to its historical significance. The site is now protected under federal heritage laws.</description>
-      <source url="https://www.abc.net.au/news/2026-03-08/city-of-hobart-shipwreck-found-off-gippsland-coast/106268896">ABC Australia</source>
     </item>
   </channel>
 </rss>
