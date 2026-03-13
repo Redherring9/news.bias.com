@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 06:28:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 08:31:07 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mining’s toxic timebomb: dams full of poisonous waste are dotted around the world. What happens when they burst?</title>
+      <link>https://news.bias.com/go/2026-03-13-0831</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-0831</guid>
+      <pubDate>Fri, 13 Mar 2026 08:31:06 GMT</pubDate>
+      <description>When a tailings dam collapsed at a Chinese-owned copper mine in Zambia's Kafue River basin in February 2025, it released over 50 million cubic litres of acid and heavy metals into the waterway. The disaster killed thousands of fish, crocodiles, and other wildlife, cut drinking water for half a million people, and devastated farmland. Researchers have identified at least 108 such dams—repositories of toxic mining waste—in key biodiversity areas worldwide, though the true number is likely higher. Climate change is increasing risks as extreme weather destabilizes these structures. The Zambian spill joins a grim list including Brazil's deadly Brumadinho and Mariana disasters, with toxic effects that can persist for decades.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/13/minings-toxic-timebomb-dams-full-of-poisonous-waste-are-dotted-around-the-world-what-happens-when-they-burst-aoe">The Guardian</source>
+    </item>
     <item>
       <title>Country diary: Frogspawn returns to the pond I built with my father | Claire Stares</title>
       <link>https://news.bias.com/go/2026-03-13-0628</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 09 Mar 2026 04:39:01 GMT</pubDate>
       <description>Brazilian actor Jackson Antunes has spent decades managing health challenges with quiet determination and humor. After suffering thromboses in the 1990s, he discovered he had only one kidney—a revelation he initially took lightly. Years later, chronic kidney disease progressed, and by 2024 he was balancing television work with regular dialysis sessions. When doctors recommended a transplant, his wife Cris of 33 years tested as a match and donated her kidney. The couple now celebrates recovery together, their story highlighting both the power of love and Brazil's broader transplant needs: 42,000 people await kidney donations, while an estimated 20 million Brazilians live with undiagnosed kidney disease.</description>
       <source url="https://g1.globo.com/fantastico/noticia/2026/03/08/apos-anos-de-problemas-renais-jackson-antunes-recebe-rim-da-esposa-e-comemora-recuperacao.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Bitter times for cocoa farmers as chocolate market slumps</title>
-      <link>https://news.bias.com/go/2026-03-09-0236</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-0236</guid>
-      <pubDate>Mon, 09 Mar 2026 02:36:49 GMT</pubDate>
-      <description>West African cocoa farmers face a painful paradox: while chocolate prices soared for consumers, a subsequent crash in global cocoa prices has left hundreds of thousands of growers unpaid for months. Ghana and Ivory Coast, which produce much of the world's cocoa, set prices a year ahead—but when markets dropped due to abundant harvests and reduced demand, their beans became too expensive to sell internationally. One Ghanaian farmer lost her husband when she couldn't afford medical care, her cocoa payments frozen. Ghana's Cocoa Board now carries $3 billion in debt, and while it's lowering guaranteed prices, farmers say costs for labor and supplies haven't fallen. The crisis ripples through remote jungle villages already lacking basic infrastructure, threatening livelihoods across the region.</description>
-      <source url="https://www.bbc.com/news/articles/c93jdk1yy3zo?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
     </item>
   </channel>
 </rss>
