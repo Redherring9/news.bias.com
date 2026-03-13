@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 18:42:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 20:44:53 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How a cold country manages to produce some of the world's best wines</title>
+      <link>https://news.bias.com/go/2026-03-13-2044</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-2044</guid>
+      <pubDate>Fri, 13 Mar 2026 20:44:52 GMT</pubDate>
+      <description>Germany has quietly become a world-class wine producer, specializing in Riesling, a white wine that accounts for 40% of its national production. Despite a colder climate and less sunlight than typical wine regions, German vineyards thrive thanks to slow-ripening grapes that mature during sunny autumns. The country cultivates over 100 grape varieties across 103,000 hectares, with Riesling particularly well-suited to heat-retaining soils along steep slopes like those in the Rhine valley. These wines are known for their bright acidity, mineral notes, and surprising aromas ranging from green apple and peach to honeycomb and even petroleum in aged bottles—a prized characteristic among enthusiasts.</description>
+      <source url="https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/03/13/como-um-pais-frio-consegue-produzir-um-dos-melhores-vinhos-do-mundo.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Environmental education project mobilizes students and distributes nearly 700 seedlings in Piauí</title>
       <link>https://news.bias.com/go/2026-03-13-1842</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 09 Mar 2026 16:52:19 GMT</pubDate>
       <description>Common toads, charming amphibians with copper eyes and pest-eating habits, have declined by 41% in the UK since 1985. Road mortality during their dramatic spring migration—when hundreds of thousands journey to ancestral ponds—is a major threat, along with lost habitat, pollution, declining invertebrate prey, and climate impacts. Volunteers can join toad patrols to help these creatures cross roads safely during wet spring evenings. One patrol in Bath has reduced toad casualties from 60% to 3% and saved 50,000 toads over two decades. These citizen scientists gather valuable data while protecting wildlife, finding fulfillment in collective conservation efforts that give toads a fighting chance.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/09/help-a-toad-across-the-road-and-five-more-ways-to-save-these-endangered-amphibians">The Guardian</source>
-    </item>
-    <item>
-      <title>What does the appendix do? Biologists explain the complicated evolution of this inconvenient organ</title>
-      <link>https://news.bias.com/go/2026-03-09-1450</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-1450</guid>
-      <pubDate>Mon, 09 Mar 2026 14:50:14 GMT</pubDate>
-      <description>Long dismissed as a useless evolutionary leftover since Darwin's time, the appendix turns out to be far more fascinating. New research reveals it evolved independently at least 32 times across mammalian species—a pattern suggesting genuine survival advantages. The small pouch supports immune system development, especially during childhood, by helping the body distinguish friendly gut bacteria from harmful pathogens. Scientists also propose it serves as a microbial refuge, sheltering beneficial bacteria during severe infections so they can repopulate the intestines afterward. This convergent evolution across marsupials, primates, and rodents indicates the appendix isn't an accident—it's an organ evolution kept reinventing under different ecological conditions.</description>
-      <source url="https://theconversation.com/what-does-the-appendix-do-biologists-explain-the-complicated-evolution-of-this-inconvenient-organ-277012">The Conversation</source>
     </item>
   </channel>
 </rss>
