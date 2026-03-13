@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 12:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 14:37:56 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>France returns sacred 'talking drum' looted during colonial rule to Ivory Coast</title>
+      <link>https://news.bias.com/go/2026-03-13-1437</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-1437</guid>
+      <pubDate>Fri, 13 Mar 2026 14:37:55 GMT</pubDate>
+      <description>A sacred talking drum taken from Ivory Coast during French colonial rule has returned home after more than a century. The Djidji Ayôkwé, a three-meter carved wooden drum weighing 430 kilograms, was seized in 1916 and displayed in Paris museums for decades. Members of the Ebrié community welcomed it at Abidjan's airport with traditional dancers and local chiefs. Historically used to warn of danger and summon villages to ceremonies, the drum represents a central piece of cultural heritage. Its return marks the first of 148 objects Ivory Coast seeks from France, part of a broader French effort to repatriate African artifacts that began in 2017.</description>
+      <source url="https://www.bbc.com/news/articles/cvg3yv2e9p1o?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
+    </item>
     <item>
       <title>Firefighters rescue burrowing owlet trapped in supermarket storm drain in MG; VIDEO</title>
       <link>https://news.bias.com/go/2026-03-13-1235</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 09 Mar 2026 10:45:31 GMT</pubDate>
       <description>Romania has transformed its recycling landscape with a remarkably successful deposit return scheme launched in 2023. Consumers pay a small deposit on bottles and cans, then reclaim their money at reverse vending machines in stores. The results have been striking: over 8 billion containers collected, with 90% of Romanians participating at least once. The not-for-profit system ensures full traceability, with collected materials sorted and sold to recyclers who provide certificates proving proper processing. While beverage containers represent only 5% of Romania's waste, neighboring countries are watching closely, and the UK plans to launch its own scheme next year.</description>
       <source url="https://www.positive.news/economics/romanias-recycling-revolution-lifts-off/">Positive News</source>
-    </item>
-    <item>
-      <title>Starwatch: patience is needed to observe Cancer’s beehive cluster</title>
-      <link>https://news.bias.com/go/2026-03-09-0843</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-0843</guid>
-      <pubDate>Mon, 09 Mar 2026 08:43:21 GMT</pubDate>
-      <description>Cancer, the crab constellation, currently rides high in the southern evening sky, offering stargazers a chance to spot M44, the beehive cluster. Though Cancer lacks bright stars, this ancient star cluster—spanning roughly three times the width of a full moon—rewards patient observers. To find it, locate Cancer between Gemini and Leo, then look to the constellation's center. The cluster appears as a faint patch of light visible to the naked eye under dark skies, preferably away from city lights after allowing about twenty minutes for eyes to adjust. From the southern hemisphere, Cancer sits lower in the northwestern sky.</description>
-      <source url="https://www.theguardian.com/science/2026/mar/09/starwatch-patience-is-needed-to-observe-cancer-beehive-cluster">The Guardian</source>
     </item>
   </channel>
 </rss>
