@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 02:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 04:25:50 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ancestral remains returned to Country after a century in a British museum</title>
+      <link>https://news.bias.com/go/2026-03-13-0425</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-0425</guid>
+      <pubDate>Fri, 13 Mar 2026 04:25:49 GMT</pubDate>
+      <description>After nearly 130 years in England, the remains of an Aboriginal man known as 'Uncle' have been returned to Country and reburied near Berowra Creek, north of Sydney. Taken from his grave in the late 1890s and held at Oxford's Pitt Rivers Museum, Uncle was laid to rest with a ceremony of clapsticks and smoke conducted by Indigenous elders. His name and personal history remain unknown. The repatriation followed a 2017 request by eight Aboriginal and Torres Strait Islander communities and the Australian government. The museum acknowledged the 'problematic history' of acquiring ancestral remains. Community leaders estimate hundreds more ancestors in Sydney and thousands across museums worldwide still await return to Country.</description>
+      <source url="https://www.abc.net.au/news/2026-03-13/nsw-ancestor-remains-uncle-returned-county-from-england/106440590">ABC Australia</source>
+    </item>
     <item>
       <title>CAT scans yes, cats, no: Popular moggies not permitted at Taranaki Base Hospital</title>
       <link>https://news.bias.com/go/2026-03-13-0223</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 09 Mar 2026 00:34:26 GMT</pubDate>
       <description>Paula Miles and Karen Barnett are living with incurable metastatic cancer, navigating what oncologist Dr. David Okonji describes as a challenging middle ground—neither cancer-free nor immediately dying. Miles, five years past her initial prognosis, finds joy in her Golden Bay garden, bare feet on dewy grass, and the song of native birds. Barnett, who has outlived her timeline by six months, pursues adventures with growing defiance. Okonji observes that many in their situation struggle with "the guilt of living," a paralysis that can steal life's joy. Both women exemplify his hope: learning to live moment to moment, discovering calm and delight amid uncertainty, and finding meaning in the time they have.</description>
       <source url="https://www.rnz.co.nz/life/people/what-it-s-like-living-with-cancer-rather-than-dying-from-cancer">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>'Amazing' generosity helps bushfire survivors back on their feet</title>
-      <link>https://news.bias.com/go/2026-03-08-2232</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-08-2232</guid>
-      <pubDate>Sun, 08 Mar 2026 22:32:20 GMT</pubDate>
-      <description>When a bushfire swept through Koolewong on Australia's Central Coast in December, renters Paula Jones and Ringo Hansen lost everything in minutes—too fast to save documents or belongings beyond their dog. With no insurance and minimal savings, the couple feared homelessness. But their community stepped in with remarkable generosity: friends traveled hours to buy clothes, strangers donated appliances, and fundraising efforts helped them secure and furnish a new rental. The couple, who moved from the US nine years ago, found the support overwhelming and distinctly Australian. As renters rather than owners, their path forward looked different—no land to rebuild on, just the need to quickly find shelter and begin again.</description>
-      <source url="https://www.abc.net.au/news/2026-03-09/koolewong-bushfire-survivors-find-housing/106420124">ABC Australia</source>
     </item>
   </channel>
 </rss>
