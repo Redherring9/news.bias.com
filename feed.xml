@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 04:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 06:28:34 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Country diary: Frogspawn returns to the pond I built with my father | Claire Stares</title>
+      <link>https://news.bias.com/go/2026-03-13-0628</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-0628</guid>
+      <pubDate>Fri, 13 Mar 2026 06:28:32 GMT</pubDate>
+      <description>A gardener celebrates the return of frogspawn to a pond she built with her father nearly three decades ago. For years, the pond hosted thriving frog populations each spring, but smooth newts gradually took over as dominant predators, consuming tadpoles and other pond life. The frog breeding ceased for over a decade while newt numbers surged. Now, in a natural cycle of boom and bust, newt populations have dwindled and frogs are cautiously returning. The writer observes developing embryos with quiet hope, wondering if they'll complete their transformation over the coming months—a small but meaningful sign of ecological balance shifting once again.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/13/country-diary-frogspawn-returns-to-the-pond-i-built-with-my-father">The Guardian</source>
+    </item>
     <item>
       <title>Ancestral remains returned to Country after a century in a British museum</title>
       <link>https://news.bias.com/go/2026-03-13-0425</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 09 Mar 2026 02:36:49 GMT</pubDate>
       <description>West African cocoa farmers face a painful paradox: while chocolate prices soared for consumers, a subsequent crash in global cocoa prices has left hundreds of thousands of growers unpaid for months. Ghana and Ivory Coast, which produce much of the world's cocoa, set prices a year ahead—but when markets dropped due to abundant harvests and reduced demand, their beans became too expensive to sell internationally. One Ghanaian farmer lost her husband when she couldn't afford medical care, her cocoa payments frozen. Ghana's Cocoa Board now carries $3 billion in debt, and while it's lowering guaranteed prices, farmers say costs for labor and supplies haven't fallen. The crisis ripples through remote jungle villages already lacking basic infrastructure, threatening livelihoods across the region.</description>
       <source url="https://www.bbc.com/news/articles/c93jdk1yy3zo?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
-    </item>
-    <item>
-      <title>What it's like living with cancer, rather than dying from it</title>
-      <link>https://news.bias.com/go/2026-03-09-0034</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-0034</guid>
-      <pubDate>Mon, 09 Mar 2026 00:34:26 GMT</pubDate>
-      <description>Paula Miles and Karen Barnett are living with incurable metastatic cancer, navigating what oncologist Dr. David Okonji describes as a challenging middle ground—neither cancer-free nor immediately dying. Miles, five years past her initial prognosis, finds joy in her Golden Bay garden, bare feet on dewy grass, and the song of native birds. Barnett, who has outlived her timeline by six months, pursues adventures with growing defiance. Okonji observes that many in their situation struggle with "the guilt of living," a paralysis that can steal life's joy. Both women exemplify his hope: learning to live moment to moment, discovering calm and delight amid uncertainty, and finding meaning in the time they have.</description>
-      <source url="https://www.rnz.co.nz/life/people/what-it-s-like-living-with-cancer-rather-than-dying-from-cancer">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
