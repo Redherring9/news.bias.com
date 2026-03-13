@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 16:40:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 18:42:39 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Environmental education project mobilizes students and distributes nearly 700 seedlings in Piauí</title>
+      <link>https://news.bias.com/go/2026-03-13-1842</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-1842</guid>
+      <pubDate>Fri, 13 Mar 2026 18:42:37 GMT</pubDate>
+      <description>A environmental education project in Brazil's Piauí state brought hands-on learning to hundreds of students across the northern region. Over 600 students and 100 staff members participated in planting nearly 700 fruit tree saplings at schools coordinated by the state's environmental agency. The initiative combined educational workshops with direct planting activities, aiming to foster environmental awareness through tangible connection with nature. Officials emphasize that watching the plants grow helps students understand their role in building a sustainable future. The program visited multiple municipalities, turning schools into spaces for environmental formation and community engagement with the land.</description>
+      <source url="https://g1.globo.com/pi/piaui/especial-publicitario/governo-do-piaui-aqui-tem-trabalho-aqui-tem-futuro/noticia/2026/03/13/projeto-de-educacao-ambiental-mobiliza-alunos-e-distribui-quase-700-mudas-no-piaui.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Oarfish in Mexico: the science behind the legend of the animal that 'predicts' tragedies</title>
       <link>https://news.bias.com/go/2026-03-13-1640</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 09 Mar 2026 14:50:14 GMT</pubDate>
       <description>Long dismissed as a useless evolutionary leftover since Darwin's time, the appendix turns out to be far more fascinating. New research reveals it evolved independently at least 32 times across mammalian species—a pattern suggesting genuine survival advantages. The small pouch supports immune system development, especially during childhood, by helping the body distinguish friendly gut bacteria from harmful pathogens. Scientists also propose it serves as a microbial refuge, sheltering beneficial bacteria during severe infections so they can repopulate the intestines afterward. This convergent evolution across marsupials, primates, and rodents indicates the appendix isn't an accident—it's an organ evolution kept reinventing under different ecological conditions.</description>
       <source url="https://theconversation.com/what-does-the-appendix-do-biologists-explain-the-complicated-evolution-of-this-inconvenient-organ-277012">The Conversation</source>
-    </item>
-    <item>
-      <title>Large tortoiseshell butterfly confirmed no longer extinct in UK</title>
-      <link>https://news.bias.com/go/2026-03-09-1247</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-1247</guid>
-      <pubDate>Mon, 09 Mar 2026 12:47:48 GMT</pubDate>
-      <description>The large tortoiseshell butterfly has been confirmed as a resident UK species again after becoming extinct in Britain by the 1960s. Recent sightings across southern England, from Kent to Cornwall, show the insect emerging from hibernation in woodlands, bringing Britain's native butterfly count to 60. Unlike its garden-dwelling cousin, this tree-dwelling butterfly feeds on elm, willow, and other trees as a caterpillar. Scientists believe warming temperatures and growing populations in the Netherlands and France have helped the species migrate back across the Channel. Wild caterpillars discovered since 2020 confirm successful breeding, though experts remain cautiously optimistic about the butterfly's long-term establishment in British landscapes.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/09/large-tortoiseshell-butterfly-no-longer-extinct-uk">The Guardian</source>
     </item>
   </channel>
 </rss>
