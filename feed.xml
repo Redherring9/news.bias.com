@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 20:44:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 22:47:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Country Life: Pick and be merry - harvest time under a big sky</title>
+      <link>https://news.bias.com/go/2026-03-13-2247</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-2247</guid>
+      <pubDate>Fri, 13 Mar 2026 22:47:16 GMT</pubDate>
+      <description>At Big Sky Wines in New Zealand's Te Muna Valley, harvest season brings together a community of friends and neighbors who help pick grapes by hand. Husband-and-wife team Kath Jacobs and Jeremy Corban have run their certified organic vineyard for 21 years, producing around 20,000 liters annually—a classic small, family-run operation. Their early March harvest for sparkling wine is celebrated with shared labor, careful handpicking, and a communal lunch. Long-time volunteer Kate Smith has joined nearly every harvest since 2005, drawn by the camaraderie and connection. The couple values the "human factor" of hand-harvesting, ensuring quality over quantity, while the day embodies what Corban calls the business's true heart: conviviality.</description>
+      <source url="https://www.rnz.co.nz/news/country/589565/country-life-pick-and-be-merry-harvest-time-under-a-big-sky">Radio New Zealand</source>
+    </item>
     <item>
       <title>How a cold country manages to produce some of the world's best wines</title>
       <link>https://news.bias.com/go/2026-03-13-2044</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 09 Mar 2026 18:54:36 GMT</pubDate>
       <description>A universal flu vaccine that could protect against all strains of influenza—past, present, and future—is entering human trials in Australia. Unlike current flu vaccines, which must be updated annually as viruses evolve, Centiflu 01 targets parts of the flu virus that remain constant across thousands of years. Dr. Jacob Glanville, the immunoengineer leading the trials, reports that animal studies showed stronger immune responses than commercial vaccines, which are typically 10-60 percent effective. The vaccine demonstrated protection against viruses 15 years after initial testing. Phase one will involve roughly 300 volunteers across both hemispheres, with subsequent phases planned for 2026 and 2028.</description>
       <source url="https://www.rnz.co.nz/news/world/589103/human-trials-about-to-take-place-on-universal-flu-vaccine">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Help a toad across the road – and five more ways to save these endangered amphibians</title>
-      <link>https://news.bias.com/go/2026-03-09-1652</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-1652</guid>
-      <pubDate>Mon, 09 Mar 2026 16:52:19 GMT</pubDate>
-      <description>Common toads, charming amphibians with copper eyes and pest-eating habits, have declined by 41% in the UK since 1985. Road mortality during their dramatic spring migration—when hundreds of thousands journey to ancestral ponds—is a major threat, along with lost habitat, pollution, declining invertebrate prey, and climate impacts. Volunteers can join toad patrols to help these creatures cross roads safely during wet spring evenings. One patrol in Bath has reduced toad casualties from 60% to 3% and saved 50,000 toads over two decades. These citizen scientists gather valuable data while protecting wildlife, finding fulfillment in collective conservation efforts that give toads a fighting chance.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/09/help-a-toad-across-the-road-and-five-more-ways-to-save-these-endangered-amphibians">The Guardian</source>
     </item>
   </channel>
 </rss>
