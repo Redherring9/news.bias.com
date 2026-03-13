@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 14:37:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 16:40:26 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Oarfish in Mexico: the science behind the legend of the animal that 'predicts' tragedies</title>
+      <link>https://news.bias.com/go/2026-03-13-1640</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-1640</guid>
+      <pubDate>Fri, 13 Mar 2026 16:40:25 GMT</pubDate>
+      <description>Two rare oarfish recently washed ashore in Cabo San Lucas, Mexico, reigniting ancient beliefs that these deep-sea creatures predict earthquakes and tsunamis. Scientists are debunking the myth with data. Researchers analyzed 336 oarfish sightings in Japan against major earthquakes and found no statistical correlation—calling it an "illusory connection." The real explanation lies in ocean upwelling currents that rapidly bring deep water to the surface. These silvery giants, the longest bony fish on Earth, live 200–1,000 meters deep with soft, cotton-like muscles adapted to pressure but ill-suited for strong swimming. When caught in rising currents, they can't resist and arrive at shore disoriented or dying. The sightings offer a rare glimpse into one of the ocean's most mysterious inhabitants.</description>
+      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/03/13/peixe-remo-no-mexico-a-ciencia-por-tras-do-mito-animal-que-preve-tragedias.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>France returns sacred 'talking drum' looted during colonial rule to Ivory Coast</title>
       <link>https://news.bias.com/go/2026-03-13-1437</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 09 Mar 2026 12:47:48 GMT</pubDate>
       <description>The large tortoiseshell butterfly has been confirmed as a resident UK species again after becoming extinct in Britain by the 1960s. Recent sightings across southern England, from Kent to Cornwall, show the insect emerging from hibernation in woodlands, bringing Britain's native butterfly count to 60. Unlike its garden-dwelling cousin, this tree-dwelling butterfly feeds on elm, willow, and other trees as a caterpillar. Scientists believe warming temperatures and growing populations in the Netherlands and France have helped the species migrate back across the Channel. Wild caterpillars discovered since 2020 confirm successful breeding, though experts remain cautiously optimistic about the butterfly's long-term establishment in British landscapes.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/09/large-tortoiseshell-butterfly-no-longer-extinct-uk">The Guardian</source>
-    </item>
-    <item>
-      <title>‘In Romania now, you don’t see a bottle anywhere’</title>
-      <link>https://news.bias.com/go/2026-03-09-1045</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-1045</guid>
-      <pubDate>Mon, 09 Mar 2026 10:45:31 GMT</pubDate>
-      <description>Romania has transformed its recycling landscape with a remarkably successful deposit return scheme launched in 2023. Consumers pay a small deposit on bottles and cans, then reclaim their money at reverse vending machines in stores. The results have been striking: over 8 billion containers collected, with 90% of Romanians participating at least once. The not-for-profit system ensures full traceability, with collected materials sorted and sold to recyclers who provide certificates proving proper processing. While beverage containers represent only 5% of Romania's waste, neighboring countries are watching closely, and the UK plans to launch its own scheme next year.</description>
-      <source url="https://www.positive.news/economics/romanias-recycling-revolution-lifts-off/">Positive News</source>
     </item>
   </channel>
 </rss>
