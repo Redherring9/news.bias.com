@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 08:58:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 11:01:21 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘My ideas are a little revolutionary’: ecologist Suzanne Simard on intelligent forests, the climate and her critics</title>
+      <link>https://news.bias.com/go/2026-03-14-1101</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-1101</guid>
+      <pubDate>Sat, 14 Mar 2026 11:01:19 GMT</pubDate>
+      <description>Ecologist Suzanne Simard has spent four decades studying Canada's forests, discovering they function as complex, interconnected communities rather than collections of competing individual trees. Her research reveals that trees communicate and share nutrients through underground fungal networks called mycorrhiza, with the oldest "mother trees" playing crucial roles in nurturing surrounding forest life. As Canadian wildfires worsen due to climate change and logging practices that favor flammable monoculture plantations, Simard argues that preserving diverse native forests offers natural carbon capture far more effective than technology. Once massive carbon sinks, Canada's forests have been net carbon emitters since 2001, underscoring the urgency of her message about protecting these "highly evolved organisms" as climate solutions.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/14/my-ideas-are-a-little-revolutionary-ecologist-suzanne-simard-on-intelligent-forests-the-climate-and-her-critics">The Guardian</source>
+    </item>
     <item>
       <title>In search of the tiny toad that stopped a dam</title>
       <link>https://news.bias.com/go/2026-03-14-0858</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 10 Mar 2026 07:08:24 GMT</pubDate>
       <description>Scientists deliberately released 65,000 liters of alkaline chemicals into the Gulf of Maine to test ocean alkalinity enhancement, a technology designed to help oceans absorb more carbon dioxide. The experiment, which turned the water maroon with dye, measured around 10 tonnes of carbon absorption and raised local pH to preindustrial levels over five days. The approach mimics natural weathering but works faster, potentially addressing both global heating and ocean acidification. While preliminary results showed no significant harm to plankton and larvae, critics worry about unforeseen consequences at scale. The technique resembles agricultural liming practices used for millennia, and several startups now sell carbon credits based on this method, though its safety and effectiveness at climate-relevant scales remain uncertain.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/10/sodium-hydroxide-ocean-global-heating-solution">The Guardian</source>
-    </item>
-    <item>
-      <title>Pilbara artist's work taken on 5,000km road trip for Sydney show</title>
-      <link>https://news.bias.com/go/2026-03-10-0505</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-0505</guid>
-      <pubDate>Tue, 10 Mar 2026 05:05:34 GMT</pubDate>
-      <description>Wendy Hubert, a respected Yindjibarndi elder and artist from Ngurrawaana in Western Australia's remote Pilbara region, is sharing her community's story at the Biennale of Sydney. Her work explores both the impacts of colonisation and mining on her people, and celebrates more than 50,000 years of Yindjibarndi culture. Rangers and family members drove 53 hours across 5,000 kilometres to deliver her paintings and materials—including rocks, dirt, and ceremonial items—from her ancestral lands. The journey embodies the cultural principle of Nyinyart, or reciprocity, and provided an opportunity to connect younger generations with their heritage. For Hubert, creating art on her homeland has been personally transformative and a way to preserve knowledge for future generations.</description>
-      <source url="https://www.abc.net.au/news/2026-03-10/wendy-hubert-artist-pilbara-biennale-sydney-indigenous-art/106377890">ABC Australia</source>
     </item>
   </channel>
 </rss>
