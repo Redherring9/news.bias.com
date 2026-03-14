@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 11:01:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 13:03:45 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why 142857 is a magic number that has fascinated mathematicians for centuries</title>
+      <link>https://news.bias.com/go/2026-03-14-1303</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-1303</guid>
+      <pubDate>Sat, 14 Mar 2026 13:03:44 GMT</pubDate>
+      <description>The number 142857 has captivated mathematicians, recreational math enthusiasts, and even novelists for centuries. When multiplied by any number from 1 to 6, it produces cyclic rotations of its own digits in the same order — a rare property that makes it a "cyclic number." Multiply it by 7, and it becomes 999999. Its peculiar patterns have made it a favorite for magic tricks and mathematical play, celebrated by figures like Martin Gardner and featured in a Don DeLillo novel. Beyond its mathematical elegance, the number offers a delightful reminder that numbers can surprise and enchant us with hidden symmetries.</description>
+      <source url="https://www.bbc.com/mundo/articles/cwyk6dw32leo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>‘My ideas are a little revolutionary’: ecologist Suzanne Simard on intelligent forests, the climate and her critics</title>
       <link>https://news.bias.com/go/2026-03-14-1101</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 10 Mar 2026 09:11:03 GMT</pubDate>
       <description>Off the coast of Gujarat, India, fisherman Ganeshbhai Varidum cut his expensive trawling net to free an entangled whale shark—an act unthinkable just 25 years ago. Once hunted for oil and meat, whale sharks are now cherished by local fishing communities, thanks to an unlikely conservation partnership. After the species gained legal protection in 2001, the Wildlife Trust of India enlisted spiritual leader Morari Bapu, who compared the gentle giants visiting Gujarat's coast to beloved daughters returning home to give birth. The metaphor struck a chord, transforming the previously nameless "big fish" into the "vhali," or beloved one, in the hearts of fishers who now release them at personal cost.</description>
       <source url="https://reasonstobecheerful.world/whale-sharks-spiritual-movement-saving-a-gentle-giant/">Reasons to be Cheerful</source>
-    </item>
-    <item>
-      <title>Testing the waters: can pumping chemicals into the ocean help stop global heating?</title>
-      <link>https://news.bias.com/go/2026-03-10-0708</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-0708</guid>
-      <pubDate>Tue, 10 Mar 2026 07:08:24 GMT</pubDate>
-      <description>Scientists deliberately released 65,000 liters of alkaline chemicals into the Gulf of Maine to test ocean alkalinity enhancement, a technology designed to help oceans absorb more carbon dioxide. The experiment, which turned the water maroon with dye, measured around 10 tonnes of carbon absorption and raised local pH to preindustrial levels over five days. The approach mimics natural weathering but works faster, potentially addressing both global heating and ocean acidification. While preliminary results showed no significant harm to plankton and larvae, critics worry about unforeseen consequences at scale. The technique resembles agricultural liming practices used for millennia, and several startups now sell carbon credits based on this method, though its safety and effectiveness at climate-relevant scales remain uncertain.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/10/sodium-hydroxide-ocean-global-heating-solution">The Guardian</source>
     </item>
   </channel>
 </rss>
