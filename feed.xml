@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 06:56:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 08:58:58 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>In search of the tiny toad that stopped a dam</title>
+      <link>https://news.bias.com/go/2026-03-14-0858</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-0858</guid>
+      <pubDate>Sat, 14 Mar 2026 08:58:57 GMT</pubDate>
+      <description>In a small forest patch in southern Brazil, the critically endangered red-belly toad—with just over 1,000 individuals remaining—has proven remarkably resilient. In 2014, this tiny amphibian made history by halting construction of a hydroelectric dam that threatened its only habitat. Now, researcher Michelle Abadie, who has studied the species for over 15 years, ventures into the field following catastrophic 2024 floods that devastated the region. Her mission: to discover whether these remarkable creatures survived yet another existential threat, demonstrating how even the smallest species can have profound impacts on conservation efforts.</description>
+      <source url="https://news.mongabay.com/video/2026/03/in-search-of-the-tiny-toad-that-stopped-a-dam/">Mongabay</source>
+    </item>
     <item>
       <title>Please drive carefully: scientists plan to transport volatile antimatter for first time</title>
       <link>https://news.bias.com/go/2026-03-14-0656</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 10 Mar 2026 05:05:34 GMT</pubDate>
       <description>Wendy Hubert, a respected Yindjibarndi elder and artist from Ngurrawaana in Western Australia's remote Pilbara region, is sharing her community's story at the Biennale of Sydney. Her work explores both the impacts of colonisation and mining on her people, and celebrates more than 50,000 years of Yindjibarndi culture. Rangers and family members drove 53 hours across 5,000 kilometres to deliver her paintings and materials—including rocks, dirt, and ceremonial items—from her ancestral lands. The journey embodies the cultural principle of Nyinyart, or reciprocity, and provided an opportunity to connect younger generations with their heritage. For Hubert, creating art on her homeland has been personally transformative and a way to preserve knowledge for future generations.</description>
       <source url="https://www.abc.net.au/news/2026-03-10/wendy-hubert-artist-pilbara-biennale-sydney-indigenous-art/106377890">ABC Australia</source>
-    </item>
-    <item>
-      <title>Can Singapore rewild its lost reptiles?</title>
-      <link>https://news.bias.com/go/2026-03-10-0303</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-0303</guid>
-      <pubDate>Tue, 10 Mar 2026 03:03:22 GMT</pubDate>
-      <description>Singapore has lost roughly a third of its terrestrial vertebrate species since the 19th century, but reptiles have shown surprising resilience. A recent study reveals snakes and lizards declined in two waves—first during plantation-era deforestation, then through late-20th-century urbanization. Forest specialists suffered most, while adaptable species persist in degraded habitats. Though around 17% of native reptile species have disappeared, many survive in fragmented populations. Because reptiles cannot easily cross the sea barrier from Malaysia, scientists are exploring rewilding through translocation. Maturing secondary forests and restoration efforts now create opportunities to reintroduce lost species like the forest gecko Gekko hulk, potentially restoring ecological functions even if the original ecosystem cannot be fully recovered.</description>
-      <source url="https://news.mongabay.com/2026/03/can-singapore-rewild-its-lost-reptiles/">Mongabay</source>
     </item>
   </channel>
 </rss>
