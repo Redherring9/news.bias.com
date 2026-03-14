@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 17:08:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 19:10:36 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The bikers transforming the lives of abused children, one ride at a time</title>
+      <link>https://news.bias.com/go/2026-03-14-1910</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-1910</guid>
+      <pubDate>Sat, 14 Mar 2026 19:10:35 GMT</pubDate>
+      <description>Bikers Against Child Abuse (BACA) is a global charity with chapters across Australia where leather-clad motorcyclists work to help young abuse victims reclaim a sense of safety. The group doesn't confront perpetrators; instead, members accompany children to court, stand guard outside their homes when they're frightened, and offer reassurance through their protective presence and rumbling motorcycles. With strict protocols including background checks and mandatory training, two assigned members become available to each child 24/7. What's striking about these physically imposing bikers is their emotional openness—many become tearful when explaining their motivation to shield vulnerable kids from fear and help them feel protected in their daily lives.</description>
+      <source url="https://www.abc.net.au/news/2026-03-15/bikers-against-child-abuse-australia-young-people-abuse-safety/106307714">ABC Australia</source>
+    </item>
     <item>
       <title>Waiting for a home: meet Meg and Ted, the dogs who have lived in the Presidente Prudente shelter for 4 years</title>
       <link>https://news.bias.com/go/2026-03-14-1708</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 10 Mar 2026 15:17:43 GMT</pubDate>
       <description>Chemists at Rutgers University have developed a promising approach to tackle plastic pollution by creating materials that can be programmed to break down on schedule or in response to triggers like sunlight. Drawing inspiration from how natural polymers such as proteins and DNA decompose, researchers embedded self-destructing mechanisms directly into plastic's molecular structure. This innovation could resolve the long-standing trade-off between durability and degradability, allowing plastics to remain strong during use but automatically deconstruct afterward. With over 8.3 billion metric tons of plastic produced since the 1950s still polluting ecosystems, and billions more tons expected by 2050, such breakthroughs offer hope for moving away from the linear "take-make-waste" model toward more circular, nature-inspired manufacturing systems.</description>
       <source url="https://news.mongabay.com/2026/03/promising-breakthrough-creates-plastics-that-self-deconstruct-on-cue-study/">Mongabay</source>
-    </item>
-    <item>
-      <title>Women of the Rosenstrasse protest challenged the Nazi regime for their detained Jewish husbands’ freedom – and won</title>
-      <link>https://news.bias.com/go/2026-03-10-1315</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-1315</guid>
-      <pubDate>Tue, 10 Mar 2026 13:15:39 GMT</pubDate>
-      <description>In February 1943, hundreds of non-Jewish women gathered on Berlin's Rosenstrasse to demand the release of their Jewish husbands, who had been arrested in a Nazi roundup of over 9,000 Jews. For nearly a week, these wives and mothers protested publicly—a rare act of defiance under Hitler's regime. On March 6, most of the nearly 2,000 detained men were released, while 7,000 other Jews arrested in the same sweep were deported to Auschwitz. Scholars continue to debate the protest's influence, though American intelligence at the time suggested the action was discontinued due to public outcry. The event raises enduring questions about resistance, family bonds, and the limits of Nazi power.</description>
-      <source url="https://theconversation.com/women-of-the-rosenstrasse-protest-challenged-the-nazi-regime-for-their-detained-jewish-husbands-freedom-and-won-277154">The Conversation</source>
     </item>
   </channel>
 </rss>
