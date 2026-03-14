@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 04:54:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 06:56:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Please drive carefully: scientists plan to transport volatile antimatter for first time</title>
+      <link>https://news.bias.com/go/2026-03-14-0656</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-0656</guid>
+      <pubDate>Sat, 14 Mar 2026 06:56:39 GMT</pubDate>
+      <description>Scientists at Cern are preparing to transport antimatter by truck for the first time, a 20-minute test run around their Geneva campus planned for later this month. The one-tonne container will carry roughly 1,000 antimatter particles—an almost unimaginably tiny amount that poses no safety risk. If successful, the milestone will allow researchers to transport antimatter to other laboratories for precision experiments. These studies aim to solve one of physics' deepest puzzles: why our universe is made of matter when equal amounts of matter and antimatter were created in the Big Bang. The scientists hope careful measurements will reveal subtle differences between the two, explaining why matter came to dominate our cosmos.</description>
+      <source url="https://www.theguardian.com/science/2026/mar/14/please-drive-carefully-scientists-plan-to-transport-volatile-antimatter-for-first-time">The Guardian</source>
+    </item>
     <item>
       <title>Now cultural heritage, collaborative fishing with dolphins celebrates rare relationship between species on the coast of RS: 'They became part of the family'</title>
       <link>https://news.bias.com/go/2026-03-14-0454</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 10 Mar 2026 03:03:22 GMT</pubDate>
       <description>Singapore has lost roughly a third of its terrestrial vertebrate species since the 19th century, but reptiles have shown surprising resilience. A recent study reveals snakes and lizards declined in two waves—first during plantation-era deforestation, then through late-20th-century urbanization. Forest specialists suffered most, while adaptable species persist in degraded habitats. Though around 17% of native reptile species have disappeared, many survive in fragmented populations. Because reptiles cannot easily cross the sea barrier from Malaysia, scientists are exploring rewilding through translocation. Maturing secondary forests and restoration efforts now create opportunities to reintroduce lost species like the forest gecko Gekko hulk, potentially restoring ecological functions even if the original ecosystem cannot be fully recovered.</description>
       <source url="https://news.mongabay.com/2026/03/can-singapore-rewild-its-lost-reptiles/">Mongabay</source>
-    </item>
-    <item>
-      <title>Birdwatching will have guided outings during COP15 in Campo Grande</title>
-      <link>https://news.bias.com/go/2026-03-10-0101</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-0101</guid>
-      <pubDate>Tue, 10 Mar 2026 01:01:17 GMT</pubDate>
-      <description>During the UN's COP15 wildlife conservation conference in Campo Grande, Brazil, residents and visitors will have the opportunity to join guided birdwatching outings, known locally as "passarinhadas." Specialized guides will help participants identify local and migratory bird species in the city's parks and green spaces. The activity is part of a growing birdwatching movement in the region, coordinated by the Mamede Institute for Environmental Research and Ecotourism. Free outings are organized by participants themselves, with binoculars provided for beginners. Environmental educator Maristela Benites notes that birdwatching is becoming an established cultural practice in Campo Grande and throughout Mato Grosso do Sul state.</description>
-      <source url="https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/03/09/observacao-de-aves-tera-saidas-guiadas-durante-a-cop15-em-campo-grande.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
