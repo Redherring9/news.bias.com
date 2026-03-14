@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 22:47:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 00:49:42 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaguar found with collar relearns hunting habits before being released into nature in Goiás</title>
+      <link>https://news.bias.com/go/2026-03-14-0049</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-0049</guid>
+      <pubDate>Sat, 14 Mar 2026 00:49:41 GMT</pubDate>
+      <description>A young jaguar found wearing a dog collar in northern Brazil is approaching her return to the wild after 14 months of rehabilitation. Rescued as a dehydrated month-old cub with injuries and infections, she has since gained 40 kilograms and relearned essential survival skills. Wildlife experts are using an unprecedented protocol for the species, and the jaguar now hunts prey and avoids humans—key behaviors for independence. She'll spend six to eight months at a sanctuary in Goiás, where specialists will observe her in a larger, more isolated forest environment before her final release into her natural habitat.</description>
+      <source url="https://g1.globo.com/go/goias/noticia/2026/03/13/onca-encontrada-com-coleira-reaprende-habitos-de-caca-antes-de-ser-solta-na-natureza-em-goias.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Country Life: Pick and be merry - harvest time under a big sky</title>
       <link>https://news.bias.com/go/2026-03-13-2247</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 09 Mar 2026 20:57:02 GMT</pubDate>
       <description>Ecuador has established a new 2,159-square-kilometer biological corridor linking Llanganates National Park in the Andes with Yasuní Biosphere Reserve in the Amazon Rainforest. The corridor is notable for its "altitudinal connectivity," bridging ecosystems from 4,000-meter mountain peaks to lowland rainforests. Conservation organizations and local governments collaborated on the project, which aims to help species like the black-and-chestnut eagle migrate between elevations and adapt to climate change. The initiative also supports local communities whose livelihoods depend on healthy ecosystems, balancing conservation with sustainable economic practices in an area historically affected by agriculture and extractive industries.</description>
       <source url="https://news.mongabay.com/2026/03/ecuadors-new-ecological-corridor-connects-andes-and-amazon-ecosystems/">Mongabay</source>
-    </item>
-    <item>
-      <title>Human trials about to take place on universal flu vaccine</title>
-      <link>https://news.bias.com/go/2026-03-09-1854</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-09-1854</guid>
-      <pubDate>Mon, 09 Mar 2026 18:54:36 GMT</pubDate>
-      <description>A universal flu vaccine that could protect against all strains of influenza—past, present, and future—is entering human trials in Australia. Unlike current flu vaccines, which must be updated annually as viruses evolve, Centiflu 01 targets parts of the flu virus that remain constant across thousands of years. Dr. Jacob Glanville, the immunoengineer leading the trials, reports that animal studies showed stronger immune responses than commercial vaccines, which are typically 10-60 percent effective. The vaccine demonstrated protection against viruses 15 years after initial testing. Phase one will involve roughly 300 volunteers across both hemispheres, with subsequent phases planned for 2026 and 2028.</description>
-      <source url="https://www.rnz.co.nz/news/world/589103/human-trials-about-to-take-place-on-universal-flu-vaccine">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
