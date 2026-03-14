@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 21:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 23:15:09 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Message in a bottle leads to 25-year intercontinental friendship</title>
+      <link>https://news.bias.com/go/2026-03-14-2315</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-2315</guid>
+      <pubDate>Sat, 14 Mar 2026 23:15:08 GMT</pubDate>
+      <description>In 2001, Diane Charles discovered a barnacle-covered bottle on a Tasmanian beach containing a message written in Spanish. With help from locals and a dictionary, she traced it to Erika Boyero, a Colombian bartender who had tossed it from a cruise ship off Norway four years earlier. The unlikely pen pals maintained their friendship across continents for 25 years, sharing life's milestones through letters and calls. Last week, they finally met in person when Boyero flew from Germany to Tasmania. The pair embraced like old friends and walked the same beach where their connection began, later visiting the museum that now houses the message that brought them together.</description>
+      <source url="https://www.abc.net.au/news/2026-03-15/message-in-a-bottle-tasmania-norway-tatlows-beach-stanley/106450912">ABC Australia</source>
+    </item>
     <item>
       <title>Stripped of life: the deadly South Australian algal bloom is still spreading one year on</title>
       <link>https://news.bias.com/go/2026-03-14-2112</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 10 Mar 2026 19:22:12 GMT</pubDate>
       <description>After more than 15 years of community-led effort, New Zealand's Otago Peninsula has been declared possum-free, with over 24,000 possums removed from 10,000 hectares of challenging terrain. The final phase employed innovative tools including AI traps, thermal drones, and a specially trained detection dog named Scout to track down the last possums hiding in cliff faces and backyards. Native birds like tūī and bellbirds are already returning, spreading seeds across the landscape in what conservationists describe as a "human-induced mast event." The achievement represents a significant milestone toward New Zealand's ambitious Predator Free 2050 goal, demonstrating how sustained community commitment combined with modern technology can restore ecosystems.</description>
       <source url="https://www.rnz.co.nz/news/national/589214/otago-peninsula-officially-declared-possum-free">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Alfredo Bryce Echenique, the writer who acidly portrayed Peru's elite in 'A World for Julius,' dies at 87</title>
-      <link>https://news.bias.com/go/2026-03-10-1719</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-1719</guid>
-      <pubDate>Tue, 10 Mar 2026 17:19:53 GMT</pubDate>
-      <description>Peruvian writer Alfredo Bryce Echenique has died at age 87, leaving behind a literary legacy that captured the complexities of human nature with sharp wit and tenderness. Best known for his 1970 debut novel "Un mundo para Julius" ("A World for Julius"), he portrayed Lima's wealthy elite through a child's innocent eyes, earning immediate acclaim and Peru's National Literature Prize. His subsequent works, including "La vida exagerada de Martín Romaña," showcased his signature irony and psychological insight. The author received the prestigious Premio Planeta in 2002 and published his final novel in 2012. Peru's literary community mourns one of its most representative contemporary voices.</description>
-      <source url="https://www.bbc.com/mundo/articles/cn0zv49djzlo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
