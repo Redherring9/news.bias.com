@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 19:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 21:12:52 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stripped of life: the deadly South Australian algal bloom is still spreading one year on</title>
+      <link>https://news.bias.com/go/2026-03-14-2112</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-2112</guid>
+      <pubDate>Sat, 14 Mar 2026 21:12:51 GMT</pubDate>
+      <description>Australia is grappling with its largest and longest-lasting algal bloom, which has persisted along South Australia's coastline for over a year. The bloom, caused by Karenia cristata—a rare toxic algae previously documented in only two other locations worldwide—has affected 20,000 square kilometers and caused millions of marine deaths. Among the hardest hit is the leafy sea dragon, South Australia's marine emblem, with populations collapsing in some areas and extinction risk now under review. The bloom has devastated artificial reef habitats around historic jetties, wiped out seagrass meadows, and caused Port Jackson sharks to largely disappear. Marine scientists describe it as unprecedented in scope and duration, with profound ecological and psychological impacts on coastal communities.</description>
+      <source url="https://www.theguardian.com/environment/ng-interactive/2026/mar/14/algal-bloom-south-australia-update-one-year-on">The Guardian</source>
+    </item>
     <item>
       <title>The bikers transforming the lives of abused children, one ride at a time</title>
       <link>https://news.bias.com/go/2026-03-14-1910</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 10 Mar 2026 17:19:53 GMT</pubDate>
       <description>Peruvian writer Alfredo Bryce Echenique has died at age 87, leaving behind a literary legacy that captured the complexities of human nature with sharp wit and tenderness. Best known for his 1970 debut novel "Un mundo para Julius" ("A World for Julius"), he portrayed Lima's wealthy elite through a child's innocent eyes, earning immediate acclaim and Peru's National Literature Prize. His subsequent works, including "La vida exagerada de Martín Romaña," showcased his signature irony and psychological insight. The author received the prestigious Premio Planeta in 2002 and published his final novel in 2012. Peru's literary community mourns one of its most representative contemporary voices.</description>
       <source url="https://www.bbc.com/mundo/articles/cn0zv49djzlo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>Promising breakthrough creates plastics that self-deconstruct on cue: Study</title>
-      <link>https://news.bias.com/go/2026-03-10-1517</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-1517</guid>
-      <pubDate>Tue, 10 Mar 2026 15:17:43 GMT</pubDate>
-      <description>Chemists at Rutgers University have developed a promising approach to tackle plastic pollution by creating materials that can be programmed to break down on schedule or in response to triggers like sunlight. Drawing inspiration from how natural polymers such as proteins and DNA decompose, researchers embedded self-destructing mechanisms directly into plastic's molecular structure. This innovation could resolve the long-standing trade-off between durability and degradability, allowing plastics to remain strong during use but automatically deconstruct afterward. With over 8.3 billion metric tons of plastic produced since the 1950s still polluting ecosystems, and billions more tons expected by 2050, such breakthroughs offer hope for moving away from the linear "take-make-waste" model toward more circular, nature-inspired manufacturing systems.</description>
-      <source url="https://news.mongabay.com/2026/03/promising-breakthrough-creates-plastics-that-self-deconstruct-on-cue-study/">Mongabay</source>
     </item>
   </channel>
 </rss>
