@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 01:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 03:19:37 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Twizel photographer Jeff Ng captures Aurora Australis from Lake Ruataniwha</title>
+      <link>https://news.bias.com/go/2026-03-15-0319</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-15-0319</guid>
+      <pubDate>Sun, 15 Mar 2026 03:19:36 GMT</pubDate>
+      <description>Jeff Ng, an astrophotography enthusiast and Airbnb owner in Twizel, New Zealand, captured a stunning view of the Aurora Australis at Lake Ruataniwha on a recent Saturday night. Ng, who moved to the area from Wellington last June specifically for its dark skies, says auroras have been appearing frequently lately, though photographing them still requires monitoring solar activity and timing. Twizel sits within the Aoraki Mackenzie International Dark Sky Reserve, one of only two such reserves in New Zealand. After six years of practicing photography, Ng now plans to explore more of the South Island's prime aurora-viewing locations by campervan.</description>
+      <source url="https://www.rnz.co.nz/news/national/589651/twizel-photographer-jeff-ng-captures-aurora-australis-from-lake-ruataniwha">Radio New Zealand</source>
+    </item>
     <item>
       <title>Why 142857 is a magic number that has fascinated mathematicians for centuries</title>
       <link>https://news.bias.com/go/2026-03-15-0117</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 10 Mar 2026 23:26:53 GMT</pubDate>
       <description>Researcher Khatijah Rahmat is exploring how elephants experience time—a concept she calls animal temporality. By examining elephants' eco-cultural heritage, their responses to human-impacted time, and individual histories, she argues that recognizing animals as temporal beings could deepen our empathy and transform conservation approaches. Her work relies on indirect observation rather than laboratory experiments, since temporal experience can't be easily replicated in controlled settings. Rahmat believes this perspective could expand conservation beyond population numbers to include considerations of intangible heritage and trauma. The research might also help scientists express observations they've traditionally felt constrained from sharing due to scientific rigor.</description>
       <source url="https://news.mongabay.com/podcast/2026/03/how-elephants-experience-time-and-what-this-tells-us-about-protecting-them/">Mongabay</source>
-    </item>
-    <item>
-      <title>South Australian man sails around the world in homemade boat</title>
-      <link>https://news.bias.com/go/2026-03-10-2124</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-2124</guid>
-      <pubDate>Tue, 10 Mar 2026 21:24:16 GMT</pubDate>
-      <description>South Australian Dan Turner has completed a 16-month solo journey around the world, finishing second among 15 competitors in the Mini Globe Race. The remarkable achievement becomes even more impressive considering he built his 5.8-meter yacht, The Immortal Game, in his own garage. Turner navigated 28,000 nautical miles through storms with 70-knot winds, near-disasters including a snapped forestay, and profound homesickness. Yet he also discovered remote islands like the Marquesas and connected with local cultures. His wife Nikki tracked his progress from Adelaide, balancing fear with pride. The boat will sail again—Turner has sold it to another Australian competing in the 2029 race, ensuring its legacy continues.</description>
-      <source url="https://www.abc.net.au/news/2026-03-11/dan-turner-sails-around-world-mini-globe-race-homemade-boat/106432006">ABC Australia</source>
     </item>
   </channel>
 </rss>
