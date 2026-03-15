@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 17:35:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 19:38:37 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Santos surpasses Brazil's average and becomes a reference in HPV vaccination</title>
+      <link>https://news.bias.com/go/2026-03-15-1938</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-15-1938</guid>
+      <pubDate>Sun, 15 Mar 2026 19:38:36 GMT</pubDate>
+      <description>Santos, a coastal city in São Paulo state, has achieved exceptional HPV vaccination rates, reaching 98% coverage in 2023 and surpassing national averages. The city vaccinated nearly 90% of girls and 83% of boys in 2025, compared to Brazil's 82% and 67% respectively. Health experts credit school-based vaccination programs for this success and recommend replicating the strategy nationwide. The results are tangible: Santos has seen a 66.6% decrease in cervical cancer rates, one of the lowest in Brazil. Pediatric infectologist Renato Kfouri emphasizes that HPV vaccination effectively prevents several types of cancer, calling it "a vaccine against cancer" that could significantly reduce disease rates across the country.</description>
+      <source url="https://g1.globo.com/sp/santos-regiao/mais-saude/noticia/2026/03/15/santos-supera-a-media-do-brasil-e-se-torna-referencia-na-vacinacao-contra-hpv.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Everyone thinks the universe is quiet... but the 'Monster's Mouth' nebula proves quite the opposite</title>
       <link>https://news.bias.com/go/2026-03-15-1735</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 11 Mar 2026 15:45:08 GMT</pubDate>
       <description>Alexander Graham Bell moved to a small farm in Brantford, Ontario in 1870, seeking relief from poor health. It was here, at his favorite spot overlooking the Grand River in 1874, that he conceived the idea for the telephone. Two years later, he made the world's first long-distance call between Brantford and Paris, Ontario. Today, the Bell Homestead is a National Historic Site where visitors can tour the family home and Canada's first telephone business office, relocated to the property. The city of Brantford celebrates this legacy as "The Telephone City," with monuments and historical sites honoring Bell's transformative invention.</description>
       <source url="https://www.atlasobscura.com/places/bell-homestead">Atlas Obscura</source>
-    </item>
-    <item>
-      <title>How butterfly colors are being 'erased' in the Atlantic Forest; understand</title>
-      <link>https://news.bias.com/go/2026-03-11-1342</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-11-1342</guid>
-      <pubDate>Wed, 11 Mar 2026 13:42:50 GMT</pubDate>
-      <description>Researchers in southern Brazil have discovered that pine monoculture plantations are causing butterfly populations in the Atlantic Forest to lose their vibrant colors. A study analyzing nearly 6,000 butterflies found that areas dominated by pine trees favor species with dull browns and grays, while colorful species become rare or disappear. The shift occurs because butterfly coloration serves vital survival functions—regulating temperature, attracting mates, and avoiding predators—strategies that fail in simplified plantation environments. These "green deserts," as environmentalists call them, act as ecological filters, allowing only generalist species to thrive while diminishing the rich biological interactions that characterize healthy forests.</description>
-      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/03/11/como-as-cores-das-borboletas-estao-sendo-apagadas-na-mata-atlantica-entenda.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
