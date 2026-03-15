@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 05:21:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 07:24:16 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Major hedgerow restoration project begins on farm</title>
+      <link>https://news.bias.com/go/2026-03-15-0724</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-15-0724</guid>
+      <pubDate>Sun, 15 Mar 2026 07:24:15 GMT</pubDate>
+      <description>The National Trust has launched a decade-long project to restore and plant 23 kilometers of hedgerows across its Wimpole Hall estate in Cambridgeshire. Using traditional techniques like hedge-laying and coppicing, staff and volunteers have already planted 30,000 trees this winter. The initiative aims to create vital habitat for declining farmland birds such as corn buntings and yellowhammers, while also supporting the working farm through natural firebreaks and soil protection. The project demonstrates how restoring traditional landscape features can strengthen ecological networks and build resilience against climate change, connecting the estate's mansion, parkland, and agricultural areas into a more robust system.</description>
+      <source url="https://www.bbc.com/news/articles/cwyxzj0vxvyo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Brasília elected Ibero-American Capital of Cultural Heritage; see what this means</title>
       <link>https://news.bias.com/go/2026-03-15-0521</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 11 Mar 2026 03:31:23 GMT</pubDate>
       <description>A new study reveals that 727 professional sports teams across 50 countries feature wild animals in their branding, with lions, tigers, and wolves—species facing threats in the wild—topping the list. With over a billion combined social media followers, these teams represent an untapped opportunity for conservation. Researcher Ugo Arbieu has launched The Wild League, a framework encouraging sports clubs to invest in protecting the species they profit from representing. Clemson University's Tigers United program already demonstrates this model in action, channeling school spirit into tiger conservation efforts in India. The initiative suggests that even small contributions—0.01% of match-day earnings—could significantly impact biodiversity protection while strengthening team brands.</description>
       <source url="https://news.mongabay.com/2026/03/the-wild-league-aims-to-turn-sports-mascots-into-conservation-champions/">Mongabay</source>
-    </item>
-    <item>
-      <title>‘My lovely distraction’: Live stream of kākāpō – world’s fattest parrot – and her chicks captivates New Zealand</title>
-      <link>https://news.bias.com/go/2026-03-11-0129</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-11-0129</guid>
-      <pubDate>Wed, 11 Mar 2026 01:29:15 GMT</pubDate>
-      <description>Over 100,000 people worldwide have tuned in to watch a live stream of Rakiura, a kākāpō parrot, raising her chicks on a remote New Zealand island. The kākāpō—the world's fattest, only flightless and nocturnal parrot—once faced near extinction with just 51 birds remaining in 1995. A dedicated recovery program has since grown the population to 236. This breeding season, triggered by abundant native rimu berries, could be record-breaking, with 78 nests and 57 chicks hatched so far. Viewers from around the globe have found joy and wonder in watching the rare birds, describing the stream as a heartwarming distraction and a reminder that conservation efforts matter.</description>
-      <source url="https://www.theguardian.com/world/2026/mar/11/kakapo-cam-live-stream-parrot-new-zealand">The Guardian</source>
     </item>
   </channel>
 </rss>
