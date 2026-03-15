@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 09:26:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 11:29:07 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Study reveals: Mass migration of the Sun and thousands of stars from the heart of the Milky Way</title>
+      <link>https://news.bias.com/go/2026-03-15-1129</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-15-1129</guid>
+      <pubDate>Sun, 15 Mar 2026 11:29:05 GMT</pubDate>
+      <description>A new study from the University of Tokyo and Japan's National Astronomical Observatory reveals that our Sun was part of a massive stellar migration 4 to 6 billion years ago. Using data from the European Space Agency's Gaia observatory, researchers identified around 6,600 solar twins that journeyed from the dense, radiation-filled galactic center to calmer outer regions. This exodus occurred when the galaxy's central disk was still forming, allowing stars to escape what is normally a gravitational barrier. The Sun now rests 27,000 light-years from the galactic core—a quieter location that proved hospitable for life on Earth. Future Japanese satellite missions aim to trace these stellar migration paths further.</description>
+      <source url="https://www.aljazeera.net/science/2026/3/15/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%aa%d9%83%d8%b4%d9%81-%d9%87%d8%ac%d8%b1%d8%a9-%d8%ac%d9%85%d8%a7%d8%b9%d9%8a%d8%a9-%d9%84%d9%84%d8%b4%d9%85%d8%b3-%d9%88%d8%a2%d9%84%d8%a7%d9%81?traffic_source=rss">Al Jazeera Arabic</source>
+    </item>
     <item>
       <title>Mystery of cats always landing on their feet gets new answer</title>
       <link>https://news.bias.com/go/2026-03-15-0926</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 11 Mar 2026 07:36:15 GMT</pubDate>
       <description>Five Iranian women's football players sought asylum in Australia after their team was eliminated from the AFC Women's Asian Cup, with two more following shortly after. The escape unfolded at a Gold Coast hotel where BBC journalists observed players meeting casually with local Iranian community members before quietly departing. Concerns had grown after state TV called the team "traitors" for initially declining to sing the national anthem, though they sang it in later matches. Australian-based Iranian activists worked behind the scenes to help facilitate communication with the players, who were granted humanitarian visas within hours of their departure from the team hotel.</description>
       <source url="https://www.bbc.com/news/articles/c15x1928n48o?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
-    </item>
-    <item>
-      <title>Joy prevails at WOMADelaide 2026</title>
-      <link>https://news.bias.com/go/2026-03-11-0533</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-11-0533</guid>
-      <pubDate>Wed, 11 Mar 2026 05:33:40 GMT</pubDate>
-      <description>WOMADelaide 2026 brought together global artists in a celebration defined by joy amid challenging times. Australian performers Baker Boy and Barkaa delivered powerful sets blending personal storytelling with cultural pride, while 79-year-old Kimberley blues elder Kankawa Nagarra captivated audiences far from home. Legendary act Yothu Yindi proved their anthems remain timeless, and Grace Jones closed with an unforgettable hula-hoop finale. From Nigerian singer Obongjayar's psychedelic energy to Mississippi's Annie &amp; the Caldwells' gospel-funk sermon, artists from diverse traditions transformed global anxieties into shared celebration. The festival demonstrated music's unique power to build understanding across cultures and turn hardship into hope.</description>
-      <source url="https://www.abc.net.au/news/2026-03-11/womadelaide-festival-review-2026/106363674">ABC Australia</source>
     </item>
   </channel>
 </rss>
