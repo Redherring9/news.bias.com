@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 23:15:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 01:17:24 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why 142857 is a magic number that has fascinated mathematicians for centuries</title>
+      <link>https://news.bias.com/go/2026-03-15-0117</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-15-0117</guid>
+      <pubDate>Sun, 15 Mar 2026 01:17:23 GMT</pubDate>
+      <description>The number 142857 has captivated mathematicians, recreational math enthusiasts, and even novelists for centuries. This six-digit sequence is mathematically classified as a cyclic number—when multiplied by any integer from 1 to 6, it produces rotations of its own digits in the same circular order. Multiply it by 7, and it yields 999999. The number has appeared in magic tricks, inspired occultists who saw mystical significance in it, and even featured in Don DeLillo's cult novel. Popularizers like Martin Gardner and mental calculator Shakuntala Devi showed how anyone could enjoy exploring its playful mathematical properties, turning abstract number theory into accessible wonder.</description>
+      <source url="https://www.bbc.com/portuguese/articles/c4g4162lepgo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Message in a bottle leads to 25-year intercontinental friendship</title>
       <link>https://news.bias.com/go/2026-03-14-2315</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 10 Mar 2026 21:24:16 GMT</pubDate>
       <description>South Australian Dan Turner has completed a 16-month solo journey around the world, finishing second among 15 competitors in the Mini Globe Race. The remarkable achievement becomes even more impressive considering he built his 5.8-meter yacht, The Immortal Game, in his own garage. Turner navigated 28,000 nautical miles through storms with 70-knot winds, near-disasters including a snapped forestay, and profound homesickness. Yet he also discovered remote islands like the Marquesas and connected with local cultures. His wife Nikki tracked his progress from Adelaide, balancing fear with pride. The boat will sail again—Turner has sold it to another Australian competing in the 2029 race, ensuring its legacy continues.</description>
       <source url="https://www.abc.net.au/news/2026-03-11/dan-turner-sails-around-world-mini-globe-race-homemade-boat/106432006">ABC Australia</source>
-    </item>
-    <item>
-      <title>Otago Peninsula officially declared possum free</title>
-      <link>https://news.bias.com/go/2026-03-10-1922</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-1922</guid>
-      <pubDate>Tue, 10 Mar 2026 19:22:12 GMT</pubDate>
-      <description>After more than 15 years of community-led effort, New Zealand's Otago Peninsula has been declared possum-free, with over 24,000 possums removed from 10,000 hectares of challenging terrain. The final phase employed innovative tools including AI traps, thermal drones, and a specially trained detection dog named Scout to track down the last possums hiding in cliff faces and backyards. Native birds like tūī and bellbirds are already returning, spreading seeds across the landscape in what conservationists describe as a "human-induced mast event." The achievement represents a significant milestone toward New Zealand's ambitious Predator Free 2050 goal, demonstrating how sustained community commitment combined with modern technology can restore ecosystems.</description>
-      <source url="https://www.rnz.co.nz/news/national/589214/otago-peninsula-officially-declared-possum-free">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
