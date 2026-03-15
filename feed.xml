@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 03:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 05:21:58 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Brasília elected Ibero-American Capital of Cultural Heritage; see what this means</title>
+      <link>https://news.bias.com/go/2026-03-15-0521</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-15-0521</guid>
+      <pubDate>Sun, 15 Mar 2026 05:21:57 GMT</pubDate>
+      <description>Brasília has been named the Ibero-American Capital of Cultural Heritage by a network of 29 cities across 24 countries. The Brazilian capital, already recognized as a UNESCO World Heritage Site since 1987, received this honor during an international meeting focused on heritage management and preservation. Designed by Lúcio Costa and Oscar Niemeyer, Brasília is considered the world's largest protected urban site. Researchers note the title amplifies the city's responsibility to preserve its architectural legacy while addressing contemporary needs. Though the recognition strengthens institutional commitment to cultural preservation, experts highlight ongoing challenges including maintenance gaps and the need for robust public policies to protect both material and intangible heritage across the city's 65-year history.</description>
+      <source url="https://g1.globo.com/df/distrito-federal/noticia/2026/03/15/brasilia-e-eleita-capital-ibero-americana-de-patrimonio-cultural-veja-o-que-isso-significa.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Twizel photographer Jeff Ng captures Aurora Australis from Lake Ruataniwha</title>
       <link>https://news.bias.com/go/2026-03-15-0319</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 11 Mar 2026 01:29:15 GMT</pubDate>
       <description>Over 100,000 people worldwide have tuned in to watch a live stream of Rakiura, a kākāpō parrot, raising her chicks on a remote New Zealand island. The kākāpō—the world's fattest, only flightless and nocturnal parrot—once faced near extinction with just 51 birds remaining in 1995. A dedicated recovery program has since grown the population to 236. This breeding season, triggered by abundant native rimu berries, could be record-breaking, with 78 nests and 57 chicks hatched so far. Viewers from around the globe have found joy and wonder in watching the rare birds, describing the stream as a heartwarming distraction and a reminder that conservation efforts matter.</description>
       <source url="https://www.theguardian.com/world/2026/mar/11/kakapo-cam-live-stream-parrot-new-zealand">The Guardian</source>
-    </item>
-    <item>
-      <title>How elephants experience time, and what this tells us about protecting them</title>
-      <link>https://news.bias.com/go/2026-03-10-2326</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-10-2326</guid>
-      <pubDate>Tue, 10 Mar 2026 23:26:53 GMT</pubDate>
-      <description>Researcher Khatijah Rahmat is exploring how elephants experience time—a concept she calls animal temporality. By examining elephants' eco-cultural heritage, their responses to human-impacted time, and individual histories, she argues that recognizing animals as temporal beings could deepen our empathy and transform conservation approaches. Her work relies on indirect observation rather than laboratory experiments, since temporal experience can't be easily replicated in controlled settings. Rahmat believes this perspective could expand conservation beyond population numbers to include considerations of intangible heritage and trauma. The research might also help scientists express observations they've traditionally felt constrained from sharing due to scientific rigor.</description>
-      <source url="https://news.mongabay.com/podcast/2026/03/how-elephants-experience-time-and-what-this-tells-us-about-protecting-them/">Mongabay</source>
     </item>
   </channel>
 </rss>
