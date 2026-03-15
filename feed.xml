@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 07:24:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 09:26:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mystery of cats always landing on their feet gets new answer</title>
+      <link>https://news.bias.com/go/2026-03-15-0926</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-15-0926</guid>
+      <pubDate>Sun, 15 Mar 2026 09:26:39 GMT</pubDate>
+      <description>Scientists in Japan may have solved a century-old puzzle: how cats rotate their bodies mid-air to land on their feet. Using donated specimens, researchers discovered that a cat's thoracic spine is three times more flexible than its lumbar region, with a nearly resistance-free "neutral zone" of 47 degrees in the upper back. This anatomical difference allows the front of the body to twist freely while the rear remains rigid. High-speed cameras confirmed the phenomenon, which has intrigued physicists since 1894 when French physiologist Étienne-Jules Marey first captured it on film. The study bridges the gap between the physics of rotation and the biological mechanics that make this graceful maneuver possible.</description>
+      <source url="https://g1.globo.com/ciencia/noticia/2026/03/15/misterio-dos-gatos-que-sempre-caem-em-pe-ganha-nova-resposta.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Major hedgerow restoration project begins on farm</title>
       <link>https://news.bias.com/go/2026-03-15-0724</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 11 Mar 2026 05:33:40 GMT</pubDate>
       <description>WOMADelaide 2026 brought together global artists in a celebration defined by joy amid challenging times. Australian performers Baker Boy and Barkaa delivered powerful sets blending personal storytelling with cultural pride, while 79-year-old Kimberley blues elder Kankawa Nagarra captivated audiences far from home. Legendary act Yothu Yindi proved their anthems remain timeless, and Grace Jones closed with an unforgettable hula-hoop finale. From Nigerian singer Obongjayar's psychedelic energy to Mississippi's Annie &amp; the Caldwells' gospel-funk sermon, artists from diverse traditions transformed global anxieties into shared celebration. The festival demonstrated music's unique power to build understanding across cultures and turn hardship into hope.</description>
       <source url="https://www.abc.net.au/news/2026-03-11/womadelaide-festival-review-2026/106363674">ABC Australia</source>
-    </item>
-    <item>
-      <title>The Wild League aims to turn sports mascots into conservation champions</title>
-      <link>https://news.bias.com/go/2026-03-11-0331</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-11-0331</guid>
-      <pubDate>Wed, 11 Mar 2026 03:31:23 GMT</pubDate>
-      <description>A new study reveals that 727 professional sports teams across 50 countries feature wild animals in their branding, with lions, tigers, and wolves—species facing threats in the wild—topping the list. With over a billion combined social media followers, these teams represent an untapped opportunity for conservation. Researcher Ugo Arbieu has launched The Wild League, a framework encouraging sports clubs to invest in protecting the species they profit from representing. Clemson University's Tigers United program already demonstrates this model in action, channeling school spirit into tiger conservation efforts in India. The initiative suggests that even small contributions—0.01% of match-day earnings—could significantly impact biodiversity protection while strengthening team brands.</description>
-      <source url="https://news.mongabay.com/2026/03/the-wild-league-aims-to-turn-sports-mascots-into-conservation-champions/">Mongabay</source>
     </item>
   </channel>
 </rss>
