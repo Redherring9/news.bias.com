@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 01:45:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 03:48:16 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Family of 6yo who fell from lookout on a mission to establish sensory-safe parks</title>
+      <link>https://news.bias.com/go/2026-03-16-0348</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-0348</guid>
+      <pubDate>Mon, 16 Mar 2026 03:48:15 GMT</pubDate>
+      <description>One year after six-year-old Airlie Montgomery, a non-verbal child with autism, died after falling from a lookout near her Australian home, her family has established the Airlie Fairy Foundation. The charity aims to create sensory-safe, accessible public spaces for children with autism. The first project will upgrade a playground near their North Nowra home where Airlie used to play, incorporating inclusive sensory equipment and safety features. Her father describes transforming grief into purpose, channeling the tragedy into meaningful change. The family held a memorial at the lookout, which her father now visits to feel connected to his daughter and stay focused on honoring her memory through community-minded action.</description>
+      <source url="https://www.abc.net.au/news/2026-03-16/airlie-montgomery-anniversary-sensory-safe-parks-mission/106437708">ABC Australia</source>
+    </item>
     <item>
       <title>Little liars: babies younger than one practise deceit, study suggests</title>
       <link>https://news.bias.com/go/2026-03-16-0145</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 11 Mar 2026 23:54:05 GMT</pubDate>
       <description>King penguins on the Crozet Islands in the Southern Ocean are breeding 19 days earlier than they did two decades ago, with chick survival rates climbing from 44 percent to 62 percent. Researchers tracking over 17,000 penguins found that for each day breeding moved earlier, success rates increased by roughly one percent. The shift appears linked to improved food availability and favorable environmental conditions that allow adults to regain energy faster. While scientists call the adaptation remarkable, they caution that these penguins may be riding a temporary advantage. The findings offer a rare glimpse of climate resilience in action, though the long-term outlook remains uncertain.</description>
       <source url="https://www.abc.net.au/news/science/2026-03-12/king-penguins-in-southern-ocean-resilient-to-climate-change/106436648">ABC Australia</source>
-    </item>
-    <item>
-      <title>Iguaçu Falls Park records record number of jaguar cubs; researchers warn not all may survive</title>
-      <link>https://news.bias.com/go/2026-03-11-2151</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-11-2151</guid>
-      <pubDate>Wed, 11 Mar 2026 21:51:59 GMT</pubDate>
-      <description>Brazil's Iguaçu National Park has recorded ten jaguar cubs in 2025, the highest number since monitoring began. Researchers identified 42 jaguars total in the protected area, home to the famous Iguaçu Falls. While the births are encouraging, biologist Vânia Foster cautions that many cubs may not survive to adulthood due to predation, territorial conflicts, disease, and human impacts like habitat loss and roadkill. Camera trap surveys captured 646 independent jaguar sightings throughout the year. The findings suggest the population continues reproducing successfully in this vital Atlantic Forest refuge, though scientists emphasize that long-term survival depends on how many young jaguars overcome early-life challenges.</description>
-      <source url="https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/03/11/cataratas-do-iguacu-registra-recorde-de-filhotes-de-onca-pintada.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
