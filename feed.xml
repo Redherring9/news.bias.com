@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 14:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 16:03:15 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>An ancient fishing tradition in Indonesia could help build a more sustainable fishery</title>
+      <link>https://news.bias.com/go/2026-03-16-1603</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-1603</guid>
+      <pubDate>Mon, 16 Mar 2026 16:03:12 GMT</pubDate>
+      <description>In eastern Indonesia, a centuries-old practice called Sasi Laut offers a model for sustainable fishing. Communities temporarily close fishing areas for six to twelve months, allowing species like sea cucumbers and shellfish to recover. A new study finds this tradition aligns with Indonesia's national ocean economy plan while protecting remote communities from industrial exploitation. Decisions are made collectively through customary institutions, creating what researchers call a "structural barrier" against large-scale commercial interests. For Sasi to fully succeed, experts say it needs formal recognition in regional coastal planning and financial support for fishers during closure periods.</description>
+      <source url="https://news.mongabay.com/short-article/2026/03/an-ancient-fishing-tradition-in-indonesia-could-help-build-a-more-sustainable-fishery/">Mongabay</source>
+    </item>
     <item>
       <title>'I planted a dream': Rondônia resident creates hummingbird garden on vacant lot in Ji-Paraná, RO</title>
       <link>https://news.bias.com/go/2026-03-16-1400</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 12 Mar 2026 12:08:02 GMT</pubDate>
       <description>At 100 years old, British botanist Margaret Bradshaw continues her seven-decade mission to protect the extraordinary flora of Teesdale valley in northeast England. This unique landscape harbors a rare combination of alpine-arctic and southern European plants that have survived since the last ice age—flora found nowhere else in the UK. Bradshaw's research revealed a troubling 54% decline in plant abundance since the 1960s, with 28 species now endangered. The primary culprit: changes in grazing patterns that allowed grasses to overshadow delicate wildflowers. Undeterred, Bradshaw founded a conservation organization at 93, rode 80 kilometers on horseback at 95 to raise funds, and published her first book at 97. Her work with local farmers is helping restore careful grazing practices, offering hope for these ancient botanical treasures.</description>
       <source url="https://www.bbc.com/mundo/articles/cq577x1evvyo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>Partnership between dolphins and fishermen to catch fish becomes intangible heritage of Brazil; understand how</title>
-      <link>https://news.bias.com/go/2026-03-12-1005</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-12-1005</guid>
-      <pubDate>Thu, 12 Mar 2026 10:05:53 GMT</pubDate>
-      <description>A rare collaboration between fishermen and dolphins in southern Brazil has been recognized as national intangible cultural heritage. In this traditional practice, bottlenose dolphins help artisanal fishermen locate and corral schools of mullet in coastal estuaries, particularly around Laguna, Santa Catarina. The dolphins signal when to cast nets by leaping and vocalizing. Fishermen identify individual dolphins by name and characteristics, passing this knowledge through generations. The recognition highlights both a remarkable human-animal partnership and conservation concerns—the Lahille's bottlenose dolphin was recently reclassified as endangered, with only about 330 individuals remaining worldwide, most along Brazil's southern coast.</description>
-      <source url="https://g1.globo.com/sc/santa-catarina/noticia/2026/03/12/parceria-botos-pescadores-captura-peixes-patrimonio-imaterial-brasil-entenda.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
