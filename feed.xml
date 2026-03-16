@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 20:08:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 22:10:57 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pharmaceutical companies move away from horseshoe crab biomedical testing</title>
+      <link>https://news.bias.com/go/2026-03-16-2210</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-2210</guid>
+      <pubDate>Mon, 16 Mar 2026 22:10:56 GMT</pubDate>
+      <description>Two major pharmaceutical companies, Amgen and Abbott Laboratories, have announced plans to shift away from harvesting horseshoe crab blood for biomedical testing. For decades, thousands of these ancient creatures—which predate dinosaurs by 200 million years—have been captured annually so their copper-based blood can be used to detect contamination in vaccines and drugs. Many don't survive the process. Though synthetic alternatives have existed since 2016, industry reluctance to change regulatory practices slowed adoption. Conservationists are cautiously optimistic about the announcement, noting that horseshoe crab eggs sustain migrating shorebirds along the Atlantic coast. However, neither company has set a firm end date for the transition.</description>
+      <source url="https://news.mongabay.com/short-article/2026/03/pharmaceutical-companies-move-away-from-horseshoe-crab-biomedical-testing/">Mongabay</source>
+    </item>
     <item>
       <title>The Catacombs of Priscilla  in Rome, Italy</title>
       <link>https://news.bias.com/go/2026-03-16-2008</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 12 Mar 2026 18:14:41 GMT</pubDate>
       <description>A coati swimming across the Xingu River in northern Mato Grosso, Brazil, grabbed onto fishermen's oars to rest during its journey. Video shared by the group shows the tired animal paddling against the current before clinging to an extended oar for a break. A biologist explained that coatis are typically social creatures, though adult males are more solitary—suggesting this individual may have been a lone male or a female separated from her group. While the fishermen's gesture appeared helpful, experts caution that coatis have long canines and may bite if feeling threatened, despite their seemingly docile appearance in the moment.</description>
       <source url="https://g1.globo.com/mt/mato-grosso/noticia/2026/03/12/video-quati-pega-carona-com-pescadores-para-atravessar-rio-em-mt.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>St Aiden’s Church and Crypt  in Bamburgh, England</title>
-      <link>https://news.bias.com/go/2026-03-12-1612</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-12-1612</guid>
-      <pubDate>Thu, 12 Mar 2026 16:12:27 GMT</pubDate>
-      <description>St Aiden's Church in Bamburgh stands on foundations dating to the 7th century, when Saint Aiden built a timber church at the request of King Oswold of Northumbria. The current stone structure, begun in the 12th century, houses remarkable features including an original "squint" window that allowed common people to view the holy chancel. The church honors local heroes through memorials and stained glass, including Grace Darling, who famously rescued shipwrecked sailors from the North Sea, and the philanthropic Sharpe family who transformed Bamburgh Castle into a community center. Below, a crypt contains the remains of hundreds of Saxon Christians, reinterred in 2016 after their seaside cemetery was disturbed by an 1817 storm.</description>
-      <source url="https://www.atlasobscura.com/places/st-aidens-church-and-crypt">Atlas Obscura</source>
     </item>
   </channel>
 </rss>
