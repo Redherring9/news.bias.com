@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 16:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 18:05:49 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How a community defended its ancestral forest from logging</title>
+      <link>https://news.bias.com/go/2026-03-16-1805</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-1805</guid>
+      <pubDate>Mon, 16 Mar 2026 18:05:48 GMT</pubDate>
+      <description>In northeastern Gabon, the village of Massaha created a detailed biocultural map of their ancestral rainforest, revealing fifteen historical settlements, sacred sites, and traditional lands that colonial records and modern satellite data had missed. Using participatory mapping with elders and GPS technology, the community documented generations of use across roughly 11,800 hectares threatened by industrial logging. Their locally generated evidence successfully challenged official maps that portrayed the forest as empty, prompting government intervention to halt logging operations. The case demonstrates how community-led documentation can fill crucial gaps in conservation data, showing that forests classified as "intact" often hold rich human histories invisible to satellites and colonial-era cartography.</description>
+      <source url="https://news.mongabay.com/2026/03/how-a-community-defended-its-ancestral-forest-from-logging/">Mongabay</source>
+    </item>
     <item>
       <title>An ancient fishing tradition in Indonesia could help build a more sustainable fishery</title>
       <link>https://news.bias.com/go/2026-03-16-1603</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 12 Mar 2026 14:10:15 GMT</pubDate>
       <description>The Tibetan Book of the Dead is far more than its popular title suggests. Originally called "The Great Liberation by Hearing in the Intermediate States," this 14th-century text explores six "bardos" or transitional states—not just the passage between death and rebirth, but also moments within life itself, including dreams and meditation. These in-between states offer opportunities for spiritual transformation and enlightenment. While Western audiences know it primarily through a 1927 partial translation, the full 2007 version reveals a broader philosophy about seizing chances for awakening throughout existence, challenging the notion that it's solely a guide for the dying.</description>
       <source url="https://theconversation.com/the-tibetan-book-of-the-dead-is-actually-not-just-about-death-247174">The Conversation</source>
-    </item>
-    <item>
-      <title>Margaret Bradshaw, the 100-year-old botanist fighting to save unique flora</title>
-      <link>https://news.bias.com/go/2026-03-12-1208</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-12-1208</guid>
-      <pubDate>Thu, 12 Mar 2026 12:08:02 GMT</pubDate>
-      <description>At 100 years old, British botanist Margaret Bradshaw continues her seven-decade mission to protect the extraordinary flora of Teesdale valley in northeast England. This unique landscape harbors a rare combination of alpine-arctic and southern European plants that have survived since the last ice age—flora found nowhere else in the UK. Bradshaw's research revealed a troubling 54% decline in plant abundance since the 1960s, with 28 species now endangered. The primary culprit: changes in grazing patterns that allowed grasses to overshadow delicate wildflowers. Undeterred, Bradshaw founded a conservation organization at 93, rode 80 kilometers on horseback at 95 to raise funds, and published her first book at 97. Her work with local farmers is helping restore careful grazing practices, offering hope for these ancient botanical treasures.</description>
-      <source url="https://www.bbc.com/mundo/articles/cq577x1evvyo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
