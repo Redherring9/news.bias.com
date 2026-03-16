@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 18:05:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 20:08:35 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Catacombs of Priscilla  in Rome, Italy</title>
+      <link>https://news.bias.com/go/2026-03-16-2008</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-2008</guid>
+      <pubDate>Mon, 16 Mar 2026 20:08:34 GMT</pubDate>
+      <description>Beneath a small Benedictine convent in Rome lies the Catacombs of Priscilla, part of the city's vast underground network of burial passages. The sisters who tend this sacred space support themselves by weaving woolen table runners, their modest craft barely covering basic expenses. During World War II, these nuns sheltered Jewish families in the catacombs during the nine-month Nazi occupation, when over 1,800 Roman Jews were deported to Auschwitz. One rescued family later commissioned a chapel mosaic honoring an ancient catacomb fresco—a second-century depiction of the Eucharist. The story weaves together threads of faith, sacrifice, and quiet resistance beneath Rome's eternal streets.</description>
+      <source url="https://www.atlasobscura.com/places/the-catacombs-of-priscilla">Atlas Obscura</source>
+    </item>
     <item>
       <title>How a community defended its ancestral forest from logging</title>
       <link>https://news.bias.com/go/2026-03-16-1805</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 12 Mar 2026 16:12:27 GMT</pubDate>
       <description>St Aiden's Church in Bamburgh stands on foundations dating to the 7th century, when Saint Aiden built a timber church at the request of King Oswold of Northumbria. The current stone structure, begun in the 12th century, houses remarkable features including an original "squint" window that allowed common people to view the holy chancel. The church honors local heroes through memorials and stained glass, including Grace Darling, who famously rescued shipwrecked sailors from the North Sea, and the philanthropic Sharpe family who transformed Bamburgh Castle into a community center. Below, a crypt contains the remains of hundreds of Saxon Christians, reinterred in 2016 after their seaside cemetery was disturbed by an 1817 storm.</description>
       <source url="https://www.atlasobscura.com/places/st-aidens-church-and-crypt">Atlas Obscura</source>
-    </item>
-    <item>
-      <title>‘The Tibetan Book of the Dead’ is actually not just about death</title>
-      <link>https://news.bias.com/go/2026-03-12-1410</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-12-1410</guid>
-      <pubDate>Thu, 12 Mar 2026 14:10:15 GMT</pubDate>
-      <description>The Tibetan Book of the Dead is far more than its popular title suggests. Originally called "The Great Liberation by Hearing in the Intermediate States," this 14th-century text explores six "bardos" or transitional states—not just the passage between death and rebirth, but also moments within life itself, including dreams and meditation. These in-between states offer opportunities for spiritual transformation and enlightenment. While Western audiences know it primarily through a 1927 partial translation, the full 2007 version reveals a broader philosophy about seizing chances for awakening throughout existence, challenging the notion that it's solely a guide for the dying.</description>
-      <source url="https://theconversation.com/the-tibetan-book-of-the-dead-is-actually-not-just-about-death-247174">The Conversation</source>
     </item>
   </channel>
 </rss>
