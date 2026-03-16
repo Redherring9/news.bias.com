@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 03:48:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 05:51:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New rock monitor lizard species reveals remarkable evolutionary story</title>
+      <link>https://news.bias.com/go/2026-03-16-0551</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-0551</guid>
+      <pubDate>Mon, 16 Mar 2026 05:51:01 GMT</pubDate>
+      <description>Researchers have formally described three new species of rock monitor lizards in Far North Queensland's savanna country, marking the first rock monitors known from eastern Australia's grasslands. The yellow-headed, rainbow, and orange-headed monitors surprised scientists with genetic data suggesting millions of years of independent evolution. Each species inhabits distinct rocky habitats ranging from granite boulders to sandstone escarpments. While their remote locations currently offer protection, scientists express concern about potential threats from the reptile pet trade and well-meaning enthusiasts who might disturb their habitat. The discovery highlights the biodiversity of Australia's understudied savanna ecosystems.</description>
+      <source url="https://www.abc.net.au/news/2026-03-16/new-rock-monitor-species-north-queensland-savanna/106459522">ABC Australia</source>
+    </item>
     <item>
       <title>Family of 6yo who fell from lookout on a mission to establish sensory-safe parks</title>
       <link>https://news.bias.com/go/2026-03-16-0348</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 12 Mar 2026 01:56:18 GMT</pubDate>
       <description>When a vehicle became stranded in crocodile-inhabited floodwaters near Katherine, Australia, a passing helicopter pilot and police officer conducted a dramatic rescue of two people and their German Shepherd. The dog proved especially challenging to extract after windows had to be smashed and the animal initially resisted boarding the helicopter. The rescue highlights ongoing flood dangers as Katherine recovers from its worst flooding in nearly three decades. Meanwhile, local volunteers have stepped up, using boats to ferry isolated residents across swollen rivers and delivering essential supplies—and the occasional beer—to those cut off by floodwaters for nearly a week.</description>
       <source url="https://www.abc.net.au/news/2026-03-12/katherine-residents-flood-recovery-daly-river-flood-second-worst/106444032">ABC Australia</source>
-    </item>
-    <item>
-      <title>King penguins surfing on the 'good edge' of climate change — for now</title>
-      <link>https://news.bias.com/go/2026-03-11-2354</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-11-2354</guid>
-      <pubDate>Wed, 11 Mar 2026 23:54:05 GMT</pubDate>
-      <description>King penguins on the Crozet Islands in the Southern Ocean are breeding 19 days earlier than they did two decades ago, with chick survival rates climbing from 44 percent to 62 percent. Researchers tracking over 17,000 penguins found that for each day breeding moved earlier, success rates increased by roughly one percent. The shift appears linked to improved food availability and favorable environmental conditions that allow adults to regain energy faster. While scientists call the adaptation remarkable, they caution that these penguins may be riding a temporary advantage. The findings offer a rare glimpse of climate resilience in action, though the long-term outlook remains uncertain.</description>
-      <source url="https://www.abc.net.au/news/science/2026-03-12/king-penguins-in-southern-ocean-resilient-to-climate-change/106436648">ABC Australia</source>
     </item>
   </channel>
 </rss>
