@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 22:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 00:13:20 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'This is our whenua': Pasifika Festival brings together culture and colour</title>
+      <link>https://news.bias.com/go/2026-03-17-0013</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-0013</guid>
+      <pubDate>Tue, 17 Mar 2026 00:13:18 GMT</pubDate>
+      <description>Auckland's Pasifika Festival drew over 25,000 people to Western Springs Lakeside Park, celebrating Pacific cultures through music, dance, food, and crafts. Now in its fourth decade since launching in 1993, the event featured stages representing 11 Pacific nations, including Samoa, Tonga, Fiji, and the Cook Islands. Organizers describe it as a spiritual home honoring Pacific communities who have made Aotearoa their home for generations. International visitors from Estonia and Utah marveled at the festival's scale and welcoming atmosphere, while performers emphasized its role in keeping traditions and languages alive. The gathering has grown into an internationally recognized event, drawing participants from across the Pacific and becoming a cornerstone of New Zealand's cultural calendar.</description>
+      <source url="https://www.rnz.co.nz/international/pacific-news/589810/this-is-our-whenua-pasifika-festival-brings-together-culture-and-colour">Radio New Zealand</source>
+    </item>
     <item>
       <title>Pharmaceutical companies move away from horseshoe crab biomedical testing</title>
       <link>https://news.bias.com/go/2026-03-16-2210</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 12 Mar 2026 20:17:00 GMT</pubDate>
       <description>Fourteen-year-old Austin Appelbee has received recognition from Irish President Catherine Connolly after swimming four kilometers through rough ocean waters to save his family. In February, Austin, his Irish-born mother Joanne, and his two siblings drifted out to sea on inflatable watercraft off Western Australia's coast. After eight hours in the water, emergency services found them 14 kilometers offshore. Irish government minister Kevin Moran presented Austin with gifts and a presidential letter during a St Patrick's Day visit, noting how the story touched people in Ireland. Austin, who has also been honored by Western Australia's governor, called the presidential recognition unexpected and "a great honour," reflecting that the experience taught him selflessness.</description>
       <source url="https://www.abc.net.au/news/2026-03-13/austin-appelbee-honoured-by-irish-president/106448682">ABC Australia</source>
-    </item>
-    <item>
-      <title>VIDEO: Coati hitches ride with fishermen to cross river in Mato Grosso</title>
-      <link>https://news.bias.com/go/2026-03-12-1814</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-12-1814</guid>
-      <pubDate>Thu, 12 Mar 2026 18:14:41 GMT</pubDate>
-      <description>A coati swimming across the Xingu River in northern Mato Grosso, Brazil, grabbed onto fishermen's oars to rest during its journey. Video shared by the group shows the tired animal paddling against the current before clinging to an extended oar for a break. A biologist explained that coatis are typically social creatures, though adult males are more solitary—suggesting this individual may have been a lone male or a female separated from her group. While the fishermen's gesture appeared helpful, experts caution that coatis have long canines and may bite if feeling threatened, despite their seemingly docile appearance in the moment.</description>
-      <source url="https://g1.globo.com/mt/mato-grosso/noticia/2026/03/12/video-quati-pega-carona-com-pescadores-para-atravessar-rio-em-mt.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
