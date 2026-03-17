@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 08:24:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 10:26:32 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ASB Polyfest: The world's largest secondary school cultural festival returns to Auckland</title>
+      <link>https://news.bias.com/go/2026-03-17-1026</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-1026</guid>
+      <pubDate>Tue, 17 Mar 2026 10:26:30 GMT</pubDate>
+      <description>Auckland's ASB Polyfest, the world's largest secondary school cultural festival, celebrates its 51st year this week with performances from 263 groups across 73 schools. For the first time, the event spans two venues: Manukau Sports Bowl hosts Cook Islands, Niue, Samoan, Tongan, and Diversity stages, while the Māori stage takes place at Due Drop Event Centre. More than 80,000 attendees are expected to enjoy the youth performances supported by approximately 2,000 volunteers and contractors. This year's theme emphasizes environmental stewardship as a Pacific youth value. While long-term funding remains uncertain, organizers have secured sponsors through 2028 and expanded programming to include a Leaders Conference for student cultural leaders.</description>
+      <source url="https://www.rnz.co.nz/international/pacific-news/589855/asb-polyfest-the-world-s-largest-secondary-school-cultural-festival-returns-to-auckland">Radio New Zealand</source>
+    </item>
     <item>
       <title>'Quirky' mudfish pulls off Fish of the Year upset</title>
       <link>https://news.bias.com/go/2026-03-17-0824</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 13 Mar 2026 06:28:32 GMT</pubDate>
       <description>A gardener celebrates the return of frogspawn to a pond she built with her father nearly three decades ago. For years, the pond hosted thriving frog populations each spring, but smooth newts gradually took over as dominant predators, consuming tadpoles and other pond life. The frog breeding ceased for over a decade while newt numbers surged. Now, in a natural cycle of boom and bust, newt populations have dwindled and frogs are cautiously returning. The writer observes developing embryos with quiet hope, wondering if they'll complete their transformation over the coming months—a small but meaningful sign of ecological balance shifting once again.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/13/country-diary-frogspawn-returns-to-the-pond-i-built-with-my-father">The Guardian</source>
-    </item>
-    <item>
-      <title>Ancestral remains returned to Country after a century in a British museum</title>
-      <link>https://news.bias.com/go/2026-03-13-0425</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-0425</guid>
-      <pubDate>Fri, 13 Mar 2026 04:25:49 GMT</pubDate>
-      <description>After nearly 130 years in England, the remains of an Aboriginal man known as 'Uncle' have been returned to Country and reburied near Berowra Creek, north of Sydney. Taken from his grave in the late 1890s and held at Oxford's Pitt Rivers Museum, Uncle was laid to rest with a ceremony of clapsticks and smoke conducted by Indigenous elders. His name and personal history remain unknown. The repatriation followed a 2017 request by eight Aboriginal and Torres Strait Islander communities and the Australian government. The museum acknowledged the 'problematic history' of acquiring ancestral remains. Community leaders estimate hundreds more ancestors in Sydney and thousands across museums worldwide still await return to Country.</description>
-      <source url="https://www.abc.net.au/news/2026-03-13/nsw-ancestor-remains-uncle-returned-county-from-england/106440590">ABC Australia</source>
     </item>
   </channel>
 </rss>
