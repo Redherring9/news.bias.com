@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 12:29:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 14:32:22 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gut bacteria influence effectiveness of immunological cancer treatment, studies indicate</title>
+      <link>https://news.bias.com/go/2026-03-17-1432</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-1432</guid>
+      <pubDate>Tue, 17 Mar 2026 14:32:20 GMT</pubDate>
+      <description>Scientists are discovering that the trillions of bacteria living in our intestines play a surprising role in cancer treatment. Research shows that specific gut bacteria can influence how well patients respond to immunotherapy, a treatment that helps the immune system fight cancer cells. Studies found that antibiotics taken around the start of immunotherapy may reduce treatment effectiveness by disrupting beneficial bacteria. Some researchers are even exploring fecal microbiota transplants, transferring gut bacteria from patients who respond well to treatment into those who don't. The findings suggest that diet, particularly fiber-rich and varied foods, may help support cancer treatment by nurturing helpful gut bacteria.</description>
+      <source url="https://g1.globo.com/saude/noticia/2026/03/17/bacterias-do-intestino-influenciam-eficacia-do-tratamento-imunologico-no-cancer-apontam-estudos.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>"There are bones everywhere": the whale cemeteries that transform the ocean depths</title>
       <link>https://news.bias.com/go/2026-03-17-1229</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 13 Mar 2026 10:33:29 GMT</pubDate>
       <description>In Brazil's Pantanal wetlands, wildlife guides documented a remarkable family drama when three generations of jaguars crossed paths near a feeding site. Pipa, a young jaguar, climbed a tree near where her grandmother Aracy was protecting a cub from another litter. When Pipa began vocalizing defensively, Aracy ascended the tree to shield her younger offspring, leading to a brief confrontation that sent both cats tumbling to the ground. Despite the tension, all the jaguars involved belong to the same family line, offering researchers a rare glimpse into complex jaguar social dynamics and territorial behavior within related animals.</description>
       <source url="https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/03/13/video-encontro-entre-geracoes-de-oncas-pintadas-vira-briga-em-arvore-no-pantanal.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Mining’s toxic timebomb: dams full of poisonous waste are dotted around the world. What happens when they burst?</title>
-      <link>https://news.bias.com/go/2026-03-13-0831</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-0831</guid>
-      <pubDate>Fri, 13 Mar 2026 08:31:06 GMT</pubDate>
-      <description>When a tailings dam collapsed at a Chinese-owned copper mine in Zambia's Kafue River basin in February 2025, it released over 50 million cubic litres of acid and heavy metals into the waterway. The disaster killed thousands of fish, crocodiles, and other wildlife, cut drinking water for half a million people, and devastated farmland. Researchers have identified at least 108 such dams—repositories of toxic mining waste—in key biodiversity areas worldwide, though the true number is likely higher. Climate change is increasing risks as extreme weather destabilizes these structures. The Zambian spill joins a grim list including Brazil's deadly Brumadinho and Mariana disasters, with toxic effects that can persist for decades.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/13/minings-toxic-timebomb-dams-full-of-poisonous-waste-are-dotted-around-the-world-what-happens-when-they-burst-aoe">The Guardian</source>
     </item>
   </channel>
 </rss>
