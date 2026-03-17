@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 06:21:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 08:24:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Quirky' mudfish pulls off Fish of the Year upset</title>
+      <link>https://news.bias.com/go/2026-03-17-0824</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-0824</guid>
+      <pubDate>Tue, 17 Mar 2026 08:24:01 GMT</pubDate>
+      <description>In a delightful underdog victory, the Northland mudfish has won New Zealand's Fish of the Year competition, surging from outside the top ten to claim the title in the final 24 hours. This secretive 15-centimeter creature, discovered only in 1998, lives in a handful of wetlands near Kaikohe and possesses a remarkable talent: surviving droughts by burrowing into mud and breathing through its skin. The win, driven by enthusiastic local campaigns, highlights the precarious state of New Zealand's native freshwater fish. With 90 percent of the country's wetlands lost in 150 years, organizers hope the quirky mudfish's moment in the spotlight will inspire greater protection for these disappearing habitats and their rarely seen inhabitants.</description>
+      <source url="https://www.rnz.co.nz/news/national/589824/mudfish-pulls-off-last-minute-upset-to-claim-fish-of-the-year-2026">Radio New Zealand</source>
+    </item>
     <item>
       <title>Accidental discovery reveals new climate threat to emperor penguins</title>
       <link>https://news.bias.com/go/2026-03-17-0621</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 13 Mar 2026 04:25:49 GMT</pubDate>
       <description>After nearly 130 years in England, the remains of an Aboriginal man known as 'Uncle' have been returned to Country and reburied near Berowra Creek, north of Sydney. Taken from his grave in the late 1890s and held at Oxford's Pitt Rivers Museum, Uncle was laid to rest with a ceremony of clapsticks and smoke conducted by Indigenous elders. His name and personal history remain unknown. The repatriation followed a 2017 request by eight Aboriginal and Torres Strait Islander communities and the Australian government. The museum acknowledged the 'problematic history' of acquiring ancestral remains. Community leaders estimate hundreds more ancestors in Sydney and thousands across museums worldwide still await return to Country.</description>
       <source url="https://www.abc.net.au/news/2026-03-13/nsw-ancestor-remains-uncle-returned-county-from-england/106440590">ABC Australia</source>
-    </item>
-    <item>
-      <title>CAT scans yes, cats, no: Popular moggies not permitted at Taranaki Base Hospital</title>
-      <link>https://news.bias.com/go/2026-03-13-0223</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-0223</guid>
-      <pubDate>Fri, 13 Mar 2026 02:23:34 GMT</pubDate>
-      <description>Two cats, Pip and Pablo, have become beloved fixtures at Taranaki Base Hospital in New Zealand, wandering the corridors and bringing comfort to patients and families during stressful visits. Hospital staff have now been told the cats cannot enter buildings due to infection control standards, sparking a wave of support from those who've experienced the animals' calming presence. Families share stories of the cats entertaining toddlers and easing the anxiety of hospital visits, while Pablo's owner, a junior doctor, has witnessed firsthand how her wandering birman lifts spirits. Though supporters acknowledge the cats shouldn't enter clinical areas, many believe the mental health benefits outweigh concerns, citing research on animals reducing stress and loneliness.</description>
-      <source url="https://www.rnz.co.nz/news/national/589504/cat-scans-yes-cats-no-popular-moggies-not-permitted-at-taranaki-base-hospital">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
