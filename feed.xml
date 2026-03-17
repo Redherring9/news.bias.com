@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 10:26:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 12:29:33 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>"There are bones everywhere": the whale cemeteries that transform the ocean depths</title>
+      <link>https://news.bias.com/go/2026-03-17-1229</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-1229</guid>
+      <pubDate>Tue, 17 Mar 2026 12:29:32 GMT</pubDate>
+      <description>Photographer Alex Dawson descended through hand-cut ice in eastern Greenland to document an unusual underwater scene: approximately 20 butchered minke whale carcasses resting in shallow water. The expedition required hours of preparation in -20°C temperatures, and free-diver Anna Von Boetticher could only endure 45 seconds at a time in the freezing depths. The images reveal bones that would naturally have sunk to the ocean floor, supporting entire ecosystems through a process scientists call "whale fall." Instead, these remains lie trapped in shallow waters beneath the ice, representing vital nutrients and habitats that will never form in the deep sea—a haunting reminder of how human activity can disrupt ocean ecosystems.</description>
+      <source url="https://www.bbc.com/mundo/articles/cj984plw9veo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>ASB Polyfest: The world's largest secondary school cultural festival returns to Auckland</title>
       <link>https://news.bias.com/go/2026-03-17-1026</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 13 Mar 2026 08:31:06 GMT</pubDate>
       <description>When a tailings dam collapsed at a Chinese-owned copper mine in Zambia's Kafue River basin in February 2025, it released over 50 million cubic litres of acid and heavy metals into the waterway. The disaster killed thousands of fish, crocodiles, and other wildlife, cut drinking water for half a million people, and devastated farmland. Researchers have identified at least 108 such dams—repositories of toxic mining waste—in key biodiversity areas worldwide, though the true number is likely higher. Climate change is increasing risks as extreme weather destabilizes these structures. The Zambian spill joins a grim list including Brazil's deadly Brumadinho and Mariana disasters, with toxic effects that can persist for decades.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/13/minings-toxic-timebomb-dams-full-of-poisonous-waste-are-dotted-around-the-world-what-happens-when-they-burst-aoe">The Guardian</source>
-    </item>
-    <item>
-      <title>Country diary: Frogspawn returns to the pond I built with my father | Claire Stares</title>
-      <link>https://news.bias.com/go/2026-03-13-0628</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-0628</guid>
-      <pubDate>Fri, 13 Mar 2026 06:28:32 GMT</pubDate>
-      <description>A gardener celebrates the return of frogspawn to a pond she built with her father nearly three decades ago. For years, the pond hosted thriving frog populations each spring, but smooth newts gradually took over as dominant predators, consuming tadpoles and other pond life. The frog breeding ceased for over a decade while newt numbers surged. Now, in a natural cycle of boom and bust, newt populations have dwindled and frogs are cautiously returning. The writer observes developing embryos with quiet hope, wondering if they'll complete their transformation over the coming months—a small but meaningful sign of ecological balance shifting once again.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/13/country-diary-frogspawn-returns-to-the-pond-i-built-with-my-father">The Guardian</source>
     </item>
   </channel>
 </rss>
