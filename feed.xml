@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 04:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 06:21:21 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Accidental discovery reveals new climate threat to emperor penguins</title>
+      <link>https://news.bias.com/go/2026-03-17-0621</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-0621</guid>
+      <pubDate>Tue, 17 Mar 2026 06:21:19 GMT</pubDate>
+      <description>Scientists have accidentally discovered new Antarctic locations where emperor penguins undergo their annual molt—a vulnerable period when they shed all feathers at once and cannot enter the water to feed. Using satellite imagery, researchers found that sea ice at many of these sites melted while penguins were still molting, potentially causing fatalities from hypothermia. The discovery suggests climate threats to these birds may be worse than previously understood. Penguins lose 40-50% of their body weight during the four-to-five-week molting process and require stable ice platforms. Researchers now face urgent questions about how many birds are affected and where else this ice loss is occurring across Antarctica.</description>
+      <source url="https://news.mongabay.com/2026/03/accidental-discovery-reveals-new-climate-threat-to-emperor-penguins/">Mongabay</source>
+    </item>
     <item>
       <title>Kārearea NZ falcon breeding in Auckland's Hūnua Ranges</title>
       <link>https://news.bias.com/go/2026-03-17-0418</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 13 Mar 2026 02:23:34 GMT</pubDate>
       <description>Two cats, Pip and Pablo, have become beloved fixtures at Taranaki Base Hospital in New Zealand, wandering the corridors and bringing comfort to patients and families during stressful visits. Hospital staff have now been told the cats cannot enter buildings due to infection control standards, sparking a wave of support from those who've experienced the animals' calming presence. Families share stories of the cats entertaining toddlers and easing the anxiety of hospital visits, while Pablo's owner, a junior doctor, has witnessed firsthand how her wandering birman lifts spirits. Though supporters acknowledge the cats shouldn't enter clinical areas, many believe the mental health benefits outweigh concerns, citing research on animals reducing stress and loneliness.</description>
       <source url="https://www.rnz.co.nz/news/national/589504/cat-scans-yes-cats-no-popular-moggies-not-permitted-at-taranaki-base-hospital">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Firefighter hits right note to free toddler stuck in a tambourine</title>
-      <link>https://news.bias.com/go/2026-03-13-0021</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-0021</guid>
-      <pubDate>Fri, 13 Mar 2026 00:21:24 GMT</pubDate>
-      <description>A Wellington fire crew responded to an unusual call when a one-year-old at a daycare center managed to slip a tambourine over his head and couldn't remove it. The toddler remained calm, wearing the wooden instrument like a loose collar around his neck. While firefighters distracted the child with their fire engine, a crew member quietly approached from behind and snipped off the tambourine with bolt cutters. Watch commander John Devereux, with 47 years of service, said it was his first tambourine rescue, though he'd previously freed children from buckets. The crew treated the successful operation as just another day's work.</description>
-      <source url="https://www.rnz.co.nz/news/national/589489/firefighter-hits-right-note-to-free-toddler-stuck-in-a-tambourine">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
