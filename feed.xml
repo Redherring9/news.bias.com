@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 00:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 02:15:42 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sceptical mine boss won over by uni's copper refining breakthrough</title>
+      <link>https://news.bias.com/go/2026-03-17-0215</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-0215</guid>
+      <pubDate>Tue, 17 Mar 2026 02:15:41 GMT</pubDate>
+      <description>As one of Australia's last copper smelters faces closure by 2030, University of Queensland researchers have developed a promising alternative that could transform the industry. Their hydrometallurgical process dissolves copper concentrate in saline solutions and uses electrical currents to extract the metal—eliminating the need for energy-intensive 1,200-degree furnaces. The technology uses roughly half the energy of traditional smelting and could process previously unusable arsenic-rich deposits without air pollution. Early tests impressed skeptical mining executives, though challenges remain around recovering valuable secondary minerals like gold and silver. A pilot plant is expected by 2028, with potential for multiple modular facilities across Queensland's mining region.</description>
+      <source url="https://www.abc.net.au/news/2026-03-17/cheaper-and-cleaner-copper-technology-potential-mount-isa/106450892">ABC Australia</source>
+    </item>
     <item>
       <title>'This is our whenua': Pasifika Festival brings together culture and colour</title>
       <link>https://news.bias.com/go/2026-03-17-0013</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 12 Mar 2026 22:19:18 GMT</pubDate>
       <description>NASA has announced plans to launch Artemis II on April 1st, marking humanity's first crewed journey around the Moon in over fifty years. The ten-day mission will carry four astronauts—Reid Wiseman, Christina Koch, Victor Glover, and Canadian Jeremy Hansen—aboard the new Space Launch System rocket and Orion capsule. The spacecraft will travel farther from Earth than any previous crewed mission. Recent technical challenges, including a helium flow blockage, have been resolved through repairs and system upgrades. This mission represents a crucial step in the Artemis program's goal to return astronauts to the lunar surface later this decade, following the last human Moon visit during Apollo 17 in 1972.</description>
       <source url="https://g1.globo.com/ciencia/noticia/2026/03/12/nasa-1o-de-abril-missao-tripulada-a-lua.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Swim rescue hero Austin Appelbee honoured by Irish president</title>
-      <link>https://news.bias.com/go/2026-03-12-2017</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-12-2017</guid>
-      <pubDate>Thu, 12 Mar 2026 20:17:00 GMT</pubDate>
-      <description>Fourteen-year-old Austin Appelbee has received recognition from Irish President Catherine Connolly after swimming four kilometers through rough ocean waters to save his family. In February, Austin, his Irish-born mother Joanne, and his two siblings drifted out to sea on inflatable watercraft off Western Australia's coast. After eight hours in the water, emergency services found them 14 kilometers offshore. Irish government minister Kevin Moran presented Austin with gifts and a presidential letter during a St Patrick's Day visit, noting how the story touched people in Ireland. Austin, who has also been honored by Western Australia's governor, called the presidential recognition unexpected and "a great honour," reflecting that the experience taught him selflessness.</description>
-      <source url="https://www.abc.net.au/news/2026-03-13/austin-appelbee-honoured-by-irish-president/106448682">ABC Australia</source>
     </item>
   </channel>
 </rss>
