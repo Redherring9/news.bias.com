@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 02:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 04:18:30 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kārearea NZ falcon breeding in Auckland's Hūnua Ranges</title>
+      <link>https://news.bias.com/go/2026-03-17-0418</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-0418</guid>
+      <pubDate>Tue, 17 Mar 2026 04:18:29 GMT</pubDate>
+      <description>New Zealand's native falcon, the kārearea, is successfully breeding in Auckland's Hūnua Ranges—a hopeful sign for the threatened species. A 40-day observation revealed a breeding pair raising two fledglings, the first confirmed breeding evidence in the area. With an estimated 5,000-8,000 kārearea nationwide, intensive predator control and ground-based trapping appear to be helping the population rebound. These remarkably fast birds, capable of high-speed pursuit through forest canopy, nest on the ground in simple hollows, making their eggs and chicks vulnerable to introduced predators. Researchers describe watching the agile hunters care for their young as "incredibly encouraging," suggesting the habitat now supports their complete breeding cycle.</description>
+      <source url="https://www.rnz.co.nz/news/national/589834/karearea-nz-falcon-breeding-in-auckland-s-hunua-ranges">Radio New Zealand</source>
+    </item>
     <item>
       <title>Sceptical mine boss won over by uni's copper refining breakthrough</title>
       <link>https://news.bias.com/go/2026-03-17-0215</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 13 Mar 2026 00:21:24 GMT</pubDate>
       <description>A Wellington fire crew responded to an unusual call when a one-year-old at a daycare center managed to slip a tambourine over his head and couldn't remove it. The toddler remained calm, wearing the wooden instrument like a loose collar around his neck. While firefighters distracted the child with their fire engine, a crew member quietly approached from behind and snipped off the tambourine with bolt cutters. Watch commander John Devereux, with 47 years of service, said it was his first tambourine rescue, though he'd previously freed children from buckets. The crew treated the successful operation as just another day's work.</description>
       <source url="https://www.rnz.co.nz/news/national/589489/firefighter-hits-right-note-to-free-toddler-stuck-in-a-tambourine">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>NASA targets April 1st for crewed Moon mission launch</title>
-      <link>https://news.bias.com/go/2026-03-12-2219</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-12-2219</guid>
-      <pubDate>Thu, 12 Mar 2026 22:19:18 GMT</pubDate>
-      <description>NASA has announced plans to launch Artemis II on April 1st, marking humanity's first crewed journey around the Moon in over fifty years. The ten-day mission will carry four astronauts—Reid Wiseman, Christina Koch, Victor Glover, and Canadian Jeremy Hansen—aboard the new Space Launch System rocket and Orion capsule. The spacecraft will travel farther from Earth than any previous crewed mission. Recent technical challenges, including a helium flow blockage, have been resolved through repairs and system upgrades. This mission represents a crucial step in the Artemis program's goal to return astronauts to the lunar surface later this decade, following the last human Moon visit during Apollo 17 in 1972.</description>
-      <source url="https://g1.globo.com/ciencia/noticia/2026/03/12/nasa-1o-de-abril-missao-tripulada-a-lua.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
