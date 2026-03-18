@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 10:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 13:00:49 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Brazil nut harvest in Paru Forest drives income and conservation in the Lower Amazon</title>
+      <link>https://news.bias.com/go/2026-03-18-1300</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-18-1300</guid>
+      <pubDate>Wed, 18 Mar 2026 13:00:44 GMT</pubDate>
+      <description>The Brazil nut harvest has begun in the Paru State Forest in the Lower Amazon region, bringing together traditional harvesters from Monte Alegre. Over 150 of the 187 registered collectors received safety equipment and supplies to support their work. The initiative, strengthened by years of institutional investment, seeks to balance traditional resource use with sustainable forest management. Training programs have equipped harvesters with technical knowledge on proper equipment use and best practices. The effort exemplifies how supporting forest communities can simultaneously generate income and protect the Amazon, demonstrating a model where economic activity and conservation work hand in hand.</description>
+      <source url="https://g1.globo.com/pa/santarem-regiao/noticia/2026/03/18/safra-da-castanha-do-para-na-flota-do-paru-impulsiona-renda-e-conservacao-no-baixo-amazonas.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Conspiração Filmes' 35th anniversary party celebrates Brazilian cinema at Gustavo Capanema Building</title>
       <link>https://news.bias.com/go/2026-03-18-1058</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 14 Mar 2026 08:58:57 GMT</pubDate>
       <description>In a small forest patch in southern Brazil, the critically endangered red-belly toad—with just over 1,000 individuals remaining—has proven remarkably resilient. In 2014, this tiny amphibian made history by halting construction of a hydroelectric dam that threatened its only habitat. Now, researcher Michelle Abadie, who has studied the species for over 15 years, ventures into the field following catastrophic 2024 floods that devastated the region. Her mission: to discover whether these remarkable creatures survived yet another existential threat, demonstrating how even the smallest species can have profound impacts on conservation efforts.</description>
       <source url="https://news.mongabay.com/video/2026/03/in-search-of-the-tiny-toad-that-stopped-a-dam/">Mongabay</source>
-    </item>
-    <item>
-      <title>Please drive carefully: scientists plan to transport volatile antimatter for first time</title>
-      <link>https://news.bias.com/go/2026-03-14-0656</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-0656</guid>
-      <pubDate>Sat, 14 Mar 2026 06:56:39 GMT</pubDate>
-      <description>Scientists at Cern are preparing to transport antimatter by truck for the first time, a 20-minute test run around their Geneva campus planned for later this month. The one-tonne container will carry roughly 1,000 antimatter particles—an almost unimaginably tiny amount that poses no safety risk. If successful, the milestone will allow researchers to transport antimatter to other laboratories for precision experiments. These studies aim to solve one of physics' deepest puzzles: why our universe is made of matter when equal amounts of matter and antimatter were created in the Big Bang. The scientists hope careful measurements will reveal subtle differences between the two, explaining why matter came to dominate our cosmos.</description>
-      <source url="https://www.theguardian.com/science/2026/mar/14/please-drive-carefully-scientists-plan-to-transport-volatile-antimatter-for-first-time">The Guardian</source>
     </item>
   </channel>
 </rss>
