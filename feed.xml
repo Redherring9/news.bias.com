@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 08:55:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 10:58:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Conspiração Filmes' 35th anniversary party celebrates Brazilian cinema at Gustavo Capanema Building</title>
+      <link>https://news.bias.com/go/2026-03-18-1058</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-18-1058</guid>
+      <pubDate>Wed, 18 Mar 2026 10:58:17 GMT</pubDate>
+      <description>Brazilian production company Conspiração Filmes celebrated its 35th anniversary with a festive gathering at Rio de Janeiro's newly restored Edifício Gustavo Capanema. Founded in 1991, the company has become one of Latin America's leading independent producers, accumulating over 300 festival awards worldwide. Among its notable works is "I'm Still Here," which won the Oscar for Best International Film. The celebration featured a surprise performance by Gilberto Gil and a projection mapping showcase of Brazilian films from across the country. Conspiração has produced more than 50 feature films, drawing over 30 million viewers, and continues developing 60+ projects across cinema, television, and streaming platforms.</description>
+      <source url="https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/03/18/festa-de-35-anos-da-conspiracao-filmes-celebra-o-cinema-brasileiro-no-edificio-gustavo-capanema.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Butterflies crossing oceans, moths navigating by the stars: unravelling the mysteries of insect migrations</title>
       <link>https://news.bias.com/go/2026-03-18-0855</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 14 Mar 2026 06:56:39 GMT</pubDate>
       <description>Scientists at Cern are preparing to transport antimatter by truck for the first time, a 20-minute test run around their Geneva campus planned for later this month. The one-tonne container will carry roughly 1,000 antimatter particles—an almost unimaginably tiny amount that poses no safety risk. If successful, the milestone will allow researchers to transport antimatter to other laboratories for precision experiments. These studies aim to solve one of physics' deepest puzzles: why our universe is made of matter when equal amounts of matter and antimatter were created in the Big Bang. The scientists hope careful measurements will reveal subtle differences between the two, explaining why matter came to dominate our cosmos.</description>
       <source url="https://www.theguardian.com/science/2026/mar/14/please-drive-carefully-scientists-plan-to-transport-volatile-antimatter-for-first-time">The Guardian</source>
-    </item>
-    <item>
-      <title>Now cultural heritage, collaborative fishing with dolphins celebrates rare relationship between species on the coast of RS: 'They became part of the family'</title>
-      <link>https://news.bias.com/go/2026-03-14-0454</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-0454</guid>
-      <pubDate>Sat, 14 Mar 2026 04:54:13 GMT</pubDate>
-      <description>A centuries-old fishing tradition in southern Brazil has been recognized as intangible cultural heritage by the national heritage institute. In the coastal waters near Tramandaí, artisanal fishers work alongside Lahille's bottlenose dolphins in a rare example of interspecies collaboration. The dolphins signal where fish schools gather by leaping and showing their dorsal fins, and fishers cast their nets at those precise spots. In return, the dolphins catch fish that escape the nets. The relationship is so close that individual dolphins have names—Geraldona, a female over 40 years old, fishes alongside her offspring and granddaughter. Fishers who have practiced this craft for generations describe the dolphins as family, and the new designation protects both the tradition and the territory from development.</description>
-      <source url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/14/agora-patrimonio-cultural-pesca-colaborativa-com-botos-celebra-relacao-rara-entre-especies-no-litoral-do-rs-viraram-parte-da-familia.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
