@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 06:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 08:55:48 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Butterflies crossing oceans, moths navigating by the stars: unravelling the mysteries of insect migrations</title>
+      <link>https://news.bias.com/go/2026-03-18-0855</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-18-0855</guid>
+      <pubDate>Wed, 18 Mar 2026 08:55:46 GMT</pubDate>
+      <description>Scientists are uncovering the remarkable journeys of migrating insects, travelers that were largely overlooked until recently. Researchers have now proven that painted lady butterflies can cross the Atlantic Ocean—a 4,200-kilometer journey aided by strategic wind navigation. These delicate insects cannot survive cold winters, so they follow seasonal cues like temperature and food availability to new breeding grounds, where a single female may lay over 1,000 eggs. Meanwhile, Australian bogong moths navigate hundreds of kilometers at night using stars as their compass, with brains smaller than a grain of rice. When skies cloud over, they rely on Earth's magnetic field instead. Trillions of insects undertake long-distance migrations annually, crossing deserts, mountains, and oceans in feats that continue to astonish scientists.</description>
+      <source url="https://www.theguardian.com/environment/ng-interactive/2026/mar/18/butterflies-crossing-oceans-moths-navigating-stars-insect-migrations-aoe">The Guardian</source>
+    </item>
     <item>
       <title>Ancient Graffiti Show Everyday Scenes from Pompeii</title>
       <link>https://news.bias.com/go/2026-03-18-0653</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 14 Mar 2026 04:54:13 GMT</pubDate>
       <description>A centuries-old fishing tradition in southern Brazil has been recognized as intangible cultural heritage by the national heritage institute. In the coastal waters near Tramandaí, artisanal fishers work alongside Lahille's bottlenose dolphins in a rare example of interspecies collaboration. The dolphins signal where fish schools gather by leaping and showing their dorsal fins, and fishers cast their nets at those precise spots. In return, the dolphins catch fish that escape the nets. The relationship is so close that individual dolphins have names—Geraldona, a female over 40 years old, fishes alongside her offspring and granddaughter. Fishers who have practiced this craft for generations describe the dolphins as family, and the new designation protects both the tradition and the territory from development.</description>
       <source url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/14/agora-patrimonio-cultural-pesca-colaborativa-com-botos-celebra-relacao-rara-entre-especies-no-litoral-do-rs-viraram-parte-da-familia.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>25 years in the making, Kanako Nishi steps into the global spotlight</title>
-      <link>https://news.bias.com/go/2026-03-14-0251</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-0251</guid>
-      <pubDate>Sat, 14 Mar 2026 02:51:56 GMT</pubDate>
-      <description>After 25 years of writing, Japanese author Kanako Nishi is gaining international recognition. At 48, she brings vibrant energy to both her workspace and her work—her Tokyo studio filled with colorful textiles and prayer flags reflects her dynamic presence. Yet beneath her bold exterior lies a vulnerability that infuses her storytelling. Her novel "Sakura" explores a family whose brightness and laughter conceal hidden fragility, mirroring the complexity Nishi herself embodies. The profile captures an artist whose authenticity and emotional depth have become central to her creative power as she steps onto the world stage.</description>
-      <source url="https://www.japantimes.co.jp/culture/2026/03/14/books/kanako-nishii-author-interview/">The Japan Times</source>
     </item>
   </channel>
 </rss>
