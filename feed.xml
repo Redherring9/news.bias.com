@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 02:47:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 04:50:20 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rangers combine ancient wisdom with modern technology to care for country</title>
+      <link>https://news.bias.com/go/2026-03-18-0450</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-18-0450</guid>
+      <pubDate>Wed, 18 Mar 2026 04:50:18 GMT</pubDate>
+      <description>Aboriginal ranger groups from Australia's New South Wales South Coast gathered for their first regional conference, exploring how ancient cultural knowledge and modern technology can work together in land management. Nine groups from Wollongong to Eden participated in workshops covering cultural burning, pest management, and innovative tools like thermal drones for nocturnal wildlife surveys and underwater drones for marine monitoring. Elders emphasized that while cultural wisdom remains essential, adapting to new methods helps younger rangers protect country more effectively. Virtual reality headsets also allow documentation of heritage sites, preserving cultural landmarks for future generations. The three-day event highlighted the importance of blending traditional perspectives with contemporary conservation techniques.</description>
+      <source url="https://www.abc.net.au/news/2026-03-18/aboriginal-rangers-conference-on-nsw-south-coast/106460538">ABC Australia</source>
+    </item>
     <item>
       <title>Desert gardener's 'little oasis' where trial and error are key to success</title>
       <link>https://news.bias.com/go/2026-03-18-0247</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 14 Mar 2026 00:49:41 GMT</pubDate>
       <description>A young jaguar found wearing a dog collar in northern Brazil is approaching her return to the wild after 14 months of rehabilitation. Rescued as a dehydrated month-old cub with injuries and infections, she has since gained 40 kilograms and relearned essential survival skills. Wildlife experts are using an unprecedented protocol for the species, and the jaguar now hunts prey and avoids humans—key behaviors for independence. She'll spend six to eight months at a sanctuary in Goiás, where specialists will observe her in a larger, more isolated forest environment before her final release into her natural habitat.</description>
       <source url="https://g1.globo.com/go/goias/noticia/2026/03/13/onca-encontrada-com-coleira-reaprende-habitos-de-caca-antes-de-ser-solta-na-natureza-em-goias.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Country Life: Pick and be merry - harvest time under a big sky</title>
-      <link>https://news.bias.com/go/2026-03-13-2247</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-2247</guid>
-      <pubDate>Fri, 13 Mar 2026 22:47:16 GMT</pubDate>
-      <description>At Big Sky Wines in New Zealand's Te Muna Valley, harvest season brings together a community of friends and neighbors who help pick grapes by hand. Husband-and-wife team Kath Jacobs and Jeremy Corban have run their certified organic vineyard for 21 years, producing around 20,000 liters annually—a classic small, family-run operation. Their early March harvest for sparkling wine is celebrated with shared labor, careful handpicking, and a communal lunch. Long-time volunteer Kate Smith has joined nearly every harvest since 2005, drawn by the camaraderie and connection. The couple values the "human factor" of hand-harvesting, ensuring quality over quantity, while the day embodies what Corban calls the business's true heart: conviviality.</description>
-      <source url="https://www.rnz.co.nz/news/country/589565/country-life-pick-and-be-merry-harvest-time-under-a-big-sky">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
