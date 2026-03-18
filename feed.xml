@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 13:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 15:03:42 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ancient skeleton unearthed in France is latest to be found sitting upright</title>
+      <link>https://news.bias.com/go/2026-03-18-1503</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-18-1503</guid>
+      <pubDate>Wed, 18 Mar 2026 15:03:28 GMT</pubDate>
+      <description>Children at a French primary school discovered a remarkably preserved skeleton sitting upright in a circular pit—the latest of nearly 20 such burials found in Dijon. Dating from around 300–200 BC, these Gallic tombs feature bodies seated facing west, hands in laps, with no belongings except one armband. Dijon now holds over a quarter of the world's known seated Gallic burials, yet researchers remain puzzled about their meaning. Were these seated graves honors or punishments? Some bodies show signs of violence, while bone analysis reveals physically active lives. With crucial surface layers missing, archaeologists acknowledge the mystery may persist, making their profession both fascinating and frustrating.</description>
+      <source url="https://www.theguardian.com/world/2026/mar/18/ancient-skeleton-discovered-sitting-upright-in-france">The Guardian</source>
+    </item>
     <item>
       <title>Brazil nut harvest in Paru Forest drives income and conservation in the Lower Amazon</title>
       <link>https://news.bias.com/go/2026-03-18-1300</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 14 Mar 2026 11:01:19 GMT</pubDate>
       <description>Ecologist Suzanne Simard has spent four decades studying Canada's forests, discovering they function as complex, interconnected communities rather than collections of competing individual trees. Her research reveals that trees communicate and share nutrients through underground fungal networks called mycorrhiza, with the oldest "mother trees" playing crucial roles in nurturing surrounding forest life. As Canadian wildfires worsen due to climate change and logging practices that favor flammable monoculture plantations, Simard argues that preserving diverse native forests offers natural carbon capture far more effective than technology. Once massive carbon sinks, Canada's forests have been net carbon emitters since 2001, underscoring the urgency of her message about protecting these "highly evolved organisms" as climate solutions.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/14/my-ideas-are-a-little-revolutionary-ecologist-suzanne-simard-on-intelligent-forests-the-climate-and-her-critics">The Guardian</source>
-    </item>
-    <item>
-      <title>In search of the tiny toad that stopped a dam</title>
-      <link>https://news.bias.com/go/2026-03-14-0858</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-0858</guid>
-      <pubDate>Sat, 14 Mar 2026 08:58:57 GMT</pubDate>
-      <description>In a small forest patch in southern Brazil, the critically endangered red-belly toad—with just over 1,000 individuals remaining—has proven remarkably resilient. In 2014, this tiny amphibian made history by halting construction of a hydroelectric dam that threatened its only habitat. Now, researcher Michelle Abadie, who has studied the species for over 15 years, ventures into the field following catastrophic 2024 floods that devastated the region. Her mission: to discover whether these remarkable creatures survived yet another existential threat, demonstrating how even the smallest species can have profound impacts on conservation efforts.</description>
-      <source url="https://news.mongabay.com/video/2026/03/in-search-of-the-tiny-toad-that-stopped-a-dam/">Mongabay</source>
     </item>
   </channel>
 </rss>
