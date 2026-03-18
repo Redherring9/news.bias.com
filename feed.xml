@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 00:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 02:47:36 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Desert gardener's 'little oasis' where trial and error are key to success</title>
+      <link>https://news.bias.com/go/2026-03-18-0247</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-18-0247</guid>
+      <pubDate>Wed, 18 Mar 2026 02:47:35 GMT</pubDate>
+      <description>In the outback town of Silverton, New South Wales, Helen Murray has cultivated a thriving garden amid red dust and extreme conditions ranging from 50-degree heat to frost. Her colorful oasis, recently featured in Gardening Australia magazine, showcases dahlias and roses that bloom despite the harsh desert climate. Murray's philosophy is simple: only plant what's truly hardy, not merely tolerant. Her garden came to the magazine's attention when a passing tourist—who happened to be the editor's cousin—was captivated by this unexpected green sanctuary. For Murray, who has gardened since childhood in England, the space offers serenity and a reminder that trial and error are essential to success.</description>
+      <source url="https://www.abc.net.au/news/2026-03-18/silverton-garden-featured-in-gardening-australia-magazine/106459518">ABC Australia</source>
+    </item>
     <item>
       <title>How you walk reveals to others how you are feeling, researchers say</title>
       <link>https://news.bias.com/go/2026-03-18-0045</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 13 Mar 2026 22:47:16 GMT</pubDate>
       <description>At Big Sky Wines in New Zealand's Te Muna Valley, harvest season brings together a community of friends and neighbors who help pick grapes by hand. Husband-and-wife team Kath Jacobs and Jeremy Corban have run their certified organic vineyard for 21 years, producing around 20,000 liters annually—a classic small, family-run operation. Their early March harvest for sparkling wine is celebrated with shared labor, careful handpicking, and a communal lunch. Long-time volunteer Kate Smith has joined nearly every harvest since 2005, drawn by the camaraderie and connection. The couple values the "human factor" of hand-harvesting, ensuring quality over quantity, while the day embodies what Corban calls the business's true heart: conviviality.</description>
       <source url="https://www.rnz.co.nz/news/country/589565/country-life-pick-and-be-merry-harvest-time-under-a-big-sky">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>How a cold country manages to produce some of the world's best wines</title>
-      <link>https://news.bias.com/go/2026-03-13-2044</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-2044</guid>
-      <pubDate>Fri, 13 Mar 2026 20:44:52 GMT</pubDate>
-      <description>Germany has quietly become a world-class wine producer, specializing in Riesling, a white wine that accounts for 40% of its national production. Despite a colder climate and less sunlight than typical wine regions, German vineyards thrive thanks to slow-ripening grapes that mature during sunny autumns. The country cultivates over 100 grape varieties across 103,000 hectares, with Riesling particularly well-suited to heat-retaining soils along steep slopes like those in the Rhine valley. These wines are known for their bright acidity, mineral notes, and surprising aromas ranging from green apple and peach to honeycomb and even petroleum in aged bottles—a prized characteristic among enthusiasts.</description>
-      <source url="https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/03/13/como-um-pais-frio-consegue-produzir-um-dos-melhores-vinhos-do-mundo.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
