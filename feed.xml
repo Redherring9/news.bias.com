@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 15:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 17:06:46 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Čučuci Waterfall in Čučuci, Montenegro</title>
+      <link>https://news.bias.com/go/2026-03-18-1706</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-18-1706</guid>
+      <pubDate>Wed, 18 Mar 2026 17:06:15 GMT</pubDate>
+      <description>Tucked into the hills above Montenegro's busy Adriatic coast, the Čučuci Waterfall offers a quiet contrast to the crowded beaches below. This small, seasonal cascade flows through Mediterranean vegetation, most active after spring rains. Unlike the country's famous waterfalls, Čučuci remains largely unmarked and known mainly to locals and explorers willing to follow unmarked trails inland from Rafailovići village. The journey feels more like discovering a secret than visiting a tourist site—a peaceful refuge where traffic noise gives way to the sound of running water. While too small for swimming, it serves as a contemplative rest stop with sunset views stretching back toward the sea.</description>
+      <source url="https://www.atlasobscura.com/places/cucuci-waterfall-montenegro">Atlas Obscura</source>
+    </item>
     <item>
       <title>Ancient skeleton unearthed in France is latest to be found sitting upright</title>
       <link>https://news.bias.com/go/2026-03-18-1503</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 14 Mar 2026 13:03:44 GMT</pubDate>
       <description>The number 142857 has captivated mathematicians, recreational math enthusiasts, and even novelists for centuries. When multiplied by any number from 1 to 6, it produces cyclic rotations of its own digits in the same order — a rare property that makes it a "cyclic number." Multiply it by 7, and it becomes 999999. Its peculiar patterns have made it a favorite for magic tricks and mathematical play, celebrated by figures like Martin Gardner and featured in a Don DeLillo novel. Beyond its mathematical elegance, the number offers a delightful reminder that numbers can surprise and enchant us with hidden symmetries.</description>
       <source url="https://www.bbc.com/mundo/articles/cwyk6dw32leo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>‘My ideas are a little revolutionary’: ecologist Suzanne Simard on intelligent forests, the climate and her critics</title>
-      <link>https://news.bias.com/go/2026-03-14-1101</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-1101</guid>
-      <pubDate>Sat, 14 Mar 2026 11:01:19 GMT</pubDate>
-      <description>Ecologist Suzanne Simard has spent four decades studying Canada's forests, discovering they function as complex, interconnected communities rather than collections of competing individual trees. Her research reveals that trees communicate and share nutrients through underground fungal networks called mycorrhiza, with the oldest "mother trees" playing crucial roles in nurturing surrounding forest life. As Canadian wildfires worsen due to climate change and logging practices that favor flammable monoculture plantations, Simard argues that preserving diverse native forests offers natural carbon capture far more effective than technology. Once massive carbon sinks, Canada's forests have been net carbon emitters since 2001, underscoring the urgency of her message about protecting these "highly evolved organisms" as climate solutions.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/14/my-ideas-are-a-little-revolutionary-ecologist-suzanne-simard-on-intelligent-forests-the-climate-and-her-critics">The Guardian</source>
     </item>
   </channel>
 </rss>
