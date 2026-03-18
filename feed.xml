@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 22:42:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 00:45:12 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How you walk reveals to others how you are feeling, researchers say</title>
+      <link>https://news.bias.com/go/2026-03-18-0045</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-18-0045</guid>
+      <pubDate>Wed, 18 Mar 2026 00:45:11 GMT</pubDate>
+      <description>Researchers in Japan have found that the way people walk—particularly the swing of their arms and legs—reveals their emotional state to observers. In experiments using point-light videos that masked facial expressions, volunteers successfully identified emotions from gait alone. Larger, more pronounced swings were perceived as anger, while smaller, restrained movements conveyed sadness or fear. The findings suggest humans rely on a subtle vocabulary of bodily movement during social interactions, allowing us to assess others' feelings from a distance. Scientists are exploring potential applications, including emotion-monitoring wearable devices and machine-learning systems that could interpret mental states from movement patterns, though accuracy remains limited.</description>
+      <source url="https://www.theguardian.com/science/2026/mar/18/how-you-walk-reveals-to-others-how-you-are-feeling-researchers-say">The Guardian</source>
+    </item>
     <item>
       <title>Nobunaga Daimyōjin in Osaka, Japan</title>
       <link>https://news.bias.com/go/2026-03-17-2242</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 13 Mar 2026 20:44:52 GMT</pubDate>
       <description>Germany has quietly become a world-class wine producer, specializing in Riesling, a white wine that accounts for 40% of its national production. Despite a colder climate and less sunlight than typical wine regions, German vineyards thrive thanks to slow-ripening grapes that mature during sunny autumns. The country cultivates over 100 grape varieties across 103,000 hectares, with Riesling particularly well-suited to heat-retaining soils along steep slopes like those in the Rhine valley. These wines are known for their bright acidity, mineral notes, and surprising aromas ranging from green apple and peach to honeycomb and even petroleum in aged bottles—a prized characteristic among enthusiasts.</description>
       <source url="https://g1.globo.com/pr/parana/especial-publicitario/porto-a-porto/guia-do-vinho-e-da-gastronomia/noticia/2026/03/13/como-um-pais-frio-consegue-produzir-um-dos-melhores-vinhos-do-mundo.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Environmental education project mobilizes students and distributes nearly 700 seedlings in Piauí</title>
-      <link>https://news.bias.com/go/2026-03-13-1842</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-13-1842</guid>
-      <pubDate>Fri, 13 Mar 2026 18:42:37 GMT</pubDate>
-      <description>A environmental education project in Brazil's Piauí state brought hands-on learning to hundreds of students across the northern region. Over 600 students and 100 staff members participated in planting nearly 700 fruit tree saplings at schools coordinated by the state's environmental agency. The initiative combined educational workshops with direct planting activities, aiming to foster environmental awareness through tangible connection with nature. Officials emphasize that watching the plants grow helps students understand their role in building a sustainable future. The program visited multiple municipalities, turning schools into spaces for environmental formation and community engagement with the land.</description>
-      <source url="https://g1.globo.com/pi/piaui/especial-publicitario/governo-do-piaui-aqui-tem-trabalho-aqui-tem-futuro/noticia/2026/03/13/projeto-de-educacao-ambiental-mobiliza-alunos-e-distribui-quase-700-mudas-no-piaui.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
