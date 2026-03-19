@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 09:28:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 11:31:19 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>World Frog Day: New species described amid threats to amphibian survival</title>
+      <link>https://news.bias.com/go/2026-03-19-1131</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-1131</guid>
+      <pubDate>Thu, 19 Mar 2026 11:31:17 GMT</pubDate>
+      <description>As World Frog Day marks March 20, scientists celebrate amphibians that have survived for hundreds of millions of years while confronting a sobering reality: 40% of species now face extinction. Though roughly 150 new amphibian species are discovered annually, many are immediately classified as threatened. Recent stories illustrate the challenges: rare galaxy frogs in India's Western Ghats disappeared after unregulated photo tourism, California's mountain yellow-legged frog clings to survival despite reintroduction efforts hampered by invasive trout and climate impacts, and three newly described Peruvian species already face habitat loss. Researchers emphasize the urgency, noting some species may vanish before they're even named.</description>
+      <source url="https://news.mongabay.com/short-article/2026/03/world-frog-day-new-species-described-amid-threats-to-amphibian-survival/">Mongabay</source>
+    </item>
     <item>
       <title>Amid energy market turmoil, the people taking power into their own hands</title>
       <link>https://news.bias.com/go/2026-03-19-0928</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 15 Mar 2026 07:24:15 GMT</pubDate>
       <description>The National Trust has launched a decade-long project to restore and plant 23 kilometers of hedgerows across its Wimpole Hall estate in Cambridgeshire. Using traditional techniques like hedge-laying and coppicing, staff and volunteers have already planted 30,000 trees this winter. The initiative aims to create vital habitat for declining farmland birds such as corn buntings and yellowhammers, while also supporting the working farm through natural firebreaks and soil protection. The project demonstrates how restoring traditional landscape features can strengthen ecological networks and build resilience against climate change, connecting the estate's mansion, parkland, and agricultural areas into a more robust system.</description>
       <source url="https://www.bbc.com/news/articles/cwyxzj0vxvyo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Brasília elected Ibero-American Capital of Cultural Heritage; see what this means</title>
-      <link>https://news.bias.com/go/2026-03-15-0521</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-15-0521</guid>
-      <pubDate>Sun, 15 Mar 2026 05:21:57 GMT</pubDate>
-      <description>Brasília has been named the Ibero-American Capital of Cultural Heritage by a network of 29 cities across 24 countries. The Brazilian capital, already recognized as a UNESCO World Heritage Site since 1987, received this honor during an international meeting focused on heritage management and preservation. Designed by Lúcio Costa and Oscar Niemeyer, Brasília is considered the world's largest protected urban site. Researchers note the title amplifies the city's responsibility to preserve its architectural legacy while addressing contemporary needs. Though the recognition strengthens institutional commitment to cultural preservation, experts highlight ongoing challenges including maintenance gaps and the need for robust public policies to protect both material and intangible heritage across the city's 65-year history.</description>
-      <source url="https://g1.globo.com/df/distrito-federal/noticia/2026/03/15/brasilia-e-eleita-capital-ibero-americana-de-patrimonio-cultural-veja-o-que-isso-significa.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
