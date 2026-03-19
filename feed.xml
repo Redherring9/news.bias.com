@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 21:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 23:47:49 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple variety once thought extinct confirmed on NSW farm</title>
+      <link>https://news.bias.com/go/2026-03-19-2347</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-2347</guid>
+      <pubDate>Thu, 19 Mar 2026 23:47:47 GMT</pubDate>
+      <description>A variety of cooking apple once believed extinct has been confirmed growing on a rural property in New South Wales, making Australia the fourth country in the world where the Rymer apple survives. Rudi Stachow, 76, grew up eating the fruit from trees his father propagated in the 1950s, tracing their lineage to 19th-century settlers. Local cider maker Gary Sully recognized the rare variety and worked with UK experts to verify it through DNA testing. The confirmation in 2023 was especially poignant given that only three aging trees remain on the original property, their trunks now rotting. Sully is propagating dozens of seedlings to preserve this piece of living agricultural history for future generations.</description>
+      <source url="https://www.abc.net.au/news/2026-03-20/rare-rymer-apples-on-nsw-property/106330716">ABC Australia</source>
+    </item>
     <item>
       <title>Luytens’ Crypt in Liverpool, England</title>
       <link>https://news.bias.com/go/2026-03-19-2145</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 15 Mar 2026 19:38:36 GMT</pubDate>
       <description>Santos, a coastal city in São Paulo state, has achieved exceptional HPV vaccination rates, reaching 98% coverage in 2023 and surpassing national averages. The city vaccinated nearly 90% of girls and 83% of boys in 2025, compared to Brazil's 82% and 67% respectively. Health experts credit school-based vaccination programs for this success and recommend replicating the strategy nationwide. The results are tangible: Santos has seen a 66.6% decrease in cervical cancer rates, one of the lowest in Brazil. Pediatric infectologist Renato Kfouri emphasizes that HPV vaccination effectively prevents several types of cancer, calling it "a vaccine against cancer" that could significantly reduce disease rates across the country.</description>
       <source url="https://g1.globo.com/sp/santos-regiao/mais-saude/noticia/2026/03/15/santos-supera-a-media-do-brasil-e-se-torna-referencia-na-vacinacao-contra-hpv.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Everyone thinks the universe is quiet... but the 'Monster's Mouth' nebula proves quite the opposite</title>
-      <link>https://news.bias.com/go/2026-03-15-1735</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-15-1735</guid>
-      <pubDate>Sun, 15 Mar 2026 17:35:52 GMT</pubDate>
-      <description>Deep in space, the "Monster's Mouth" nebula offers a striking cosmic portrait. Located 1,300 light-years away in the Puppis constellation, this stellar nursery spans 1.5 light-years at its glowing red head, with a faint tail stretching 8 light-years behind. Known formally as CG 4, it belongs to a rare class called cometary globules—dense clouds of gas and dust shaped by ancient violence. Astronomers believe supernova shockwaves or intense stellar winds sculpted its distinctive form, pushing lighter gas backward while leaving the dense head intact. Against this drama, the spiral galaxy ESO 257-19 shimmers 100 million light-years beyond, offering a stunning contrast between nearby stellar birth and distant galactic beauty.</description>
-      <source url="https://www.aljazeera.net/science/2026/3/15/%d9%85%d8%ac%d8%b1%d8%a9-%d9%85%d8%ad%d9%85%d9%8a%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d9%88%d8%ad%d8%b4-%d8%a7%d9%84%d9%83%d9%88%d9%86%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%85%d9%88%d9%84%d8%af?traffic_source=rss">Al Jazeera Arabic</source>
     </item>
   </channel>
 </rss>
