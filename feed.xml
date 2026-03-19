@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 07:25:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 09:28:33 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Amid energy market turmoil, the people taking power into their own hands</title>
+      <link>https://news.bias.com/go/2026-03-19-0928</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-0928</guid>
+      <pubDate>Thu, 19 Mar 2026 09:28:32 GMT</pubDate>
+      <description>Reg Platt's company Emergent Energy is pioneering a model that brings solar power directly to council housing residents in London's Hackney borough. By installing panels on flat roofs and creating local micro-grids, the system cuts electricity bills by around 15% while requiring no government subsidy—it pays for itself through energy sales. So far, 800 residents across 28 buildings benefit from this approach, which won a 2025 Ashden Award. With millions of UK social housing flats potentially suitable for similar projects, the model could transform access to affordable clean energy. Platt himself evolved from musician and climate activist to policy expert before embracing entrepreneurship, blending creativity with technical expertise to address energy challenges at community scale.</description>
+      <source url="https://www.positive.news/environment/amid-energy-market-turmoil-the-people-taking-power-into-their-own-hands/">Positive News</source>
+    </item>
     <item>
       <title>Tough breeding season for tara iti - one of New Zealand's smallest birds</title>
       <link>https://news.bias.com/go/2026-03-19-0725</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 15 Mar 2026 05:21:57 GMT</pubDate>
       <description>Brasília has been named the Ibero-American Capital of Cultural Heritage by a network of 29 cities across 24 countries. The Brazilian capital, already recognized as a UNESCO World Heritage Site since 1987, received this honor during an international meeting focused on heritage management and preservation. Designed by Lúcio Costa and Oscar Niemeyer, Brasília is considered the world's largest protected urban site. Researchers note the title amplifies the city's responsibility to preserve its architectural legacy while addressing contemporary needs. Though the recognition strengthens institutional commitment to cultural preservation, experts highlight ongoing challenges including maintenance gaps and the need for robust public policies to protect both material and intangible heritage across the city's 65-year history.</description>
       <source url="https://g1.globo.com/df/distrito-federal/noticia/2026/03/15/brasilia-e-eleita-capital-ibero-americana-de-patrimonio-cultural-veja-o-que-isso-significa.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Twizel photographer Jeff Ng captures Aurora Australis from Lake Ruataniwha</title>
-      <link>https://news.bias.com/go/2026-03-15-0319</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-15-0319</guid>
-      <pubDate>Sun, 15 Mar 2026 03:19:36 GMT</pubDate>
-      <description>Jeff Ng, an astrophotography enthusiast and Airbnb owner in Twizel, New Zealand, captured a stunning view of the Aurora Australis at Lake Ruataniwha on a recent Saturday night. Ng, who moved to the area from Wellington last June specifically for its dark skies, says auroras have been appearing frequently lately, though photographing them still requires monitoring solar activity and timing. Twizel sits within the Aoraki Mackenzie International Dark Sky Reserve, one of only two such reserves in New Zealand. After six years of practicing photography, Ng now plans to explore more of the South Island's prime aurora-viewing locations by campervan.</description>
-      <source url="https://www.rnz.co.nz/news/national/589651/twizel-photographer-jeff-ng-captures-aurora-australis-from-lake-ruataniwha">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
