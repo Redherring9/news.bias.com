@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 17:39:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 19:42:29 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Priest's Training': faithful celebrate Saint Joseph's day with race and rain in Ceará's interior</title>
+      <link>https://news.bias.com/go/2026-03-19-1942</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-1942</guid>
+      <pubDate>Thu, 19 Mar 2026 19:42:27 GMT</pubDate>
+      <description>In the town of Iguatu in Brazil's Ceará interior, a local priest has created a unique tradition that blends faith, community, and wellness. Father José Wallace Pinheiro organizes biweekly running groups called 'Treino do Padre' (Priest's Training), inviting parishioners of all abilities to exercise together. On Saint Joseph's feast day, the group held their second annual Saint Joseph's Run, drawing hundreds of participants who began before dawn with prayer and stretching. Among the runners were an 82-year-old vendor and a personal trainer accompanied by Zeus, a dog who has become the runs' beloved mascot. The event concluded under heavy rain—considered a hopeful sign for the semi-arid region's rainy season.</description>
+      <source url="https://g1.globo.com/ce/ceara/noticia/2026/03/19/treino-do-padre-fieis-celebram-dia-de-sao-jose-com-corrida-e-chuva-no-interior-do-ceara.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>São José: cave that became a place of devotion after farmer's promise asking for rain during drought attracts faithful in Piauí</title>
       <link>https://news.bias.com/go/2026-03-19-1739</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 15 Mar 2026 15:33:40 GMT</pubDate>
       <description>A researcher in Rondônia, Brazil, captured rare footage of the uirapuru, one of the Amazon's most enigmatic birds. This elusive creature sings for only 12 to 15 days each year during its September-October breeding season. Males produce a melodious, flute-like song with complex notes to attract females, then fall silent until the next cycle. The rusty-colored uirapuru lives in dense, mature forest and is extraordinarily sensitive to environmental changes, abandoning areas even when a single tree falls. Its discrete plumage makes visual observation nearly impossible. Despite its mystique in Amazonian folklore, scientists know remarkably little about the species—its nesting habits, egg count, and parental behavior remain mysteries, preserving the bird's legendary status in the forest.</description>
       <source url="https://g1.globo.com/ro/rondonia/noticia/2026/03/15/video-fotografo-registra-em-rondonia-canto-de-ave-que-so-pode-ser-ouvido-15-dias-por-ano.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>"I Arrested Otto Abetz": The Incredible Hunt for the High-Ranking Nazi by a Jewish Resistance Fighter</title>
-      <link>https://news.bias.com/go/2026-03-15-1331</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-15-1331</guid>
-      <pubDate>Sun, 15 Mar 2026 13:31:27 GMT</pubDate>
-      <description>After fleeing Nazi Germany for France in 1933, Joachim Eisack joined the resistance during World War II, hiding under the false name Ezac. Following liberation, he was sent to occupied Germany where he successfully tracked down and arrested Otto Abetz, Hitler's former ambassador to Paris and a key figure in Vichy collaboration. Despite the arrest making headlines in 1945, Eisack's role faded into obscurity. Decades later, his grandson Didier discovered the story through genealogical research and has now brought this forgotten hero's remarkable journey to light through a graphic novel, preserving a powerful family legacy.</description>
-      <source url="https://www.france24.com/fr/culture/20260315-j-ai-arrete-otto-abetz-incroyable-traque-haut-dignitaire-nazi-par-resistant-juif-eisak-seconde-guerre-mondiale">France 24</source>
     </item>
   </channel>
 </rss>
