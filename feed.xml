@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 03:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 05:23:08 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stretching 2,689 miles, the world's longest coastal path opens in England</title>
+      <link>https://news.bias.com/go/2026-03-19-0523</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-0523</guid>
+      <pubDate>Thu, 19 Mar 2026 05:23:07 GMT</pubDate>
+      <description>England has officially opened the world's longest managed coastal walking route, stretching 2,689 miles around the entire English coastline. The King Charles III England Coast Path took 18 years to complete, adding over 1,000 miles of new pathways to existing trails and upgrading many sections with improved surfaces, bridges, and accessibility features. The route passes through diverse landscapes including chalk cliffs, salt marshes, sandy beaches, and historic towns. Uniquely, new legislation allows the path to "roll back" inland as coastlines shift due to erosion and climate change, ensuring its continuity for future generations. About 80% is currently open, with completion expected by year's end.</description>
+      <source url="https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Group of Black women from São Paulo leads Afro-Brazilian procession in Belém this Saturday</title>
       <link>https://news.bias.com/go/2026-03-19-0320</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 15 Mar 2026 01:17:23 GMT</pubDate>
       <description>The number 142857 has captivated mathematicians, recreational math enthusiasts, and even novelists for centuries. This six-digit sequence is mathematically classified as a cyclic number—when multiplied by any integer from 1 to 6, it produces rotations of its own digits in the same circular order. Multiply it by 7, and it yields 999999. The number has appeared in magic tricks, inspired occultists who saw mystical significance in it, and even featured in Don DeLillo's cult novel. Popularizers like Martin Gardner and mental calculator Shakuntala Devi showed how anyone could enjoy exploring its playful mathematical properties, turning abstract number theory into accessible wonder.</description>
       <source url="https://www.bbc.com/portuguese/articles/c4g4162lepgo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
-    </item>
-    <item>
-      <title>Message in a bottle leads to 25-year intercontinental friendship</title>
-      <link>https://news.bias.com/go/2026-03-14-2315</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-2315</guid>
-      <pubDate>Sat, 14 Mar 2026 23:15:08 GMT</pubDate>
-      <description>In 2001, Diane Charles discovered a barnacle-covered bottle on a Tasmanian beach containing a message written in Spanish. With help from locals and a dictionary, she traced it to Erika Boyero, a Colombian bartender who had tossed it from a cruise ship off Norway four years earlier. The unlikely pen pals maintained their friendship across continents for 25 years, sharing life's milestones through letters and calls. Last week, they finally met in person when Boyero flew from Germany to Tasmania. The pair embraced like old friends and walked the same beach where their connection began, later visiting the museum that now houses the message that brought them together.</description>
-      <source url="https://www.abc.net.au/news/2026-03-15/message-in-a-bottle-tasmania-norway-tatlows-beach-stanley/106450912">ABC Australia</source>
     </item>
   </channel>
 </rss>
