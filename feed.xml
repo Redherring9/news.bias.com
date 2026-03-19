@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 23:15:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 01:17:48 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The families opening their doors to homeless teens</title>
+      <link>https://news.bias.com/go/2026-03-19-0117</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-0117</guid>
+      <pubDate>Thu, 19 Mar 2026 01:17:47 GMT</pubDate>
+      <description>An Auckland couple, Sue and Tony Kerr, initially worried about hosting homeless teenagers through The Safety Net programme—fearing theft, awkward generational gaps, and rejected meals. Instead, they discovered compassionate young people who shared dinners and decorated Christmas trees. The programme connects homeless rangatahi with volunteer host families for short stays while permanent housing is arranged. In two years, 36 young people have been housed, many fleeing family breakdown, violence, or poverty. Coordinator Josh Hendry notes a critical gap for 16- and 17-year-olds, who can wait eight weeks for government support. The initiative, currently with six west Auckland host homes, aims to expand citywide, offering early intervention to prevent long-term youth homelessness.</description>
+      <source url="https://www.rnz.co.nz/news/national/590012/families-open-up-homes-to-homeless-teens-under-the-safety-net-programme">Radio New Zealand</source>
+    </item>
     <item>
       <title>Watch: Students share what Polyfest means to them</title>
       <link>https://news.bias.com/go/2026-03-18-2315</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 14 Mar 2026 21:12:51 GMT</pubDate>
       <description>Australia is grappling with its largest and longest-lasting algal bloom, which has persisted along South Australia's coastline for over a year. The bloom, caused by Karenia cristata—a rare toxic algae previously documented in only two other locations worldwide—has affected 20,000 square kilometers and caused millions of marine deaths. Among the hardest hit is the leafy sea dragon, South Australia's marine emblem, with populations collapsing in some areas and extinction risk now under review. The bloom has devastated artificial reef habitats around historic jetties, wiped out seagrass meadows, and caused Port Jackson sharks to largely disappear. Marine scientists describe it as unprecedented in scope and duration, with profound ecological and psychological impacts on coastal communities.</description>
       <source url="https://www.theguardian.com/environment/ng-interactive/2026/mar/14/algal-bloom-south-australia-update-one-year-on">The Guardian</source>
-    </item>
-    <item>
-      <title>The bikers transforming the lives of abused children, one ride at a time</title>
-      <link>https://news.bias.com/go/2026-03-14-1910</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-14-1910</guid>
-      <pubDate>Sat, 14 Mar 2026 19:10:35 GMT</pubDate>
-      <description>Bikers Against Child Abuse (BACA) is a global charity with chapters across Australia where leather-clad motorcyclists work to help young abuse victims reclaim a sense of safety. The group doesn't confront perpetrators; instead, members accompany children to court, stand guard outside their homes when they're frightened, and offer reassurance through their protective presence and rumbling motorcycles. With strict protocols including background checks and mandatory training, two assigned members become available to each child 24/7. What's striking about these physically imposing bikers is their emotional openness—many become tearful when explaining their motivation to shield vulnerable kids from fear and help them feel protected in their daily lives.</description>
-      <source url="https://www.abc.net.au/news/2026-03-15/bikers-against-child-abuse-australia-young-people-abuse-safety/106307714">ABC Australia</source>
     </item>
   </channel>
 </rss>
