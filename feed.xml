@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 15:36:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 17:39:42 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>São José: cave that became a place of devotion after farmer's promise asking for rain during drought attracts faithful in Piauí</title>
+      <link>https://news.bias.com/go/2026-03-19-1739</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-1739</guid>
+      <pubDate>Thu, 19 Mar 2026 17:39:40 GMT</pubDate>
+      <description>In the rural hills of Piauí, Brazil, a cave has become a cherished pilgrimage site after a farmer's promise during severe drought. According to local tradition, José Lima vowed to place a statue of Saint Joseph in the grotto if rain would come to save his community's failing crops. When the rains arrived, he fulfilled his promise, and the cave transformed into a place of prayer and thanksgiving. Today, devotees travel from across the region, leaving ex-votos—symbolic offerings of gratitude—for blessings received. The site has grown over the years, now hosting regular masses and drawing hundreds of faithful visitors who seek Saint Joseph's intercession, especially during times of hardship.</description>
+      <source url="https://g1.globo.com/pi/piaui/noticia/2026/03/19/sao-jose-gruta.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Jaraqui, symbol of Amazonian cuisine, approved as intangible cultural heritage</title>
       <link>https://news.bias.com/go/2026-03-19-1536</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 15 Mar 2026 13:31:27 GMT</pubDate>
       <description>After fleeing Nazi Germany for France in 1933, Joachim Eisack joined the resistance during World War II, hiding under the false name Ezac. Following liberation, he was sent to occupied Germany where he successfully tracked down and arrested Otto Abetz, Hitler's former ambassador to Paris and a key figure in Vichy collaboration. Despite the arrest making headlines in 1945, Eisack's role faded into obscurity. Decades later, his grandson Didier discovered the story through genealogical research and has now brought this forgotten hero's remarkable journey to light through a graphic novel, preserving a powerful family legacy.</description>
       <source url="https://www.france24.com/fr/culture/20260315-j-ai-arrete-otto-abetz-incroyable-traque-haut-dignitaire-nazi-par-resistant-juif-eisak-seconde-guerre-mondiale">France 24</source>
-    </item>
-    <item>
-      <title>Study reveals: Mass migration of the Sun and thousands of stars from the heart of the Milky Way</title>
-      <link>https://news.bias.com/go/2026-03-15-1129</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-15-1129</guid>
-      <pubDate>Sun, 15 Mar 2026 11:29:05 GMT</pubDate>
-      <description>A new study from the University of Tokyo and Japan's National Astronomical Observatory reveals that our Sun was part of a massive stellar migration 4 to 6 billion years ago. Using data from the European Space Agency's Gaia observatory, researchers identified around 6,600 solar twins that journeyed from the dense, radiation-filled galactic center to calmer outer regions. This exodus occurred when the galaxy's central disk was still forming, allowing stars to escape what is normally a gravitational barrier. The Sun now rests 27,000 light-years from the galactic core—a quieter location that proved hospitable for life on Earth. Future Japanese satellite missions aim to trace these stellar migration paths further.</description>
-      <source url="https://www.aljazeera.net/science/2026/3/15/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%aa%d9%83%d8%b4%d9%81-%d9%87%d8%ac%d8%b1%d8%a9-%d8%ac%d9%85%d8%a7%d8%b9%d9%8a%d8%a9-%d9%84%d9%84%d8%b4%d9%85%d8%b3-%d9%88%d8%a2%d9%84%d8%a7%d9%81?traffic_source=rss">Al Jazeera Arabic</source>
     </item>
   </channel>
 </rss>
