@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 13:33:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 15:36:53 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jaraqui, symbol of Amazonian cuisine, approved as intangible cultural heritage</title>
+      <link>https://news.bias.com/go/2026-03-19-1536</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-1536</guid>
+      <pubDate>Thu, 19 Mar 2026 15:36:49 GMT</pubDate>
+      <description>Brazil's Amazonas State Legislature has approved a bill recognizing the jaraqui fish as intangible cultural heritage. This small fish accounts for 93% of fishing catches in the central Amazon and is the region's most consumed seafood. Beyond its nutritional value, the jaraqui holds deep symbolic meaning in local culture, appearing in songs, sayings, and food festivals. A popular phrase celebrates its appeal: "Whoever eats jaraqui never leaves here." The legislation calls for educational programs, research support, and cultural events to preserve this tradition while promoting artisanal fishing and environmental conservation. The capital city of Manaus had already granted the fish municipal heritage status in 2019.</description>
+      <source url="https://g1.globo.com/am/amazonas/noticia/2026/03/19/jaraqui-simbolo-da-culinaria-amazonense-e-aprovado-como-patrimonio-cultural-imaterial.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>From Goethe to Soraya: German-Iranian Stories</title>
       <link>https://news.bias.com/go/2026-03-19-1333</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 15 Mar 2026 11:29:05 GMT</pubDate>
       <description>A new study from the University of Tokyo and Japan's National Astronomical Observatory reveals that our Sun was part of a massive stellar migration 4 to 6 billion years ago. Using data from the European Space Agency's Gaia observatory, researchers identified around 6,600 solar twins that journeyed from the dense, radiation-filled galactic center to calmer outer regions. This exodus occurred when the galaxy's central disk was still forming, allowing stars to escape what is normally a gravitational barrier. The Sun now rests 27,000 light-years from the galactic core—a quieter location that proved hospitable for life on Earth. Future Japanese satellite missions aim to trace these stellar migration paths further.</description>
       <source url="https://www.aljazeera.net/science/2026/3/15/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%aa%d9%83%d8%b4%d9%81-%d9%87%d8%ac%d8%b1%d8%a9-%d8%ac%d9%85%d8%a7%d8%b9%d9%8a%d8%a9-%d9%84%d9%84%d8%b4%d9%85%d8%b3-%d9%88%d8%a2%d9%84%d8%a7%d9%81?traffic_source=rss">Al Jazeera Arabic</source>
-    </item>
-    <item>
-      <title>Mystery of cats always landing on their feet gets new answer</title>
-      <link>https://news.bias.com/go/2026-03-15-0926</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-15-0926</guid>
-      <pubDate>Sun, 15 Mar 2026 09:26:39 GMT</pubDate>
-      <description>Scientists in Japan may have solved a century-old puzzle: how cats rotate their bodies mid-air to land on their feet. Using donated specimens, researchers discovered that a cat's thoracic spine is three times more flexible than its lumbar region, with a nearly resistance-free "neutral zone" of 47 degrees in the upper back. This anatomical difference allows the front of the body to twist freely while the rear remains rigid. High-speed cameras confirmed the phenomenon, which has intrigued physicists since 1894 when French physiologist Étienne-Jules Marey first captured it on film. The study bridges the gap between the physics of rotation and the biological mechanics that make this graceful maneuver possible.</description>
-      <source url="https://g1.globo.com/ciencia/noticia/2026/03/15/misterio-dos-gatos-que-sempre-caem-em-pe-ganha-nova-resposta.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
