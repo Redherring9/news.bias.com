@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 14:07:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 16:10:10 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How Albert Einstein organized his time (and the curious role of the violin in his routine)</title>
+      <link>https://news.bias.com/go/2026-03-20-1610</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-20-1610</guid>
+      <pubDate>Fri, 20 Mar 2026 16:10:05 GMT</pubDate>
+      <description>Albert Einstein's daily routines reveal a mind that thrived on creativity and deep focus. Despite childhood language difficulties that worried his family, he developed an extraordinary ability to concentrate, famously writing five groundbreaking papers in 1905 while working full-time at a Swiss patent office. He could complete eight hours of work in just two or three, using remaining time for his own theories. Einstein maintained that imagination mattered more than knowledge. His concentration was so profound that even a crying baby wouldn't distract him, and he used his violin as a tool for thinking—playing late-night improvisations in the kitchen while working through complex problems, often pausing mid-melody to jot down sudden insights.</description>
+      <source url="https://www.bbc.com/portuguese/articles/c3v7vkz7r3go?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>California condors nesting in Pacific Northwest for first time in a century, on Yurok territory</title>
       <link>https://news.bias.com/go/2026-03-20-1407</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 16 Mar 2026 11:58:21 GMT</pubDate>
       <description>A young woman's life changed when an injured pigeon landed in her lap at a pub garden. The bird, later named Penny through a viral online vote, had been kicked by customers and needed care. Despite repeated attempts to release her, Penny consistently returned, having imprinted on her rescuer. For a year and a half, the pigeon lived as an unusual companion—perching on shoulders, learning tricks from flash cards, and receiving gentle head tickles. She even celebrated birthdays with bread "cake." After Penny died from a liver abscess, her owner co-founded Penny's Pigeon Aid to challenge negative perceptions of pigeons. The experience revealed these often-dismissed birds as intelligent, loyal, and deeply affectionate creatures capable of profound companionship.</description>
       <source url="https://www.theguardian.com/lifeandstyle/2026/mar/16/pet-ill-never-forget-penny-the-pigeon-who-never-left-my-side">The Guardian</source>
-    </item>
-    <item>
-      <title>The Native Seed Farm Safeguarding California’s Future</title>
-      <link>https://news.bias.com/go/2026-03-16-0955</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-0955</guid>
-      <pubDate>Mon, 16 Mar 2026 09:55:57 GMT</pubDate>
-      <description>In California's Sacramento Valley, Heritage Growers is addressing a critical but overlooked challenge: the shortage of locally adapted native seeds for ecosystem restoration. The 200-acre farm grows "source-identified" seeds—plants genetically traced to specific regions where they'll be replanted. As California pursues its goal to conserve 30 percent of lands by 2030, demand for native seeds has far outpaced supply. The meticulous process takes years, from wild collection to careful propagation and precisely timed harvests. Some species, like milkweed essential for monarch butterflies, cost over $1,000 per pound to produce. Founded by nonprofit River Partners in 2021, the farm operates on a mission-driven model rather than commercial priorities, providing the genetic foundation for California's large-scale restoration projects.</description>
-      <source url="https://reasonstobecheerful.world/heritage-growers-california-future/">Reasons to be Cheerful</source>
     </item>
   </channel>
 </rss>
