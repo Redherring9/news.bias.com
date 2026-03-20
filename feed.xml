@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 10:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 12:04:27 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The 3 brothers who achieved the feat of rowing 15,000 km from Peru to Australia</title>
+      <link>https://news.bias.com/go/2026-03-20-1204</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-20-1204</guid>
+      <pubDate>Fri, 20 Mar 2026 12:04:26 GMT</pubDate>
+      <description>Three Scottish brothers completed an extraordinary 14,484-kilometer rowing journey across the Pacific Ocean from Peru to Australia in just over 132 days, setting a new record for an unassisted crossing. Jamie, Ewan, and Lachlan Maclean faced towering waves up to nine meters high and survived a dramatic moment when one brother was thrown overboard at night. Their adventure began in childhood on Scotland's cold coasts, where they first learned to row and trust each other. Beyond breaking records, the brothers aimed to raise over $1 million for clean water projects in Madagascar. They named their boat Rose Emily, honoring a sister their parents lost before birth in 1996.</description>
+      <source url="https://www.bbc.com/mundo/articles/c3dz3ej8n43o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Can a Legendary Tree Keep Louisiana’s Coastal Lands From Slipping Away?</title>
       <link>https://news.bias.com/go/2026-03-20-1001</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 16 Mar 2026 07:53:30 GMT</pubDate>
       <description>A 1911 nature diary entry captures a delightful encounter with a heavily armored coprophagous beetle, adorned with distinctive spines. The observer notes the creature's peculiar defense mechanism: when touched, it stiffens its legs, topples over, and produces a mechanical squeak. Unlike summer beetles, this species remains active throughout winter, flying capably at night despite awkward daytime walking. The diarist muses on the beetle's curious habit of flipping onto its back when alarmed—a time-consuming vulnerability that seems to offer little actual protection from predators. The entry offers a charming window into early twentieth-century naturalist observation, blending careful detail with gentle wonder.</description>
       <source url="https://www.theguardian.com/theguardian/2026/mar/16/country-diary-1911-listening-to-a-beetle-talk">The Guardian</source>
-    </item>
-    <item>
-      <title>New rock monitor lizard species reveals remarkable evolutionary story</title>
-      <link>https://news.bias.com/go/2026-03-16-0551</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-0551</guid>
-      <pubDate>Mon, 16 Mar 2026 05:51:01 GMT</pubDate>
-      <description>Researchers have formally described three new species of rock monitor lizards in Far North Queensland's savanna country, marking the first rock monitors known from eastern Australia's grasslands. The yellow-headed, rainbow, and orange-headed monitors surprised scientists with genetic data suggesting millions of years of independent evolution. Each species inhabits distinct rocky habitats ranging from granite boulders to sandstone escarpments. While their remote locations currently offer protection, scientists express concern about potential threats from the reptile pet trade and well-meaning enthusiasts who might disturb their habitat. The discovery highlights the biodiversity of Australia's understudied savanna ecosystems.</description>
-      <source url="https://www.abc.net.au/news/2026-03-16/new-rock-monitor-species-north-queensland-savanna/106459522">ABC Australia</source>
     </item>
   </channel>
 </rss>
