@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 03:52:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 05:55:43 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Country diary: The messy chaos of nesting herons | Mary Montague</title>
+      <link>https://news.bias.com/go/2026-03-20-0555</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-20-0555</guid>
+      <pubDate>Fri, 20 Mar 2026 05:55:41 GMT</pubDate>
+      <description>In a woodland breeding colony, grey herons navigate the challenges of early spring nesting after winter storms displaced traditional sites. A nature observer watches as pairs coordinate parental duties with remarkable precision: one broods eggs in an established beech tree nest while nearby, another couple still builds their home, the male gathering twigs as his mate arranges them. The herons' burnt orange bills and rosy legs glow in morning light—colors that will fade after breeding season. Through courtship displays, nest exchanges, and patient egg-turning, these long-legged fishers demonstrate the intricate choreography of shared parenting, their harsh calls echoing through the trees as they swap hunting and brooding shifts.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/20/country-diary-the-messy-chaos-of-nesting-herons">The Guardian</source>
+    </item>
     <item>
       <title>'I go into a Zen space, my body takes over' - circus star's rare balancing act</title>
       <link>https://news.bias.com/go/2026-03-20-0352</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 16 Mar 2026 01:45:55 GMT</pubDate>
       <description>A study of 750 parents reveals that babies begin experimenting with deception far earlier than previously thought. By ten months, about a quarter of infants engage in simple tactics like pretending not to hear parents or hiding forbidden snacks. Researchers drew inspiration from animal studies showing non-verbal deception in chimpanzees and birds. By age three, children become more creative fabricators, inventing elaborate stories and strategically withholding information. The lead researcher emphasizes these behaviors are normal developmental milestones rather than moral concerns, reflecting growing cognitive sophistication and understanding of how others' minds work. The findings challenge assumptions that deception requires advanced language skills.</description>
       <source url="https://www.theguardian.com/society/2026/mar/16/little-liars-babies-younger-than-one-practise-deceit-study-suggests">The Guardian</source>
-    </item>
-    <item>
-      <title>Ninety Mile Beach Snapper Bonanza winner reveals his secrets</title>
-      <link>https://news.bias.com/go/2026-03-15-2343</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-15-2343</guid>
-      <pubDate>Sun, 15 Mar 2026 23:43:39 GMT</pubDate>
-      <description>Harley Ra won $30,000 at New Zealand's Ninety Mile Beach Snapper Bonanza after landing a 7.665-kilogram snapper on the contest's final day. The Perth-based fisher, who grew up in Kaitāia, credited his success to pilchard bait and his father's handmade fishing rigs. Ra knew immediately he had something special when the fish stripped his line in the shallows. The annual March competition, reportedly the world's largest surfcasting event, limits fishing to the beach itself and caps participation at 1,200 tickets—which sell out in under an hour. The five-day event distributes over $200,000 in prizes and supports local causes; this year's fish auction raised more than $14,000 for the volunteer fire brigade.</description>
-      <source url="https://www.rnz.co.nz/news/national/589713/ninety-mile-beach-snapper-bonanza-winner-reveals-his-secrets">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
