@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 12:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 14:07:11 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>California condors nesting in Pacific Northwest for first time in a century, on Yurok territory</title>
+      <link>https://news.bias.com/go/2026-03-20-1407</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-20-1407</guid>
+      <pubDate>Fri, 20 Mar 2026 14:07:09 GMT</pubDate>
+      <description>A pair of young California condors released by the Yurok Tribe in 2022 appears to be incubating the region's first egg in over a century, nested in an old-growth redwood. The birds, nearly seven years old and just reaching breeding maturity, are being monitored via satellite transmitters. This milestone marks significant progress for a species that declined to just 22 individuals in 1982 and now numbers 607. The condor holds sacred importance to the Yurok people, whose elders prioritized its restoration in 2003. While biologists celebrate this development, they remain cautiously optimistic—first-time condor parents often struggle with their initial egg, and the species' slow reproduction cycle makes every attempt meaningful.</description>
+      <source url="https://news.mongabay.com/2026/03/california-condors-nesting-in-pacific-northwest-for-first-time-in-a-century-on-yurok-territory/">Mongabay</source>
+    </item>
     <item>
       <title>The 3 brothers who achieved the feat of rowing 15,000 km from Peru to Australia</title>
       <link>https://news.bias.com/go/2026-03-20-1204</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 16 Mar 2026 09:55:57 GMT</pubDate>
       <description>In California's Sacramento Valley, Heritage Growers is addressing a critical but overlooked challenge: the shortage of locally adapted native seeds for ecosystem restoration. The 200-acre farm grows "source-identified" seeds—plants genetically traced to specific regions where they'll be replanted. As California pursues its goal to conserve 30 percent of lands by 2030, demand for native seeds has far outpaced supply. The meticulous process takes years, from wild collection to careful propagation and precisely timed harvests. Some species, like milkweed essential for monarch butterflies, cost over $1,000 per pound to produce. Founded by nonprofit River Partners in 2021, the farm operates on a mission-driven model rather than commercial priorities, providing the genetic foundation for California's large-scale restoration projects.</description>
       <source url="https://reasonstobecheerful.world/heritage-growers-california-future/">Reasons to be Cheerful</source>
-    </item>
-    <item>
-      <title>Country diary 1911: Listening to a beetle ‘talk’</title>
-      <link>https://news.bias.com/go/2026-03-16-0753</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-0753</guid>
-      <pubDate>Mon, 16 Mar 2026 07:53:30 GMT</pubDate>
-      <description>A 1911 nature diary entry captures a delightful encounter with a heavily armored coprophagous beetle, adorned with distinctive spines. The observer notes the creature's peculiar defense mechanism: when touched, it stiffens its legs, topples over, and produces a mechanical squeak. Unlike summer beetles, this species remains active throughout winter, flying capably at night despite awkward daytime walking. The diarist muses on the beetle's curious habit of flipping onto its back when alarmed—a time-consuming vulnerability that seems to offer little actual protection from predators. The entry offers a charming window into early twentieth-century naturalist observation, blending careful detail with gentle wonder.</description>
-      <source url="https://www.theguardian.com/theguardian/2026/mar/16/country-diary-1911-listening-to-a-beetle-talk">The Guardian</source>
     </item>
   </channel>
 </rss>
