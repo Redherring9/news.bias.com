@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 18:12:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 20:15:38 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>World Rewilding Day: Hope for species and ecosystems</title>
+      <link>https://news.bias.com/go/2026-03-20-2015</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-20-2015</guid>
+      <pubDate>Fri, 20 Mar 2026 20:15:37 GMT</pubDate>
+      <description>World Rewilding Day on March 20 highlights global restoration efforts ranging from single species to entire ecosystems. In France's Dauphiné Alps, the country's largest rewilding project has reintroduced four vulture species and plans to bring back large herbivores, with hopes for lynx and wolves despite local concerns. At Indonesia's Lake Toba, a retired civil servant works with communities to reforest areas degraded by agricultural runoff. Species-focused efforts include releasing rescued gorillas in Congo's Virunga National Park and vaccinating brown howler monkeys against yellow fever before reintroducing them to Brazil's Atlantic Forest, where they'll help disperse seeds and restore degraded habitat.</description>
+      <source url="https://news.mongabay.com/short-article/2026/03/world-rewilding-day-hope-for-species-and-ecosystems/">Mongabay</source>
+    </item>
     <item>
       <title>Mexico’s monarch butterfly population jumps 64%, offering hope for at-risk species</title>
       <link>https://news.bias.com/go/2026-03-20-1812</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 16 Mar 2026 16:03:12 GMT</pubDate>
       <description>In eastern Indonesia, a centuries-old practice called Sasi Laut offers a model for sustainable fishing. Communities temporarily close fishing areas for six to twelve months, allowing species like sea cucumbers and shellfish to recover. A new study finds this tradition aligns with Indonesia's national ocean economy plan while protecting remote communities from industrial exploitation. Decisions are made collectively through customary institutions, creating what researchers call a "structural barrier" against large-scale commercial interests. For Sasi to fully succeed, experts say it needs formal recognition in regional coastal planning and financial support for fishers during closure periods.</description>
       <source url="https://news.mongabay.com/short-article/2026/03/an-ancient-fishing-tradition-in-indonesia-could-help-build-a-more-sustainable-fishery/">Mongabay</source>
-    </item>
-    <item>
-      <title>'I planted a dream': Rondônia resident creates hummingbird garden on vacant lot in Ji-Paraná, RO</title>
-      <link>https://news.bias.com/go/2026-03-16-1400</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-1400</guid>
-      <pubDate>Mon, 16 Mar 2026 14:00:45 GMT</pubDate>
-      <description>In Ji-Paraná, Brazil, public servant Luiza Farias transformed an abandoned lot filled with trash into a thriving hummingbird garden. With help from her family, she cleared coconut husks, discarded furniture, and debris before planting fruit trees like mulberry, acerola, and passionfruit. The space now attracts numerous bird species and serves as an urban sanctuary. Luiza visits daily to water plants and observe the wildlife, turning what she calls "planting a dream" into reality. She hopes her initiative will inspire others to reclaim neglected urban spaces, creating green havens that promote environmental awareness and improve community quality of life.</description>
-      <source url="https://g1.globo.com/ro/rondonia/noticia/2026/03/16/plantei-um-sonho-rondoniense-cria-jardim-para-beija-flores-em-terreno-baldio-em-ji-parana-ro.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
