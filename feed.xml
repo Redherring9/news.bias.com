@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 20:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 22:18:53 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>VIDEO: Man and dogs rescued after being stranded in home during storm in Jaú: 'I only thought about their lives'</title>
+      <link>https://news.bias.com/go/2026-03-20-2218</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-20-2218</guid>
+      <pubDate>Fri, 20 Mar 2026 22:18:52 GMT</pubDate>
+      <description>When severe flooding struck Jaú, Brazil, gas station attendant Guilherme Silva Santos found himself trapped inside his home with his three dogs as water rapidly filled the rooms. Rather than worry about his belongings, he focused solely on keeping his pets safe from drowning, perching with them on a low wall above the rising water. Civil defense teams successfully rescued the family. The flooding, caused by a stream overwhelmed during a storm that dropped 111 millimeters of rain in 24 hours, affected multiple homes in the neighborhood. Though material damage was extensive, no injuries were reported.</description>
+      <source url="https://g1.globo.com/sp/bauru-marilia/noticia/2026/03/20/video-homem-e-cadelas-sao-resgatados-apos-ficarem-ilhados-em-casa-durante-temporal-em-jau-so-pensava-na-vida-delas.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>World Rewilding Day: Hope for species and ecosystems</title>
       <link>https://news.bias.com/go/2026-03-20-2015</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 16 Mar 2026 18:05:48 GMT</pubDate>
       <description>In northeastern Gabon, the village of Massaha created a detailed biocultural map of their ancestral rainforest, revealing fifteen historical settlements, sacred sites, and traditional lands that colonial records and modern satellite data had missed. Using participatory mapping with elders and GPS technology, the community documented generations of use across roughly 11,800 hectares threatened by industrial logging. Their locally generated evidence successfully challenged official maps that portrayed the forest as empty, prompting government intervention to halt logging operations. The case demonstrates how community-led documentation can fill crucial gaps in conservation data, showing that forests classified as "intact" often hold rich human histories invisible to satellites and colonial-era cartography.</description>
       <source url="https://news.mongabay.com/2026/03/how-a-community-defended-its-ancestral-forest-from-logging/">Mongabay</source>
-    </item>
-    <item>
-      <title>An ancient fishing tradition in Indonesia could help build a more sustainable fishery</title>
-      <link>https://news.bias.com/go/2026-03-16-1603</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-1603</guid>
-      <pubDate>Mon, 16 Mar 2026 16:03:12 GMT</pubDate>
-      <description>In eastern Indonesia, a centuries-old practice called Sasi Laut offers a model for sustainable fishing. Communities temporarily close fishing areas for six to twelve months, allowing species like sea cucumbers and shellfish to recover. A new study finds this tradition aligns with Indonesia's national ocean economy plan while protecting remote communities from industrial exploitation. Decisions are made collectively through customary institutions, creating what researchers call a "structural barrier" against large-scale commercial interests. For Sasi to fully succeed, experts say it needs formal recognition in regional coastal planning and financial support for fishers during closure periods.</description>
-      <source url="https://news.mongabay.com/short-article/2026/03/an-ancient-fishing-tradition-in-indonesia-could-help-build-a-more-sustainable-fishery/">Mongabay</source>
     </item>
   </channel>
 </rss>
