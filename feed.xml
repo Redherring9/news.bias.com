@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 16:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 18:12:58 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mexico’s monarch butterfly population jumps 64%, offering hope for at-risk species</title>
+      <link>https://news.bias.com/go/2026-03-20-1812</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-20-1812</guid>
+      <pubDate>Fri, 20 Mar 2026 18:12:57 GMT</pubDate>
+      <description>Mexico's monarch butterfly population grew 64% this winter, covering nearly three hectares of forest—the most since 2018. Each fall, tens of millions of these orange insects migrate nearly 3,000 miles from Canada through the US to western Mexico's forests. Despite this encouraging increase, the population remains far below the 1995 peak and the threshold scientists consider necessary for long-term survival. Threats including habitat loss from illegal logging, climate change, and declining milkweed plants in the US continue to challenge the species. Conservation efforts have significantly reduced deforestation in protected areas, offering hope that collaborative protection across North America can help sustain these remarkable migrators.</description>
+      <source url="https://www.theguardian.com/world/2026/mar/20/mexico-monarch-butterfly-population-increases">The Guardian</source>
+    </item>
     <item>
       <title>How Albert Einstein organized his time (and the curious role of the violin in his routine)</title>
       <link>https://news.bias.com/go/2026-03-20-1610</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 16 Mar 2026 14:00:45 GMT</pubDate>
       <description>In Ji-Paraná, Brazil, public servant Luiza Farias transformed an abandoned lot filled with trash into a thriving hummingbird garden. With help from her family, she cleared coconut husks, discarded furniture, and debris before planting fruit trees like mulberry, acerola, and passionfruit. The space now attracts numerous bird species and serves as an urban sanctuary. Luiza visits daily to water plants and observe the wildlife, turning what she calls "planting a dream" into reality. She hopes her initiative will inspire others to reclaim neglected urban spaces, creating green havens that promote environmental awareness and improve community quality of life.</description>
       <source url="https://g1.globo.com/ro/rondonia/noticia/2026/03/16/plantei-um-sonho-rondoniense-cria-jardim-para-beija-flores-em-terreno-baldio-em-ji-parana-ro.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>The pet I’ll never forget: Penny, the pigeon who never left my side</title>
-      <link>https://news.bias.com/go/2026-03-16-1158</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-1158</guid>
-      <pubDate>Mon, 16 Mar 2026 11:58:21 GMT</pubDate>
-      <description>A young woman's life changed when an injured pigeon landed in her lap at a pub garden. The bird, later named Penny through a viral online vote, had been kicked by customers and needed care. Despite repeated attempts to release her, Penny consistently returned, having imprinted on her rescuer. For a year and a half, the pigeon lived as an unusual companion—perching on shoulders, learning tricks from flash cards, and receiving gentle head tickles. She even celebrated birthdays with bread "cake." After Penny died from a liver abscess, her owner co-founded Penny's Pigeon Aid to challenge negative perceptions of pigeons. The experience revealed these often-dismissed birds as intelligent, loyal, and deeply affectionate creatures capable of profound companionship.</description>
-      <source url="https://www.theguardian.com/lifeandstyle/2026/mar/16/pet-ill-never-forget-penny-the-pigeon-who-never-left-my-side">The Guardian</source>
     </item>
   </channel>
 </rss>
