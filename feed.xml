@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 12:38:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 14:41:45 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meet the woman from Rondônia who works with high jewelry in Paris and carries the Amazon in her portfolio</title>
+      <link>https://news.bias.com/go/2026-03-21-1441</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-21-1441</guid>
+      <pubDate>Sat, 21 Mar 2026 14:41:44 GMT</pubDate>
+      <description>Roberta Barbosa, a jewelry designer from Rondônia, Brazil, has built a career in haute joaillerie in Paris, showcasing pieces on international runways. Growing up in the Amazon profoundly shaped her creative vision, inspiring designs like brooches modeled after the Uirapuru bird and earrings evoking Ayahuasca. Her mother's pearl necklace business sparked an early love for jewelry, though she initially studied architecture. In 2020, she moved to France to attend a specialized jewelry school, facing language barriers and pandemic restrictions. Today, she embraces her Amazonian roots as her greatest creative strength, bringing vibrant green portfolios and cultural representation to a global stage where few can imagine the richness of her upbringing.</description>
+      <source url="https://g1.globo.com/ro/rondonia/noticia/2026/03/21/conheca-a-rondoniense-que-desenhou-joias-exibidas-em-desfile-em-paris-e-leva-a-amazonia-no-portfolio.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Guide to Cerrado fruits: discover 120 species; see which are toxic</title>
       <link>https://news.bias.com/go/2026-03-21-1238</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 17 Mar 2026 10:26:30 GMT</pubDate>
       <description>Auckland's ASB Polyfest, the world's largest secondary school cultural festival, celebrates its 51st year this week with performances from 263 groups across 73 schools. For the first time, the event spans two venues: Manukau Sports Bowl hosts Cook Islands, Niue, Samoan, Tongan, and Diversity stages, while the Māori stage takes place at Due Drop Event Centre. More than 80,000 attendees are expected to enjoy the youth performances supported by approximately 2,000 volunteers and contractors. This year's theme emphasizes environmental stewardship as a Pacific youth value. While long-term funding remains uncertain, organizers have secured sponsors through 2028 and expanded programming to include a Leaders Conference for student cultural leaders.</description>
       <source url="https://www.rnz.co.nz/international/pacific-news/589855/asb-polyfest-the-world-s-largest-secondary-school-cultural-festival-returns-to-auckland">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>'Quirky' mudfish pulls off Fish of the Year upset</title>
-      <link>https://news.bias.com/go/2026-03-17-0824</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-0824</guid>
-      <pubDate>Tue, 17 Mar 2026 08:24:01 GMT</pubDate>
-      <description>In a delightful underdog victory, the Northland mudfish has won New Zealand's Fish of the Year competition, surging from outside the top ten to claim the title in the final 24 hours. This secretive 15-centimeter creature, discovered only in 1998, lives in a handful of wetlands near Kaikohe and possesses a remarkable talent: surviving droughts by burrowing into mud and breathing through its skin. The win, driven by enthusiastic local campaigns, highlights the precarious state of New Zealand's native freshwater fish. With 90 percent of the country's wetlands lost in 150 years, organizers hope the quirky mudfish's moment in the spotlight will inspire greater protection for these disappearing habitats and their rarely seen inhabitants.</description>
-      <source url="https://www.rnz.co.nz/news/national/589824/mudfish-pulls-off-last-minute-upset-to-claim-fish-of-the-year-2026">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
