@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 16:44:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 18:47:25 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>From the salon to the sheds: How Brittnee found her passion in shearing</title>
+      <link>https://news.bias.com/go/2026-03-21-1847</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-21-1847</guid>
+      <pubDate>Sat, 21 Mar 2026 18:47:23 GMT</pubDate>
+      <description>Brittnee Bazeley's journey from beauty therapy to wool classing illustrates a quiet shift in Australia's sheep-shearing industry. Sent to New Zealand at 17 to reconnect with her shearer father, she learned the trade and has spent 15 years working her way up in the male-dominated field. She's joined by women like Nikki Lyons, who set a world record shearing 502 merino lambs in nine hours, and cook Jaz Taunoa, who prepares five meals daily for hungry crews. Though women represent less than 5 percent of shearers, anecdotal reports suggest their numbers have grown since pandemic border closures limited international workers. These women find fulfillment in the physical work, travel opportunities, and strong earnings that support their families.</description>
+      <source url="https://www.abc.net.au/news/2026-03-22/women-in-shearing-sheds/106283840">ABC Australia</source>
+    </item>
     <item>
       <title>The three brothers who rowed an incredible 15,000 km from Peru to Australia</title>
       <link>https://news.bias.com/go/2026-03-21-1644</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 17 Mar 2026 14:32:20 GMT</pubDate>
       <description>Scientists are discovering that the trillions of bacteria living in our intestines play a surprising role in cancer treatment. Research shows that specific gut bacteria can influence how well patients respond to immunotherapy, a treatment that helps the immune system fight cancer cells. Studies found that antibiotics taken around the start of immunotherapy may reduce treatment effectiveness by disrupting beneficial bacteria. Some researchers are even exploring fecal microbiota transplants, transferring gut bacteria from patients who respond well to treatment into those who don't. The findings suggest that diet, particularly fiber-rich and varied foods, may help support cancer treatment by nurturing helpful gut bacteria.</description>
       <source url="https://g1.globo.com/saude/noticia/2026/03/17/bacterias-do-intestino-influenciam-eficacia-do-tratamento-imunologico-no-cancer-apontam-estudos.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>"There are bones everywhere": the whale cemeteries that transform the ocean depths</title>
-      <link>https://news.bias.com/go/2026-03-17-1229</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-1229</guid>
-      <pubDate>Tue, 17 Mar 2026 12:29:32 GMT</pubDate>
-      <description>Photographer Alex Dawson descended through hand-cut ice in eastern Greenland to document an unusual underwater scene: approximately 20 butchered minke whale carcasses resting in shallow water. The expedition required hours of preparation in -20°C temperatures, and free-diver Anna Von Boetticher could only endure 45 seconds at a time in the freezing depths. The images reveal bones that would naturally have sunk to the ocean floor, supporting entire ecosystems through a process scientists call "whale fall." Instead, these remains lie trapped in shallow waters beneath the ice, representing vital nutrients and habitats that will never form in the deep sea—a haunting reminder of how human activity can disrupt ocean ecosystems.</description>
-      <source url="https://www.bbc.com/mundo/articles/cj984plw9veo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
