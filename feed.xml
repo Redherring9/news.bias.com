@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 14:41:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 16:44:26 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The three brothers who rowed an incredible 15,000 km from Peru to Australia</title>
+      <link>https://news.bias.com/go/2026-03-21-1644</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-21-1644</guid>
+      <pubDate>Sat, 21 Mar 2026 16:44:25 GMT</pubDate>
+      <description>Three Scottish brothers—Jamie, Ewan, and Lachlan Maclean—rowed 14,484 kilometers across the Pacific Ocean in just under 140 days, setting a new record for an unassisted crossing from South America to Australia. Their journey, which began on the icy coasts of Scotland where they first ventured to sea as children, brought them through towering waves and a harrowing moment when Lachlan was thrown overboard at night. Beyond the record, the brothers aimed to raise over $1 million for clean water projects in Madagascar. They named their boat Rose Emily, honoring a sister their parents lost before birth in 1996.</description>
+      <source url="https://www.bbc.com/portuguese/articles/cq6j47vry6qo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Meet the woman from Rondônia who works with high jewelry in Paris and carries the Amazon in her portfolio</title>
       <link>https://news.bias.com/go/2026-03-21-1441</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 17 Mar 2026 12:29:32 GMT</pubDate>
       <description>Photographer Alex Dawson descended through hand-cut ice in eastern Greenland to document an unusual underwater scene: approximately 20 butchered minke whale carcasses resting in shallow water. The expedition required hours of preparation in -20°C temperatures, and free-diver Anna Von Boetticher could only endure 45 seconds at a time in the freezing depths. The images reveal bones that would naturally have sunk to the ocean floor, supporting entire ecosystems through a process scientists call "whale fall." Instead, these remains lie trapped in shallow waters beneath the ice, representing vital nutrients and habitats that will never form in the deep sea—a haunting reminder of how human activity can disrupt ocean ecosystems.</description>
       <source url="https://www.bbc.com/mundo/articles/cj984plw9veo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>ASB Polyfest: The world's largest secondary school cultural festival returns to Auckland</title>
-      <link>https://news.bias.com/go/2026-03-17-1026</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-1026</guid>
-      <pubDate>Tue, 17 Mar 2026 10:26:30 GMT</pubDate>
-      <description>Auckland's ASB Polyfest, the world's largest secondary school cultural festival, celebrates its 51st year this week with performances from 263 groups across 73 schools. For the first time, the event spans two venues: Manukau Sports Bowl hosts Cook Islands, Niue, Samoan, Tongan, and Diversity stages, while the Māori stage takes place at Due Drop Event Centre. More than 80,000 attendees are expected to enjoy the youth performances supported by approximately 2,000 volunteers and contractors. This year's theme emphasizes environmental stewardship as a Pacific youth value. While long-term funding remains uncertain, organizers have secured sponsors through 2028 and expanded programming to include a Leaders Conference for student cultural leaders.</description>
-      <source url="https://www.rnz.co.nz/international/pacific-news/589855/asb-polyfest-the-world-s-largest-secondary-school-cultural-festival-returns-to-auckland">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
