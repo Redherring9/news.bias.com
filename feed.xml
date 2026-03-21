@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 08:33:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 10:36:09 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘I have fought for Aaron’: A Ugandan mother confronts disability and stigma</title>
+      <link>https://news.bias.com/go/2026-03-21-1036</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-21-1036</guid>
+      <pubDate>Sat, 21 Mar 2026 10:36:08 GMT</pubDate>
+      <description>Martha Apolot, a young Ugandan mother, carries her eight-year-old son Aaron to the fields each day while she works. Aaron has an undiagnosed disability requiring constant care. After being raped at 13, Martha faced rejection from her family and community stigma surrounding both her pregnancy and Aaron's condition. In Uganda, disability is often viewed as a curse, and children are sometimes abandoned. Martha grappled with dark thoughts until connecting with other parents at therapy sessions when Aaron was two. Their support helped her rediscover the love she felt when he was born, strengthening her resolve to care for him despite ongoing challenges and isolation.</description>
+      <source url="https://www.aljazeera.com/features/longform/2026/3/21/i-have-fought-for-aaron-a-ugandan-mother-confronts-disability-and-stigma?traffic_source=rss">Al Jazeera</source>
+    </item>
     <item>
       <title>Purple Blossoms on Galgandi Hill: Afghanistan's Fleeting Spring</title>
       <link>https://news.bias.com/go/2026-03-21-0833</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 17 Mar 2026 06:21:19 GMT</pubDate>
       <description>Scientists have accidentally discovered new Antarctic locations where emperor penguins undergo their annual molt—a vulnerable period when they shed all feathers at once and cannot enter the water to feed. Using satellite imagery, researchers found that sea ice at many of these sites melted while penguins were still molting, potentially causing fatalities from hypothermia. The discovery suggests climate threats to these birds may be worse than previously understood. Penguins lose 40-50% of their body weight during the four-to-five-week molting process and require stable ice platforms. Researchers now face urgent questions about how many birds are affected and where else this ice loss is occurring across Antarctica.</description>
       <source url="https://news.mongabay.com/2026/03/accidental-discovery-reveals-new-climate-threat-to-emperor-penguins/">Mongabay</source>
-    </item>
-    <item>
-      <title>Kārearea NZ falcon breeding in Auckland's Hūnua Ranges</title>
-      <link>https://news.bias.com/go/2026-03-17-0418</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-0418</guid>
-      <pubDate>Tue, 17 Mar 2026 04:18:29 GMT</pubDate>
-      <description>New Zealand's native falcon, the kārearea, is successfully breeding in Auckland's Hūnua Ranges—a hopeful sign for the threatened species. A 40-day observation revealed a breeding pair raising two fledglings, the first confirmed breeding evidence in the area. With an estimated 5,000-8,000 kārearea nationwide, intensive predator control and ground-based trapping appear to be helping the population rebound. These remarkably fast birds, capable of high-speed pursuit through forest canopy, nest on the ground in simple hollows, making their eggs and chicks vulnerable to introduced predators. Researchers describe watching the agile hunters care for their young as "incredibly encouraging," suggesting the habitat now supports their complete breeding cycle.</description>
-      <source url="https://www.rnz.co.nz/news/national/589834/karearea-nz-falcon-breeding-in-auckland-s-hunua-ranges">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
