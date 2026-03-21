@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 22:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 00:22:09 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why our first major aviation disaster remained a mystery for 27 years</title>
+      <link>https://news.bias.com/go/2026-03-21-0022</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-21-0022</guid>
+      <pubDate>Sat, 21 Mar 2026 00:22:08 GMT</pubDate>
+      <description>In 1931, a small passenger plane called the Southern Cloud vanished during a routine flight between Sydney and Melbourne, taking eight lives with it. The pilots had departed based on outdated weather information and lacked two-way radio communication to receive warnings about deteriorating conditions. For 27 years, families lived in painful uncertainty until hiker Tom Sonter stumbled upon the wreckage in the Snowy Mountains in 1958. The discovery brought closure to relatives like Cynthia Balderstone, whose mother had spent decades believing her pilot father might still return. The tragedy prompted lasting changes to aviation safety, including mandatory two-way radios in all aircraft.</description>
+      <source url="https://www.abc.net.au/news/2026-03-21/southern-cloud-plane-crash-mystery-snowy-mountains/106441932">ABC Australia</source>
+    </item>
     <item>
       <title>VIDEO: Man and dogs rescued after being stranded in home during storm in Jaú: 'I only thought about their lives'</title>
       <link>https://news.bias.com/go/2026-03-20-2218</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 16 Mar 2026 20:08:34 GMT</pubDate>
       <description>Beneath a small Benedictine convent in Rome lies the Catacombs of Priscilla, part of the city's vast underground network of burial passages. The sisters who tend this sacred space support themselves by weaving woolen table runners, their modest craft barely covering basic expenses. During World War II, these nuns sheltered Jewish families in the catacombs during the nine-month Nazi occupation, when over 1,800 Roman Jews were deported to Auschwitz. One rescued family later commissioned a chapel mosaic honoring an ancient catacomb fresco—a second-century depiction of the Eucharist. The story weaves together threads of faith, sacrifice, and quiet resistance beneath Rome's eternal streets.</description>
       <source url="https://www.atlasobscura.com/places/the-catacombs-of-priscilla">Atlas Obscura</source>
-    </item>
-    <item>
-      <title>How a community defended its ancestral forest from logging</title>
-      <link>https://news.bias.com/go/2026-03-16-1805</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-1805</guid>
-      <pubDate>Mon, 16 Mar 2026 18:05:48 GMT</pubDate>
-      <description>In northeastern Gabon, the village of Massaha created a detailed biocultural map of their ancestral rainforest, revealing fifteen historical settlements, sacred sites, and traditional lands that colonial records and modern satellite data had missed. Using participatory mapping with elders and GPS technology, the community documented generations of use across roughly 11,800 hectares threatened by industrial logging. Their locally generated evidence successfully challenged official maps that portrayed the forest as empty, prompting government intervention to halt logging operations. The case demonstrates how community-led documentation can fill crucial gaps in conservation data, showing that forests classified as "intact" often hold rich human histories invisible to satellites and colonial-era cartography.</description>
-      <source url="https://news.mongabay.com/2026/03/how-a-community-defended-its-ancestral-forest-from-logging/">Mongabay</source>
     </item>
   </channel>
 </rss>
