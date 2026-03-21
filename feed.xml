@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 00:22:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 02:24:48 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Connected to the past, strong into the future: Passing on traditional languages</title>
+      <link>https://news.bias.com/go/2026-03-21-0224</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-21-0224</guid>
+      <pubDate>Sat, 21 Mar 2026 02:24:47 GMT</pubDate>
+      <description>In Kalumburu, Western Australia's most remote community, three endangered Indigenous languages—Belaa, Wunambal, and Gaambera—are being revitalized by a handful of aging fluent speakers and passionate community members. Wunambal man Jeremy Kowan teaches language through traditional corroborees and music, believing it strengthens connections to ancestors and country. Kwini woman Rose Maraltadj is training to teach Belaa at the local school, following her mother's footsteps in re-learning from elders. While linguists note that of roughly 250 Indigenous Australian languages, only 12 are still learned as first languages by children, these efforts represent hope. Community members see language as essential to cultural identity and believe it empowers younger generations with strength and purpose.</description>
+      <source url="https://www.abc.net.au/news/2026-03-21/kalumburu-community-revitalises-endangered-languages/106470044">ABC Australia</source>
+    </item>
     <item>
       <title>Why our first major aviation disaster remained a mystery for 27 years</title>
       <link>https://news.bias.com/go/2026-03-21-0022</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 16 Mar 2026 22:10:56 GMT</pubDate>
       <description>Two major pharmaceutical companies, Amgen and Abbott Laboratories, have announced plans to shift away from harvesting horseshoe crab blood for biomedical testing. For decades, thousands of these ancient creatures—which predate dinosaurs by 200 million years—have been captured annually so their copper-based blood can be used to detect contamination in vaccines and drugs. Many don't survive the process. Though synthetic alternatives have existed since 2016, industry reluctance to change regulatory practices slowed adoption. Conservationists are cautiously optimistic about the announcement, noting that horseshoe crab eggs sustain migrating shorebirds along the Atlantic coast. However, neither company has set a firm end date for the transition.</description>
       <source url="https://news.mongabay.com/short-article/2026/03/pharmaceutical-companies-move-away-from-horseshoe-crab-biomedical-testing/">Mongabay</source>
-    </item>
-    <item>
-      <title>The Catacombs of Priscilla  in Rome, Italy</title>
-      <link>https://news.bias.com/go/2026-03-16-2008</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-2008</guid>
-      <pubDate>Mon, 16 Mar 2026 20:08:34 GMT</pubDate>
-      <description>Beneath a small Benedictine convent in Rome lies the Catacombs of Priscilla, part of the city's vast underground network of burial passages. The sisters who tend this sacred space support themselves by weaving woolen table runners, their modest craft barely covering basic expenses. During World War II, these nuns sheltered Jewish families in the catacombs during the nine-month Nazi occupation, when over 1,800 Roman Jews were deported to Auschwitz. One rescued family later commissioned a chapel mosaic honoring an ancient catacomb fresco—a second-century depiction of the Eucharist. The story weaves together threads of faith, sacrifice, and quiet resistance beneath Rome's eternal streets.</description>
-      <source url="https://www.atlasobscura.com/places/the-catacombs-of-priscilla">Atlas Obscura</source>
     </item>
   </channel>
 </rss>
