@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 02:24:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 04:27:28 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>People turning to slow crafts to combat fast-paced world</title>
+      <link>https://news.bias.com/go/2026-03-21-0427</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-21-0427</guid>
+      <pubDate>Sat, 21 Mar 2026 04:27:26 GMT</pubDate>
+      <description>Wooden spoon carving, one of humanity's oldest crafts, is experiencing an unexpected revival as young people seek respite from digital overwhelm. Practitioners like Ash Credlin and Fox Fromholtz, both living with ADHD, find the focused, hands-on work helps them slow down and stay present in ways modern life rarely demands. With only about 20 regular carvers selling their work across Australia, the craft remains rare but growing. Experts suggest young people are gravitating toward traditional skills like whittling and breadmaking to reclaim a sense of pace and process. Ironically, social media itself may be fueling the trend, introducing new audiences to ancient trades through tutorial videos and online communities.</description>
+      <source url="https://www.abc.net.au/news/2026-03-21/resurgence-of-ancient-trade-as-young-people-navigate-busy-world/106459054">ABC Australia</source>
+    </item>
     <item>
       <title>Connected to the past, strong into the future: Passing on traditional languages</title>
       <link>https://news.bias.com/go/2026-03-21-0224</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 17 Mar 2026 00:13:18 GMT</pubDate>
       <description>Auckland's Pasifika Festival drew over 25,000 people to Western Springs Lakeside Park, celebrating Pacific cultures through music, dance, food, and crafts. Now in its fourth decade since launching in 1993, the event featured stages representing 11 Pacific nations, including Samoa, Tonga, Fiji, and the Cook Islands. Organizers describe it as a spiritual home honoring Pacific communities who have made Aotearoa their home for generations. International visitors from Estonia and Utah marveled at the festival's scale and welcoming atmosphere, while performers emphasized its role in keeping traditions and languages alive. The gathering has grown into an internationally recognized event, drawing participants from across the Pacific and becoming a cornerstone of New Zealand's cultural calendar.</description>
       <source url="https://www.rnz.co.nz/international/pacific-news/589810/this-is-our-whenua-pasifika-festival-brings-together-culture-and-colour">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Pharmaceutical companies move away from horseshoe crab biomedical testing</title>
-      <link>https://news.bias.com/go/2026-03-16-2210</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-16-2210</guid>
-      <pubDate>Mon, 16 Mar 2026 22:10:56 GMT</pubDate>
-      <description>Two major pharmaceutical companies, Amgen and Abbott Laboratories, have announced plans to shift away from harvesting horseshoe crab blood for biomedical testing. For decades, thousands of these ancient creatures—which predate dinosaurs by 200 million years—have been captured annually so their copper-based blood can be used to detect contamination in vaccines and drugs. Many don't survive the process. Though synthetic alternatives have existed since 2016, industry reluctance to change regulatory practices slowed adoption. Conservationists are cautiously optimistic about the announcement, noting that horseshoe crab eggs sustain migrating shorebirds along the Atlantic coast. However, neither company has set a firm end date for the transition.</description>
-      <source url="https://news.mongabay.com/short-article/2026/03/pharmaceutical-companies-move-away-from-horseshoe-crab-biomedical-testing/">Mongabay</source>
     </item>
   </channel>
 </rss>
