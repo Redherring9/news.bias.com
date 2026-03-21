@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 06:30:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 08:33:24 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Purple Blossoms on Galgandi Hill: Afghanistan's Fleeting Spring</title>
+      <link>https://news.bias.com/go/2026-03-21-0833</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-21-0833</guid>
+      <pubDate>Sat, 21 Mar 2026 08:33:22 GMT</pubDate>
+      <description>Each spring, Galgandi Hill in Afghanistan's Parwan province transforms into a breathtaking landscape of purple wildflowers, drawing thousands of visitors from Kabul and beyond. For a few fleeting weeks, families spread picnic blankets, children fly kites, and friends gather among the blossoms to escape daily pressures. The seasonal bloom coincides with Nowruz celebrations, blending natural beauty with cultural tradition through poetry readings and communal meals. Visitors describe the hill as a rare refuge where social barriers soften and generations reconnect with the land. The ephemeral nature of the flowers—lasting only weeks before fading with warmer temperatures—makes each visit a cherished, unrepeatable moment in a country where such peaceful interludes hold profound meaning.</description>
+      <source url="https://www.aljazeera.net/travel/2026/3/21/%d8%aa%d9%84%d8%a9-%d8%ba%d9%84%d8%ba%d9%86%d8%af%d9%8a-%d9%84%d9%88%d8%ad%d8%a9-%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d8%a9-%d8%aa%d8%b2%d8%af%d9%87%d8%b1-%d8%a8%d8%a3%d8%b2%d9%87%d8%a7%d8%b1?traffic_source=rss">Al Jazeera Arabic</source>
+    </item>
     <item>
       <title>‘A toad is a perfect tenner’: experts recommend wild candidates for new banknotes</title>
       <link>https://news.bias.com/go/2026-03-21-0630</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 17 Mar 2026 04:18:29 GMT</pubDate>
       <description>New Zealand's native falcon, the kārearea, is successfully breeding in Auckland's Hūnua Ranges—a hopeful sign for the threatened species. A 40-day observation revealed a breeding pair raising two fledglings, the first confirmed breeding evidence in the area. With an estimated 5,000-8,000 kārearea nationwide, intensive predator control and ground-based trapping appear to be helping the population rebound. These remarkably fast birds, capable of high-speed pursuit through forest canopy, nest on the ground in simple hollows, making their eggs and chicks vulnerable to introduced predators. Researchers describe watching the agile hunters care for their young as "incredibly encouraging," suggesting the habitat now supports their complete breeding cycle.</description>
       <source url="https://www.rnz.co.nz/news/national/589834/karearea-nz-falcon-breeding-in-auckland-s-hunua-ranges">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Sceptical mine boss won over by uni's copper refining breakthrough</title>
-      <link>https://news.bias.com/go/2026-03-17-0215</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-0215</guid>
-      <pubDate>Tue, 17 Mar 2026 02:15:41 GMT</pubDate>
-      <description>As one of Australia's last copper smelters faces closure by 2030, University of Queensland researchers have developed a promising alternative that could transform the industry. Their hydrometallurgical process dissolves copper concentrate in saline solutions and uses electrical currents to extract the metal—eliminating the need for energy-intensive 1,200-degree furnaces. The technology uses roughly half the energy of traditional smelting and could process previously unusable arsenic-rich deposits without air pollution. Early tests impressed skeptical mining executives, though challenges remain around recovering valuable secondary minerals like gold and silver. A pilot plant is expected by 2028, with potential for multiple modular facilities across Queensland's mining region.</description>
-      <source url="https://www.abc.net.au/news/2026-03-17/cheaper-and-cleaner-copper-technology-potential-mount-isa/106450892">ABC Australia</source>
     </item>
   </channel>
 </rss>
