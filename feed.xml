@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 20:50:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 22:53:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why every culture has a broth to treat illness and seek comfort</title>
+      <link>https://news.bias.com/go/2026-03-21-2253</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-21-2253</guid>
+      <pubDate>Sat, 21 Mar 2026 22:53:16 GMT</pubDate>
+      <description>Across cultures worldwide, broths and soups occupy a cherished place in culinary memory—offering comfort during illness, celebrating special occasions, and making the most of humble ingredients. From Italian tortellini in brodo to Asian rice congee, Brazilian canja, and Ukrainian borscht, these steaming bowls connect families and generations. Though often overlooked, broths form the backbone of countless cuisines. Traditionally prepared through slow simmering of meat, bones, and aromatics, they represent both resourcefulness and nurture—historically a labor of love overseen by home cooks whose contributions rarely made it into formal culinary records, yet whose recipes continue to warm bodies and souls today.</description>
+      <source url="https://www.bbc.com/portuguese/articles/cj0v4m27z06o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>The Abu Sha'ar Brothers: A School of Damascene Chanting</title>
       <link>https://news.bias.com/go/2026-03-21-2050</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 17 Mar 2026 18:37:37 GMT</pubDate>
       <description>Japanese researchers analyzing samples from asteroid Ryugu have discovered all five fundamental nucleobases—the building blocks of DNA and RNA—marking the most comprehensive evidence yet of these life-essential molecules in our solar system. The Hayabusa-2 mission collected 5.4 grams of material from the carbon-rich asteroid in 2019, delivering it to Earth in 2020. Scientists stress this doesn't mean life existed on Ryugu, but rather shows primitive asteroids could create and preserve molecules crucial to life's chemistry. Intriguingly, different asteroids show unique "recipes" of these molecules, each with its own chemical history. The findings support the idea that asteroids may have served as cosmic laboratories, potentially delivering the chemical ingredients for Earth's first life.</description>
       <source url="https://www.dw.com/de/bausteine-für-irdisches-lebens-auf-asteroid-ryugu-gefunden/a-76392585?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
-    </item>
-    <item>
-      <title>Toucans reintroduced 50 years ago disperse seeds of endangered trees in Brazil</title>
-      <link>https://news.bias.com/go/2026-03-17-1634</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-1634</guid>
-      <pubDate>Tue, 17 Mar 2026 16:34:57 GMT</pubDate>
-      <description>More than 50 years after ariel toucans were reintroduced to Rio de Janeiro's Tijuca National Park, researchers have discovered the birds have successfully reclaimed their ecological role. A year-long study tracked the toucans' diet, finding they interact with 76% of their historically consumed plant species—rising to nearly 90% for medium and large-seeded plants. The sociable birds use their distinctive beaks and feet to crack open tough fruits that few other animals can access, making them vital dispersers for endangered native trees like the jussara palm. With minimal dietary overlap with other reintroduced species, the toucans fill a unique functional niche in the world's largest urban forest, though much remains to be learned about their long-term impact on forest restoration.</description>
-      <source url="https://news.mongabay.com/short-article/2026/03/toucans-reintroduced-50-years-ago-disperse-seeds-of-endangered-trees-in-brazil/">Mongabay</source>
     </item>
   </channel>
 </rss>
