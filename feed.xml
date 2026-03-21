@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 04:27:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 06:30:33 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘A toad is a perfect tenner’: experts recommend wild candidates for new banknotes</title>
+      <link>https://news.bias.com/go/2026-03-21-0630</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-21-0630</guid>
+      <pubDate>Sat, 21 Mar 2026 06:30:32 GMT</pubDate>
+      <description>The Bank of England will feature native British wildlife on its next banknotes, with the public set to vote on a shortlist this summer. While garden favorites like hedgehogs and robins are early contenders, experts are championing less conventional choices. Naturalist Chris Packham nominates the resilient red fox for the £5 note, highlighting its success despite persecution. Lucy Lapwing advocates for the declining common toad on the £10, celebrating its golden eyes and slug-eating prowess. Isabella Tree suggests the beaver for the £20, noting its landscape-transforming abilities. The move has broad public support, though some politicians have criticized replacing historical figures with animals.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/21/a-toad-is-a-perfect-tenner-experts-recommend-wild-candidates-for-new-banknotes">The Guardian</source>
+    </item>
     <item>
       <title>People turning to slow crafts to combat fast-paced world</title>
       <link>https://news.bias.com/go/2026-03-21-0427</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 17 Mar 2026 02:15:41 GMT</pubDate>
       <description>As one of Australia's last copper smelters faces closure by 2030, University of Queensland researchers have developed a promising alternative that could transform the industry. Their hydrometallurgical process dissolves copper concentrate in saline solutions and uses electrical currents to extract the metal—eliminating the need for energy-intensive 1,200-degree furnaces. The technology uses roughly half the energy of traditional smelting and could process previously unusable arsenic-rich deposits without air pollution. Early tests impressed skeptical mining executives, though challenges remain around recovering valuable secondary minerals like gold and silver. A pilot plant is expected by 2028, with potential for multiple modular facilities across Queensland's mining region.</description>
       <source url="https://www.abc.net.au/news/2026-03-17/cheaper-and-cleaner-copper-technology-potential-mount-isa/106450892">ABC Australia</source>
-    </item>
-    <item>
-      <title>'This is our whenua': Pasifika Festival brings together culture and colour</title>
-      <link>https://news.bias.com/go/2026-03-17-0013</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-0013</guid>
-      <pubDate>Tue, 17 Mar 2026 00:13:18 GMT</pubDate>
-      <description>Auckland's Pasifika Festival drew over 25,000 people to Western Springs Lakeside Park, celebrating Pacific cultures through music, dance, food, and crafts. Now in its fourth decade since launching in 1993, the event featured stages representing 11 Pacific nations, including Samoa, Tonga, Fiji, and the Cook Islands. Organizers describe it as a spiritual home honoring Pacific communities who have made Aotearoa their home for generations. International visitors from Estonia and Utah marveled at the festival's scale and welcoming atmosphere, while performers emphasized its role in keeping traditions and languages alive. The gathering has grown into an internationally recognized event, drawing participants from across the Pacific and becoming a cornerstone of New Zealand's cultural calendar.</description>
-      <source url="https://www.rnz.co.nz/international/pacific-news/589810/this-is-our-whenua-pasifika-festival-brings-together-culture-and-colour">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
