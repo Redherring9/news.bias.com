@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 10:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 12:38:56 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Guide to Cerrado fruits: discover 120 species; see which are toxic</title>
+      <link>https://news.bias.com/go/2026-03-21-1238</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-21-1238</guid>
+      <pubDate>Sat, 21 Mar 2026 12:38:54 GMT</pubDate>
+      <description>After 20 years of research and expeditions, Brazilian biologist and nature photographer Marcelo Kuhlmann has published a comprehensive guide to the fruits of the Cerrado, one of Brazil's richest yet most threatened biomes. The book catalogs 120 native edible fruit species, blending scientific information with traditional knowledge and culinary possibilities. From the well-known pequi to lesser-known varieties like gabiroba and cerrado vanilla, the guide features detailed photographs and a unique sensory classification system rating sweetness, acidity, and aroma. This expanded third edition includes a new chapter on toxic fruits, emphasizing safe identification. The crowdfunded publication aims to deepen appreciation for the Cerrado's biodiversity and strengthen connections between people and this remarkable natural "orchard."</description>
+      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/03/21/guia-de-frutos-do-cerrado-conheca-120-especies-veja-quais-sao-toxicas.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>‘I have fought for Aaron’: A Ugandan mother confronts disability and stigma</title>
       <link>https://news.bias.com/go/2026-03-21-1036</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 17 Mar 2026 08:24:01 GMT</pubDate>
       <description>In a delightful underdog victory, the Northland mudfish has won New Zealand's Fish of the Year competition, surging from outside the top ten to claim the title in the final 24 hours. This secretive 15-centimeter creature, discovered only in 1998, lives in a handful of wetlands near Kaikohe and possesses a remarkable talent: surviving droughts by burrowing into mud and breathing through its skin. The win, driven by enthusiastic local campaigns, highlights the precarious state of New Zealand's native freshwater fish. With 90 percent of the country's wetlands lost in 150 years, organizers hope the quirky mudfish's moment in the spotlight will inspire greater protection for these disappearing habitats and their rarely seen inhabitants.</description>
       <source url="https://www.rnz.co.nz/news/national/589824/mudfish-pulls-off-last-minute-upset-to-claim-fish-of-the-year-2026">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Accidental discovery reveals new climate threat to emperor penguins</title>
-      <link>https://news.bias.com/go/2026-03-17-0621</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-0621</guid>
-      <pubDate>Tue, 17 Mar 2026 06:21:19 GMT</pubDate>
-      <description>Scientists have accidentally discovered new Antarctic locations where emperor penguins undergo their annual molt—a vulnerable period when they shed all feathers at once and cannot enter the water to feed. Using satellite imagery, researchers found that sea ice at many of these sites melted while penguins were still molting, potentially causing fatalities from hypothermia. The discovery suggests climate threats to these birds may be worse than previously understood. Penguins lose 40-50% of their body weight during the four-to-five-week molting process and require stable ice platforms. Researchers now face urgent questions about how many birds are affected and where else this ice loss is occurring across Antarctica.</description>
-      <source url="https://news.mongabay.com/2026/03/accidental-discovery-reveals-new-climate-threat-to-emperor-penguins/">Mongabay</source>
     </item>
   </channel>
 </rss>
