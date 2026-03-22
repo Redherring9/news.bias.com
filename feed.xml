@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 21:26:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 23:29:41 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>An island tale of myth, desire and the wisdom of laughter</title>
+      <link>https://news.bias.com/go/2026-03-22-2329</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-22-2329</guid>
+      <pubDate>Sun, 22 Mar 2026 23:29:39 GMT</pubDate>
+      <description>Japan's island origins are steeped in rich mythology, as recounted in the eighth-century chronicle "Kojiki," where deities Izanagi and Izanami stir the ocean with a jeweled spear to create the first island. This mythical beginning mirrors Japan's long prehistoric Jomon Period, spanning roughly 10,000 B.C. to 200 B.C. The Jomon people, remarkably peaceful hunter-gatherers, seemed to consciously forgo the trappings of civilization—writing, cities, and agriculture—in favor of a simpler existence. Their contentment is evident in their stunning clay figurines, which reveal an artistic sensibility that continues to captivate modern viewers. For millennia, this culture remained essentially unchanged, suggesting not stagnation but perhaps a profound satisfaction with their way of life.</description>
+      <source url="https://www.japantimes.co.jp/news/2026/03/23/japan/history/history-hiraga-gennai-japan/">The Japan Times</source>
+    </item>
     <item>
       <title>Amadeo Giannini, the visionary banker who bet on immigrants in the U.S. and created the world's largest bank</title>
       <link>https://news.bias.com/go/2026-03-22-2126</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 18 Mar 2026 19:09:30 GMT</pubDate>
       <description>Brazil has established its largest marine park, protecting over 1 million hectares off Rio Grande do Sul's coast. The Albardão conservation area safeguards 25 endangered species, including critically threatened Lahille's bottlenose dolphins—down to just 500 individuals—and franciscana dolphins. The region also hosts 23 endangered shark and ray species and preserves coastal dunes rich with Pleistocene fossils of giant sloths, saber-toothed cats, and mastodons. While the designation allows sustainable fishing, ecotourism, and research, it has created tension with state renewable energy plans. Wind farms are prohibited within the park, though infrastructure corridors for projects beyond its boundaries may pass through if environmental standards are met.</description>
       <source url="https://news.mongabay.com/short-article/2026/03/brazil-protects-huge-coastal-area-with-endangered-dolphins-and-megafauna-fossils/">Mongabay</source>
-    </item>
-    <item>
-      <title>Čučuci Waterfall in Čučuci, Montenegro</title>
-      <link>https://news.bias.com/go/2026-03-18-1706</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-18-1706</guid>
-      <pubDate>Wed, 18 Mar 2026 17:06:15 GMT</pubDate>
-      <description>Tucked into the hills above Montenegro's busy Adriatic coast, the Čučuci Waterfall offers a quiet contrast to the crowded beaches below. This small, seasonal cascade flows through Mediterranean vegetation, most active after spring rains. Unlike the country's famous waterfalls, Čučuci remains largely unmarked and known mainly to locals and explorers willing to follow unmarked trails inland from Rafailovići village. The journey feels more like discovering a secret than visiting a tourist site—a peaceful refuge where traffic noise gives way to the sound of running water. While too small for swimming, it serves as a contemplative rest stop with sunset views stretching back toward the sea.</description>
-      <source url="https://www.atlasobscura.com/places/cucuci-waterfall-montenegro">Atlas Obscura</source>
     </item>
   </channel>
 </rss>
