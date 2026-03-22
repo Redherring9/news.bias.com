@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 19:23:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 21:26:34 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Amadeo Giannini, the visionary banker who bet on immigrants in the U.S. and created the world's largest bank</title>
+      <link>https://news.bias.com/go/2026-03-22-2126</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-22-2126</guid>
+      <pubDate>Sun, 22 Mar 2026 21:26:33 GMT</pubDate>
+      <description>Amadeo Giannini, an Italian-American immigrant's son, transformed banking in early 20th-century America by extending credit to those traditionally excluded: immigrants, small merchants, and women. Starting in San Francisco's produce markets after his father's murder, he eventually revolutionized finance with a more social vision. He financed iconic projects like the Golden Gate Bridge, supported artists including Chaplin and Disney, and helped rebuild communities after disasters. Despite creating what became the world's largest bank, Giannini kept his personal fortune under $500,000, believing excess wealth required psychiatric help. For him, money was a tool for economic development, not personal accumulation—a philosophy shaped by humble beginnings and tragedy.</description>
+      <source url="https://www.bbc.com/mundo/articles/czdnnd422y2o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Ghanim lost his family, then his arms. It took 12 years to make it right</title>
       <link>https://news.bias.com/go/2026-03-22-1923</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 18 Mar 2026 17:06:15 GMT</pubDate>
       <description>Tucked into the hills above Montenegro's busy Adriatic coast, the Čučuci Waterfall offers a quiet contrast to the crowded beaches below. This small, seasonal cascade flows through Mediterranean vegetation, most active after spring rains. Unlike the country's famous waterfalls, Čučuci remains largely unmarked and known mainly to locals and explorers willing to follow unmarked trails inland from Rafailovići village. The journey feels more like discovering a secret than visiting a tourist site—a peaceful refuge where traffic noise gives way to the sound of running water. While too small for swimming, it serves as a contemplative rest stop with sunset views stretching back toward the sea.</description>
       <source url="https://www.atlasobscura.com/places/cucuci-waterfall-montenegro">Atlas Obscura</source>
-    </item>
-    <item>
-      <title>Ancient skeleton unearthed in France is latest to be found sitting upright</title>
-      <link>https://news.bias.com/go/2026-03-18-1503</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-18-1503</guid>
-      <pubDate>Wed, 18 Mar 2026 15:03:28 GMT</pubDate>
-      <description>Children at a French primary school discovered a remarkably preserved skeleton sitting upright in a circular pit—the latest of nearly 20 such burials found in Dijon. Dating from around 300–200 BC, these Gallic tombs feature bodies seated facing west, hands in laps, with no belongings except one armband. Dijon now holds over a quarter of the world's known seated Gallic burials, yet researchers remain puzzled about their meaning. Were these seated graves honors or punishments? Some bodies show signs of violence, while bone analysis reveals physically active lives. With crucial surface layers missing, archaeologists acknowledge the mystery may persist, making their profession both fascinating and frustrating.</description>
-      <source url="https://www.theguardian.com/world/2026/mar/18/ancient-skeleton-discovered-sitting-upright-in-france">The Guardian</source>
     </item>
   </channel>
 </rss>
