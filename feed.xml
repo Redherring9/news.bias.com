@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 02:58:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 05:01:41 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Preserved footprints show Tasmanian tigers in South Australia 120,000 years ago</title>
+      <link>https://news.bias.com/go/2026-03-22-0501</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-22-0501</guid>
+      <pubDate>Sun, 22 Mar 2026 05:01:40 GMT</pubDate>
+      <description>Researchers from Flinders University have discovered ancient Tasmanian tiger footprints along South Australia's Eyre Peninsula, revealing that thylacines once roamed the coastal region around 120,000 years ago. The preserved tracks were found in the Bridgewater Formation, where sea spray and wind created natural casts of footprints in sand dunes during the Pleistocene era. These layered sediments, resembling "pancake stacks," also contain traces of other extinct animals including marsupial lions and giant kangaroos. While the thylacine disappeared from mainland Australia 2,000 years ago and went completely extinct in 1936, these coastal fossils offer a window into a vastly different Australian landscape, though many prints are gradually being destroyed by coastal erosion.</description>
+      <source url="https://www.abc.net.au/news/2026-03-22/footprints-of-tasmanian-tigers-in-eyre-peninsula-south-australia/106467574">ABC Australia</source>
+    </item>
     <item>
       <title>Slicing pizza using a digger: How to win the national digger operator title</title>
       <link>https://news.bias.com/go/2026-03-22-0258</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 18 Mar 2026 00:45:11 GMT</pubDate>
       <description>Researchers in Japan have found that the way people walk—particularly the swing of their arms and legs—reveals their emotional state to observers. In experiments using point-light videos that masked facial expressions, volunteers successfully identified emotions from gait alone. Larger, more pronounced swings were perceived as anger, while smaller, restrained movements conveyed sadness or fear. The findings suggest humans rely on a subtle vocabulary of bodily movement during social interactions, allowing us to assess others' feelings from a distance. Scientists are exploring potential applications, including emotion-monitoring wearable devices and machine-learning systems that could interpret mental states from movement patterns, though accuracy remains limited.</description>
       <source url="https://www.theguardian.com/science/2026/mar/18/how-you-walk-reveals-to-others-how-you-are-feeling-researchers-say">The Guardian</source>
-    </item>
-    <item>
-      <title>Nobunaga Daimyōjin in Osaka, Japan</title>
-      <link>https://news.bias.com/go/2026-03-17-2242</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-2242</guid>
-      <pubDate>Tue, 17 Mar 2026 22:42:49 GMT</pubDate>
-      <description>In the back of an Osaka shop sits an unusual Shinto shrine: a large black phallus dressed in traditional religious garb, dedicated to a deity called Nobunaga Daimyōjin. What began as a humorous creation has attracted genuine visitors who purchase charms intended to help with matters of intimacy and confidence. The shrine exemplifies how Shintoism continuously welcomes new deities alongside ancient ones, reflecting evolving cultural needs. Located behind a multi-floor store that sells anime merchandise and adult items, this playful shrine demonstrates how sacred and profane can coexist in contemporary Japanese spiritual practice, much like the popular Billiken figure that also started as a novelty.</description>
-      <source url="https://www.atlasobscura.com/places/nobunaga-daimyojin">Atlas Obscura</source>
     </item>
   </channel>
 </rss>
