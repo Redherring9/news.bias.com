@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 13:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 15:17:31 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What is the oldest light we have observed (and will it ever go out?)</title>
+      <link>https://news.bias.com/go/2026-03-22-1517</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-22-1517</guid>
+      <pubDate>Sun, 22 Mar 2026 15:17:29 GMT</pubDate>
+      <description>The oldest light we've observed comes from the cosmic microwave background, emitted when the universe was just 300,000 years old. Before that moment, photons couldn't travel freely through the extremely hot plasma that filled space. As the universe expanded and cooled, protons and electrons combined to form hydrogen atoms, allowing light to escape for the first time. This ancient radiation has been traveling through space for approximately 13 billion years and is everywhere around us—even contributing to the static on old analog televisions. Beyond this background glow, astronomers study individual ancient objects like the star HD 140283, nicknamed the "Methuselah Star," one of the oldest stars whose age can be reliably measured.</description>
+      <source url="https://www.bbc.com/mundo/articles/cvgpl0z6w9go?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Family adopts baby with Down syndrome and heart condition in RN; meet their story</title>
       <link>https://news.bias.com/go/2026-03-22-1314</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 18 Mar 2026 10:58:17 GMT</pubDate>
       <description>Brazilian production company Conspiração Filmes celebrated its 35th anniversary with a festive gathering at Rio de Janeiro's newly restored Edifício Gustavo Capanema. Founded in 1991, the company has become one of Latin America's leading independent producers, accumulating over 300 festival awards worldwide. Among its notable works is "I'm Still Here," which won the Oscar for Best International Film. The celebration featured a surprise performance by Gilberto Gil and a projection mapping showcase of Brazilian films from across the country. Conspiração has produced more than 50 feature films, drawing over 30 million viewers, and continues developing 60+ projects across cinema, television, and streaming platforms.</description>
       <source url="https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/03/18/festa-de-35-anos-da-conspiracao-filmes-celebra-o-cinema-brasileiro-no-edificio-gustavo-capanema.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Butterflies crossing oceans, moths navigating by the stars: unravelling the mysteries of insect migrations</title>
-      <link>https://news.bias.com/go/2026-03-18-0855</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-18-0855</guid>
-      <pubDate>Wed, 18 Mar 2026 08:55:46 GMT</pubDate>
-      <description>Scientists are uncovering the remarkable journeys of migrating insects, travelers that were largely overlooked until recently. Researchers have now proven that painted lady butterflies can cross the Atlantic Ocean—a 4,200-kilometer journey aided by strategic wind navigation. These delicate insects cannot survive cold winters, so they follow seasonal cues like temperature and food availability to new breeding grounds, where a single female may lay over 1,000 eggs. Meanwhile, Australian bogong moths navigate hundreds of kilometers at night using stars as their compass, with brains smaller than a grain of rice. When skies cloud over, they rely on Earth's magnetic field instead. Trillions of insects undertake long-distance migrations annually, crossing deserts, mountains, and oceans in feats that continue to astonish scientists.</description>
-      <source url="https://www.theguardian.com/environment/ng-interactive/2026/mar/18/butterflies-crossing-oceans-moths-navigating-stars-insect-migrations-aoe">The Guardian</source>
     </item>
   </channel>
 </rss>
