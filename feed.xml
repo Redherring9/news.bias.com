@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 22:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 00:56:04 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Father and son take 1,300km bushwalking 'gap year'</title>
+      <link>https://news.bias.com/go/2026-03-22-0056</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-22-0056</guid>
+      <pubDate>Sun, 22 Mar 2026 00:56:02 GMT</pubDate>
+      <description>Daniel Toole has taken a year off work to walk more than 1,300 kilometers around the world with his 18-year-old son Ashton, who is non-verbal and lives with autism, ADHD, and Tourette syndrome. The six-hike journey, which began in New Zealand and continues through Australia before heading to Europe, centers on Ashton's love of bushwalking—a passion that brings him joy and calm. Along the trails, the pair encounters hundreds of fellow hikers, creating opportunities for Daniel to share about Tourette syndrome and foster understanding. Since beginning their adventure, Ashton has started stringing together sentences, a remarkable development his father attributes to their time together in nature. It's a gap year built on love, patience, and putting one foot in front of the other.</description>
+      <source url="https://www.abc.net.au/news/2026-03-22/father-son-bushwalking-year-raising-awareness-for-tourettes/106442694">ABC Australia</source>
+    </item>
     <item>
       <title>Why every culture has a broth to treat illness and seek comfort</title>
       <link>https://news.bias.com/go/2026-03-21-2253</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 17 Mar 2026 20:40:18 GMT</pubDate>
       <description>Seven-year-old Júlia, known as Juju, has found compatible bone marrow donors after her family organized community campaigns in São Paulo state. Diagnosed with acute myeloid leukemia, she needs a transplant as her best chance for recovery. Three donor drives brought nearly 900 new registrations to Brazil's national marrow registry. Her mother expressed deep gratitude for the outpouring of support, calling it a "beautiful chain" of solidarity. While Juju continues chemotherapy in São Paulo, confirmatory testing remains before the transplant can proceed. The family encourages others to register as donors, emphasizing how a simple gesture can save lives and help other patients still waiting.</description>
       <source url="https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/03/17/menina-com-leucemia-encontra-doadores-compativeis-para-transplante-apos-campanha-no-interior-de-sp.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Building Blocks for Earthly Life Found on Asteroid Ryugu</title>
-      <link>https://news.bias.com/go/2026-03-17-1837</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-17-1837</guid>
-      <pubDate>Tue, 17 Mar 2026 18:37:37 GMT</pubDate>
-      <description>Japanese researchers analyzing samples from asteroid Ryugu have discovered all five fundamental nucleobases—the building blocks of DNA and RNA—marking the most comprehensive evidence yet of these life-essential molecules in our solar system. The Hayabusa-2 mission collected 5.4 grams of material from the carbon-rich asteroid in 2019, delivering it to Earth in 2020. Scientists stress this doesn't mean life existed on Ryugu, but rather shows primitive asteroids could create and preserve molecules crucial to life's chemistry. Intriguingly, different asteroids show unique "recipes" of these molecules, each with its own chemical history. The findings support the idea that asteroids may have served as cosmic laboratories, potentially delivering the chemical ingredients for Earth's first life.</description>
-      <source url="https://www.dw.com/de/bausteine-für-irdisches-lebens-auf-asteroid-ryugu-gefunden/a-76392585?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
     </item>
   </channel>
 </rss>
