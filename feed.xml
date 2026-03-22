@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 17:20:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 19:23:25 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ghanim lost his family, then his arms. It took 12 years to make it right</title>
+      <link>https://news.bias.com/go/2026-03-22-1923</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-22-1923</guid>
+      <pubDate>Sun, 22 Mar 2026 19:23:23 GMT</pubDate>
+      <description>Ghanim Al Shnen, a former Iraqi policeman who fled to Australia seeking asylum in 2012, survived a catastrophic electrical accident in 2018 that required the amputation of both arms. He underwent pioneering osseointegration surgery, having titanium rods implanted into his bones to attach mind-controlled robotic prosthetics. He named his artificial arms Tommy and Arthur after characters from Peaky Blinders, reflecting their different personalities—Tommy operates smoothly while Arthur proves troublesome. Six years later, Ghanim can cook, feed himself, and is learning to drive, though the heavy arms are mentally exhausting and he requires round-the-clock care. His ability to find humor in darkness has carried him through extraordinary challenges.</description>
+      <source url="https://www.abc.net.au/news/2026-03-23/ghanim-al-shnen-iraq-refugee-arm-amputee-electric-shock/105023978">ABC Australia</source>
+    </item>
     <item>
       <title>Darling of the roads: teenager with cerebral palsy gains network of affection from truckers in Minas Gerais</title>
       <link>https://news.bias.com/go/2026-03-22-1720</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 18 Mar 2026 15:03:28 GMT</pubDate>
       <description>Children at a French primary school discovered a remarkably preserved skeleton sitting upright in a circular pit—the latest of nearly 20 such burials found in Dijon. Dating from around 300–200 BC, these Gallic tombs feature bodies seated facing west, hands in laps, with no belongings except one armband. Dijon now holds over a quarter of the world's known seated Gallic burials, yet researchers remain puzzled about their meaning. Were these seated graves honors or punishments? Some bodies show signs of violence, while bone analysis reveals physically active lives. With crucial surface layers missing, archaeologists acknowledge the mystery may persist, making their profession both fascinating and frustrating.</description>
       <source url="https://www.theguardian.com/world/2026/mar/18/ancient-skeleton-discovered-sitting-upright-in-france">The Guardian</source>
-    </item>
-    <item>
-      <title>Brazil nut harvest in Paru Forest drives income and conservation in the Lower Amazon</title>
-      <link>https://news.bias.com/go/2026-03-18-1300</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-18-1300</guid>
-      <pubDate>Wed, 18 Mar 2026 13:00:44 GMT</pubDate>
-      <description>The Brazil nut harvest has begun in the Paru State Forest in the Lower Amazon region, bringing together traditional harvesters from Monte Alegre. Over 150 of the 187 registered collectors received safety equipment and supplies to support their work. The initiative, strengthened by years of institutional investment, seeks to balance traditional resource use with sustainable forest management. Training programs have equipped harvesters with technical knowledge on proper equipment use and best practices. The effort exemplifies how supporting forest communities can simultaneously generate income and protect the Amazon, demonstrating a model where economic activity and conservation work hand in hand.</description>
-      <source url="https://g1.globo.com/pa/santarem-regiao/noticia/2026/03/18/safra-da-castanha-do-para-na-flota-do-paru-impulsiona-renda-e-conservacao-no-baixo-amazonas.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
