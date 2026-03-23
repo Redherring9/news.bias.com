@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 15:24:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 18:04:44 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The strange underwater creatures that devour whales</title>
+      <link>https://news.bias.com/go/2026-03-23-1804</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-23-1804</guid>
+      <pubDate>Mon, 23 Mar 2026 18:04:43 GMT</pubDate>
+      <description>When whales die at sea, their massive bodies—up to 150 tons of flesh, fat, and bone—sink to the ocean floor, creating an extraordinary feast that can sustain deep-sea ecosystems for decades. The carcass attracts a succession of remarkable creatures: hagfish that burrow headfirst into the flesh, rat-tails with luminous blue eyes that detect bioluminescence, and bone-eating worms called Osedax that inject acid into skeletal remains and absorb nutrients directly. This "whale fall" delivers the equivalent of thousands of years of marine snow in a single event, supporting unique species found nowhere else and transforming death into abundant life in the ocean's darkest depths.</description>
+      <source url="https://www.bbc.com/portuguese/articles/cx2wnj73xnno?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Sistanagila: Where Iranians and Israelis Make Music Together</title>
       <link>https://news.bias.com/go/2026-03-23-1524</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 19 Mar 2026 11:31:17 GMT</pubDate>
       <description>As World Frog Day marks March 20, scientists celebrate amphibians that have survived for hundreds of millions of years while confronting a sobering reality: 40% of species now face extinction. Though roughly 150 new amphibian species are discovered annually, many are immediately classified as threatened. Recent stories illustrate the challenges: rare galaxy frogs in India's Western Ghats disappeared after unregulated photo tourism, California's mountain yellow-legged frog clings to survival despite reintroduction efforts hampered by invasive trout and climate impacts, and three newly described Peruvian species already face habitat loss. Researchers emphasize the urgency, noting some species may vanish before they're even named.</description>
       <source url="https://news.mongabay.com/short-article/2026/03/world-frog-day-new-species-described-amid-threats-to-amphibian-survival/">Mongabay</source>
-    </item>
-    <item>
-      <title>Amid energy market turmoil, the people taking power into their own hands</title>
-      <link>https://news.bias.com/go/2026-03-19-0928</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-0928</guid>
-      <pubDate>Thu, 19 Mar 2026 09:28:32 GMT</pubDate>
-      <description>Reg Platt's company Emergent Energy is pioneering a model that brings solar power directly to council housing residents in London's Hackney borough. By installing panels on flat roofs and creating local micro-grids, the system cuts electricity bills by around 15% while requiring no government subsidy—it pays for itself through energy sales. So far, 800 residents across 28 buildings benefit from this approach, which won a 2025 Ashden Award. With millions of UK social housing flats potentially suitable for similar projects, the model could transform access to affordable clean energy. Platt himself evolved from musician and climate activist to policy expert before embracing entrepreneurship, blending creativity with technical expertise to address energy challenges at community scale.</description>
-      <source url="https://www.positive.news/environment/amid-energy-market-turmoil-the-people-taking-power-into-their-own-hands/">Positive News</source>
     </item>
   </channel>
 </rss>
