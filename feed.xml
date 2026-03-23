@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 03:52:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 06:35:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Starwatch: Look west to see the moon blot out Leo’s brightest star</title>
+      <link>https://news.bias.com/go/2026-03-23-0635</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-23-0635</guid>
+      <pubDate>Mon, 23 Mar 2026 06:35:17 GMT</pubDate>
+      <description>On the evening of March 29, skywatchers can observe a celestial treat as the moon passes in front of Regulus, the brightest star in the constellation Leo. This phenomenon, called an occultation, offers an unexpectedly thrilling moment as one astronomical object temporarily blocks another from view. Regulus sits at the base of Leo's distinctive sickle-shaped asterism and shines brightly enough to be seen even from urban areas. From London, the star will disappear behind the moon's edge at 7:14 PM BST, vanishing almost instantaneously due to the moon's lack of atmosphere. It will reappear on the opposite side at 9:21 PM, offering observers two distinct moments to witness this celestial alignment.</description>
+      <source url="https://www.theguardian.com/science/2026/mar/23/starwatch-look-west-to-see-the-moon-blot-out-leos-brightest-star">The Guardian</source>
+    </item>
     <item>
       <title>I discovered three new geckos in Cambodia’s limestone caves – and that’s not all we found</title>
       <link>https://news.bias.com/go/2026-03-23-0352</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 19 Mar 2026 01:17:47 GMT</pubDate>
       <description>An Auckland couple, Sue and Tony Kerr, initially worried about hosting homeless teenagers through The Safety Net programme—fearing theft, awkward generational gaps, and rejected meals. Instead, they discovered compassionate young people who shared dinners and decorated Christmas trees. The programme connects homeless rangatahi with volunteer host families for short stays while permanent housing is arranged. In two years, 36 young people have been housed, many fleeing family breakdown, violence, or poverty. Coordinator Josh Hendry notes a critical gap for 16- and 17-year-olds, who can wait eight weeks for government support. The initiative, currently with six west Auckland host homes, aims to expand citywide, offering early intervention to prevent long-term youth homelessness.</description>
       <source url="https://www.rnz.co.nz/news/national/590012/families-open-up-homes-to-homeless-teens-under-the-safety-net-programme">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Watch: Students share what Polyfest means to them</title>
-      <link>https://news.bias.com/go/2026-03-18-2315</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-18-2315</guid>
-      <pubDate>Wed, 18 Mar 2026 23:15:11 GMT</pubDate>
-      <description>Over 11,000 students from 73 schools are gathering for ASB Polyfest, the world's largest secondary school Pacific cultural festival, held annually in New Zealand since the late 1970s. For the young performers taking the stage over three days, the event represents far more than entertainment. Students describe it as a chance to honor their ancestors, explore identity beyond home and church, and share cultural traditions through dance, music, and food. Participants emphasize that Polyfest welcomes everyone—whether performing their own heritage or representing another culture—creating a space where diverse communities celebrate together and learn from one another's beauty and stories.</description>
-      <source url="https://www.rnz.co.nz/international/pacific-news/590043/watch-students-share-what-polyfest-means-to-them">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
