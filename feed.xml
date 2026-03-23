@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 08:54:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 11:02:36 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Predatory feral ferrets removed from an island for the first time ever</title>
+      <link>https://news.bias.com/go/2026-03-23-1102</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-23-1102</guid>
+      <pubDate>Mon, 23 Mar 2026 11:02:34 GMT</pubDate>
+      <description>Rathlin Island, off Northern Ireland's coast, has successfully removed its entire population of invasive ferrets in a groundbreaking five-year effort. The ferrets, introduced in the 1980s to control rabbits, multiplied to over 100 and devastated the island's seabird colonies, including puffins and rare corncrakes. A partnership involving conservationists, islanders, and a specially trained red labrador used cameras, thermal drones, and humane trapping to eliminate the predators. Results have been swift: six calling corncrakes were recorded, and Manx shearwaters bred on the island for the first time in 40 years. The project offers hope for restoring one of Northern Ireland's most important seabird sanctuaries.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/23/predatory-feral-ferrets-removed-from-island-first-time-rathlin-island-northern-ireland">The Guardian</source>
+    </item>
     <item>
       <title>San Francisco’s Revamped Seawall Will Teem With Life</title>
       <link>https://news.bias.com/go/2026-03-23-0854</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 19 Mar 2026 05:23:07 GMT</pubDate>
       <description>England has officially opened the world's longest managed coastal walking route, stretching 2,689 miles around the entire English coastline. The King Charles III England Coast Path took 18 years to complete, adding over 1,000 miles of new pathways to existing trails and upgrading many sections with improved surfaces, bridges, and accessibility features. The route passes through diverse landscapes including chalk cliffs, salt marshes, sandy beaches, and historic towns. Uniquely, new legislation allows the path to "roll back" inland as coastlines shift due to erosion and climate change, ensuring its continuity for future generations. About 80% is currently open, with completion expected by year's end.</description>
       <source url="https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Group of Black women from São Paulo leads Afro-Brazilian procession in Belém this Saturday</title>
-      <link>https://news.bias.com/go/2026-03-19-0320</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-0320</guid>
-      <pubDate>Thu, 19 Mar 2026 03:20:20 GMT</pubDate>
-      <description>A group of Black women from São Paulo will lead an Afro-Brazilian street procession through Belém's Cremação neighborhood, celebrating traditions of dance, song, and percussion. The event marks the culmination of a week-long workshop called Nzinga, created by percussionist Brena Corrêa to encourage women's participation in African-rooted music. Participants learned sacred rhythms, ancestral chants, and movement traditions guided by master drummers from Ilú Obá de Min, a renowned all-women percussion ensemble. As one instructor notes, the drum represents both healing and a cry for freedom. The free public procession invites community members to join the celebration of cultural heritage and collective expression.</description>
-      <source url="https://g1.globo.com/pa/para/noticia/2026/03/18/cortejo-de-mulheres-com-tambores-afro-percorre-ruas-da-cremacao-neste-sabado-em-belem.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
