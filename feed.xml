@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 13:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 15:24:32 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sistanagila: Where Iranians and Israelis Make Music Together</title>
+      <link>https://news.bias.com/go/2026-03-23-1524</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-23-1524</guid>
+      <pubDate>Mon, 23 Mar 2026 15:24:30 GMT</pubDate>
+      <description>In Berlin, Iranian and Israeli musicians have come together to form Sistanagila, an ensemble that bridges cultural divides through music. Founded about 15 years ago by Iranian expatriate Babak Shafieian, the group was inspired by Daniel Barenboim's West-Eastern Divan Orchestra. Despite initial hesitations and ongoing geopolitical tensions, the musicians blend Persian classical music, Jewish chants, Klezmer melodies, and jazz influences. Their collaboration—impossible in either Iran or Israel—demonstrates that shared curiosity and creative expression can foster connection across seemingly insurmountable boundaries. Rather than making overtly political statements, the ensemble focuses on creating something beautiful together, embodying peace through the simple act of making music side by side.</description>
+      <source url="https://www.dw.com/de/sistanagila-wo-iraner-und-israelis-gemeinsam-musik-machen/a-76481160?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
+    </item>
     <item>
       <title>‘There’s biological treasure here’: Chile’s endemic seals gain protection with new marine park</title>
       <link>https://news.bias.com/go/2026-03-23-1309</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 19 Mar 2026 09:28:32 GMT</pubDate>
       <description>Reg Platt's company Emergent Energy is pioneering a model that brings solar power directly to council housing residents in London's Hackney borough. By installing panels on flat roofs and creating local micro-grids, the system cuts electricity bills by around 15% while requiring no government subsidy—it pays for itself through energy sales. So far, 800 residents across 28 buildings benefit from this approach, which won a 2025 Ashden Award. With millions of UK social housing flats potentially suitable for similar projects, the model could transform access to affordable clean energy. Platt himself evolved from musician and climate activist to policy expert before embracing entrepreneurship, blending creativity with technical expertise to address energy challenges at community scale.</description>
       <source url="https://www.positive.news/environment/amid-energy-market-turmoil-the-people-taking-power-into-their-own-hands/">Positive News</source>
-    </item>
-    <item>
-      <title>Tough breeding season for tara iti - one of New Zealand's smallest birds</title>
-      <link>https://news.bias.com/go/2026-03-19-0725</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-0725</guid>
-      <pubDate>Thu, 19 Mar 2026 07:25:54 GMT</pubDate>
-      <description>New Zealand's tara iti, or fairy tern, faced challenging conditions this breeding season with predators claiming a third of the 29 eggs laid nationwide. Eleven chicks ultimately fledged—a result conservationists consider positive given past seasons sometimes yielded only one to three survivors. The Department of Conservation maintains round-the-clock monitoring at breeding sites from September to February, watching for rats, harriers, storms, and human disturbance. When threats emerge, staff replace real eggs with hand-painted 3D-printed decoys and move the originals to safety or Auckland Zoo, where chicks consume up to 70 fish daily. Five birds now wear satellite transmitters, offering unprecedented insights into their movements and helping identify areas needing protection.</description>
-      <source url="https://www.rnz.co.nz/news/national/590087/tough-breeding-season-for-tara-iti-one-of-new-zealand-s-smallest-birds">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
