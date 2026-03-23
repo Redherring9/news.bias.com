@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 11:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 13:09:42 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘There’s biological treasure here’: Chile’s endemic seals gain protection with new marine park</title>
+      <link>https://news.bias.com/go/2026-03-23-1309</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-23-1309</guid>
+      <pubDate>Mon, 23 Mar 2026 13:09:40 GMT</pubDate>
+      <description>A remarkable conservation story is unfolding around Chile's Juan Fernández archipelago, where an endemic fur seal species once thought extinct in the 19th century has rebounded from just 20 individuals in the 1960s to an estimated 200,000 today. The recovery is thanks to decades of local stewardship by the island's small fishing community and conservationists like oceanographer Sylvia Earle. In March 2025, Chile signed an agreement to expand marine protection around the islands to nearly 1 million square kilometers, which would make it the world's third-largest no-take zone and protect over 50% of Chile's waters. The island community now awaits confirmation from the new government that these protections will remain in place.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/23/chile-seals-colony-gain-protection-new-marine-park-juan-fernandez-archipelago-wildlife">The Guardian</source>
+    </item>
     <item>
       <title>Predatory feral ferrets removed from an island for the first time ever</title>
       <link>https://news.bias.com/go/2026-03-23-1102</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 19 Mar 2026 07:25:54 GMT</pubDate>
       <description>New Zealand's tara iti, or fairy tern, faced challenging conditions this breeding season with predators claiming a third of the 29 eggs laid nationwide. Eleven chicks ultimately fledged—a result conservationists consider positive given past seasons sometimes yielded only one to three survivors. The Department of Conservation maintains round-the-clock monitoring at breeding sites from September to February, watching for rats, harriers, storms, and human disturbance. When threats emerge, staff replace real eggs with hand-painted 3D-printed decoys and move the originals to safety or Auckland Zoo, where chicks consume up to 70 fish daily. Five birds now wear satellite transmitters, offering unprecedented insights into their movements and helping identify areas needing protection.</description>
       <source url="https://www.rnz.co.nz/news/national/590087/tough-breeding-season-for-tara-iti-one-of-new-zealand-s-smallest-birds">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Stretching 2,689 miles, the world's longest coastal path opens in England</title>
-      <link>https://news.bias.com/go/2026-03-19-0523</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-0523</guid>
-      <pubDate>Thu, 19 Mar 2026 05:23:07 GMT</pubDate>
-      <description>England has officially opened the world's longest managed coastal walking route, stretching 2,689 miles around the entire English coastline. The King Charles III England Coast Path took 18 years to complete, adding over 1,000 miles of new pathways to existing trails and upgrading many sections with improved surfaces, bridges, and accessibility features. The route passes through diverse landscapes including chalk cliffs, salt marshes, sandy beaches, and historic towns. Uniquely, new legislation allows the path to "roll back" inland as coastlines shift due to erosion and climate change, ensuring its continuity for future generations. About 80% is currently open, with completion expected by year's end.</description>
-      <source url="https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
