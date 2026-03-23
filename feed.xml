@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 18:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 20:08:00 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>House of the Lion in Vale do Sol, Brazil</title>
+      <link>https://news.bias.com/go/2026-03-23-2007</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-23-2007</guid>
+      <pubDate>Mon, 23 Mar 2026 20:07:59 GMT</pubDate>
+      <description>In Parnamirim, near Natal in northeast Brazil, self-taught artist Mister Manel has transformed his personal atelier into an extraordinary folk art environment. The House of the Lion Cultural Atelier features dozens of large-scale lion sculptures and immersive installations that blend popular art, handcrafted architecture, and personal mythology. The centerpiece is an ambitious ongoing project to create what may become the world's largest lion sculpture, crafted from fiberglass. This constantly evolving space welcomes visitors without appointment, offering guided tours through a rare fusion of outsider art, devotion, and imagination. Each visit reveals something new as the visionary cultural landmark continues to grow.</description>
+      <source url="https://www.atlasobscura.com/places/casa-do-leao-house-of-the-lion-atelier-cultural-mister-manel">Atlas Obscura</source>
+    </item>
     <item>
       <title>The strange underwater creatures that devour whales</title>
       <link>https://news.bias.com/go/2026-03-23-1804</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 19 Mar 2026 13:33:51 GMT</pubDate>
       <description>The relationship between Germany and Iran stretches back centuries, beginning with cultural connections long before diplomatic ties. Johann Wolfgang von Goethe discovered Persian poet Hafiz in 1814 and was so captivated that he wrote his own "West-Eastern Divan," celebrating the inseparability of Orient and Occident. In the 19th century, as Persia became caught between British and Russian imperial ambitions, it sought European allies. The first official German-Persian treaty came in 1857, and Persian Shah Naser al-Din visited Berlin in 1873, seeking reforms and technology. The article also touches on Wilhelm Wassmuss, a German diplomat who worked alongside Persian clans during World War I, earning him the nickname "the German Lawrence of Arabia."</description>
       <source url="https://www.dw.com/de/von-goethe-bis-soraya-deutsch-iranische-geschichten/a-76412931?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
-    </item>
-    <item>
-      <title>World Frog Day: New species described amid threats to amphibian survival</title>
-      <link>https://news.bias.com/go/2026-03-19-1131</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-1131</guid>
-      <pubDate>Thu, 19 Mar 2026 11:31:17 GMT</pubDate>
-      <description>As World Frog Day marks March 20, scientists celebrate amphibians that have survived for hundreds of millions of years while confronting a sobering reality: 40% of species now face extinction. Though roughly 150 new amphibian species are discovered annually, many are immediately classified as threatened. Recent stories illustrate the challenges: rare galaxy frogs in India's Western Ghats disappeared after unregulated photo tourism, California's mountain yellow-legged frog clings to survival despite reintroduction efforts hampered by invasive trout and climate impacts, and three newly described Peruvian species already face habitat loss. Researchers emphasize the urgency, noting some species may vanish before they're even named.</description>
-      <source url="https://news.mongabay.com/short-article/2026/03/world-frog-day-new-species-described-amid-threats-to-amphibian-survival/">Mongabay</source>
     </item>
   </channel>
 </rss>
