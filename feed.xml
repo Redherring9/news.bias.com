@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 06:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 08:18:55 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Islamic regime tried to kill this tradition but Iranians keep it alive</title>
+      <link>https://news.bias.com/go/2026-03-24-0818</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-24-0818</guid>
+      <pubDate>Tue, 24 Mar 2026 08:18:52 GMT</pubDate>
+      <description>Iranians around the world are celebrating Nowruz, the ancient Persian New Year marking the first day of spring, despite ongoing conflict and official discouragement. The 3,000-year-old tradition, rooted in Zoroastrianism, includes jumping over bonfires during Chaharshanbe Suri to symbolically purify darkness and misfortune. Families arrange Haft Seen tables displaying symbolic items like painted eggs, candles, and mirrors representing renewal and hope. This year, many added photographs of loved ones lost to violence, merging ritual with remembrance. Members of the Iranian diaspora emphasize the importance of preserving these pre-Islamic customs for younger generations, describing the observance as an act of cultural resilience and identity that transcends religion and borders.</description>
+      <source url="https://www.abc.net.au/news/2026-03-24/iranians-celebrate-nowruz-despite-us-israel-war/106489092">ABC Australia</source>
+    </item>
     <item>
       <title>What are zettajoules – and what do they tell us about Earth’s energy imbalance?</title>
       <link>https://news.bias.com/go/2026-03-24-0609</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 19 Mar 2026 23:47:47 GMT</pubDate>
       <description>A variety of cooking apple once believed extinct has been confirmed growing on a rural property in New South Wales, making Australia the fourth country in the world where the Rymer apple survives. Rudi Stachow, 76, grew up eating the fruit from trees his father propagated in the 1950s, tracing their lineage to 19th-century settlers. Local cider maker Gary Sully recognized the rare variety and worked with UK experts to verify it through DNA testing. The confirmation in 2023 was especially poignant given that only three aging trees remain on the original property, their trunks now rotting. Sully is propagating dozens of seedlings to preserve this piece of living agricultural history for future generations.</description>
       <source url="https://www.abc.net.au/news/2026-03-20/rare-rymer-apples-on-nsw-property/106330716">ABC Australia</source>
-    </item>
-    <item>
-      <title>Luytens’ Crypt in Liverpool, England</title>
-      <link>https://news.bias.com/go/2026-03-19-2145</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-2145</guid>
-      <pubDate>Thu, 19 Mar 2026 21:45:10 GMT</pubDate>
-      <description>Beneath Liverpool's striking brutalist Metropolitan Cathedral lies an unexpected treasure: a grand neoclassical crypt that tells the story of architectural ambition interrupted. In 1922, Sir Edwin Lutyens designed an enormous domed cathedral that would have rivaled St. Peter's in Rome, but rising costs and World War II halted construction after only the crypt was completed. Lutyens died in 1944 without seeing his vision realized. When work resumed in the 1960s, a new brutalist design by Sir Frederick Gibberd was built atop the original crypt, creating a fascinating architectural contrast. Today, the crypt houses chapels, meeting spaces, and a treasury of pre-Reformation religious artifacts, offering visitors a glimpse into what might have been.</description>
-      <source url="https://www.atlasobscura.com/places/luytens-crypt">Atlas Obscura</source>
     </item>
   </channel>
 </rss>
