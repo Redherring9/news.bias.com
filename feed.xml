@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 08:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 10:28:08 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘It smells like a rancid fish and chip shop’: at sea with the Antarctic’s krill supertrawlers</title>
+      <link>https://news.bias.com/go/2026-03-24-1028</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-24-1028</guid>
+      <pubDate>Tue, 24 Mar 2026 10:28:06 GMT</pubDate>
+      <description>Off Antarctica's Coronation Island, Sea Shepherd documents the massive krill fishing industry, where supertrawlers from multiple nations compete for a 620,000-tonne annual quota. These tiny, shrimp-like crustaceans are processed into fish oil supplements and salmon feed worth over $450 million yearly. Scientists warn the harvest may already be straining the Antarctic ecosystem, as krill form the foundation of the food web for whales, penguins, and seals. Studies suggest declining krill numbers correlate with reduced breeding among humpback whales and penguin species, while also diminishing krill's role as carbon-storage powerhouses. The scene juxtaposes industrial fishing with abundant wildlife, as albatrosses and penguins navigate waters shared with massive trawlers.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/24/krill-foundation-food-antarctic-ecosystem-survive-factory-fishing">The Guardian</source>
+    </item>
     <item>
       <title>The Islamic regime tried to kill this tradition but Iranians keep it alive</title>
       <link>https://news.bias.com/go/2026-03-24-0818</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 20 Mar 2026 01:50:17 GMT</pubDate>
       <description>Daniel Munduruku has made history as the first Indigenous author to join the Academia Paulista de Letras in its 116-year existence. The 62-year-old writer, who has published 62 books primarily for young readers focusing on Indigenous cultural diversity, sees this moment as both personal achievement and collective recognition for Indigenous peoples in Brazil. A recent Jabuti Prize winner, Munduruku views his new role as honoring not only literary tradition but also the oral traditions of Indigenous communities. As he celebrates 30 years of writing in 2026, he hopes this milestone inspires Indigenous youth to claim their rightful place in Brazilian history.</description>
       <source url="https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/03/19/autor-indigena-ocupa-cadeira-na-academia-paulista-de-letras-pela-primeira-vez-em-116-anos.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Apple variety once thought extinct confirmed on NSW farm</title>
-      <link>https://news.bias.com/go/2026-03-19-2347</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-2347</guid>
-      <pubDate>Thu, 19 Mar 2026 23:47:47 GMT</pubDate>
-      <description>A variety of cooking apple once believed extinct has been confirmed growing on a rural property in New South Wales, making Australia the fourth country in the world where the Rymer apple survives. Rudi Stachow, 76, grew up eating the fruit from trees his father propagated in the 1950s, tracing their lineage to 19th-century settlers. Local cider maker Gary Sully recognized the rare variety and worked with UK experts to verify it through DNA testing. The confirmation in 2023 was especially poignant given that only three aging trees remain on the original property, their trunks now rotting. Sully is propagating dozens of seedlings to preserve this piece of living agricultural history for future generations.</description>
-      <source url="https://www.abc.net.au/news/2026-03-20/rare-rymer-apples-on-nsw-property/106330716">ABC Australia</source>
     </item>
   </channel>
 </rss>
