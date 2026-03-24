@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 19:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 21:29:37 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Defying drought and invasives, a feisty Australian marsupial makes a comeback</title>
+      <link>https://news.bias.com/go/2026-03-24-2129</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-24-2129</guid>
+      <pubDate>Tue, 24 Mar 2026 21:29:35 GMT</pubDate>
+      <description>Australia's ampurta, a guinea pig-sized marsupial with a distinctive black-tipped tail, has made a remarkable recovery after nearly going extinct. Between 2015 and 2021, this small predator expanded its range by an area the size of Denmark. The comeback followed the 1995 release of a disease that reduced rabbit populations, which in turn decreased the number of foxes and feral cats preying on native wildlife. Researchers note the ampurta's resilience is especially striking given it occurred during severe drought conditions. However, scientists warn that without continued investment in controlling invasive species, this success story could be reversed.</description>
+      <source url="https://news.mongabay.com/2026/03/defying-drought-and-invasives-a-feisty-australian-marsupial-makes-a-comeback/">Mongabay</source>
+    </item>
     <item>
       <title>Eastern monarch butterfly populations increase in 2025, but challenges remain</title>
       <link>https://news.bias.com/go/2026-03-24-1920</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 20 Mar 2026 12:04:26 GMT</pubDate>
       <description>Three Scottish brothers completed an extraordinary 14,484-kilometer rowing journey across the Pacific Ocean from Peru to Australia in just over 132 days, setting a new record for an unassisted crossing. Jamie, Ewan, and Lachlan Maclean faced towering waves up to nine meters high and survived a dramatic moment when one brother was thrown overboard at night. Their adventure began in childhood on Scotland's cold coasts, where they first learned to row and trust each other. Beyond breaking records, the brothers aimed to raise over $1 million for clean water projects in Madagascar. They named their boat Rose Emily, honoring a sister their parents lost before birth in 1996.</description>
       <source url="https://www.bbc.com/mundo/articles/c3dz3ej8n43o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>Can a Legendary Tree Keep Louisiana’s Coastal Lands From Slipping Away?</title>
-      <link>https://news.bias.com/go/2026-03-20-1001</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-20-1001</guid>
-      <pubDate>Fri, 20 Mar 2026 10:01:39 GMT</pubDate>
-      <description>In Louisiana, where 2,000 square miles of coastal wetlands have vanished over the past century, the iconic bald cypress tree is emerging as a restoration hero. A coalition of environmental groups has planted thousands of cypresses in the Central Wetlands, an area devastated by logging, saltwater intrusion from a now-closed canal, and Hurricane Katrina's surge. The trees help stabilize Louisiana's unique sediment-built delta, which lacks bedrock and has been losing ground since the Mississippi River was confined by levees. While planting trees may seem modest against such vast loss, organizers view each cypress as an act of defiance—anchoring soil and offering hope that these legendary swamp dwellers can help reverse decades of ecological decline.</description>
-      <source url="https://reasonstobecheerful.world/cypress-trees-stabilize-louisiana-wetlands/">Reasons to be Cheerful</source>
     </item>
   </channel>
 </rss>
