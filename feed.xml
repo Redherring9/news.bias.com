@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 03:29:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 06:09:57 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What are zettajoules – and what do they tell us about Earth’s energy imbalance?</title>
+      <link>https://news.bias.com/go/2026-03-24-0609</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-24-0609</guid>
+      <pubDate>Tue, 24 Mar 2026 06:09:55 GMT</pubDate>
+      <description>Scientists are tracking Earth's growing energy imbalance in zettajoules—a unit so vast (a billion trillion joules) that experts struggle to convey its scale. The World Meteorological Organization reports that this imbalance increased by about 11 zettajoules annually between 2005 and 2025, with oceans absorbing over 90% of trapped solar radiation. In 2025, ocean energy imbalance hit a record 23 zettajoules—equivalent to 11 Hiroshima bombs' worth of energy being added every second, or enough to vaporize 3.4 billion Olympic pools. This accumulation, driven by greenhouse gases preventing heat from escaping to space, is fueling heatwaves, storms, and other extreme weather. The numbers reveal an uncomfortable reality about how dramatically our planet's energy systems are changing.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/24/what-are-zettajoules-earth-energy-imbalance">The Guardian</source>
+    </item>
     <item>
       <title>Conservation win as first palm cockatoo chick fledges from artificial hollow in Australia</title>
       <link>https://news.bias.com/go/2026-03-24-0329</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 19 Mar 2026 21:45:10 GMT</pubDate>
       <description>Beneath Liverpool's striking brutalist Metropolitan Cathedral lies an unexpected treasure: a grand neoclassical crypt that tells the story of architectural ambition interrupted. In 1922, Sir Edwin Lutyens designed an enormous domed cathedral that would have rivaled St. Peter's in Rome, but rising costs and World War II halted construction after only the crypt was completed. Lutyens died in 1944 without seeing his vision realized. When work resumed in the 1960s, a new brutalist design by Sir Frederick Gibberd was built atop the original crypt, creating a fascinating architectural contrast. Today, the crypt houses chapels, meeting spaces, and a treasury of pre-Reformation religious artifacts, offering visitors a glimpse into what might have been.</description>
       <source url="https://www.atlasobscura.com/places/luytens-crypt">Atlas Obscura</source>
-    </item>
-    <item>
-      <title>'Priest's Training': faithful celebrate Saint Joseph's day with race and rain in Ceará's interior</title>
-      <link>https://news.bias.com/go/2026-03-19-1942</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-1942</guid>
-      <pubDate>Thu, 19 Mar 2026 19:42:27 GMT</pubDate>
-      <description>In the town of Iguatu in Brazil's Ceará interior, a local priest has created a unique tradition that blends faith, community, and wellness. Father José Wallace Pinheiro organizes biweekly running groups called 'Treino do Padre' (Priest's Training), inviting parishioners of all abilities to exercise together. On Saint Joseph's feast day, the group held their second annual Saint Joseph's Run, drawing hundreds of participants who began before dawn with prayer and stretching. Among the runners were an 82-year-old vendor and a personal trainer accompanied by Zeus, a dog who has become the runs' beloved mascot. The event concluded under heavy rain—considered a hopeful sign for the semi-arid region's rainy season.</description>
-      <source url="https://g1.globo.com/ce/ceara/noticia/2026/03/19/treino-do-padre-fieis-celebram-dia-de-sao-jose-com-corrida-e-chuva-no-interior-do-ceara.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
