@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 22:13:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 00:37:27 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Designed by youth': Service to offer free trauma support for Canberra teens</title>
+      <link>https://news.bias.com/go/2026-03-24-0037</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-24-0037</guid>
+      <pubDate>Tue, 24 Mar 2026 00:37:25 GMT</pubDate>
+      <description>Canberra is launching Australia's first youth-focused trauma service, offering free mental health support for teenagers aged 13–18. What makes it unique is its co-design approach: young people with lived experience of trauma helped shape how the service operates. Backed by $4 million in government funding, it will provide trauma-informed care, peer support, family assistance, and an open-door policy. The multidisciplinary team includes peer workers, mental health specialists, and family intervention staff. Recent research underscores the need, showing up to one in four Australian teens experience persistent depression or anxiety during high school, often linked to adverse childhood experiences.</description>
+      <source url="https://www.abc.net.au/news/2026-03-24/free-youth-trauma-service-canberra/106486328">ABC Australia</source>
+    </item>
     <item>
       <title>Site of the Invention of Irn-Bru in Glasgow, Scotland</title>
       <link>https://news.bias.com/go/2026-03-23-2213</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 19 Mar 2026 17:39:40 GMT</pubDate>
       <description>In the rural hills of Piauí, Brazil, a cave has become a cherished pilgrimage site after a farmer's promise during severe drought. According to local tradition, José Lima vowed to place a statue of Saint Joseph in the grotto if rain would come to save his community's failing crops. When the rains arrived, he fulfilled his promise, and the cave transformed into a place of prayer and thanksgiving. Today, devotees travel from across the region, leaving ex-votos—symbolic offerings of gratitude—for blessings received. The site has grown over the years, now hosting regular masses and drawing hundreds of faithful visitors who seek Saint Joseph's intercession, especially during times of hardship.</description>
       <source url="https://g1.globo.com/pi/piaui/noticia/2026/03/19/sao-jose-gruta.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Jaraqui, symbol of Amazonian cuisine, approved as intangible cultural heritage</title>
-      <link>https://news.bias.com/go/2026-03-19-1536</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-19-1536</guid>
-      <pubDate>Thu, 19 Mar 2026 15:36:49 GMT</pubDate>
-      <description>Brazil's Amazonas State Legislature has approved a bill recognizing the jaraqui fish as intangible cultural heritage. This small fish accounts for 93% of fishing catches in the central Amazon and is the region's most consumed seafood. Beyond its nutritional value, the jaraqui holds deep symbolic meaning in local culture, appearing in songs, sayings, and food festivals. A popular phrase celebrates its appeal: "Whoever eats jaraqui never leaves here." The legislation calls for educational programs, research support, and cultural events to preserve this tradition while promoting artisanal fishing and environmental conservation. The capital city of Manaus had already granted the fish municipal heritage status in 2019.</description>
-      <source url="https://g1.globo.com/am/amazonas/noticia/2026/03/19/jaraqui-simbolo-da-culinaria-amazonense-e-aprovado-como-patrimonio-cultural-imaterial.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
