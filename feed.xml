@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 23:39:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 02:27:24 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How a world-first baiting program could save the seabirds of Browse Island</title>
+      <link>https://news.bias.com/go/2026-03-25-0227</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-25-0227</guid>
+      <pubDate>Wed, 25 Mar 2026 02:27:22 GMT</pubDate>
+      <description>Australian researchers are pioneering a drone-baiting program to eliminate house mice from Browse Island, a remote 17-hectare landmass off Western Australia's coast. The mice, likely introduced during 19th-century guano mining, have reached plague proportions and devastated seabird colonies by preying on eggs and disrupting breeding. Traditional eradication methods proved impractical due to dense vegetation and extreme conditions, prompting the use of a custom-built hexacopter from New Zealand to precisely distribute rodenticide pellets. This world-first targeting of house mice via drone technology scattered over 700 kilograms of bait in October. Teams will return in April to assess whether the operation succeeded in restoring the island's crucial role as a seabird breeding sanctuary for the region.</description>
+      <source url="https://www.abc.net.au/news/2026-03-25/seabird-drone-baiting-browse-island-kimberley-house-mice-mouse/106486150">ABC Australia</source>
+    </item>
     <item>
       <title>Fund honours speech pathologist killed saving kids from runaway truck</title>
       <link>https://news.bias.com/go/2026-03-24-2339</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 20 Mar 2026 16:10:05 GMT</pubDate>
       <description>Albert Einstein's daily routines reveal a mind that thrived on creativity and deep focus. Despite childhood language difficulties that worried his family, he developed an extraordinary ability to concentrate, famously writing five groundbreaking papers in 1905 while working full-time at a Swiss patent office. He could complete eight hours of work in just two or three, using remaining time for his own theories. Einstein maintained that imagination mattered more than knowledge. His concentration was so profound that even a crying baby wouldn't distract him, and he used his violin as a tool for thinking—playing late-night improvisations in the kitchen while working through complex problems, often pausing mid-melody to jot down sudden insights.</description>
       <source url="https://www.bbc.com/portuguese/articles/c3v7vkz7r3go?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
-    </item>
-    <item>
-      <title>California condors nesting in Pacific Northwest for first time in a century, on Yurok territory</title>
-      <link>https://news.bias.com/go/2026-03-20-1407</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-20-1407</guid>
-      <pubDate>Fri, 20 Mar 2026 14:07:09 GMT</pubDate>
-      <description>A pair of young California condors released by the Yurok Tribe in 2022 appears to be incubating the region's first egg in over a century, nested in an old-growth redwood. The birds, nearly seven years old and just reaching breeding maturity, are being monitored via satellite transmitters. This milestone marks significant progress for a species that declined to just 22 individuals in 1982 and now numbers 607. The condor holds sacred importance to the Yurok people, whose elders prioritized its restoration in 2003. While biologists celebrate this development, they remain cautiously optimistic—first-time condor parents often struggle with their initial egg, and the species' slow reproduction cycle makes every attempt meaningful.</description>
-      <source url="https://news.mongabay.com/2026/03/california-condors-nesting-in-pacific-northwest-for-first-time-in-a-century-on-yurok-territory/">Mongabay</source>
     </item>
   </channel>
 </rss>
