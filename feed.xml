@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 05:18:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 07:55:10 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What was the Solar System like 4.5 billion years ago? Telescope may have the answer — and the images</title>
+      <link>https://news.bias.com/go/2026-03-25-0755</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-25-0755</guid>
+      <pubDate>Wed, 25 Mar 2026 07:55:05 GMT</pubDate>
+      <description>Astronomers have captured a rare glimpse of two giant planets forming simultaneously around a young star called WISPIT 2. Using powerful telescopes in Chile, researchers observed the planets emerging from a massive disk of gas and dust that bears striking resemblance to our own Solar System's early stages. The two gas giants, named WISPIT 2b and WISPIT 2c, are several times Jupiter's mass and orbit at different distances from their star. This marks only the second time scientists have directly observed dual planetary formation. The well-defined rings and gaps in the surrounding disk suggest a third planet may also be taking shape, offering researchers an extraordinary window into how planetary systems are born.</description>
+      <source url="https://g1.globo.com/ciencia/noticia/2026/03/25/como-era-o-sistema-solar-ha-45-bilhoes-de-anos-telescopio-pode-ter-a-resposta-e-as-imagens.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Endangered whio return to the Rees Valley after 50 years</title>
       <link>https://news.bias.com/go/2026-03-25-0518</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 20 Mar 2026 20:15:37 GMT</pubDate>
       <description>World Rewilding Day on March 20 highlights global restoration efforts ranging from single species to entire ecosystems. In France's Dauphiné Alps, the country's largest rewilding project has reintroduced four vulture species and plans to bring back large herbivores, with hopes for lynx and wolves despite local concerns. At Indonesia's Lake Toba, a retired civil servant works with communities to reforest areas degraded by agricultural runoff. Species-focused efforts include releasing rescued gorillas in Congo's Virunga National Park and vaccinating brown howler monkeys against yellow fever before reintroducing them to Brazil's Atlantic Forest, where they'll help disperse seeds and restore degraded habitat.</description>
       <source url="https://news.mongabay.com/short-article/2026/03/world-rewilding-day-hope-for-species-and-ecosystems/">Mongabay</source>
-    </item>
-    <item>
-      <title>Mexico’s monarch butterfly population jumps 64%, offering hope for at-risk species</title>
-      <link>https://news.bias.com/go/2026-03-20-1812</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-20-1812</guid>
-      <pubDate>Fri, 20 Mar 2026 18:12:57 GMT</pubDate>
-      <description>Mexico's monarch butterfly population grew 64% this winter, covering nearly three hectares of forest—the most since 2018. Each fall, tens of millions of these orange insects migrate nearly 3,000 miles from Canada through the US to western Mexico's forests. Despite this encouraging increase, the population remains far below the 1995 peak and the threshold scientists consider necessary for long-term survival. Threats including habitat loss from illegal logging, climate change, and declining milkweed plants in the US continue to challenge the species. Conservation efforts have significantly reduced deforestation in protected areas, offering hope that collaborative protection across North America can help sustain these remarkable migrators.</description>
-      <source url="https://www.theguardian.com/world/2026/mar/20/mexico-monarch-butterfly-population-increases">The Guardian</source>
     </item>
   </channel>
 </rss>
