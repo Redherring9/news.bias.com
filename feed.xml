@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 14:33:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 16:43:55 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bond between dogs and humans dates back more than 15,000 years, study finds</title>
+      <link>https://news.bias.com/go/2026-03-25-1643</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-25-1643</guid>
+      <pubDate>Wed, 25 Mar 2026 16:43:54 GMT</pubDate>
+      <description>Ancient DNA analysis has revealed that the bond between humans and dogs stretches back at least 15,800 years, pushing the oldest genetic evidence for domestication back by 5,000 years. Hunter-gatherers were feeding dogs and giving them ritual burials long before agriculture emerged. Advanced sequencing techniques allowed researchers to distinguish definitively between ancient dog and wolf remains for the first time. The findings show dogs were widespread across Europe and western Asia by 14,000 years ago, with evidence of purposeful feeding and deep emotional bonds, including puppies buried with humans. Modern European dog breeds share much ancestry with these ancient companions, which likely resembled small wolves.</description>
+      <source url="https://www.theguardian.com/science/2026/mar/25/bond-dogs-humans-dates-back-15000-years-study-finds">The Guardian</source>
+    </item>
     <item>
       <title>Terracotta Army of Qin Shi Huang in Xian Shi, China</title>
       <link>https://news.bias.com/go/2026-03-25-1433</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 21 Mar 2026 04:27:26 GMT</pubDate>
       <description>Wooden spoon carving, one of humanity's oldest crafts, is experiencing an unexpected revival as young people seek respite from digital overwhelm. Practitioners like Ash Credlin and Fox Fromholtz, both living with ADHD, find the focused, hands-on work helps them slow down and stay present in ways modern life rarely demands. With only about 20 regular carvers selling their work across Australia, the craft remains rare but growing. Experts suggest young people are gravitating toward traditional skills like whittling and breadmaking to reclaim a sense of pace and process. Ironically, social media itself may be fueling the trend, introducing new audiences to ancient trades through tutorial videos and online communities.</description>
       <source url="https://www.abc.net.au/news/2026-03-21/resurgence-of-ancient-trade-as-young-people-navigate-busy-world/106459054">ABC Australia</source>
-    </item>
-    <item>
-      <title>Connected to the past, strong into the future: Passing on traditional languages</title>
-      <link>https://news.bias.com/go/2026-03-21-0224</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-21-0224</guid>
-      <pubDate>Sat, 21 Mar 2026 02:24:47 GMT</pubDate>
-      <description>In Kalumburu, Western Australia's most remote community, three endangered Indigenous languages—Belaa, Wunambal, and Gaambera—are being revitalized by a handful of aging fluent speakers and passionate community members. Wunambal man Jeremy Kowan teaches language through traditional corroborees and music, believing it strengthens connections to ancestors and country. Kwini woman Rose Maraltadj is training to teach Belaa at the local school, following her mother's footsteps in re-learning from elders. While linguists note that of roughly 250 Indigenous Australian languages, only 12 are still learned as first languages by children, these efforts represent hope. Community members see language as essential to cultural identity and believe it empowers younger generations with strength and purpose.</description>
-      <source url="https://www.abc.net.au/news/2026-03-21/kalumburu-community-revitalises-endangered-languages/106470044">ABC Australia</source>
     </item>
   </channel>
 </rss>
