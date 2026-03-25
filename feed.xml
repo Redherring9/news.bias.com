@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 10:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 12:24:53 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The image of a lynx playing with a 'flying rodent' that won an international nature photography contest</title>
+      <link>https://news.bias.com/go/2026-03-25-1224</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-25-1224</guid>
+      <pubDate>Wed, 25 Mar 2026 12:24:51 GMT</pubDate>
+      <description>An Austrian photographer captured a remarkable moment of a young Iberian lynx repeatedly tossing its prey into the air, a behavior that lasted nearly 20 minutes. The winning image from the Wildlife Photographer of the Year public choice award highlights a species that has made an extraordinary recovery. Once on the brink of extinction with fewer than 100 individuals in the early 2000s, the Iberian lynx population has rebounded to over 2,000 thanks to dedicated conservation efforts. The photograph, taken after days of patient waiting in Spain, shows the lynx standing on its hind legs, seemingly transfixed by the airborne rodent before finally carrying it away to eat.</description>
+      <source url="https://www.bbc.com/portuguese/articles/c5yw7pxgy74o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Seabird nests built with plastic waste off the coast of Germany: Photo of the week</title>
       <link>https://news.bias.com/go/2026-03-25-1021</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 21 Mar 2026 00:22:08 GMT</pubDate>
       <description>In 1931, a small passenger plane called the Southern Cloud vanished during a routine flight between Sydney and Melbourne, taking eight lives with it. The pilots had departed based on outdated weather information and lacked two-way radio communication to receive warnings about deteriorating conditions. For 27 years, families lived in painful uncertainty until hiker Tom Sonter stumbled upon the wreckage in the Snowy Mountains in 1958. The discovery brought closure to relatives like Cynthia Balderstone, whose mother had spent decades believing her pilot father might still return. The tragedy prompted lasting changes to aviation safety, including mandatory two-way radios in all aircraft.</description>
       <source url="https://www.abc.net.au/news/2026-03-21/southern-cloud-plane-crash-mystery-snowy-mountains/106441932">ABC Australia</source>
-    </item>
-    <item>
-      <title>VIDEO: Man and dogs rescued after being stranded in home during storm in Jaú: 'I only thought about their lives'</title>
-      <link>https://news.bias.com/go/2026-03-20-2218</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-20-2218</guid>
-      <pubDate>Fri, 20 Mar 2026 22:18:52 GMT</pubDate>
-      <description>When severe flooding struck Jaú, Brazil, gas station attendant Guilherme Silva Santos found himself trapped inside his home with his three dogs as water rapidly filled the rooms. Rather than worry about his belongings, he focused solely on keeping his pets safe from drowning, perching with them on a low wall above the rising water. Civil defense teams successfully rescued the family. The flooding, caused by a stream overwhelmed during a storm that dropped 111 millimeters of rain in 24 hours, affected multiple homes in the neighborhood. Though material damage was extensive, no injuries were reported.</description>
-      <source url="https://g1.globo.com/sp/bauru-marilia/noticia/2026/03/20/video-homem-e-cadelas-sao-resgatados-apos-ficarem-ilhados-em-casa-durante-temporal-em-jau-so-pensava-na-vida-delas.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
