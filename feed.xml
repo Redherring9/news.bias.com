@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 02:27:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 05:18:51 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Endangered whio return to the Rees Valley after 50 years</title>
+      <link>https://news.bias.com/go/2026-03-25-0518</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-25-0518</guid>
+      <pubDate>Wed, 25 Mar 2026 05:18:49 GMT</pubDate>
+      <description>After more than half a century, endangered blue ducks known as whio have returned to New Zealand's Rees Valley, delighting conservationists and local residents. The sighting of a pair follows years of predator control efforts by multiple organizations working in partnership. Staff members witnessed the rare moment of whio feeding alongside takahē—another native bird recently reintroduced to the area. For one longtime resident who remembered seeing whio in the 1970s, their return fulfills a personal dream. The birds' presence signals improving waterway health, and conservationists are installing additional traps to protect them from stoats while hoping more whio will follow and establish a breeding population.</description>
+      <source url="https://www.rnz.co.nz/news/national/590612/endangered-whio-return-to-the-rees-valley-after-50-years">Radio New Zealand</source>
+    </item>
     <item>
       <title>How a world-first baiting program could save the seabirds of Browse Island</title>
       <link>https://news.bias.com/go/2026-03-25-0227</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 20 Mar 2026 18:12:57 GMT</pubDate>
       <description>Mexico's monarch butterfly population grew 64% this winter, covering nearly three hectares of forest—the most since 2018. Each fall, tens of millions of these orange insects migrate nearly 3,000 miles from Canada through the US to western Mexico's forests. Despite this encouraging increase, the population remains far below the 1995 peak and the threshold scientists consider necessary for long-term survival. Threats including habitat loss from illegal logging, climate change, and declining milkweed plants in the US continue to challenge the species. Conservation efforts have significantly reduced deforestation in protected areas, offering hope that collaborative protection across North America can help sustain these remarkable migrators.</description>
       <source url="https://www.theguardian.com/world/2026/mar/20/mexico-monarch-butterfly-population-increases">The Guardian</source>
-    </item>
-    <item>
-      <title>How Albert Einstein organized his time (and the curious role of the violin in his routine)</title>
-      <link>https://news.bias.com/go/2026-03-20-1610</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-20-1610</guid>
-      <pubDate>Fri, 20 Mar 2026 16:10:05 GMT</pubDate>
-      <description>Albert Einstein's daily routines reveal a mind that thrived on creativity and deep focus. Despite childhood language difficulties that worried his family, he developed an extraordinary ability to concentrate, famously writing five groundbreaking papers in 1905 while working full-time at a Swiss patent office. He could complete eight hours of work in just two or three, using remaining time for his own theories. Einstein maintained that imagination mattered more than knowledge. His concentration was so profound that even a crying baby wouldn't distract him, and he used his violin as a tool for thinking—playing late-night improvisations in the kitchen while working through complex problems, often pausing mid-melody to jot down sudden insights.</description>
-      <source url="https://www.bbc.com/portuguese/articles/c3v7vkz7r3go?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
     </item>
   </channel>
 </rss>
