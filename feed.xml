@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 13:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 15:23:30 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Cheeky Boy at Hummel Fountain in Hamburg, Germany</title>
+      <link>https://news.bias.com/go/2026-03-26-1523</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-26-1523</guid>
+      <pubDate>Thu, 26 Mar 2026 15:23:29 GMT</pubDate>
+      <description>A mischievous stone boy perches on a Hamburg building, forever presenting his backside toward the statue of Johann Wilhelm Bentz, a famously short-tempered 19th-century water bearer known as "Hummel." Local children once taunted Bentz as he hauled water through the city's streets, sometimes mocking him by baring their own backsides when his heavy yoke prevented pursuit. Created in 1938, the playful fountain ensemble immortalizes this bit of local folklore. While some have wondered if the cheeky gesture held deeper meaning given its creation date, the tale itself predates that era by generations, preserving a lighthearted slice of Hamburg street life from before indoor plumbing.</description>
+      <source url="https://www.atlasobscura.com/places/the-cheeky-boy-at-hummel-fountain">Atlas Obscura</source>
+    </item>
     <item>
       <title>Weekend: Mvúka Tapajós Festival celebrates Afro-Amazonian culture in Santarém</title>
       <link>https://news.bias.com/go/2026-03-26-1312</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 22 Mar 2026 00:56:02 GMT</pubDate>
       <description>Daniel Toole has taken a year off work to walk more than 1,300 kilometers around the world with his 18-year-old son Ashton, who is non-verbal and lives with autism, ADHD, and Tourette syndrome. The six-hike journey, which began in New Zealand and continues through Australia before heading to Europe, centers on Ashton's love of bushwalking—a passion that brings him joy and calm. Along the trails, the pair encounters hundreds of fellow hikers, creating opportunities for Daniel to share about Tourette syndrome and foster understanding. Since beginning their adventure, Ashton has started stringing together sentences, a remarkable development his father attributes to their time together in nature. It's a gap year built on love, patience, and putting one foot in front of the other.</description>
       <source url="https://www.abc.net.au/news/2026-03-22/father-son-bushwalking-year-raising-awareness-for-tourettes/106442694">ABC Australia</source>
-    </item>
-    <item>
-      <title>Why every culture has a broth to treat illness and seek comfort</title>
-      <link>https://news.bias.com/go/2026-03-21-2253</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-21-2253</guid>
-      <pubDate>Sat, 21 Mar 2026 22:53:16 GMT</pubDate>
-      <description>Across cultures worldwide, broths and soups occupy a cherished place in culinary memory—offering comfort during illness, celebrating special occasions, and making the most of humble ingredients. From Italian tortellini in brodo to Asian rice congee, Brazilian canja, and Ukrainian borscht, these steaming bowls connect families and generations. Though often overlooked, broths form the backbone of countless cuisines. Traditionally prepared through slow simmering of meat, bones, and aromatics, they represent both resourcefulness and nurture—historically a labor of love overseen by home cooks whose contributions rarely made it into formal culinary records, yet whose recipes continue to warm bodies and souls today.</description>
-      <source url="https://www.bbc.com/portuguese/articles/cj0v4m27z06o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
     </item>
   </channel>
 </rss>
