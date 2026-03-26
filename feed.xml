@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 11:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 13:13:00 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Weekend: Mvúka Tapajós Festival celebrates Afro-Amazonian culture in Santarém</title>
+      <link>https://news.bias.com/go/2026-03-26-1312</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-26-1312</guid>
+      <pubDate>Thu, 26 Mar 2026 13:12:57 GMT</pubDate>
+      <description>The city of Santarém in western Pará, Brazil, is hosting its first Mvúka Tapajós Festival, a two-day celebration of Afro-Brazilian and Afro-Amazonian culture. The event features workshops in carimbó dance, samba de roda, and percussion, alongside musical performances and a marketplace showcasing local food and crafts. The festival's name, "Mvúka," comes from the Bantu Kikongo language, meaning a gathering for celebration—a term historically used pejoratively in Brazil that organizers are now reclaiming. Led primarily by Black women, the festival affirms that communal gatherings, music, and dance are legitimate expressions of cultural identity and resilience, transforming spaces once marginalized into sites of memory, art, and collective joy.</description>
+      <source url="https://g1.globo.com/pa/santarem-regiao/noticia/2026/03/26/fim-de-semana-festival-mvuka-tapajos-celebra-a-cultura-afroamazonida-em-santarem.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>A nature-based solution to save the Mekong Delta’s water future (commentary)</title>
       <link>https://news.bias.com/go/2026-03-26-1101</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 21 Mar 2026 22:53:16 GMT</pubDate>
       <description>Across cultures worldwide, broths and soups occupy a cherished place in culinary memory—offering comfort during illness, celebrating special occasions, and making the most of humble ingredients. From Italian tortellini in brodo to Asian rice congee, Brazilian canja, and Ukrainian borscht, these steaming bowls connect families and generations. Though often overlooked, broths form the backbone of countless cuisines. Traditionally prepared through slow simmering of meat, bones, and aromatics, they represent both resourcefulness and nurture—historically a labor of love overseen by home cooks whose contributions rarely made it into formal culinary records, yet whose recipes continue to warm bodies and souls today.</description>
       <source url="https://www.bbc.com/portuguese/articles/cj0v4m27z06o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
-    </item>
-    <item>
-      <title>The Abu Sha'ar Brothers: A School of Damascene Chanting</title>
-      <link>https://news.bias.com/go/2026-03-21-2050</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-21-2050</guid>
-      <pubDate>Sat, 21 Mar 2026 20:50:18 GMT</pubDate>
-      <description>The Abu Sha'ar Brothers have preserved the tradition of Damascene religious chanting for decades, rooted in their father's teachings at a Damascus mosque. Founded formally in 1983, the family ensemble faced early challenges including limited recognition and scarce equipment, supported steadfastly by their late mother. Political upheaval forced their 2012 migration to Egypt, leaving behind home and audience after refusing to align with the former Syrian government. Despite losing logistical support, they continued their spiritual mission abroad. Abd al-Rahman emphasizes how religious chanting soothes hearts and revives the spirit, expressing deep love for Syria and hope for peace and their eventual return.</description>
-      <source url="https://www.aljazeera.net/video/al-jazeeraspecialprograms/2026/3/21/%d8%a7%d9%84%d8%a5%d8%ae%d9%88%d8%a9-%d8%a3%d8%a8%d9%88-%d8%b4%d8%b9%d8%b1-%d9%85%d8%af%d8%b1%d8%b3%d8%a9-%d8%a7%d9%84%d8%a5%d9%86%d8%b4%d8%a7%d8%af-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%8a?traffic_source=rss">Al Jazeera Arabic</source>
     </item>
   </channel>
 </rss>
