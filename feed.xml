@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 23:37:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 01:40:44 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dolphins, stingers and ‘salt tongue’: an epic ocean swim around New Zealand’s east coast</title>
+      <link>https://news.bias.com/go/2026-03-27-0140</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-0140</guid>
+      <pubDate>Fri, 27 Mar 2026 01:40:43 GMT</pubDate>
+      <description>Jono Ridler is attempting a world record for the longest unassisted staged swim, covering roughly 1,350 kilometers along New Zealand's east coast. Wearing only shorts, cap, and goggles, the 36-year-old has spent over 400 hours in the water, developing an intimate connection with marine life—he can now hear dolphins approaching 15 minutes before they arrive. The grueling journey involves battling jellyfish, hypothermia, and isolation, all while raising awareness about ocean conservation. Ridler uses meditative breathing techniques to cope with the mental challenges and credits his wife for making the journey possible. His effort, supported by marine conservation charity Live Ocean, showcases both human endurance and the profound connection possible between people and the sea.</description>
+      <source url="https://www.theguardian.com/world/2026/mar/26/ultra-marathon-swimmer-jono-rider-ocean-new-zealand-coast">The Guardian</source>
+    </item>
     <item>
       <title>"God is Brazilian" Turns 23 and Gets New Film Shot in Alagoas</title>
       <link>https://news.bias.com/go/2026-03-26-2337</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 22 Mar 2026 11:10:50 GMT</pubDate>
       <description>During a road expansion in southern Brazil, a resident hoping to find legendary buried treasure instead uncovered something far older: a 10,000-year-old tunnel system carved by prehistoric megafauna. Scientists identified the structure as a paleotoca, created by giant ground sloths weighing up to six tons and armadillo-like creatures reaching 500 kilograms. The animals' claw marks remain visible on tunnel walls. Around 30 such burrows have now been documented in the region, offering researchers fresh insights into how these extinct giants lived. The site is now protected by federal law, though the discoverer playfully maintains hope that later humans might have repurposed the ancient shelter.</description>
       <source url="https://g1.globo.com/sc/santa-catarina/noticia/2026/03/22/tuneis-pre-historicos-tatus-preguicas-gigantes-descobertos-obra-sc.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Shells and mesosaur indicate that city in central SC was covered by saltwater 290 million years ago</title>
-      <link>https://news.bias.com/go/2026-03-22-0907</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-22-0907</guid>
-      <pubDate>Sun, 22 Mar 2026 09:07:52 GMT</pubDate>
-      <description>The town of Taió, nestled inland in Brazil's Santa Catarina state, holds a remarkable secret in its museum: fossils revealing that 290 million years ago, this landlocked region was covered by saltwater. Donated by residents over the years, the collection includes unique Heteropecten catharinae shells found only in this area, and a mesosaur fossil discovered in 1864. These coastal reptiles, which transitioned between land and sea, help scientists confirm the area was once shoreline when Earth had a single supercontinent. The recently reopened paleontological museum allows visitors to explore this ancient maritime past, far from today's ocean.</description>
-      <source url="https://g1.globo.com/sc/santa-catarina/noticia/2026/03/22/conchas-mesossauro-cidade-meio-sc-coberta-agua-salgada-milhoes-de-anos.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
