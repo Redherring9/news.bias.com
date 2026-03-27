@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 05:47:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 07:51:08 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Antarctic whales’ remarkable comeback is threatened by krill fishing</title>
+      <link>https://news.bias.com/go/2026-03-27-0751</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-0751</guid>
+      <pubDate>Fri, 27 Mar 2026 07:51:06 GMT</pubDate>
+      <description>Antarctic whale populations are making a remarkable recovery nearly four decades after the commercial whaling ban. Humpback whales have rebounded to near pre-whaling levels in waters where more than 2 million whales were killed during the 20th century. Researchers recently observed groups exceeding 100 whales near the South Orkney islands. However, this comeback faces a new challenge: industrial krill fishing. Krill are the foundation of the Antarctic ecosystem and the primary food source for whales, penguins, and seals. Conservation efforts have stalled as diplomatic disagreements prevent consensus on protecting critical feeding areas, while scientists worry that climate change may also threaten krill populations.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/26/antarctic-whales-comeback-threatened-industrial-krill-fishing-southern-ocean">The Guardian</source>
+    </item>
     <item>
       <title>Small ray of hope for Sri Lanka’s sawfish, now feared ‘functionally extinct’</title>
       <link>https://news.bias.com/go/2026-03-27-0547</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 22 Mar 2026 17:20:32 GMT</pubDate>
       <description>When the pandemic paused his therapies, 13-year-old Adryan, who has cerebral palsy, grew despondent at home in Muriaé, Brazil. His father, a truck driver, began taking him to watch traffic on Highway BR-116. What started as simple outings blossomed into something remarkable: truckers began honking their horns and waving, then stopping to visit. The community of drivers now wears matching shirts in Adryan's honor and visits the family's home. His parents have noticed genuine improvements in his motor coordination and confidence. The roadside has become an unexpected extension of his treatment—a place where the hum of engines translates into friendship, inclusion, and visible joy.</description>
       <source url="https://g1.globo.com/mg/zona-da-mata/noticia/2026/03/22/xodo-das-estradas-adolescente-com-paralisia-cerebral-ganha-rede-de-afeto-de-caminhoneiros-em-mg.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>What is the oldest light we have observed (and will it ever go out?)</title>
-      <link>https://news.bias.com/go/2026-03-22-1517</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-22-1517</guid>
-      <pubDate>Sun, 22 Mar 2026 15:17:29 GMT</pubDate>
-      <description>The oldest light we've observed comes from the cosmic microwave background, emitted when the universe was just 300,000 years old. Before that moment, photons couldn't travel freely through the extremely hot plasma that filled space. As the universe expanded and cooled, protons and electrons combined to form hydrogen atoms, allowing light to escape for the first time. This ancient radiation has been traveling through space for approximately 13 billion years and is everywhere around us—even contributing to the static on old analog televisions. Beyond this background glow, astronomers study individual ancient objects like the star HD 140283, nicknamed the "Methuselah Star," one of the oldest stars whose age can be reliably measured.</description>
-      <source url="https://www.bbc.com/mundo/articles/cvgpl0z6w9go?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
