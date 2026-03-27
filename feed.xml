@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 16:05:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 18:09:14 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Scientists film whale giving birth while other whales work together to help her</title>
+      <link>https://news.bias.com/go/2026-03-27-1809</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-1809</guid>
+      <pubDate>Fri, 27 Mar 2026 18:09:10 GMT</pubDate>
+      <description>Scientists from Project Ceti have captured the rare footage of a 19-year-old sperm whale giving birth off the coast of Dominica, with unrelated female whales actively assisting. Over nearly five and a half hours, researchers documented how the pod worked together during the 34-minute labor, with adults diving beneath the mother and immediately lifting the newborn to the surface for its first breath. This marks the first evidence of birth assistance in non-primates. The behavior likely evolved because whale calves, born tail-first, initially sink and need help reaching air. The calf was later spotted thriving over a year later, a promising sign for its survival to adulthood.</description>
+      <source url="https://www.theguardian.com/environment/2026/mar/27/scientists-film-whale-giving-birth-other-whales-help-her">The Guardian</source>
+    </item>
     <item>
       <title>Were Grandma and Grandpa Nazis?</title>
       <link>https://news.bias.com/go/2026-03-27-1605</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 23 Mar 2026 03:52:51 GMT</pubDate>
       <description>A wildlife researcher describes the eerie beauty of exploring Cambodia's limestone caves, where each isolated karst formation becomes its own evolutionary laboratory. Leading a team of international experts through over 60 caves in Battambang province, they discovered three new gecko species, two micro-snails, and two millipedes, with several more species awaiting confirmation. The geckos, striped in brown and white and about 20cm long, include one dubbed the "night wanderer." Despite the excitement of discovery, the team faces a bittersweet reality: these unique ecosystems are threatened by cement production, and many species could vanish before science even documents their existence.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/22/i-discovered-three-new-geckos-in-cambodia-limestone-caves-and-thats-not-all-we-found-aoe">The Guardian</source>
-    </item>
-    <item>
-      <title>How an island became ferret free  - thanks, in part, to Woody the wonderdog</title>
-      <link>https://news.bias.com/go/2026-03-23-0133</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-23-0133</guid>
-      <pubDate>Mon, 23 Mar 2026 01:33:34 GMT</pubDate>
-      <description>Rathlin Island, off Northern Ireland's coast, has successfully eliminated ferrets in a world-first eradication effort. The predators, introduced in the 1980s to control pests, instead devastated ground-nesting seabirds, including a 2017 incident where one ferret killed 27 puffins in two days. The five-year project deployed over 400 ferret traps and nearly 7,000 rat bait stations, aided crucially by Woody, a specially trained detection dog. Despite losing an eye to a thorn injury, Woody's exceptional nose helped verify the island was ferret-free. Early signs show seabird populations recovering, and residents can now raise chickens safely. Woody has transitioned to biosecurity work, helping protect the island from future invasions.</description>
-      <source url="https://www.bbc.com/news/articles/cre1jly1ny2o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
