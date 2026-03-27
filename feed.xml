@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 20:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 22:16:36 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Barnacle-covered rare turtle washed ashore makes full recovery</title>
+      <link>https://news.bias.com/go/2026-03-27-2216</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-2216</guid>
+      <pubDate>Fri, 27 Mar 2026 22:16:34 GMT</pubDate>
+      <description>A critically endangered hawksbill sea turtle named Beare was discovered stranded on a New South Wales beach, covered in barnacles and struggling to survive. The veterinarian who found him arranged transfer to a specialized wildlife refuge, where caretakers nursed Beare back to health over nearly four months with a diet of prawns and fish. Hawksbill turtles typically inhabit tropical waters but juveniles sometimes drift south during their early "lost years." Once hunted for their shells, these turtles now face critical endangerment. After passing final health checks, Beare was driven 280 kilometers north and released near Port Stephens, giving him a chance to rejoin his species and potentially live for decades—hawksbills can reach 80 years of age.</description>
+      <source url="https://www.abc.net.au/news/2026-03-28/hawksbill-turtle-rescue-beares-beach-nsw-south-coast/106497594">ABC Australia</source>
+    </item>
     <item>
       <title>Country Life: Powered by bullocks, a Northland family farms without fossil fuels</title>
       <link>https://news.bias.com/go/2026-03-27-2013</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 23 Mar 2026 08:54:06 GMT</pubDate>
       <description>San Francisco is testing an innovative approach to upgrading its aging 3-mile seawall, built between 1878 and 1915. The Living Seawall Pilot Project attached specially designed concrete tiles to the waterfront for three years to see if they could support marine biodiversity. Researchers compared standard smooth concrete with textured tiles made from eco-friendly concrete featuring ridges and shelf-like protrusions. The textured tiles successfully attracted seaweeds, shellfish, sea snails, and small fish, creating micro-ecosystems on otherwise barren surfaces. As sea levels rise and flooding increases around the Ferry Building, this approach offers a way to rebuild critical infrastructure while supporting coastal life rather than replacing it with lifeless barriers.</description>
       <source url="https://reasonstobecheerful.world/san-francisco-living-seawall/">Reasons to be Cheerful</source>
-    </item>
-    <item>
-      <title>Starwatch: Look west to see the moon blot out Leo’s brightest star</title>
-      <link>https://news.bias.com/go/2026-03-23-0635</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-23-0635</guid>
-      <pubDate>Mon, 23 Mar 2026 06:35:17 GMT</pubDate>
-      <description>On the evening of March 29, skywatchers can observe a celestial treat as the moon passes in front of Regulus, the brightest star in the constellation Leo. This phenomenon, called an occultation, offers an unexpectedly thrilling moment as one astronomical object temporarily blocks another from view. Regulus sits at the base of Leo's distinctive sickle-shaped asterism and shines brightly enough to be seen even from urban areas. From London, the star will disappear behind the moon's edge at 7:14 PM BST, vanishing almost instantaneously due to the moon's lack of atmosphere. It will reappear on the opposite side at 9:21 PM, offering observers two distinct moments to witness this celestial alignment.</description>
-      <source url="https://www.theguardian.com/science/2026/mar/23/starwatch-look-west-to-see-the-moon-blot-out-leos-brightest-star">The Guardian</source>
     </item>
   </channel>
 </rss>
