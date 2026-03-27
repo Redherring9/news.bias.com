@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 18:09:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 20:13:05 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Country Life: Powered by bullocks, a Northland family farms without fossil fuels</title>
+      <link>https://news.bias.com/go/2026-03-27-2013</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-2013</guid>
+      <pubDate>Fri, 27 Mar 2026 20:13:03 GMT</pubDate>
+      <description>In a remote corner of New Zealand's Hokianga region, the Land family has created an extraordinary way of life spanning three generations and 25 people. They farm six hectares without tractors or fossil fuels, relying instead on bullock teams and Clydesdale horses for heavy work. Inspired by Catholic Worker Movement principles and Māori values, they grow maize, vegetables, and fruit, make their own butter, and homeschool their children. The family earns modest income through part-time work—one member notes two nursing shifts per week provides more than enough money. Founded in the 1970s by former teachers who lived in Fiji, the community uses solar power, biogas, and hand-powered mills, demonstrating how many people a small piece of land can sustain through communal, low-impact living.</description>
+      <source url="https://www.rnz.co.nz/news/country/590858/country-life-powered-by-bullocks-a-northland-family-farms-without-fossil-fuels">Radio New Zealand</source>
+    </item>
     <item>
       <title>Scientists film whale giving birth while other whales work together to help her</title>
       <link>https://news.bias.com/go/2026-03-27-1809</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 23 Mar 2026 06:35:17 GMT</pubDate>
       <description>On the evening of March 29, skywatchers can observe a celestial treat as the moon passes in front of Regulus, the brightest star in the constellation Leo. This phenomenon, called an occultation, offers an unexpectedly thrilling moment as one astronomical object temporarily blocks another from view. Regulus sits at the base of Leo's distinctive sickle-shaped asterism and shines brightly enough to be seen even from urban areas. From London, the star will disappear behind the moon's edge at 7:14 PM BST, vanishing almost instantaneously due to the moon's lack of atmosphere. It will reappear on the opposite side at 9:21 PM, offering observers two distinct moments to witness this celestial alignment.</description>
       <source url="https://www.theguardian.com/science/2026/mar/23/starwatch-look-west-to-see-the-moon-blot-out-leos-brightest-star">The Guardian</source>
-    </item>
-    <item>
-      <title>I discovered three new geckos in Cambodia’s limestone caves – and that’s not all we found</title>
-      <link>https://news.bias.com/go/2026-03-23-0352</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-23-0352</guid>
-      <pubDate>Mon, 23 Mar 2026 03:52:51 GMT</pubDate>
-      <description>A wildlife researcher describes the eerie beauty of exploring Cambodia's limestone caves, where each isolated karst formation becomes its own evolutionary laboratory. Leading a team of international experts through over 60 caves in Battambang province, they discovered three new gecko species, two micro-snails, and two millipedes, with several more species awaiting confirmation. The geckos, striped in brown and white and about 20cm long, include one dubbed the "night wanderer." Despite the excitement of discovery, the team faces a bittersweet reality: these unique ecosystems are threatened by cement production, and many species could vanish before science even documents their existence.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/22/i-discovered-three-new-geckos-in-cambodia-limestone-caves-and-thats-not-all-we-found-aoe">The Guardian</source>
     </item>
   </channel>
 </rss>
