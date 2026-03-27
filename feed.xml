@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 07:51:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 09:54:38 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Climate change tests Nepal’s wild and domesticated yaks</title>
+      <link>https://news.bias.com/go/2026-03-27-0954</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-0954</guid>
+      <pubDate>Fri, 27 Mar 2026 09:54:37 GMT</pubDate>
+      <description>In Nepal's alpine highlands, traditional yak herding is facing mounting pressures from multiple directions. Climate change is altering water cycles, vegetation, and grazing patterns, while drying wetlands increase wildfire risk. Young herders are migrating to cities for opportunities, creating labor shortages. Rising costs, disease outbreaks requiring days of travel to reach veterinarians, and limited markets for yak products have pushed many families to abandon the practice. Border closures since COVID-19 have cut off traditional grazing routes and trade. These challenges extend beyond domesticated yaks to wild populations, threatened by habitat loss, crossbreeding, and declining rangeland quality, potentially undermining their genetic survival.</description>
+      <source url="https://news.mongabay.com/2026/03/climate-change-tests-nepals-wild-and-domesticated-yaks/">Mongabay</source>
+    </item>
     <item>
       <title>Antarctic whales’ remarkable comeback is threatened by krill fishing</title>
       <link>https://news.bias.com/go/2026-03-27-0751</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 22 Mar 2026 19:23:23 GMT</pubDate>
       <description>Ghanim Al Shnen, a former Iraqi policeman who fled to Australia seeking asylum in 2012, survived a catastrophic electrical accident in 2018 that required the amputation of both arms. He underwent pioneering osseointegration surgery, having titanium rods implanted into his bones to attach mind-controlled robotic prosthetics. He named his artificial arms Tommy and Arthur after characters from Peaky Blinders, reflecting their different personalities—Tommy operates smoothly while Arthur proves troublesome. Six years later, Ghanim can cook, feed himself, and is learning to drive, though the heavy arms are mentally exhausting and he requires round-the-clock care. His ability to find humor in darkness has carried him through extraordinary challenges.</description>
       <source url="https://www.abc.net.au/news/2026-03-23/ghanim-al-shnen-iraq-refugee-arm-amputee-electric-shock/105023978">ABC Australia</source>
-    </item>
-    <item>
-      <title>Darling of the roads: teenager with cerebral palsy gains network of affection from truckers in Minas Gerais</title>
-      <link>https://news.bias.com/go/2026-03-22-1720</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-22-1720</guid>
-      <pubDate>Sun, 22 Mar 2026 17:20:32 GMT</pubDate>
-      <description>When the pandemic paused his therapies, 13-year-old Adryan, who has cerebral palsy, grew despondent at home in Muriaé, Brazil. His father, a truck driver, began taking him to watch traffic on Highway BR-116. What started as simple outings blossomed into something remarkable: truckers began honking their horns and waving, then stopping to visit. The community of drivers now wears matching shirts in Adryan's honor and visits the family's home. His parents have noticed genuine improvements in his motor coordination and confidence. The roadside has become an unexpected extension of his treatment—a place where the hum of engines translates into friendship, inclusion, and visible joy.</description>
-      <source url="https://g1.globo.com/mg/zona-da-mata/noticia/2026/03/22/xodo-das-estradas-adolescente-com-paralisia-cerebral-ganha-rede-de-afeto-de-caminhoneiros-em-mg.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
