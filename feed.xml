@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 10:38:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 12:42:37 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The reason an hour has 60 minutes (and the failed attempt to make it 100)</title>
+      <link>https://news.bias.com/go/2026-03-28-1242</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-28-1242</guid>
+      <pubDate>Sat, 28 Mar 2026 12:42:35 GMT</pubDate>
+      <description>The ancient Sumerians of Mesopotamia developed a base-60 numerical system around 3300 BCE, which eventually shaped how we divide time into 60-minute hours and 60-second minutes. This sexagesimal system, used for record-keeping in their growing agricultural cities, proved remarkably enduring. In 1793, French revolutionaries attempted to rationalize timekeeping by creating decimal time—10-hour days with 100-minute hours—as part of broader calendar reforms. The experiment failed spectacularly after just over a year, plagued by complicated clock conversions, international isolation, and rural resistance to a 10-day work week. The Sumerian approach, born from clay tablets smaller than smartphones, outlasted the civilizations that created it and continues structuring our days.</description>
+      <source url="https://www.bbc.com/mundo/articles/c78r51lxmp8o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Hetohokã: discover how the passage to adult life is made in Karajá culture</title>
       <link>https://news.bias.com/go/2026-03-28-1038</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 24 Mar 2026 00:37:25 GMT</pubDate>
       <description>Canberra is launching Australia's first youth-focused trauma service, offering free mental health support for teenagers aged 13–18. What makes it unique is its co-design approach: young people with lived experience of trauma helped shape how the service operates. Backed by $4 million in government funding, it will provide trauma-informed care, peer support, family assistance, and an open-door policy. The multidisciplinary team includes peer workers, mental health specialists, and family intervention staff. Recent research underscores the need, showing up to one in four Australian teens experience persistent depression or anxiety during high school, often linked to adverse childhood experiences.</description>
       <source url="https://www.abc.net.au/news/2026-03-24/free-youth-trauma-service-canberra/106486328">ABC Australia</source>
-    </item>
-    <item>
-      <title>Site of the Invention of Irn-Bru in Glasgow, Scotland</title>
-      <link>https://news.bias.com/go/2026-03-23-2213</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-23-2213</guid>
-      <pubDate>Mon, 23 Mar 2026 22:13:27 GMT</pubDate>
-      <description>A tongue-in-cheek plaque in Glasgow spins a fanciful origin story for Irn-Bru, Scotland's beloved orange soft drink. According to the tale, Robert Barr accidentally discovered a bright orange liquid when his kettle dissolved a mysterious rocky outcrop in 1863, leading him to mine "guid ore" and create his fortune. The playful narrative claims the company stockpiled enough material to last until 2037. Installed by the Glasgow Information and Kultural Identity Taskforce, the plaque celebrates local heritage through whimsical storytelling, blending history and humor to charm residents and visitors exploring the Kelvin Walkway.</description>
-      <source url="https://www.atlasobscura.com/places/site-of-the-invention-of-irn-bru">Atlas Obscura</source>
     </item>
   </channel>
 </rss>
