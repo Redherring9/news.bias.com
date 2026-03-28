@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 02:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 04:27:22 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>From jammed broadcasts to a blocked website: BBC Russian's 80 years of defiance</title>
+      <link>https://news.bias.com/go/2026-03-28-0427</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-28-0427</guid>
+      <pubDate>Sat, 28 Mar 2026 04:27:21 GMT</pubDate>
+      <description>For 80 years, BBC Russian has navigated Soviet and Russian restrictions to deliver independent news. Beginning in 1946, broadcasts faced near-constant jamming, forcing listeners to extraordinary measures—some even took radios on cross-country ski trips to evade urban jammers. Determined audiences pressed their heads against receivers, straining through static to hear banned literature, Western music, and uncensored news. The service occasionally outmaneuvered censors, notably breaking the news of Brezhnev's death in 1982 before domestic media. Jamming ended in 1987 under Gorbachev's reforms, but today BBC Russian faces renewed digital restrictions, including website blocking and mobile internet outages, as the Kremlin tightens online controls.</description>
+      <source url="https://www.bbc.com/news/articles/c05dlnd3635o?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
+    </item>
     <item>
       <title>Remote WA area connected to outside world with first at-home internet service</title>
       <link>https://news.bias.com/go/2026-03-28-0223</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 23 Mar 2026 15:24:30 GMT</pubDate>
       <description>In Berlin, Iranian and Israeli musicians have come together to form Sistanagila, an ensemble that bridges cultural divides through music. Founded about 15 years ago by Iranian expatriate Babak Shafieian, the group was inspired by Daniel Barenboim's West-Eastern Divan Orchestra. Despite initial hesitations and ongoing geopolitical tensions, the musicians blend Persian classical music, Jewish chants, Klezmer melodies, and jazz influences. Their collaboration—impossible in either Iran or Israel—demonstrates that shared curiosity and creative expression can foster connection across seemingly insurmountable boundaries. Rather than making overtly political statements, the ensemble focuses on creating something beautiful together, embodying peace through the simple act of making music side by side.</description>
       <source url="https://www.dw.com/de/sistanagila-wo-iraner-und-israelis-gemeinsam-musik-machen/a-76481160?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
-    </item>
-    <item>
-      <title>‘There’s biological treasure here’: Chile’s endemic seals gain protection with new marine park</title>
-      <link>https://news.bias.com/go/2026-03-23-1309</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-23-1309</guid>
-      <pubDate>Mon, 23 Mar 2026 13:09:40 GMT</pubDate>
-      <description>A remarkable conservation story is unfolding around Chile's Juan Fernández archipelago, where an endemic fur seal species once thought extinct in the 19th century has rebounded from just 20 individuals in the 1960s to an estimated 200,000 today. The recovery is thanks to decades of local stewardship by the island's small fishing community and conservationists like oceanographer Sylvia Earle. In March 2025, Chile signed an agreement to expand marine protection around the islands to nearly 1 million square kilometers, which would make it the world's third-largest no-take zone and protect over 50% of Chile's waters. The island community now awaits confirmation from the new government that these protections will remain in place.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/23/chile-seals-colony-gain-protection-new-marine-park-juan-fernandez-archipelago-wildlife">The Guardian</source>
     </item>
   </channel>
 </rss>
