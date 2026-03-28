@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 00:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 02:23:48 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Remote WA area connected to outside world with first at-home internet service</title>
+      <link>https://news.bias.com/go/2026-03-28-0223</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-28-0223</guid>
+      <pubDate>Sat, 28 Mar 2026 02:23:47 GMT</pubDate>
+      <description>Ngalingkadji, an Indigenous community 2,300 kilometers north of Perth in Western Australia's Kimberley region, now has home internet access for the first time. The Concordia Initiative, a not-for-profit, installed solar-powered Starlink satellite connections that function even during power outages—crucial during the area's frequent flooding. Resident Gavin Smith describes the service as "life-changing," enabling communication with emergency services and outside organizations. The system also provides access to telehealth, online banking, and vital flood information. Concordia aims to connect 100 remote communities by 2030, addressing a significant gap: First Nations Australians are twice as likely to face digital exclusion. Local advisors emphasize that sustainable, long-term solutions are essential for future generations.</description>
+      <source url="https://www.abc.net.au/news/2026-03-28/non-profit-digital-divide-wires-remote-indigenous-community/106457040">ABC Australia</source>
+    </item>
     <item>
       <title>End of an era for general store owned by family for 100 years</title>
       <link>https://news.bias.com/go/2026-03-28-0020</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 23 Mar 2026 13:09:40 GMT</pubDate>
       <description>A remarkable conservation story is unfolding around Chile's Juan Fernández archipelago, where an endemic fur seal species once thought extinct in the 19th century has rebounded from just 20 individuals in the 1960s to an estimated 200,000 today. The recovery is thanks to decades of local stewardship by the island's small fishing community and conservationists like oceanographer Sylvia Earle. In March 2025, Chile signed an agreement to expand marine protection around the islands to nearly 1 million square kilometers, which would make it the world's third-largest no-take zone and protect over 50% of Chile's waters. The island community now awaits confirmation from the new government that these protections will remain in place.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/23/chile-seals-colony-gain-protection-new-marine-park-juan-fernandez-archipelago-wildlife">The Guardian</source>
-    </item>
-    <item>
-      <title>Predatory feral ferrets removed from an island for the first time ever</title>
-      <link>https://news.bias.com/go/2026-03-23-1102</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-23-1102</guid>
-      <pubDate>Mon, 23 Mar 2026 11:02:34 GMT</pubDate>
-      <description>Rathlin Island, off Northern Ireland's coast, has successfully removed its entire population of invasive ferrets in a groundbreaking five-year effort. The ferrets, introduced in the 1980s to control rabbits, multiplied to over 100 and devastated the island's seabird colonies, including puffins and rare corncrakes. A partnership involving conservationists, islanders, and a specially trained red labrador used cameras, thermal drones, and humane trapping to eliminate the predators. Results have been swift: six calling corncrakes were recorded, and Manx shearwaters bred on the island for the first time in 40 years. The project offers hope for restoring one of Northern Ireland's most important seabird sanctuaries.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/23/predatory-feral-ferrets-removed-from-island-first-time-rathlin-island-northern-ireland">The Guardian</source>
     </item>
   </channel>
 </rss>
