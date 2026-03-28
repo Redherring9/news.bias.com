@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 20:58:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 23:02:49 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Endangered palm cockatoo chick born in artificial nest a world first</title>
+      <link>https://news.bias.com/go/2026-03-28-2302</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-28-2302</guid>
+      <pubDate>Sat, 28 Mar 2026 23:02:47 GMT</pubDate>
+      <description>In a conservation breakthrough on Cape York Peninsula, an endangered palm cockatoo chick has successfully hatched in an artificial nest—a world first for the species. With fewer than 2,000 of these distinctive black birds remaining in the wild, their survival depends on finding hollows in trees over 250 years old, which are disappearing due to land clearing and intense fires. Researchers, working alongside Apudthama traditional owners, installed 29 custom-designed "palm cockatubes" carved from fallen old-growth trees. The successful design carefully mimicked natural conditions, including layered sticks that replicate what the birds expect. The chick has now fledged, offering scientists a proven blueprint to help restore populations of these remarkable birds known for their drumming courtship displays.</description>
+      <source url="https://www.abc.net.au/news/2026-03-29/palm-cockatoo-hatching-from-artificial-nest/106498256">ABC Australia</source>
+    </item>
     <item>
       <title>The only (rare) solo album by singer Gracinha Leporace is reissued on LP in Brazil, 58 years after its release</title>
       <link>https://news.bias.com/go/2026-03-28-2058</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 24 Mar 2026 12:38:15 GMT</pubDate>
       <description>Freshwater fish undertake some of Earth's most remarkable migrations, like the dorado catfish's 7,000-mile journey through South American rivers. Yet a comprehensive UN assessment reveals these ancient movements are rapidly disappearing, with freshwater fish populations plummeting 81% since 1970. Dams, pollution, overfishing, and climate change threaten species that cross international borders and sustain hundreds of millions of people. Of more than 15,000 freshwater fish species assessed, 325 migrate across borders but only 24 have protection. Meeting in Brazil this week, 132 countries are prioritizing cooperation to preserve free-flowing rivers, especially in critical refuges like the Amazon. Researchers emphasize that rivers and their fish ignore political boundaries, requiring coordinated, basin-wide solutions before these epic migrations vanish forever.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/24/epic-river-migrations-of-fish-rapidly-collapsing-un-report-finds">The Guardian</source>
-    </item>
-    <item>
-      <title>‘It smells like a rancid fish and chip shop’: at sea with the Antarctic’s krill supertrawlers</title>
-      <link>https://news.bias.com/go/2026-03-24-1028</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-24-1028</guid>
-      <pubDate>Tue, 24 Mar 2026 10:28:06 GMT</pubDate>
-      <description>Off Antarctica's Coronation Island, Sea Shepherd documents the massive krill fishing industry, where supertrawlers from multiple nations compete for a 620,000-tonne annual quota. These tiny, shrimp-like crustaceans are processed into fish oil supplements and salmon feed worth over $450 million yearly. Scientists warn the harvest may already be straining the Antarctic ecosystem, as krill form the foundation of the food web for whales, penguins, and seals. Studies suggest declining krill numbers correlate with reduced breeding among humpback whales and penguin species, while also diminishing krill's role as carbon-storage powerhouses. The scene juxtaposes industrial fishing with abundant wildlife, as albatrosses and penguins navigate waters shared with massive trawlers.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/24/krill-foundation-food-antarctic-ecosystem-survive-factory-fishing">The Guardian</source>
     </item>
   </channel>
 </rss>
