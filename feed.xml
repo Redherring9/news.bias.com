@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 06:31:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 08:35:09 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Neither hastening death nor suffering in life: what palliative care is and why access remains unequal in Brazil</title>
+      <link>https://news.bias.com/go/2026-03-28-0835</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-28-0835</guid>
+      <pubDate>Sat, 28 Mar 2026 08:35:04 GMT</pubDate>
+      <description>Lucia Freitas, a 60-year-old journalist living with metastatic cancer, requested palliative care not to stop treatment, but to manage the debilitating side effects disrupting her daily life. Her story highlights a crucial gap in Brazil's healthcare system: while the country established a National Palliative Care Policy in 2024, only 37 specialized teams have been officially accredited nationwide. Palliative care isn't about giving up—it's a comprehensive approach to managing pain, nausea, fatigue, and emotional distress alongside curative treatment. Experts note that most services remain concentrated in the Southeast, and many patients only receive referrals in final stages, despite international guidelines recommending earlier integration for anyone with serious illness.</description>
+      <source url="https://g1.globo.com/saude/noticia/2026/03/28/nem-antecipar-a-morte-nem-sofrer-em-vida-o-que-sao-cuidados-paliativos-e-por-que-o-acesso-ainda-e-desigual-no-brasil.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Cambridge offers botany course that inspired Darwin after rare archive uncovered</title>
       <link>https://news.bias.com/go/2026-03-28-0631</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 23 Mar 2026 20:07:59 GMT</pubDate>
       <description>In Parnamirim, near Natal in northeast Brazil, self-taught artist Mister Manel has transformed his personal atelier into an extraordinary folk art environment. The House of the Lion Cultural Atelier features dozens of large-scale lion sculptures and immersive installations that blend popular art, handcrafted architecture, and personal mythology. The centerpiece is an ambitious ongoing project to create what may become the world's largest lion sculpture, crafted from fiberglass. This constantly evolving space welcomes visitors without appointment, offering guided tours through a rare fusion of outsider art, devotion, and imagination. Each visit reveals something new as the visionary cultural landmark continues to grow.</description>
       <source url="https://www.atlasobscura.com/places/casa-do-leao-house-of-the-lion-atelier-cultural-mister-manel">Atlas Obscura</source>
-    </item>
-    <item>
-      <title>The strange underwater creatures that devour whales</title>
-      <link>https://news.bias.com/go/2026-03-23-1804</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-23-1804</guid>
-      <pubDate>Mon, 23 Mar 2026 18:04:43 GMT</pubDate>
-      <description>When whales die at sea, their massive bodies—up to 150 tons of flesh, fat, and bone—sink to the ocean floor, creating an extraordinary feast that can sustain deep-sea ecosystems for decades. The carcass attracts a succession of remarkable creatures: hagfish that burrow headfirst into the flesh, rat-tails with luminous blue eyes that detect bioluminescence, and bone-eating worms called Osedax that inject acid into skeletal remains and absorb nutrients directly. This "whale fall" delivers the equivalent of thousands of years of marine snow in a single event, supporting unique species found nowhere else and transforming death into abundant life in the ocean's darkest depths.</description>
-      <source url="https://www.bbc.com/portuguese/articles/cx2wnj73xnno?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
     </item>
   </channel>
 </rss>
