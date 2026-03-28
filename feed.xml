@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 22:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 00:20:17 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>End of an era for general store owned by family for 100 years</title>
+      <link>https://news.bias.com/go/2026-03-28-0020</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-28-0020</guid>
+      <pubDate>Sat, 28 Mar 2026 00:20:16 GMT</pubDate>
+      <description>After a century in the hands of the Jeffery family, the Tharwa General Store—a weatherboard building near Canberra dating to 1922—is being sold. Three generations ran the beloved shop, which served as post office, mechanic's workshop, and community gathering place for the small rural settlement. Clarrie Jeffery purchased it in 1926, his son Val ran it for over 70 years while also serving as bushfire captain and politician, and grandson Kevin now holds the keys. The family resisted developers, prioritizing community over profit. As Kevin prepares to hand over this historic trading post, he reflects on its enduring role as a place where people connect, not just shop.</description>
+      <source url="https://www.abc.net.au/news/2026-03-28/act-tharwa-general-store-look-new-owner-after-century-one-family/106504840">ABC Australia</source>
+    </item>
     <item>
       <title>Barnacle-covered rare turtle washed ashore makes full recovery</title>
       <link>https://news.bias.com/go/2026-03-27-2216</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 23 Mar 2026 11:02:34 GMT</pubDate>
       <description>Rathlin Island, off Northern Ireland's coast, has successfully removed its entire population of invasive ferrets in a groundbreaking five-year effort. The ferrets, introduced in the 1980s to control rabbits, multiplied to over 100 and devastated the island's seabird colonies, including puffins and rare corncrakes. A partnership involving conservationists, islanders, and a specially trained red labrador used cameras, thermal drones, and humane trapping to eliminate the predators. Results have been swift: six calling corncrakes were recorded, and Manx shearwaters bred on the island for the first time in 40 years. The project offers hope for restoring one of Northern Ireland's most important seabird sanctuaries.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/23/predatory-feral-ferrets-removed-from-island-first-time-rathlin-island-northern-ireland">The Guardian</source>
-    </item>
-    <item>
-      <title>San Francisco’s Revamped Seawall Will Teem With Life</title>
-      <link>https://news.bias.com/go/2026-03-23-0854</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-23-0854</guid>
-      <pubDate>Mon, 23 Mar 2026 08:54:06 GMT</pubDate>
-      <description>San Francisco is testing an innovative approach to upgrading its aging 3-mile seawall, built between 1878 and 1915. The Living Seawall Pilot Project attached specially designed concrete tiles to the waterfront for three years to see if they could support marine biodiversity. Researchers compared standard smooth concrete with textured tiles made from eco-friendly concrete featuring ridges and shelf-like protrusions. The textured tiles successfully attracted seaweeds, shellfish, sea snails, and small fish, creating micro-ecosystems on otherwise barren surfaces. As sea levels rise and flooding increases around the Ferry Building, this approach offers a way to rebuild critical infrastructure while supporting coastal life rather than replacing it with lifeless barriers.</description>
-      <source url="https://reasonstobecheerful.world/san-francisco-living-seawall/">Reasons to be Cheerful</source>
     </item>
   </channel>
 </rss>
