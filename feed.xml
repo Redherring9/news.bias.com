@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 12:42:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 14:46:36 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Artist draws world map with 1,642 animals and is surprised by Brazil</title>
+      <link>https://news.bias.com/go/2026-03-28-1446</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-28-1446</guid>
+      <pubDate>Sat, 28 Mar 2026 14:46:34 GMT</pubDate>
+      <description>Cartographer and illustrator Anton Thomas has created "Wild World," a hand-drawn map featuring 1,642 animals that reimagines Earth through the lens of biodiversity rather than political borders. Each creature is carefully researched and positioned according to its native habitat, representing wild species that aren't extinct. While working on the project, Thomas found himself especially captivated by Brazil's extraordinary wildlife. Though the Amazon was expected to impress, it was the Atlantic Forest that truly surprised him—despite losing over 85% of its original coverage, it remains home to remarkable endemic species like golden lion tamarins and vinaceous-breasted parrots. The artist champions hand-drawing in our digital age, believing human touch perfectly captures our organic, physical world.</description>
+      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/03/28/artista-desenha-a-mao-mapa-do-mundo-com-1642-animais-e-se-surpreende-com-o-brasil.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>The reason an hour has 60 minutes (and the failed attempt to make it 100)</title>
       <link>https://news.bias.com/go/2026-03-28-1242</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 24 Mar 2026 03:29:34 GMT</pubDate>
       <description>A palm cockatoo chick has successfully fledged from an artificial nest hollow in northern Australia, marking a significant conservation milestone for this endangered species. With possibly fewer than 2,000 birds remaining in the wild, palm cockatoos face threats from habitat loss due to intense fires and mining. These striking black parrots are slow breeders, laying only one egg every two years in carefully selected tree hollows. Conservationists installed 29 artificial hollows designed from research and local knowledge, and were delighted when a pair nested in one just a month after installation. The success demonstrates the potential of collaborative conservation efforts between scientists, Indigenous landowners, and wildlife organizations to help recover threatened species.</description>
       <source url="https://news.mongabay.com/short-article/2026/03/conservation-win-as-first-palm-cockatoo-chick-fledges-from-artificial-hollow-in-australia/">Mongabay</source>
-    </item>
-    <item>
-      <title>'Designed by youth': Service to offer free trauma support for Canberra teens</title>
-      <link>https://news.bias.com/go/2026-03-24-0037</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-24-0037</guid>
-      <pubDate>Tue, 24 Mar 2026 00:37:25 GMT</pubDate>
-      <description>Canberra is launching Australia's first youth-focused trauma service, offering free mental health support for teenagers aged 13–18. What makes it unique is its co-design approach: young people with lived experience of trauma helped shape how the service operates. Backed by $4 million in government funding, it will provide trauma-informed care, peer support, family assistance, and an open-door policy. The multidisciplinary team includes peer workers, mental health specialists, and family intervention staff. Recent research underscores the need, showing up to one in four Australian teens experience persistent depression or anxiety during high school, often linked to adverse childhood experiences.</description>
-      <source url="https://www.abc.net.au/news/2026-03-24/free-youth-trauma-service-canberra/106486328">ABC Australia</source>
     </item>
   </channel>
 </rss>
