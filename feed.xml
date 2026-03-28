@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 14:46:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 16:50:34 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Billions of Years Reveal: Life and Tectonic Plates Shaped the Air We Breathe</title>
+      <link>https://news.bias.com/go/2026-03-28-1650</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-28-1650</guid>
+      <pubDate>Sat, 28 Mar 2026 16:50:32 GMT</pubDate>
+      <description>Researchers have reconstructed 3.5 billion years of Earth's atmospheric oxygen history using machine learning and chemical analysis of ancient pyrite minerals preserved in sedimentary rocks. The study reveals that oxygen levels rose gradually over geological time, driven primarily by the expansion of photosynthetic life forms like cyanobacteria. However, this long-term increase wasn't steady—it was punctuated by shorter fluctuations linked to tectonic plate movements and the periodic assembly and breakup of supercontinents. These geological processes altered ocean chemistry and nutrient cycles, influencing oxygen production. The research offers unprecedented temporal precision in understanding how life and Earth's dynamic geology together shaped the atmosphere we breathe today.</description>
+      <source url="https://www.aljazeera.net/science/2026/3/28/%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%86%d9%8a%d9%86-%d8%aa%d9%83%d8%b4%d9%81-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%88%d8%a7%d9%84%d8%b5%d9%81%d8%a7%d8%a6%d8%ad?traffic_source=rss">Al Jazeera Arabic</source>
+    </item>
     <item>
       <title>Artist draws world map with 1,642 animals and is surprised by Brazil</title>
       <link>https://news.bias.com/go/2026-03-28-1446</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 24 Mar 2026 06:09:55 GMT</pubDate>
       <description>Scientists are tracking Earth's growing energy imbalance in zettajoules—a unit so vast (a billion trillion joules) that experts struggle to convey its scale. The World Meteorological Organization reports that this imbalance increased by about 11 zettajoules annually between 2005 and 2025, with oceans absorbing over 90% of trapped solar radiation. In 2025, ocean energy imbalance hit a record 23 zettajoules—equivalent to 11 Hiroshima bombs' worth of energy being added every second, or enough to vaporize 3.4 billion Olympic pools. This accumulation, driven by greenhouse gases preventing heat from escaping to space, is fueling heatwaves, storms, and other extreme weather. The numbers reveal an uncomfortable reality about how dramatically our planet's energy systems are changing.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/24/what-are-zettajoules-earth-energy-imbalance">The Guardian</source>
-    </item>
-    <item>
-      <title>Conservation win as first palm cockatoo chick fledges from artificial hollow in Australia</title>
-      <link>https://news.bias.com/go/2026-03-24-0329</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-24-0329</guid>
-      <pubDate>Tue, 24 Mar 2026 03:29:34 GMT</pubDate>
-      <description>A palm cockatoo chick has successfully fledged from an artificial nest hollow in northern Australia, marking a significant conservation milestone for this endangered species. With possibly fewer than 2,000 birds remaining in the wild, palm cockatoos face threats from habitat loss due to intense fires and mining. These striking black parrots are slow breeders, laying only one egg every two years in carefully selected tree hollows. Conservationists installed 29 artificial hollows designed from research and local knowledge, and were delighted when a pair nested in one just a month after installation. The success demonstrates the potential of collaborative conservation efforts between scientists, Indigenous landowners, and wildlife organizations to help recover threatened species.</description>
-      <source url="https://news.mongabay.com/short-article/2026/03/conservation-win-as-first-palm-cockatoo-chick-fledges-from-artificial-hollow-in-australia/">Mongabay</source>
     </item>
   </channel>
 </rss>
