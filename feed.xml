@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 07:18:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 09:22:22 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Farmer raffles calf and donates proceeds as thanks to hospital that treated him in MG</title>
+      <link>https://news.bias.com/go/2026-03-29-0922</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-29-0922</guid>
+      <pubDate>Sun, 29 Mar 2026 09:22:20 GMT</pubDate>
+      <description>A farmer in Minas Gerais, Brazil, found a heartfelt way to thank the hospital that treated him years ago. Júlio Roberval de Souza raffled off a calf from his small farm, raising 5,000 reais to donate to Hospital das Clínicas Samuel Libânio. He's been giving back since 2015, when staff cared for him after a shoulder injury. His gesture reflects a wider culture of gratitude: the hospital, which performs over 115,000 procedures monthly and relies partly on donations to supplement public health funding, regularly receives gifts from former patients—from money to household items. University students even collected 14,000 liters of milk and oil this year in a solidarity drive.</description>
+      <source url="https://g1.globo.com/mg/sul-de-minas/noticia/2026/03/29/sitiante-rifa-bezerro-e-doa-valor-como-agradecimento-para-hospital-que-o-tratou-em-mg.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Forget birdwatching, I’m into moth-watching: they’re fascinating and misunderstood insects | Helen Pilcher</title>
       <link>https://news.bias.com/go/2026-03-29-0718</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 24 Mar 2026 23:39:17 GMT</pubDate>
       <description>A memorial fund honoring Eleanor Bryant, a speech pathologist who died saving children from a runaway truck at a Melbourne preschool in November 2024, has awarded its first scholarships. The fund supports allied health students committed to working in rural communities—a cause Bryant was passionate about from her upbringing in western NSW. Three students, each receiving $10,000 annually, will use the funds for accommodation and expenses while studying occupational therapy and related fields. Her husband describes the foundation as a way to "positively grieve." The recipients, all from rural backgrounds, understand firsthand the healthcare gaps in small towns and hope to help bridge them.</description>
       <source url="https://www.abc.net.au/news/2026-03-25/hero-speech-pathologist-fund-eleanor-bryant/106486378">ABC Australia</source>
-    </item>
-    <item>
-      <title>Defying drought and invasives, a feisty Australian marsupial makes a comeback</title>
-      <link>https://news.bias.com/go/2026-03-24-2129</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-24-2129</guid>
-      <pubDate>Tue, 24 Mar 2026 21:29:35 GMT</pubDate>
-      <description>Australia's ampurta, a guinea pig-sized marsupial with a distinctive black-tipped tail, has made a remarkable recovery after nearly going extinct. Between 2015 and 2021, this small predator expanded its range by an area the size of Denmark. The comeback followed the 1995 release of a disease that reduced rabbit populations, which in turn decreased the number of foxes and feral cats preying on native wildlife. Researchers note the ampurta's resilience is especially striking given it occurred during severe drought conditions. However, scientists warn that without continued investment in controlling invasive species, this success story could be reversed.</description>
-      <source url="https://news.mongabay.com/2026/03/defying-drought-and-invasives-a-feisty-australian-marsupial-makes-a-comeback/">Mongabay</source>
     </item>
   </channel>
 </rss>
