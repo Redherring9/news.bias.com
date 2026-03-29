@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 01:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 03:10:16 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Frosting, sprinkles and layers of fun: Giant cake picnic hits Sydney</title>
+      <link>https://news.bias.com/go/2026-03-29-0310</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-29-0310</guid>
+      <pubDate>Sun, 29 Mar 2026 03:10:14 GMT</pubDate>
+      <description>A viral cake gathering that began with a simple online invitation in San Francisco has become a global phenomenon, recently drawing over 500 people to Sydney's Botanic Gardens. Founded by Elisa Sunga, an AI specialist and hobby baker, Cake Picnic asks participants to bring homemade cakes—resulting in spectacular displays ranging from meter-high swans to savoury focaccia creations. The event has sold out in cities worldwide, with Melbourne's gathering featuring 1,600 cakes. For Sunga, who grew up with limited exposure to Western desserts in the Philippines, the gatherings offer a tangible, creative counterpoint to her AI work and foster real-world connection in an increasingly digital age.</description>
+      <source url="https://www.bbc.com/news/articles/c1w40dy58vwo?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
+    </item>
     <item>
       <title>After 80 years, sleuths have unearthed a secret stash of early art and reunited them with family</title>
       <link>https://news.bias.com/go/2026-03-29-0106</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 24 Mar 2026 16:55:13 GMT</pubDate>
       <description>A personality psychologist reflects on growing up in Kandy, Sri Lanka, where Buddhist temples, Christian churches, Hindu kovils, and Muslim mosques coexisted within walking distance. Despite this rich diversity—and a childhood attending both churches and temples in a mixed-faith family—the country was torn by civil war from 1983 to 2009. Witnessing how some people retreated into hostility while others maintained cross-community relationships sparked the author's lifelong research question: What enables people to live peacefully across deep differences? The answer, they suggest, lies in pluralism—not merely diversity, but the daily practice of reaching out, sustaining relationships, and cultivating mutual dignity through small, repeated acts of connection.</description>
       <source url="https://theconversation.com/growing-up-during-sri-lankas-civil-war-taught-me-that-getting-along-with-people-across-divides-is-a-virtue-we-can-learn-273994">The Conversation</source>
-    </item>
-    <item>
-      <title>‘Extraordinary event’ for mountain gorillas as new twins born in DRC</title>
-      <link>https://news.bias.com/go/2026-03-24-1451</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-24-1451</guid>
-      <pubDate>Tue, 24 Mar 2026 14:51:45 GMT</pubDate>
-      <description>Virunga National Park in the Democratic Republic of the Congo has celebrated the birth of a second set of mountain gorilla twins within three months—an exceptionally rare occurrence in a subspecies where twins account for less than 1% of births. The latest arrivals, a male and female in the Baraka family troop, join 11-week-old twin males born in January who are reportedly thriving. Park rangers are providing extra monitoring during the critical early months, as infant mountain gorillas face high mortality rates. Conservationists view the twin births as a promising sign that protection efforts are supporting population growth, despite ongoing instability in eastern Congo. Once numbering barely 250 in the 1970s, mountain gorillas have rebounded to over 1,000 thanks to dedicated conservation work and specialist veterinary care.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe">The Guardian</source>
     </item>
   </channel>
 </rss>
