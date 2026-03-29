@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 23:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 01:06:37 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>After 80 years, sleuths have unearthed a secret stash of early art and reunited them with family</title>
+      <link>https://news.bias.com/go/2026-03-29-0106</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-29-0106</guid>
+      <pubDate>Sun, 29 Mar 2026 01:06:35 GMT</pubDate>
+      <description>In 1945, sixteen Aboriginal stockmen at Birrundudu cattle station created 810 crayon drawings documenting their stories, spirit figures, and desert landmarks—then the collection vanished for decades under an anthropologist's bed. When researchers rediscovered the works in 2019, they embarked on a four-year quest across 20,000 kilometers of outback to identify the artists and reunite the drawings with over 40 descendants. For families like Margaret Wein's, seeing her great-great-grandfather's face and artwork for the first time was profoundly emotional. The collection predates the famous Papunya art movement by 25 years, filling a significant gap in the history of Aboriginal art and revealing a monumental body of Indigenous knowledge that had been entirely unknown.</description>
+      <source url="https://www.abc.net.au/news/2026-03-29/art-mystery-solved-after-decades-hidden/106486356">ABC Australia</source>
+    </item>
     <item>
       <title>Endangered palm cockatoo chick born in artificial nest a world first</title>
       <link>https://news.bias.com/go/2026-03-28-2302</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 24 Mar 2026 14:51:45 GMT</pubDate>
       <description>Virunga National Park in the Democratic Republic of the Congo has celebrated the birth of a second set of mountain gorilla twins within three months—an exceptionally rare occurrence in a subspecies where twins account for less than 1% of births. The latest arrivals, a male and female in the Baraka family troop, join 11-week-old twin males born in January who are reportedly thriving. Park rangers are providing extra monitoring during the critical early months, as infant mountain gorillas face high mortality rates. Conservationists view the twin births as a promising sign that protection efforts are supporting population growth, despite ongoing instability in eastern Congo. Once numbering barely 250 in the 1970s, mountain gorillas have rebounded to over 1,000 thanks to dedicated conservation work and specialist veterinary care.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/24/mountain-gorillas-twins-born-drc-aoe">The Guardian</source>
-    </item>
-    <item>
-      <title>Epic river migrations of fish rapidly collapsing, UN report finds</title>
-      <link>https://news.bias.com/go/2026-03-24-1238</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-24-1238</guid>
-      <pubDate>Tue, 24 Mar 2026 12:38:15 GMT</pubDate>
-      <description>Freshwater fish undertake some of Earth's most remarkable migrations, like the dorado catfish's 7,000-mile journey through South American rivers. Yet a comprehensive UN assessment reveals these ancient movements are rapidly disappearing, with freshwater fish populations plummeting 81% since 1970. Dams, pollution, overfishing, and climate change threaten species that cross international borders and sustain hundreds of millions of people. Of more than 15,000 freshwater fish species assessed, 325 migrate across borders but only 24 have protection. Meeting in Brazil this week, 132 countries are prioritizing cooperation to preserve free-flowing rivers, especially in critical refuges like the Amazon. Researchers emphasize that rivers and their fish ignore political boundaries, requiring coordinated, basin-wide solutions before these epic migrations vanish forever.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/24/epic-river-migrations-of-fish-rapidly-collapsing-un-report-finds">The Guardian</source>
     </item>
   </channel>
 </rss>
