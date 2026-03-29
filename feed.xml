@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 05:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 07:18:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Forget birdwatching, I’m into moth-watching: they’re fascinating and misunderstood insects | Helen Pilcher</title>
+      <link>https://news.bias.com/go/2026-03-29-0718</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-29-0718</guid>
+      <pubDate>Sun, 29 Mar 2026 07:18:17 GMT</pubDate>
+      <description>A wildlife enthusiast makes the case for moth-watching as a rewarding alternative to birding. With over 2,500 British moth species compared to 636 bird species, identifying moths demands careful attention to subtle details like wing curves and antenna shapes. Through a citizen science project, the author traps and catalogues garden moths, discovering their underappreciated beauty and ecological importance. Yet data reveals half of garden moth species are declining, signaling environmental trouble. Beyond their role as pollinators and food sources, moths offer endless fascination—from species that mimic bird droppings to hawkmoths that raid beehives disguised as bees.</description>
+      <source url="https://www.theguardian.com/commentisfree/2026/mar/29/birdwatching-mothwatching-uk-nature-cognitive-decline">The Guardian</source>
+    </item>
     <item>
       <title>What the 'first war in history' was like in the region where Iran is today</title>
       <link>https://news.bias.com/go/2026-03-29-0514</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 24 Mar 2026 21:29:35 GMT</pubDate>
       <description>Australia's ampurta, a guinea pig-sized marsupial with a distinctive black-tipped tail, has made a remarkable recovery after nearly going extinct. Between 2015 and 2021, this small predator expanded its range by an area the size of Denmark. The comeback followed the 1995 release of a disease that reduced rabbit populations, which in turn decreased the number of foxes and feral cats preying on native wildlife. Researchers note the ampurta's resilience is especially striking given it occurred during severe drought conditions. However, scientists warn that without continued investment in controlling invasive species, this success story could be reversed.</description>
       <source url="https://news.mongabay.com/2026/03/defying-drought-and-invasives-a-feisty-australian-marsupial-makes-a-comeback/">Mongabay</source>
-    </item>
-    <item>
-      <title>Eastern monarch butterfly populations increase in 2025, but challenges remain</title>
-      <link>https://news.bias.com/go/2026-03-24-1920</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-24-1920</guid>
-      <pubDate>Tue, 24 Mar 2026 19:20:00 GMT</pubDate>
-      <description>Eastern monarch butterfly populations showed a promising 64% increase in 2025, with over 61 million butterflies occupying forest habitat in central Mexico. This follows decades of dramatic decline, with eastern monarchs down 80% since the 1980s. Conservation efforts, including the virtual elimination of illegal logging in Mexico's Monarch Butterfly Biosphere Reserve since 2008, have helped protect critical winter habitat. However, scientists note that long-term survival requires populations to reach at least six hectares of forest coverage—a threshold met only once in the past decade. Ongoing challenges include habitat loss, particularly of milkweed plants, climate change, and extreme weather, requiring continued restoration efforts across diverse landscapes.</description>
-      <source url="https://news.mongabay.com/short-article/2026/03/eastern-monarch-butterfly-populations-increase-in-2025-but-challenges-remain/">Mongabay</source>
     </item>
   </channel>
 </rss>
