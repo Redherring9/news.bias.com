@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 09:22:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 11:26:24 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>City in Rio Grande do Sul promotes 'Caramel Dog Parade' with 56 dogs to encourage adoption; VIDEO</title>
+      <link>https://news.bias.com/go/2026-03-29-1126</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-29-1126</guid>
+      <pubDate>Sun, 29 Mar 2026 11:26:22 GMT</pubDate>
+      <description>A Brazilian city in Rio Grande do Sul hosted a heartwarming "Caramelo Parade" featuring 56 dogs, mostly from the municipal shelter. The Saturday event celebrated mixed-breed dogs—affectionately called "caramelo" (caramel-colored) in Brazil—to promote responsible adoption. Dogs competed in three creative categories, including "50 Shades of Caramel" and "Most Fashionable Caramel," with prizes recognizing not just appearance but the bond between animals and their guardians. Organized by the city's environmental department, the parade combined animal welfare advocacy with community celebration, featuring musical performances and educational programming to raise awareness about responsible pet guardianship.</description>
+      <source url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/29/cidade-do-rs-promove-desfile-de-caramelo-com-56-caes-para-incentivar-adocao-video.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Farmer raffles calf and donates proceeds as thanks to hospital that treated him in MG</title>
       <link>https://news.bias.com/go/2026-03-29-0922</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 25 Mar 2026 02:27:22 GMT</pubDate>
       <description>Australian researchers are pioneering a drone-baiting program to eliminate house mice from Browse Island, a remote 17-hectare landmass off Western Australia's coast. The mice, likely introduced during 19th-century guano mining, have reached plague proportions and devastated seabird colonies by preying on eggs and disrupting breeding. Traditional eradication methods proved impractical due to dense vegetation and extreme conditions, prompting the use of a custom-built hexacopter from New Zealand to precisely distribute rodenticide pellets. This world-first targeting of house mice via drone technology scattered over 700 kilograms of bait in October. Teams will return in April to assess whether the operation succeeded in restoring the island's crucial role as a seabird breeding sanctuary for the region.</description>
       <source url="https://www.abc.net.au/news/2026-03-25/seabird-drone-baiting-browse-island-kimberley-house-mice-mouse/106486150">ABC Australia</source>
-    </item>
-    <item>
-      <title>Fund honours speech pathologist killed saving kids from runaway truck</title>
-      <link>https://news.bias.com/go/2026-03-24-2339</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-24-2339</guid>
-      <pubDate>Tue, 24 Mar 2026 23:39:17 GMT</pubDate>
-      <description>A memorial fund honoring Eleanor Bryant, a speech pathologist who died saving children from a runaway truck at a Melbourne preschool in November 2024, has awarded its first scholarships. The fund supports allied health students committed to working in rural communities—a cause Bryant was passionate about from her upbringing in western NSW. Three students, each receiving $10,000 annually, will use the funds for accommodation and expenses while studying occupational therapy and related fields. Her husband describes the foundation as a way to "positively grieve." The recipients, all from rural backgrounds, understand firsthand the healthcare gaps in small towns and hope to help bridge them.</description>
-      <source url="https://www.abc.net.au/news/2026-03-25/hero-speech-pathologist-fund-eleanor-bryant/106486378">ABC Australia</source>
     </item>
   </channel>
 </rss>
