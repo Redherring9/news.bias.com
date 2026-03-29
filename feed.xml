@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 03:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 05:14:24 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What the 'first war in history' was like in the region where Iran is today</title>
+      <link>https://news.bias.com/go/2026-03-29-0514</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-29-0514</guid>
+      <pubDate>Sun, 29 Mar 2026 05:14:23 GMT</pubDate>
+      <description>Archaeologists and historians point to ancient Mesopotamia as the birthplace of organized warfare, emerging alongside the first civilizations around 3300 BCE. The conflict between the Sumerian city-states of Lagash and Umma, which lasted roughly 250 years (2600–2350 BCE), is considered the first documented war in human history. Eighteen clay tablet inscriptions from Lagash record this systematic struggle over Guedena, a fertile border region that controlled vital water supplies. While violent disagreements existed before civilization, experts note that organized military structures—with disciplined soldiers, tactical planning, and coordinated efforts—arose with centralized governments and sedentary agricultural societies in the Fertile Crescent. These early conflicts were driven by competition for resources, land, and water access in humanity's first urban centers.</description>
+      <source url="https://www.bbc.com/mundo/articles/cr71ev7xe0do?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Frosting, sprinkles and layers of fun: Giant cake picnic hits Sydney</title>
       <link>https://news.bias.com/go/2026-03-29-0310</link>
@@ -398,14 +406,6 @@
       <pubDate>Tue, 24 Mar 2026 19:20:00 GMT</pubDate>
       <description>Eastern monarch butterfly populations showed a promising 64% increase in 2025, with over 61 million butterflies occupying forest habitat in central Mexico. This follows decades of dramatic decline, with eastern monarchs down 80% since the 1980s. Conservation efforts, including the virtual elimination of illegal logging in Mexico's Monarch Butterfly Biosphere Reserve since 2008, have helped protect critical winter habitat. However, scientists note that long-term survival requires populations to reach at least six hectares of forest coverage—a threshold met only once in the past decade. Ongoing challenges include habitat loss, particularly of milkweed plants, climate change, and extreme weather, requiring continued restoration efforts across diverse landscapes.</description>
       <source url="https://news.mongabay.com/short-article/2026/03/eastern-monarch-butterfly-populations-increase-in-2025-but-challenges-remain/">Mongabay</source>
-    </item>
-    <item>
-      <title>Growing up during Sri Lanka’s civil war taught me that getting along with people across divides is a virtue we can learn</title>
-      <link>https://news.bias.com/go/2026-03-24-1655</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-24-1655</guid>
-      <pubDate>Tue, 24 Mar 2026 16:55:13 GMT</pubDate>
-      <description>A personality psychologist reflects on growing up in Kandy, Sri Lanka, where Buddhist temples, Christian churches, Hindu kovils, and Muslim mosques coexisted within walking distance. Despite this rich diversity—and a childhood attending both churches and temples in a mixed-faith family—the country was torn by civil war from 1983 to 2009. Witnessing how some people retreated into hostility while others maintained cross-community relationships sparked the author's lifelong research question: What enables people to live peacefully across deep differences? The answer, they suggest, lies in pluralism—not merely diversity, but the daily practice of reaching out, sustaining relationships, and cultivating mutual dignity through small, repeated acts of connection.</description>
-      <source url="https://theconversation.com/growing-up-during-sri-lankas-civil-war-taught-me-that-getting-along-with-people-across-divides-is-a-virtue-we-can-learn-273994">The Conversation</source>
     </item>
   </channel>
 </rss>
