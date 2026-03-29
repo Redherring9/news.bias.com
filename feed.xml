@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 11:26:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 13:30:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hubble and Webb Reveal Saturn's Amazing Secrets</title>
+      <link>https://news.bias.com/go/2026-03-29-1330</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-29-1330</guid>
+      <pubDate>Sun, 29 Mar 2026 13:30:14 GMT</pubDate>
+      <description>The Hubble and James Webb space telescopes have captured stunning new images of Saturn, revealing the planet's atmospheric secrets in unprecedented detail. Hubble's visible light observations show subtle color variations in Saturn's cloud bands, while Webb's infrared vision penetrates multiple atmospheric layers, exposing storms, atmospheric waves, and remnants of past tempests. The images reveal Saturn's iconic hexagonal polar pattern, glowing rings with intricate internal structures, and unusual gray-green poles possibly indicating auroral activity. This collaboration between NASA, ESA, and CSA provides scientists with a unique three-dimensional view of Saturn as an interconnected system, offering insights into atmospheric dynamics under extreme conditions.</description>
+      <source url="https://www.aljazeera.net/science/2026/3/29/%d9%87%d8%a7%d8%a8%d9%84-%d9%88%d8%ac%d9%8a%d9%85%d8%b3-%d9%88%d9%8a%d8%a8-%d9%8a%d9%83%d8%b4%d9%81%d8%a7%d9%86-%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d9%83%d9%88%d9%83%d8%a8-%d8%b2%d8%ad%d9%84?traffic_source=rss">Al Jazeera Arabic</source>
+    </item>
     <item>
       <title>City in Rio Grande do Sul promotes 'Caramel Dog Parade' with 56 dogs to encourage adoption; VIDEO</title>
       <link>https://news.bias.com/go/2026-03-29-1126</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 25 Mar 2026 05:18:49 GMT</pubDate>
       <description>After more than half a century, endangered blue ducks known as whio have returned to New Zealand's Rees Valley, delighting conservationists and local residents. The sighting of a pair follows years of predator control efforts by multiple organizations working in partnership. Staff members witnessed the rare moment of whio feeding alongside takahē—another native bird recently reintroduced to the area. For one longtime resident who remembered seeing whio in the 1970s, their return fulfills a personal dream. The birds' presence signals improving waterway health, and conservationists are installing additional traps to protect them from stoats while hoping more whio will follow and establish a breeding population.</description>
       <source url="https://www.rnz.co.nz/news/national/590612/endangered-whio-return-to-the-rees-valley-after-50-years">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>How a world-first baiting program could save the seabirds of Browse Island</title>
-      <link>https://news.bias.com/go/2026-03-25-0227</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-25-0227</guid>
-      <pubDate>Wed, 25 Mar 2026 02:27:22 GMT</pubDate>
-      <description>Australian researchers are pioneering a drone-baiting program to eliminate house mice from Browse Island, a remote 17-hectare landmass off Western Australia's coast. The mice, likely introduced during 19th-century guano mining, have reached plague proportions and devastated seabird colonies by preying on eggs and disrupting breeding. Traditional eradication methods proved impractical due to dense vegetation and extreme conditions, prompting the use of a custom-built hexacopter from New Zealand to precisely distribute rodenticide pellets. This world-first targeting of house mice via drone technology scattered over 700 kilograms of bait in October. Teams will return in April to assess whether the operation succeeded in restoring the island's crucial role as a seabird breeding sanctuary for the region.</description>
-      <source url="https://www.abc.net.au/news/2026-03-25/seabird-drone-baiting-browse-island-kimberley-house-mice-mouse/106486150">ABC Australia</source>
     </item>
   </channel>
 </rss>
