@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 13:30:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 15:34:16 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>"The Wealth of Nations": how a book written 250 years ago still influences our lives</title>
+      <link>https://news.bias.com/go/2026-03-29-1534</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-29-1534</guid>
+      <pubDate>Sun, 29 Mar 2026 15:34:14 GMT</pubDate>
+      <description>Adam Smith's "The Wealth of Nations," published in 1776, remains a cornerstone of economic thought 250 years later. The Scottish philosopher's work introduced foundational concepts like division of labor—famously illustrated through pin manufacturing—and the principles underlying free trade. Politicians across the spectrum, from Margaret Thatcher to Barack Obama, have claimed parts of Smith's legacy. The book's enduring influence stems from its ability to speak to different eras and perspectives. Smith observed that innovation often springs from workers themselves, sharing the story of a bored child who automated a steam engine valve. His ideas continue to shape everything from global commerce to wage debates, making this a classic that's still actively read, cited, and contested rather than merely historical.</description>
+      <source url="https://www.bbc.com/mundo/articles/cpw0wjdw4xlo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Hubble and Webb Reveal Saturn's Amazing Secrets</title>
       <link>https://news.bias.com/go/2026-03-29-1330</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 25 Mar 2026 07:55:05 GMT</pubDate>
       <description>Astronomers have captured a rare glimpse of two giant planets forming simultaneously around a young star called WISPIT 2. Using powerful telescopes in Chile, researchers observed the planets emerging from a massive disk of gas and dust that bears striking resemblance to our own Solar System's early stages. The two gas giants, named WISPIT 2b and WISPIT 2c, are several times Jupiter's mass and orbit at different distances from their star. This marks only the second time scientists have directly observed dual planetary formation. The well-defined rings and gaps in the surrounding disk suggest a third planet may also be taking shape, offering researchers an extraordinary window into how planetary systems are born.</description>
       <source url="https://g1.globo.com/ciencia/noticia/2026/03/25/como-era-o-sistema-solar-ha-45-bilhoes-de-anos-telescopio-pode-ter-a-resposta-e-as-imagens.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Endangered whio return to the Rees Valley after 50 years</title>
-      <link>https://news.bias.com/go/2026-03-25-0518</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-25-0518</guid>
-      <pubDate>Wed, 25 Mar 2026 05:18:49 GMT</pubDate>
-      <description>After more than half a century, endangered blue ducks known as whio have returned to New Zealand's Rees Valley, delighting conservationists and local residents. The sighting of a pair follows years of predator control efforts by multiple organizations working in partnership. Staff members witnessed the rare moment of whio feeding alongside takahē—another native bird recently reintroduced to the area. For one longtime resident who remembered seeing whio in the 1970s, their return fulfills a personal dream. The birds' presence signals improving waterway health, and conservationists are installing additional traps to protect them from stoats while hoping more whio will follow and establish a breeding population.</description>
-      <source url="https://www.rnz.co.nz/news/national/590612/endangered-whio-return-to-the-rees-valley-after-50-years">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
