@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 01:54:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 03:58:16 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Photos explore psychological drama of Australian rural life</title>
+      <link>https://news.bias.com/go/2026-03-30-0358</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-30-0358</guid>
+      <pubDate>Mon, 30 Mar 2026 03:58:15 GMT</pubDate>
+      <description>Australian photographer Brad Rimmer's major retrospective at Fremantle Arts Centre chronicles two decades documenting life in Western Australia's Wheatbelt, where he grew up. The exhibition features series like "Silence," which captures the difficult choice facing rural teenagers: whether to leave for city opportunities or stay in their community. Once eager to distance himself from his country roots after moving to Perth, Rimmer eventually recognized the beauty and complexity of regional life he'd taken for granted. His work juxtaposes portraits of young people with the stark, lonely landscapes they inhabit, creating an important visual record of rural Australian communities often overlooked by documentary photographers.</description>
+      <source url="https://www.abc.net.au/news/2026-03-30/brad-rimmer-loom-of-the-land-photography/106484020">ABC Australia</source>
+    </item>
     <item>
       <title>Brazil's first blood transfusion between jaguars performed in São Paulo to save animal with kidney disease</title>
       <link>https://news.bias.com/go/2026-03-30-0154</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 25 Mar 2026 21:20:01 GMT</pubDate>
       <description>The small Brazilian town of Jesúpolis, located 100 kilometers from Goiânia in Goiás state, is preparing to host what organizers call the world's largest pamonha festival. The free event will serve 35,000 pamonhas—a traditional Brazilian corn delicacy—made from 200,000 corn cobs harvested from fields planted specifically for the occasion. More than 200 volunteers are participating in the 16th annual celebration, which has become a beloved fixture in the region's cultural calendar. In 2024, Jesúpolis was officially designated the state capital of pamonha, cementing its reputation for this cherished culinary tradition that brings together flavor, community, and heritage.</description>
       <source url="https://g1.globo.com/go/goias/noticia/2026/03/25/cidade-em-goias-se-prepara-para-fazer-a-maior-pamonhada-do-mundo-com-35-mil-pamonhas-e-entrada-gratuita.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Hope Cross in Glossop, England</title>
-      <link>https://news.bias.com/go/2026-03-25-1853</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-25-1853</guid>
-      <pubDate>Wed, 25 Mar 2026 18:53:55 GMT</pubDate>
-      <description>High in the Peak District moors of England, a stone monument marks an ancient Roman route that once connected local towns. The Hope Cross, built or restored in 1737, bears the date and names of four nearby communities carved into its surface. Today, where Roman travelers once passed, hikers encounter sweeping views of Bamford Edge, Ladybower Reservoir, and Win Hill, alongside sheep and fellow walkers. The remote monument requires sturdy boots and some effort to reach, standing as a quiet reminder of how landscapes transform over centuries while the stone endures.</description>
-      <source url="https://www.atlasobscura.com/places/hope-cross">Atlas Obscura</source>
     </item>
   </channel>
 </rss>
