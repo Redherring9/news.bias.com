@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 06:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 08:06:38 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Doctor creates prescriptions with drawings for patients who cannot read and transforms disease treatment in the Sertão</title>
+      <link>https://news.bias.com/go/2026-03-30-0806</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-30-0806</guid>
+      <pubDate>Mon, 30 Mar 2026 08:06:36 GMT</pubDate>
+      <description>In rural northeastern Brazil, a doctor discovered many patients couldn't follow medical treatments because they couldn't read prescriptions. Dr. Lucas Cardim began drawing symbols on prescriptions—a coffee cup for morning doses, a moon for bedtime—to help his patients understand their medications. With help from a software engineer friend, he created a free digital platform called "Cuidado para Todos" that generates icon-based prescriptions. The system has already helped patients like Maria das Dores, a diabetic woman who now successfully manages her condition. The platform is now used in over ten municipalities and three indigenous districts, with hopes of permanent integration into Brazil's public health system.</description>
+      <source url="https://g1.globo.com/saude/noticia/2026/03/30/medico-cria-receitas-com-desenhos-para-pacientes-que-nao-sabem-ler-e-muda-tratamento-de-doencas-no-sertao.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Traditional protection proves more successful for clams in American Samoa</title>
       <link>https://news.bias.com/go/2026-03-30-0602</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 26 Mar 2026 02:02:43 GMT</pubDate>
       <description>Peruvian electronic duo Dengue Dengue Dengue makes its Brazilian debut in Belém, blending Latin American rhythms like cumbia with pulsating beats and Amazonian forest sounds. Producers Rafael Pereira and Felipe Salmón perform masked, drawing inspiration from traditional Peruvian festivals, with hypnotic visuals that transform each show into an audiovisual ritual. Their free performance is part of Amazônia Imersiva, a contemporary art project featuring 360-degree projections and immersive installations by around 30 artists. The event represents a symbolic meeting between Peru's evolving electronic scene and the Amazon's own musical innovations, like tecnobrega, amplifying ancestral knowledge through contemporary language.</description>
       <source url="https://g1.globo.com/pa/para/noticia/2026/03/25/conheca-a-musica-eletronica-que-mistura-amazonia-psicodelia-e-ritmos-latino-americanos-duo-peruano-dengue-dengue-dengue-faz-sua-estreia-no-brasil-em-belem.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>In pictures: a playful lynx and other spectacular wildlife photos</title>
-      <link>https://news.bias.com/go/2026-03-25-2338</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-25-2338</guid>
-      <pubDate>Wed, 25 Mar 2026 23:38:35 GMT</pubDate>
-      <description>An Austrian photographer has captured the playful antics of a young Iberian lynx tossing its prey into the air, earning the Wildlife Photographer of the Year 2026 People's Choice Award. Josef Stefan spent two weeks in Spain's Ciudad Real province, waiting in a hide before the lynx appeared and spent nearly 20 minutes absorbed in its game. The Iberian lynx, once near extinction with fewer than 100 individuals in the early 2000s, has rebounded to over 2,000 thanks to dedicated conservation efforts. The winning image joins 24 other nominated photographs that received a record 85,917 votes from nature photography enthusiasts worldwide, with five images now on display at London's Natural History Museum.</description>
-      <source url="https://www.bbc.com/mundo/articles/c7058jgjzgeo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
