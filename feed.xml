@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 23:50:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 01:54:13 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Brazil's first blood transfusion between jaguars performed in São Paulo to save animal with kidney disease</title>
+      <link>https://news.bias.com/go/2026-03-30-0154</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-30-0154</guid>
+      <pubDate>Mon, 30 Mar 2026 01:54:12 GMT</pubDate>
+      <description>In a groundbreaking veterinary achievement, an 18-year-old jaguar named Jack received Brazil's first recorded blood transfusion between jaguars. Severely anemic due to kidney disease, Jack was too weak for dialysis without the procedure. A young, healthy female jaguar named Ruana donated blood after compatibility tests confirmed a match. The delicate operation required careful monitoring, as anesthesia posed additional risks to the fragile animal. Jack recovered well, eating and drinking the following day. Beyond saving one life, this pioneering procedure establishes important protocols for treating endangered wildlife and may support conservation efforts by helping maintain healthy captive populations for future reintroduction to areas where jaguars have disappeared.</description>
+      <source url="https://g1.globo.com/fantastico/noticia/2026/03/29/primeira-transfusao-de-sangue-entre-oncas-pintadas-do-pais-e-feita-em-sp-para-salvar-animal-com-doenca-renal.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Citizen scientists take to the coast to celebrate southern Australia's seaweed</title>
       <link>https://news.bias.com/go/2026-03-29-2350</link>
@@ -398,14 +406,6 @@
       <pubDate>Wed, 25 Mar 2026 18:53:55 GMT</pubDate>
       <description>High in the Peak District moors of England, a stone monument marks an ancient Roman route that once connected local towns. The Hope Cross, built or restored in 1737, bears the date and names of four nearby communities carved into its surface. Today, where Roman travelers once passed, hikers encounter sweeping views of Bamford Edge, Ladybower Reservoir, and Win Hill, alongside sheep and fellow walkers. The remote monument requires sturdy boots and some effort to reach, standing as a quiet reminder of how landscapes transform over centuries while the stone endures.</description>
       <source url="https://www.atlasobscura.com/places/hope-cross">Atlas Obscura</source>
-    </item>
-    <item>
-      <title>Bond between dogs and humans dates back more than 15,000 years, study finds</title>
-      <link>https://news.bias.com/go/2026-03-25-1643</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-25-1643</guid>
-      <pubDate>Wed, 25 Mar 2026 16:43:54 GMT</pubDate>
-      <description>Ancient DNA analysis has revealed that the bond between humans and dogs stretches back at least 15,800 years, pushing the oldest genetic evidence for domestication back by 5,000 years. Hunter-gatherers were feeding dogs and giving them ritual burials long before agriculture emerged. Advanced sequencing techniques allowed researchers to distinguish definitively between ancient dog and wolf remains for the first time. The findings show dogs were widespread across Europe and western Asia by 14,000 years ago, with evidence of purposeful feeding and deep emotional bonds, including puppies buried with humans. Modern European dog breeds share much ancestry with these ancient companions, which likely resembled small wolves.</description>
-      <source url="https://www.theguardian.com/science/2026/mar/25/bond-dogs-humans-dates-back-15000-years-study-finds">The Guardian</source>
     </item>
   </channel>
 </rss>
