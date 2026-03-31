@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 18:36:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 20:40:33 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The underwater meadows that help keep beaches from disappearing</title>
+      <link>https://news.bias.com/go/2026-03-31-2040</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-31-2040</guid>
+      <pubDate>Tue, 31 Mar 2026 20:40:31 GMT</pubDate>
+      <description>Seagrass meadows quietly protect coastlines by anchoring sediment with dense root systems and slowing wave energy before it reaches shore. These underwater plants also capture carbon dioxide and support marine communities that contribute sand to beaches. Despite their importance, roughly 30% of global seagrass has vanished since the 19th century due to coastal development, pollution, and climate pressures like marine heat waves. While scientists caution that seagrass alone cannot replace engineered coastal defenses, restoration efforts are expanding through seed planting and experiments with heat-tolerant varieties. Researchers emphasize that protecting existing meadows remains the most urgent priority for maintaining natural coastal resilience.</description>
+      <source url="https://news.mongabay.com/short-article/2026/03/the-underwater-meadows-that-help-keep-beaches-from-disappearing/">Mongabay</source>
+    </item>
     <item>
       <title>The Empress of Little Rock in Little Rock, Arkansas</title>
       <link>https://news.bias.com/go/2026-03-31-1836</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 26 Mar 2026 15:23:29 GMT</pubDate>
       <description>A mischievous stone boy perches on a Hamburg building, forever presenting his backside toward the statue of Johann Wilhelm Bentz, a famously short-tempered 19th-century water bearer known as "Hummel." Local children once taunted Bentz as he hauled water through the city's streets, sometimes mocking him by baring their own backsides when his heavy yoke prevented pursuit. Created in 1938, the playful fountain ensemble immortalizes this bit of local folklore. While some have wondered if the cheeky gesture held deeper meaning given its creation date, the tale itself predates that era by generations, preserving a lighthearted slice of Hamburg street life from before indoor plumbing.</description>
       <source url="https://www.atlasobscura.com/places/the-cheeky-boy-at-hummel-fountain">Atlas Obscura</source>
-    </item>
-    <item>
-      <title>Weekend: Mvúka Tapajós Festival celebrates Afro-Amazonian culture in Santarém</title>
-      <link>https://news.bias.com/go/2026-03-26-1312</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-26-1312</guid>
-      <pubDate>Thu, 26 Mar 2026 13:12:57 GMT</pubDate>
-      <description>The city of Santarém in western Pará, Brazil, is hosting its first Mvúka Tapajós Festival, a two-day celebration of Afro-Brazilian and Afro-Amazonian culture. The event features workshops in carimbó dance, samba de roda, and percussion, alongside musical performances and a marketplace showcasing local food and crafts. The festival's name, "Mvúka," comes from the Bantu Kikongo language, meaning a gathering for celebration—a term historically used pejoratively in Brazil that organizers are now reclaiming. Led primarily by Black women, the festival affirms that communal gatherings, music, and dance are legitimate expressions of cultural identity and resilience, transforming spaces once marginalized into sites of memory, art, and collective joy.</description>
-      <source url="https://g1.globo.com/pa/santarem-regiao/noticia/2026/03/26/fim-de-semana-festival-mvuka-tapajos-celebra-a-cultura-afroamazonida-em-santarem.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
