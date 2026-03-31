@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 16:32:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 18:36:32 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Empress of Little Rock in Little Rock, Arkansas</title>
+      <link>https://news.bias.com/go/2026-03-31-1836</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-03-31-1836</guid>
+      <pubDate>Tue, 31 Mar 2026 18:36:31 GMT</pubDate>
+      <description>Built in 1888 in Little Rock's Quapaw Quarter, this striking Victorian mansion stands as one of Arkansas's finest examples of Gothic Queen Anne architecture. Businessman James H. Hornibrook created a Gilded Age showpiece with carved woodwork, stained glass, and ornate details designed to impress. After serving prominent families for generations, the home became a boutique hotel in the 1990s, allowing guests to sleep amid period furnishings and towering ceilings. The Empress has also gained attention for reported ghost stories and unexplained occurrences, adding atmospheric intrigue to its historic charm. Today, it welcomes visitors seeking both architectural beauty and a tangible connection to Arkansas's nineteenth-century past.</description>
+      <source url="https://www.atlasobscura.com/places/the-empress-of-little-rock">Atlas Obscura</source>
+    </item>
     <item>
       <title>Baroque Cemetery in Kroměříž, Czechia</title>
       <link>https://news.bias.com/go/2026-03-31-1632</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 26 Mar 2026 13:12:57 GMT</pubDate>
       <description>The city of Santarém in western Pará, Brazil, is hosting its first Mvúka Tapajós Festival, a two-day celebration of Afro-Brazilian and Afro-Amazonian culture. The event features workshops in carimbó dance, samba de roda, and percussion, alongside musical performances and a marketplace showcasing local food and crafts. The festival's name, "Mvúka," comes from the Bantu Kikongo language, meaning a gathering for celebration—a term historically used pejoratively in Brazil that organizers are now reclaiming. Led primarily by Black women, the festival affirms that communal gatherings, music, and dance are legitimate expressions of cultural identity and resilience, transforming spaces once marginalized into sites of memory, art, and collective joy.</description>
       <source url="https://g1.globo.com/pa/santarem-regiao/noticia/2026/03/26/fim-de-semana-festival-mvuka-tapajos-celebra-a-cultura-afroamazonida-em-santarem.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>A nature-based solution to save the Mekong Delta’s water future (commentary)</title>
-      <link>https://news.bias.com/go/2026-03-26-1101</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-26-1101</guid>
-      <pubDate>Thu, 26 Mar 2026 11:01:55 GMT</pubDate>
-      <description>The Mekong Delta, home to 18 million people and a vital source of rice and aquaculture for Vietnam and the world, faces mounting pressures from climate change, including saltwater intrusion, groundwater depletion, and land subsidence. A proposed nature-based groundwater replenishment system aims to treat wastewater, recharge aquifers, and harness wind energy to restore water security in the region. Supporters estimate the project could yield $450 million in annual benefits through improved agricultural productivity and public health, though it requires significant investment and coordination. Inspired by a similar California system, the initiative reflects growing urgency to protect both the ecosystem and the livelihoods of millions who depend on the delta's fragile resources.</description>
-      <source url="https://news.mongabay.com/2026/03/a-nature-based-solution-to-save-the-mekong-deltas-water-future-commentary/">Mongabay</source>
     </item>
   </channel>
 </rss>
