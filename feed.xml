@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 11:20:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 13:25:17 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Impossible' blue stone was born in the outback and may be worth more than diamond</title>
+      <link>https://news.bias.com/go/2026-04-01-1325</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-01-1325</guid>
+      <pubDate>Wed, 01 Apr 2026 13:25:12 GMT</pubDate>
+      <description>In the arid landscape of northeastern Brazil, a gemstone unlike any other lay hidden for 500 million years. In the late 1980s, miner Heitor Dimas Barbosa unearthed a turquoise crystal that seemed to glow with its own light—a turquoise so vivid it defied scientific records. The Paraíba Tourmaline owes its electric blue-green hues to an unusual concentration of copper and manganese, a chemical signature never before seen in tourmalines. Extraordinarily rare, with most stones weighing less than a carat, exceptional specimens now sell for over $100,000 per carat, surpassing diamonds. Similar deposits later discovered in Mozambique and Nigeria trace back to when the continents formed a single landmass, sharing the same ancient geological recipe.</description>
+      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/04/01/pedra-de-azul-impossivel-nasceu-no-sertao-e-pode-valer-mais-que-diamante.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Nature boys and girls – here’s your chance to get published in the Guardian</title>
       <link>https://news.bias.com/go/2026-04-01-1120</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 27 Mar 2026 07:51:06 GMT</pubDate>
       <description>Antarctic whale populations are making a remarkable recovery nearly four decades after the commercial whaling ban. Humpback whales have rebounded to near pre-whaling levels in waters where more than 2 million whales were killed during the 20th century. Researchers recently observed groups exceeding 100 whales near the South Orkney islands. However, this comeback faces a new challenge: industrial krill fishing. Krill are the foundation of the Antarctic ecosystem and the primary food source for whales, penguins, and seals. Conservation efforts have stalled as diplomatic disagreements prevent consensus on protecting critical feeding areas, while scientists worry that climate change may also threaten krill populations.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/26/antarctic-whales-comeback-threatened-industrial-krill-fishing-southern-ocean">The Guardian</source>
-    </item>
-    <item>
-      <title>Small ray of hope for Sri Lanka’s sawfish, now feared ‘functionally extinct’</title>
-      <link>https://news.bias.com/go/2026-03-27-0547</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-0547</guid>
-      <pubDate>Fri, 27 Mar 2026 05:47:38 GMT</pubDate>
-      <description>Sawfish, distinctive rays with saw-shaped snouts, are feared "functionally extinct" in Sri Lankan waters, with the last confirmed catch in 2017. A survey of 300 fishers revealed that none under 30 could identify the species, while older fishers recalled them being abundant decades ago. Three critically endangered sawfish species once inhabited these waters, but overfishing, habitat loss, and bycatch have decimated populations. Their slow growth and late maturation make recovery difficult. Researchers at Blue Resources Trust suggest small populations may still survive and are calling for further surveys to identify potential habitats. The sawfish's rostrum serves as both weapon and sensory organ for hunting in murky waters.</description>
-      <source url="https://news.mongabay.com/2026/03/small-ray-of-hope-for-sri-lankas-sawfish-now-feared-functionally-extinct/">Mongabay</source>
     </item>
   </channel>
 </rss>
