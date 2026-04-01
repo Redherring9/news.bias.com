@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 17:34:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 19:38:45 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The big gamble Andy Griffiths took to become a world-famous kids' author</title>
+      <link>https://news.bias.com/go/2026-04-01-1938</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-01-1938</guid>
+      <pubDate>Wed, 01 Apr 2026 19:38:43 GMT</pubDate>
+      <description>Andy Griffiths, one of Australia's most successful children's authors with over 20 million books sold, traces his anarchic storytelling style to the dark fairy tales he devoured as a child. Inspired by the Brothers Grimm and Roald Dahl, he believed books had become too safe. At 30, he made a bold gamble—saving half his teaching salary for two years, then taking unpaid leave to write 12 hours daily in a $50-a-week room. His breakthrough came with the Treehouse series, co-created with illustrator Terry Denton, which follows two friends in their ever-expanding treehouse sanctuary. The beloved series, now spanning 13 books, will be adapted for television by ABC.</description>
+      <source url="https://www.abc.net.au/news/2026-04-02/andy-griffiths-virginia-trioli-creative-types/106513210">ABC Australia</source>
+    </item>
     <item>
       <title>From the Fogaréu Procession to the Resurrection: discover the events and traditions of Holy Week in Piauí</title>
       <link>https://news.bias.com/go/2026-04-01-1734</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 27 Mar 2026 14:01:50 GMT</pubDate>
       <description>Birutė Galdikas, the last surviving member of "Leakey's Angels," died in March 2026, closing an extraordinary chapter in primatology. Alongside Jane Goodall and Dian Fossey, Galdikas was sent into remote forests in the 1960s by mentor Louis Leakey to study humanity's closest relatives. These three young women transformed science by revealing that primates possess individual personalities, use tools, form complex social bonds, and grieve—blurring the line between human and animal. Their groundbreaking work not only reshaped our understanding of evolution and behavior but also opened the field to women scientists. Today's primatologists face a different challenge: their predecessors studied thriving populations to understand primate life, while the current generation works desperately to prevent extinction.</description>
       <source url="https://theconversation.com/birute-galdikas-the-last-of-the-angels-in-primatologys-most-extraordinary-chapter-279398">The Conversation</source>
-    </item>
-    <item>
-      <title>I hugged an armed man to stop him from blowing up a hospital</title>
-      <link>https://news.bias.com/go/2026-03-27-1158</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-1158</guid>
-      <pubDate>Fri, 27 Mar 2026 11:58:16 GMT</pubDate>
-      <description>In a remarkable act of courage, Nathan Newby spent two hours talking down Mohammad Farooq, who had brought a homemade pressure cooker bomb containing 10 kg of explosives to St. James Hospital in Leeds. Newby, a patient being treated for a chest infection, noticed Farooq acting anxiously outside the maternity ward in January 2023. Rather than flee, Newby stayed, conversed with him about his troubles, and even embraced him at Farooq's request. Eventually, Farooq asked Newby to call police before he changed his mind. The former hospital worker, described as a self-radicalized lone wolf terrorist, was sentenced to a minimum of 37 years in prison. King Charles III awarded Newby the George Medal for his bravery.</description>
-      <source url="https://www.bbc.com/portuguese/articles/c4g8wx7j83no?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
     </item>
   </channel>
 </rss>
