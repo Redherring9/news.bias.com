@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 07:12:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 09:16:24 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>When is Nasa's Moon mission launch and what will Artemis do?</title>
+      <link>https://news.bias.com/go/2026-04-01-0916</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-01-0916</guid>
+      <pubDate>Wed, 01 Apr 2026 09:16:23 GMT</pubDate>
+      <description>NASA is preparing to launch Artemis II on April 1, 2026, marking the first crewed mission around the Moon in over 50 years. The ten-day journey will carry four astronauts—including Victor Glover, Christina Koch, Reid Wiseman, and Canada's Jeremy Hansen—farther into space than anyone before. The crew will test the Orion capsule's systems, practice manual flight maneuvers, and gather medical data in deep space before splashing down in the Pacific. This mission sets the stage for future lunar landings, with Artemis IV planned to touch down at the Moon's south pole in 2028, paving the way for a sustained human presence on the lunar surface.</description>
+      <source url="https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Project to bring rare butterfly back to Yorkshire</title>
       <link>https://news.bias.com/go/2026-04-01-0712</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 27 Mar 2026 03:44:10 GMT</pubDate>
       <description>The hyacinth macaw plays a surprising role as host in Brazil's Pantanal wetlands. During breeding season, these brilliant blue birds carve nesting cavities in trees that more than 40 migratory species—including spoonbills, sandpipers, owls, and hawks—later use for shelter and reproduction. Researchers at COP15 explained that by maintaining a healthy habitat for themselves, the macaws signal to migratory birds that the ecosystem is thriving. The species also disperses seeds up to a kilometer away, helping regenerate forests much like large mammals do. Conservationists emphasize that protecting these charismatic birds means preserving the interconnected web of life they support.</description>
       <source url="https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/03/26/cop15-arara-azul-e-anfitria-e-prepara-ninhos-para-mais-de-40-especies-migratorias-no-pantanal.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Dolphins, stingers and ‘salt tongue’: an epic ocean swim around New Zealand’s east coast</title>
-      <link>https://news.bias.com/go/2026-03-27-0140</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-0140</guid>
-      <pubDate>Fri, 27 Mar 2026 01:40:43 GMT</pubDate>
-      <description>Jono Ridler is attempting a world record for the longest unassisted staged swim, covering roughly 1,350 kilometers along New Zealand's east coast. Wearing only shorts, cap, and goggles, the 36-year-old has spent over 400 hours in the water, developing an intimate connection with marine life—he can now hear dolphins approaching 15 minutes before they arrive. The grueling journey involves battling jellyfish, hypothermia, and isolation, all while raising awareness about ocean conservation. Ridler uses meditative breathing techniques to cope with the mental challenges and credits his wife for making the journey possible. His effort, supported by marine conservation charity Live Ocean, showcases both human endurance and the profound connection possible between people and the sea.</description>
-      <source url="https://www.theguardian.com/world/2026/mar/26/ultra-marathon-swimmer-jono-rider-ocean-new-zealand-coast">The Guardian</source>
     </item>
   </channel>
 </rss>
