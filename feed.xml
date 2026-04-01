@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 00:58:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 03:02:54 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Absolutely stoked': Molly the collie found a week after owner's waterfall tumble</title>
+      <link>https://news.bias.com/go/2026-04-01-0302</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-01-0302</guid>
+      <pubDate>Wed, 01 Apr 2026 03:02:52 GMT</pubDate>
+      <description>Molly, a border collie, was reunited with her owner a week after both tumbled down a 55-meter waterfall in New Zealand's remote Arahura Valley. Owner Jessica Johnston survived the fall with serious injuries and spent a week in hospital, while Molly remained at the waterfall's base. After three unsuccessful search flights, pilot Matt Newton located the dog using thermal imaging equipment, with the mission funded by community donations. Molly appeared in good condition, likely surviving on local wildlife. The emotional rescue brought tears to the pilot's eyes, while Johnston expressed gratitude for the overwhelming support from strangers who helped bring her companion home.</description>
+      <source url="https://www.rnz.co.nz/news/icymi/591128/border-collie-found-one-week-after-owner-falls-down-waterfall-in-alpine-backcountry">Radio New Zealand</source>
+    </item>
     <item>
       <title>Tortoise who survived World War I, visits her Te Papa exhibit</title>
       <link>https://news.bias.com/go/2026-04-01-0058</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 26 Mar 2026 21:33:55 GMT</pubDate>
       <description>In July 2023, researchers from the Cetacean Translation Initiative witnessed an unprecedented event in the Caribbean: a group of sperm whales assisting in the birth of a calf, including whales unrelated to the mother. The newborn emerged tail-first and, being negatively buoyant, required immediate support to reach the surface and breathe. For six hours, eleven whales took turns lifting and supporting the calf, with relatives and non-kin collaborating in what scientists describe as "radical collaboration." This marks the only known example of marine mammals helping birth a non-kin offspring. Researchers suggest such cooperative care may be an ancient evolutionary adaptation dating back 36 million years, revealing the depth of social bonds in sperm whale communities.</description>
       <source url="https://news.mongabay.com/short-article/2026/03/family-and-friends-help-sperm-whale-mother-and-newborn-during-birth/">Mongabay</source>
-    </item>
-    <item>
-      <title>Philopappou Hill Pathways in Athens, Greece</title>
-      <link>https://news.bias.com/go/2026-03-26-1930</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-26-1930</guid>
-      <pubDate>Thu, 26 Mar 2026 19:30:24 GMT</pubDate>
-      <description>In the 1950s, Greek architect Dimitris Pikionis transformed the paths leading to Philopappou Hill in Athens into an unexpected work of art. Rather than following rigid plans, Pikionis worked collaboratively with students and stonemasons, making spontaneous decisions on-site. They gathered fragments from ancient ruins, salvaged marble from demolished buildings, and ceramic shards, carefully arranging these pieces into intricate collages along the pathways. The project reforested the barren hill with pines and olives while creating rest areas with views of the Acropolis. Completed quietly in 1958, this imaginative landscape became part of the UNESCO World Heritage site in 1987 and is now considered one of the 20th century's most significant landscape architecture achievements.</description>
-      <source url="https://www.atlasobscura.com/places/philopappou-hill-pathways">Atlas Obscura</source>
     </item>
   </channel>
 </rss>
