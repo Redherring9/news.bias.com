@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 19:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 21:43:07 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ethiopian women plant trees, restoring lands &amp; livelihoods</title>
+      <link>https://news.bias.com/go/2026-04-01-2143</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-01-2143</guid>
+      <pubDate>Wed, 01 Apr 2026 21:43:04 GMT</pubDate>
+      <description>In southern Ethiopia's Sidama region, women are leading an ambitious effort to reverse land degradation caused by unsustainable farming and tree cutting. The Integrated Women's Development Organization has planted trees, vegetables, and grasses across more than 1,250 hectares since 2020, restoring soil while creating new income streams for community members. The initiative reduces reliance on forest products like charcoal and strengthens women's voices in land management decisions—traditionally dominated by men. By joining the GLFx network, which connects grassroots restoration projects worldwide, these women gain access to knowledge and resources that could amplify their impact and inspire similar community-led conservation efforts.</description>
+      <source url="https://news.mongabay.com/2026/04/ethiopian-women-plant-trees-restoring-lands-livelihoods/">Mongabay</source>
+    </item>
     <item>
       <title>The big gamble Andy Griffiths took to become a world-famous kids' author</title>
       <link>https://news.bias.com/go/2026-04-01-1938</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 27 Mar 2026 16:05:37 GMT</pubDate>
       <description>More than 80 years after World War II, millions of Nazi party membership records are now accessible online through the U.S. National Archives, documenting 6.6 million Germans who belonged to the NSDAP before 1945. While similar records have existed in German archives since 1994, privacy laws there restrict access. Historian Johannes Spohr, who helps families research their Nazi-era history, notes that as eyewitnesses pass away, younger generations are increasingly turning to archives to uncover truths their families never discussed. Studies show most Germans believe their ancestors weren't perpetrators—a view often based more on family mythology than historical fact. Spohr emphasizes that genuine remembrance must happen "where it hurts," confronting uncomfortable realities about both the Nazi period and postwar denial.</description>
       <source url="https://www.dw.com/de/waren-oma-und-opa-nazis/a-76556375?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
-    </item>
-    <item>
-      <title>Birutė Galdikas: The last of the ‘angels’ in primatology’s most extraordinary chapter</title>
-      <link>https://news.bias.com/go/2026-03-27-1401</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-1401</guid>
-      <pubDate>Fri, 27 Mar 2026 14:01:50 GMT</pubDate>
-      <description>Birutė Galdikas, the last surviving member of "Leakey's Angels," died in March 2026, closing an extraordinary chapter in primatology. Alongside Jane Goodall and Dian Fossey, Galdikas was sent into remote forests in the 1960s by mentor Louis Leakey to study humanity's closest relatives. These three young women transformed science by revealing that primates possess individual personalities, use tools, form complex social bonds, and grieve—blurring the line between human and animal. Their groundbreaking work not only reshaped our understanding of evolution and behavior but also opened the field to women scientists. Today's primatologists face a different challenge: their predecessors studied thriving populations to understand primate life, while the current generation works desperately to prevent extinction.</description>
-      <source url="https://theconversation.com/birute-galdikas-the-last-of-the-angels-in-primatologys-most-extraordinary-chapter-279398">The Conversation</source>
     </item>
   </channel>
 </rss>
