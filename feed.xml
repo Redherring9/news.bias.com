@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 21:43:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 23:47:30 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nasa’s Artemis II rocket lifts off for historic moon mission</title>
+      <link>https://news.bias.com/go/2026-04-01-2347</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-01-2347</guid>
+      <pubDate>Wed, 01 Apr 2026 23:47:29 GMT</pubDate>
+      <description>NASA's Artemis II mission successfully launched Wednesday evening, carrying four astronauts toward the moon for the first time in more than five decades. The crew—three Americans and one Canadian—will spend ten days testing critical systems during a lunar flyby without landing. Christina Koch will become the first woman to travel into cislunar space, while Victor Glover will be the first person of color to do so. The mission could take them farther from Earth than any humans before, potentially reaching 253,000 miles. This test flight lays groundwork for NASA's ambitious plans, including a lunar base and future landing missions, while allowing astronauts to evaluate spacecraft systems essential for deeper space exploration.</description>
+      <source url="https://www.theguardian.com/science/2026/apr/01/nasa-rocket-moon-launch-artemis-ii">The Guardian</source>
+    </item>
     <item>
       <title>Ethiopian women plant trees, restoring lands &amp; livelihoods</title>
       <link>https://news.bias.com/go/2026-04-01-2143</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 27 Mar 2026 18:09:10 GMT</pubDate>
       <description>Scientists from Project Ceti have captured the rare footage of a 19-year-old sperm whale giving birth off the coast of Dominica, with unrelated female whales actively assisting. Over nearly five and a half hours, researchers documented how the pod worked together during the 34-minute labor, with adults diving beneath the mother and immediately lifting the newborn to the surface for its first breath. This marks the first evidence of birth assistance in non-primates. The behavior likely evolved because whale calves, born tail-first, initially sink and need help reaching air. The calf was later spotted thriving over a year later, a promising sign for its survival to adulthood.</description>
       <source url="https://www.theguardian.com/environment/2026/mar/27/scientists-film-whale-giving-birth-other-whales-help-her">The Guardian</source>
-    </item>
-    <item>
-      <title>Were Grandma and Grandpa Nazis?</title>
-      <link>https://news.bias.com/go/2026-03-27-1605</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-1605</guid>
-      <pubDate>Fri, 27 Mar 2026 16:05:37 GMT</pubDate>
-      <description>More than 80 years after World War II, millions of Nazi party membership records are now accessible online through the U.S. National Archives, documenting 6.6 million Germans who belonged to the NSDAP before 1945. While similar records have existed in German archives since 1994, privacy laws there restrict access. Historian Johannes Spohr, who helps families research their Nazi-era history, notes that as eyewitnesses pass away, younger generations are increasingly turning to archives to uncover truths their families never discussed. Studies show most Germans believe their ancestors weren't perpetrators—a view often based more on family mythology than historical fact. Spohr emphasizes that genuine remembrance must happen "where it hurts," confronting uncomfortable realities about both the Nazi period and postwar denial.</description>
-      <source url="https://www.dw.com/de/waren-oma-und-opa-nazis/a-76556375?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
     </item>
   </channel>
 </rss>
