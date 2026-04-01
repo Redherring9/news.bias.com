@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 13:25:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 15:29:37 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Point of Human Origin in Mossel Bay, South Africa</title>
+      <link>https://news.bias.com/go/2026-04-01-1529</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-01-1529</guid>
+      <pubDate>Wed, 01 Apr 2026 15:29:35 GMT</pubDate>
+      <description>A series of caves at Pinnacle Point in Mossel Bay, South Africa, offers a rare window into human origins. Discovered during a survey in the early 2000s, the site contains evidence that Homo sapiens lived along this coast between 150,000 and 200,000 years ago, representing part of the small ancestral population from which all living humans descend. Researchers have found traces of early tool use and coastal foraging. An international team led by Professor Curtis Marean continues to study the site, and unusually for such an important archaeological location, guided tours by actual researchers allow visitors to explore the caves. The tours help fund ongoing research.</description>
+      <source url="https://www.atlasobscura.com/places/point-of-human-origin">Atlas Obscura</source>
+    </item>
     <item>
       <title>'Impossible' blue stone was born in the outback and may be worth more than diamond</title>
       <link>https://news.bias.com/go/2026-04-01-1325</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 27 Mar 2026 09:54:37 GMT</pubDate>
       <description>In Nepal's alpine highlands, traditional yak herding is facing mounting pressures from multiple directions. Climate change is altering water cycles, vegetation, and grazing patterns, while drying wetlands increase wildfire risk. Young herders are migrating to cities for opportunities, creating labor shortages. Rising costs, disease outbreaks requiring days of travel to reach veterinarians, and limited markets for yak products have pushed many families to abandon the practice. Border closures since COVID-19 have cut off traditional grazing routes and trade. These challenges extend beyond domesticated yaks to wild populations, threatened by habitat loss, crossbreeding, and declining rangeland quality, potentially undermining their genetic survival.</description>
       <source url="https://news.mongabay.com/2026/03/climate-change-tests-nepals-wild-and-domesticated-yaks/">Mongabay</source>
-    </item>
-    <item>
-      <title>Antarctic whales’ remarkable comeback is threatened by krill fishing</title>
-      <link>https://news.bias.com/go/2026-03-27-0751</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-0751</guid>
-      <pubDate>Fri, 27 Mar 2026 07:51:06 GMT</pubDate>
-      <description>Antarctic whale populations are making a remarkable recovery nearly four decades after the commercial whaling ban. Humpback whales have rebounded to near pre-whaling levels in waters where more than 2 million whales were killed during the 20th century. Researchers recently observed groups exceeding 100 whales near the South Orkney islands. However, this comeback faces a new challenge: industrial krill fishing. Krill are the foundation of the Antarctic ecosystem and the primary food source for whales, penguins, and seals. Conservation efforts have stalled as diplomatic disagreements prevent consensus on protecting critical feeding areas, while scientists worry that climate change may also threaten krill populations.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/26/antarctic-whales-comeback-threatened-industrial-krill-fishing-southern-ocean">The Guardian</source>
     </item>
   </channel>
 </rss>
