@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Mar 2026 22:54:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 00:58:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tortoise who survived World War I, visits her Te Papa exhibit</title>
+      <link>https://news.bias.com/go/2026-04-01-0058</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-01-0058</guid>
+      <pubDate>Wed, 01 Apr 2026 00:58:39 GMT</pubDate>
+      <description>Torty, a tortoise well over a century old, recently visited Te Papa museum to see an exhibition featuring her remarkable story. She was rescued in Greece during World War I by New Zealand stretcher bearer Stewart Little, who found her injured after being run over by a French gun cart. He nursed her back to health and carried her home to New Zealand in his rucksack in 1916. Three generations of the Little family have since cared for her. Now in her twilight years, Torty enjoys a peaceful routine of grazing and napping in her caretaker Christine Little's backyard. When she passes, the family plans to bury her alongside Stewart and his wife in Manawatū.</description>
+      <source url="https://www.rnz.co.nz/news/icymi/591163/torty-the-tortoise-who-survived-world-war-i-visits-te-papa-exhibit-which-tells-her-story">Radio New Zealand</source>
+    </item>
     <item>
       <title>New Zealand WWII pilot's watch found in Germany more than 80 years later</title>
       <link>https://news.bias.com/go/2026-03-31-2254</link>
@@ -398,14 +406,6 @@
       <pubDate>Thu, 26 Mar 2026 19:30:24 GMT</pubDate>
       <description>In the 1950s, Greek architect Dimitris Pikionis transformed the paths leading to Philopappou Hill in Athens into an unexpected work of art. Rather than following rigid plans, Pikionis worked collaboratively with students and stonemasons, making spontaneous decisions on-site. They gathered fragments from ancient ruins, salvaged marble from demolished buildings, and ceramic shards, carefully arranging these pieces into intricate collages along the pathways. The project reforested the barren hill with pines and olives while creating rest areas with views of the Acropolis. Completed quietly in 1958, this imaginative landscape became part of the UNESCO World Heritage site in 1987 and is now considered one of the 20th century's most significant landscape architecture achievements.</description>
       <source url="https://www.atlasobscura.com/places/philopappou-hill-pathways">Atlas Obscura</source>
-    </item>
-    <item>
-      <title>10 years of study led to identification of ancient Brazilian herbivorous amphibian; understand</title>
-      <link>https://news.bias.com/go/2026-03-26-1726</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-26-1726</guid>
-      <pubDate>Thu, 26 Mar 2026 17:26:56 GMT</pubDate>
-      <description>After more than a decade of meticulous research, scientists have identified Tanyka amnicola, an herbivorous amphibian that lived approximately 280 million years ago in what is now northeastern Brazil. Nine fossilized jawbones discovered between 2012 and 2023 in Piauí and Maranhão states revealed unique features: sideways-projecting teeth and irregular mandibles designed for eating leaves and fruit—unprecedented among fossil amphibians. The international collaboration required comparing specimens with museums across North America and Europe, as no similar fossils existed in Brazil. Published in Proceedings of the Royal Society B, the discovery highlights the region's paleontological potential and offers new insights into amphibian evolution.</description>
-      <source url="https://g1.globo.com/pi/piaui/noticia/2026/03/26/antigo-anfibio-herbivoro-brasileiro.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
