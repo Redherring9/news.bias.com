@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 15:29:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 17:34:21 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>From the Fogaréu Procession to the Resurrection: discover the events and traditions of Holy Week in Piauí</title>
+      <link>https://news.bias.com/go/2026-04-01-1734</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-01-1734</guid>
+      <pubDate>Wed, 01 Apr 2026 17:34:20 GMT</pubDate>
+      <description>In Piauí, Brazil's most Catholic state where 77% follow the faith, Holy Week traditions draw thousands to commemorative events. The historic city of Oeiras hosts two centuries-old processions: the Fogaréu, where torch-bearing men reenact Roman soldiers' pursuit of Christ, and the Senhor Morto funeral cortege. Meanwhile, large-scale Passion of Christ theatrical productions take place in Floriano's open-air venue—Brazil's second largest—and in Teresina's Monte Castelo neighborhood, now in its 41st year. These communal celebrations blend deep religious devotion with regional cultural identity, transforming entire cities into stages for collective remembrance and spiritual reflection.</description>
+      <source url="https://g1.globo.com/pi/piaui/noticia/2026/04/01/semana-santa-piaui.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Point of Human Origin in Mossel Bay, South Africa</title>
       <link>https://news.bias.com/go/2026-04-01-1529</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 27 Mar 2026 11:58:16 GMT</pubDate>
       <description>In a remarkable act of courage, Nathan Newby spent two hours talking down Mohammad Farooq, who had brought a homemade pressure cooker bomb containing 10 kg of explosives to St. James Hospital in Leeds. Newby, a patient being treated for a chest infection, noticed Farooq acting anxiously outside the maternity ward in January 2023. Rather than flee, Newby stayed, conversed with him about his troubles, and even embraced him at Farooq's request. Eventually, Farooq asked Newby to call police before he changed his mind. The former hospital worker, described as a self-radicalized lone wolf terrorist, was sentenced to a minimum of 37 years in prison. King Charles III awarded Newby the George Medal for his bravery.</description>
       <source url="https://www.bbc.com/portuguese/articles/c4g8wx7j83no?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
-    </item>
-    <item>
-      <title>Climate change tests Nepal’s wild and domesticated yaks</title>
-      <link>https://news.bias.com/go/2026-03-27-0954</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-0954</guid>
-      <pubDate>Fri, 27 Mar 2026 09:54:37 GMT</pubDate>
-      <description>In Nepal's alpine highlands, traditional yak herding is facing mounting pressures from multiple directions. Climate change is altering water cycles, vegetation, and grazing patterns, while drying wetlands increase wildfire risk. Young herders are migrating to cities for opportunities, creating labor shortages. Rising costs, disease outbreaks requiring days of travel to reach veterinarians, and limited markets for yak products have pushed many families to abandon the practice. Border closures since COVID-19 have cut off traditional grazing routes and trade. These challenges extend beyond domesticated yaks to wild populations, threatened by habitat loss, crossbreeding, and declining rangeland quality, potentially undermining their genetic survival.</description>
-      <source url="https://news.mongabay.com/2026/03/climate-change-tests-nepals-wild-and-domesticated-yaks/">Mongabay</source>
     </item>
   </channel>
 </rss>
