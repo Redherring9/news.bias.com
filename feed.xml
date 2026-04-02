@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 01:52:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 03:57:08 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>In pictures: Artemis II NASA's first mission to the Moon in decades</title>
+      <link>https://news.bias.com/go/2026-04-02-0357</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-02-0357</guid>
+      <pubDate>Thu, 02 Apr 2026 03:57:06 GMT</pubDate>
+      <description>NASA has launched Artemis II, sending four astronauts around the Moon for the first time in over 50 years. Commander Reid Wiseman, pilot Victor Glover, and mission specialists Christina Koch and Jeremy Hansen lifted off Thursday morning, with Koch becoming the first woman and Glover the first person of color on a lunar mission. Hansen marks the first Canadian in deep space. The mission will test the Orion spacecraft's life support systems and docking capabilities as NASA prepares for longer lunar stays. The crew is expected to travel farther from Earth than any humans before them, surpassing Apollo 13's 1970 record. Excited crowds gathered to witness this historic milestone in space exploration.</description>
+      <source url="https://www.abc.net.au/news/2026-04-02/in-pictures-artemis-ii-launch-nasa-mission-to-the-moon/106524886">ABC Australia</source>
+    </item>
     <item>
       <title>This Artemis moon mission is a truly unifying international project, one of the few we have left | Christopher Riley</title>
       <link>https://news.bias.com/go/2026-04-02-0152</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 27 Mar 2026 22:16:34 GMT</pubDate>
       <description>A critically endangered hawksbill sea turtle named Beare was discovered stranded on a New South Wales beach, covered in barnacles and struggling to survive. The veterinarian who found him arranged transfer to a specialized wildlife refuge, where caretakers nursed Beare back to health over nearly four months with a diet of prawns and fish. Hawksbill turtles typically inhabit tropical waters but juveniles sometimes drift south during their early "lost years." Once hunted for their shells, these turtles now face critical endangerment. After passing final health checks, Beare was driven 280 kilometers north and released near Port Stephens, giving him a chance to rejoin his species and potentially live for decades—hawksbills can reach 80 years of age.</description>
       <source url="https://www.abc.net.au/news/2026-03-28/hawksbill-turtle-rescue-beares-beach-nsw-south-coast/106497594">ABC Australia</source>
-    </item>
-    <item>
-      <title>Country Life: Powered by bullocks, a Northland family farms without fossil fuels</title>
-      <link>https://news.bias.com/go/2026-03-27-2013</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-2013</guid>
-      <pubDate>Fri, 27 Mar 2026 20:13:03 GMT</pubDate>
-      <description>In a remote corner of New Zealand's Hokianga region, the Land family has created an extraordinary way of life spanning three generations and 25 people. They farm six hectares without tractors or fossil fuels, relying instead on bullock teams and Clydesdale horses for heavy work. Inspired by Catholic Worker Movement principles and Māori values, they grow maize, vegetables, and fruit, make their own butter, and homeschool their children. The family earns modest income through part-time work—one member notes two nursing shifts per week provides more than enough money. Founded in the 1970s by former teachers who lived in Fiji, the community uses solar power, biogas, and hand-powered mills, demonstrating how many people a small piece of land can sustain through communal, low-impact living.</description>
-      <source url="https://www.rnz.co.nz/news/country/590858/country-life-powered-by-bullocks-a-northland-family-farms-without-fossil-fuels">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
