@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 03:57:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 06:01:41 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'We go for all humanity' - emotional moment as rocket launches</title>
+      <link>https://news.bias.com/go/2026-04-02-0601</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-02-0601</guid>
+      <pubDate>Thu, 02 Apr 2026 06:01:39 GMT</pubDate>
+      <description>NASA's Artemis II mission successfully launched from Florida's Kennedy Space Center, sending four astronauts on a historic journey to circle the Moon. The Space Launch System rocket thundered skyward on pillars of flame, creating an emotional moment for spectators and staff who felt the rumble in their bodies from three miles away. After tension-filled delays to resolve launch abort system issues, launch director Charlie Blackwell-Thompson gave the go-ahead. Commander Reid Wiseman responded, "We go for all humanity," before the rocket arced over the Atlantic. The launch marks the first Moon-bound crewed mission from Kennedy since Apollo 17 in 1972, returning the center to its original purpose and evoking powerful emotions about humanity's collective potential.</description>
+      <source url="https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>In pictures: Artemis II NASA's first mission to the Moon in decades</title>
       <link>https://news.bias.com/go/2026-04-02-0357</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 28 Mar 2026 00:20:16 GMT</pubDate>
       <description>After a century in the hands of the Jeffery family, the Tharwa General Store—a weatherboard building near Canberra dating to 1922—is being sold. Three generations ran the beloved shop, which served as post office, mechanic's workshop, and community gathering place for the small rural settlement. Clarrie Jeffery purchased it in 1926, his son Val ran it for over 70 years while also serving as bushfire captain and politician, and grandson Kevin now holds the keys. The family resisted developers, prioritizing community over profit. As Kevin prepares to hand over this historic trading post, he reflects on its enduring role as a place where people connect, not just shop.</description>
       <source url="https://www.abc.net.au/news/2026-03-28/act-tharwa-general-store-look-new-owner-after-century-one-family/106504840">ABC Australia</source>
-    </item>
-    <item>
-      <title>Barnacle-covered rare turtle washed ashore makes full recovery</title>
-      <link>https://news.bias.com/go/2026-03-27-2216</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-2216</guid>
-      <pubDate>Fri, 27 Mar 2026 22:16:34 GMT</pubDate>
-      <description>A critically endangered hawksbill sea turtle named Beare was discovered stranded on a New South Wales beach, covered in barnacles and struggling to survive. The veterinarian who found him arranged transfer to a specialized wildlife refuge, where caretakers nursed Beare back to health over nearly four months with a diet of prawns and fish. Hawksbill turtles typically inhabit tropical waters but juveniles sometimes drift south during their early "lost years." Once hunted for their shells, these turtles now face critical endangerment. After passing final health checks, Beare was driven 280 kilometers north and released near Port Stephens, giving him a chance to rejoin his species and potentially live for decades—hawksbills can reach 80 years of age.</description>
-      <source url="https://www.abc.net.au/news/2026-03-28/hawksbill-turtle-rescue-beares-beach-nsw-south-coast/106497594">ABC Australia</source>
     </item>
   </channel>
 </rss>
