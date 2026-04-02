@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 23:47:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 01:52:37 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>This Artemis moon mission is a truly unifying international project, one of the few we have left | Christopher Riley</title>
+      <link>https://news.bias.com/go/2026-04-02-0152</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-02-0152</guid>
+      <pubDate>Thu, 02 Apr 2026 01:52:35 GMT</pubDate>
+      <description>More than fifty years after Apollo astronauts' photographs of Earth sparked environmental awareness and a sense of shared humanity, four astronauts are returning to lunar distance with Artemis II. The original images revealed our planet as a finite, fragile home and briefly united people across borders. Since then, humans have only orbited much closer to Earth, unable to regain that humbling perspective. Now, an international crew representing eleven nations is venturing back, symbolizing collaboration rather than competition. With sixty-one countries signed onto the Artemis accords, the mission reflects a commitment to peaceful cooperation in space—a rare unifying project in an increasingly divided world.</description>
+      <source url="https://www.theguardian.com/commentisfree/2026/apr/01/artemis-moon-mission-international-astronauts-earth-space">The Guardian</source>
+    </item>
     <item>
       <title>Nasa’s Artemis II rocket lifts off for historic moon mission</title>
       <link>https://news.bias.com/go/2026-04-01-2347</link>
@@ -398,14 +406,6 @@
       <pubDate>Fri, 27 Mar 2026 20:13:03 GMT</pubDate>
       <description>In a remote corner of New Zealand's Hokianga region, the Land family has created an extraordinary way of life spanning three generations and 25 people. They farm six hectares without tractors or fossil fuels, relying instead on bullock teams and Clydesdale horses for heavy work. Inspired by Catholic Worker Movement principles and Māori values, they grow maize, vegetables, and fruit, make their own butter, and homeschool their children. The family earns modest income through part-time work—one member notes two nursing shifts per week provides more than enough money. Founded in the 1970s by former teachers who lived in Fiji, the community uses solar power, biogas, and hand-powered mills, demonstrating how many people a small piece of land can sustain through communal, low-impact living.</description>
       <source url="https://www.rnz.co.nz/news/country/590858/country-life-powered-by-bullocks-a-northland-family-farms-without-fossil-fuels">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Scientists film whale giving birth while other whales work together to help her</title>
-      <link>https://news.bias.com/go/2026-03-27-1809</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-27-1809</guid>
-      <pubDate>Fri, 27 Mar 2026 18:09:10 GMT</pubDate>
-      <description>Scientists from Project Ceti have captured the rare footage of a 19-year-old sperm whale giving birth off the coast of Dominica, with unrelated female whales actively assisting. Over nearly five and a half hours, researchers documented how the pod worked together during the 34-minute labor, with adults diving beneath the mother and immediately lifting the newborn to the surface for its first breath. This marks the first evidence of birth assistance in non-primates. The behavior likely evolved because whale calves, born tail-first, initially sink and need help reaching air. The calf was later spotted thriving over a year later, a promising sign for its survival to adulthood.</description>
-      <source url="https://www.theguardian.com/environment/2026/mar/27/scientists-film-whale-giving-birth-other-whales-help-her">The Guardian</source>
     </item>
   </channel>
 </rss>
