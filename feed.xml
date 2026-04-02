@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 16:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 18:29:39 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sex at arm’s length? Male octopuses use specialised arm to mate, scientists find</title>
+      <link>https://news.bias.com/go/2026-04-02-1829</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-02-1829</guid>
+      <pubDate>Thu, 02 Apr 2026 18:29:37 GMT</pubDate>
+      <description>Scientists have discovered that male octopuses use a specialised arm, called the hectocotylus, as both a sensory organ and mating tool. Harvard researchers found this arm can detect the female hormone progesterone, allowing males to locate and mate with females even in complete darkness or when separated by barriers. In experiments with California two-spot octopuses, males successfully mated through holes in dividers without seeing their partners, and even attempted to mate with tubes containing progesterone alone. The findings reveal how these solitary creatures have evolved sophisticated chemical sensing to navigate rare mating encounters, with different species showing varying sensitivities to hormones—suggesting these signals may help maintain or blur reproductive boundaries between species.</description>
+      <source url="https://www.theguardian.com/environment/2026/apr/02/sex-octopus-specialist-arm-mating-science">The Guardian</source>
+    </item>
     <item>
       <title>Sambhar Lake in Sambhar, India</title>
       <link>https://news.bias.com/go/2026-04-02-1624</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 28 Mar 2026 12:42:35 GMT</pubDate>
       <description>The ancient Sumerians of Mesopotamia developed a base-60 numerical system around 3300 BCE, which eventually shaped how we divide time into 60-minute hours and 60-second minutes. This sexagesimal system, used for record-keeping in their growing agricultural cities, proved remarkably enduring. In 1793, French revolutionaries attempted to rationalize timekeeping by creating decimal time—10-hour days with 100-minute hours—as part of broader calendar reforms. The experiment failed spectacularly after just over a year, plagued by complicated clock conversions, international isolation, and rural resistance to a 10-day work week. The Sumerian approach, born from clay tablets smaller than smartphones, outlasted the civilizations that created it and continues structuring our days.</description>
       <source url="https://www.bbc.com/mundo/articles/c78r51lxmp8o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>Hetohokã: discover how the passage to adult life is made in Karajá culture</title>
-      <link>https://news.bias.com/go/2026-03-28-1038</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-28-1038</guid>
-      <pubDate>Sat, 28 Mar 2026 10:38:49 GMT</pubDate>
-      <description>The Karajá people of Brazil's Bananal Island practice Hetohokã, a traditional coming-of-age ceremony that marks the transition from childhood to adulthood. Adolescents beginning at age twelve undergo intensive preparation, learning essential skills like fishing and hunting while receiving guidance from elders. A key phase involves isolation in the "Casa Grande," where young people spend days in disciplined silence and reflection. The ritual features aruanãs—masked figures representing nature spirits—who convey teachings about respect and belonging. Through body painting, song, and dance, participants emerge as recognized adults with new responsibilities. Community members view maintaining this tradition as an act of cultural continuity and resistance, strengthening identity across generations.</description>
-      <source url="https://g1.globo.com/to/tocantins/noticia/2026/03/28/hetohoky-conheca-como-e-feita-a-passagem-para-a-vida-adulta-na-cultura-do-povo-karaja.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
