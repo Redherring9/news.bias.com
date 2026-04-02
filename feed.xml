@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 08:06:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 10:10:46 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Moon Mission Artemis 2 Successfully Launched</title>
+      <link>https://news.bias.com/go/2026-04-02-1010</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-02-1010</guid>
+      <pubDate>Thu, 02 Apr 2026 10:10:44 GMT</pubDate>
+      <description>Four astronauts have launched toward the Moon aboard NASA's Artemis 2 mission, marking humanity's first lunar journey in over fifty years. The crew—including the first woman, first Black person, and first Canadian on a Moon mission—lifted off from Cape Canaveral and will spend about nine days traveling roughly 2.3 million kilometers, looping around the Moon. A brief communication hiccup after launch was quickly resolved. The mission builds on the uncrewed Artemis 1 flight from 2022, with the crew testing both automated and manual flight systems. European partners contributed a service module built in Germany, reflecting broad international collaboration in this historic return to lunar exploration.</description>
+      <source url="https://www.dw.com/de/mondmission-artemis-2-erfolgreich-gestartet/a-76637969?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
+    </item>
     <item>
       <title>500-million-year-old fossil shows for the first time what the claws of spider and scorpion ancestors looked like</title>
       <link>https://news.bias.com/go/2026-04-02-0806</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 28 Mar 2026 04:27:21 GMT</pubDate>
       <description>For 80 years, BBC Russian has navigated Soviet and Russian restrictions to deliver independent news. Beginning in 1946, broadcasts faced near-constant jamming, forcing listeners to extraordinary measures—some even took radios on cross-country ski trips to evade urban jammers. Determined audiences pressed their heads against receivers, straining through static to hear banned literature, Western music, and uncensored news. The service occasionally outmaneuvered censors, notably breaking the news of Brezhnev's death in 1982 before domestic media. Jamming ended in 1987 under Gorbachev's reforms, but today BBC Russian faces renewed digital restrictions, including website blocking and mobile internet outages, as the Kremlin tightens online controls.</description>
       <source url="https://www.bbc.com/news/articles/c05dlnd3635o?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
-    </item>
-    <item>
-      <title>Remote WA area connected to outside world with first at-home internet service</title>
-      <link>https://news.bias.com/go/2026-03-28-0223</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-28-0223</guid>
-      <pubDate>Sat, 28 Mar 2026 02:23:47 GMT</pubDate>
-      <description>Ngalingkadji, an Indigenous community 2,300 kilometers north of Perth in Western Australia's Kimberley region, now has home internet access for the first time. The Concordia Initiative, a not-for-profit, installed solar-powered Starlink satellite connections that function even during power outages—crucial during the area's frequent flooding. Resident Gavin Smith describes the service as "life-changing," enabling communication with emergency services and outside organizations. The system also provides access to telehealth, online banking, and vital flood information. Concordia aims to connect 100 remote communities by 2030, addressing a significant gap: First Nations Australians are twice as likely to face digital exclusion. Local advisors emphasize that sustainable, long-term solutions are essential for future generations.</description>
-      <source url="https://www.abc.net.au/news/2026-03-28/non-profit-digital-divide-wires-remote-indigenous-community/106457040">ABC Australia</source>
     </item>
   </channel>
 </rss>
