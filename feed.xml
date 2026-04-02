@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 20:34:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 22:39:12 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Green and gray: Mangroves and dikes show potential in protecting shorelines together</title>
+      <link>https://news.bias.com/go/2026-04-02-2239</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-02-2239</guid>
+      <pubDate>Thu, 02 Apr 2026 22:39:10 GMT</pubDate>
+      <description>Researchers have modeled a promising approach to coastal protection that pairs mangrove restoration with existing dikes and levees. The study found that this hybrid system could currently prevent $800 million in annual storm and flood damage while protecting 140,000 people each year. As climate change intensifies, these benefits multiply dramatically—potentially reaching $65 billion in prevented damage under worst-case warming scenarios. The greatest potential lies in South Asia, Southeast Asia, and West Africa, where such projects would be cost-effective and disproportionately benefit lower-income communities already vulnerable to coastal flooding. The research highlights how combining natural ecosystems with built infrastructure creates synergy: mangroves reduce wave power while dikes prevent water from flowing inland.</description>
+      <source url="https://news.mongabay.com/2026/04/green-and-gray-mangroves-and-dikes-show-potential-in-protecting-shorelines-together/">Mongabay</source>
+    </item>
     <item>
       <title>Baby from Ceará who received heart from girl from Piauí is discharged from hospital and goes home</title>
       <link>https://news.bias.com/go/2026-04-02-2034</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 28 Mar 2026 16:50:32 GMT</pubDate>
       <description>Researchers have reconstructed 3.5 billion years of Earth's atmospheric oxygen history using machine learning and chemical analysis of ancient pyrite minerals preserved in sedimentary rocks. The study reveals that oxygen levels rose gradually over geological time, driven primarily by the expansion of photosynthetic life forms like cyanobacteria. However, this long-term increase wasn't steady—it was punctuated by shorter fluctuations linked to tectonic plate movements and the periodic assembly and breakup of supercontinents. These geological processes altered ocean chemistry and nutrient cycles, influencing oxygen production. The research offers unprecedented temporal precision in understanding how life and Earth's dynamic geology together shaped the atmosphere we breathe today.</description>
       <source url="https://www.aljazeera.net/science/2026/3/28/%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%86%d9%8a%d9%86-%d8%aa%d9%83%d8%b4%d9%81-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%88%d8%a7%d9%84%d8%b5%d9%81%d8%a7%d8%a6%d8%ad?traffic_source=rss">Al Jazeera Arabic</source>
-    </item>
-    <item>
-      <title>Artist draws world map with 1,642 animals and is surprised by Brazil</title>
-      <link>https://news.bias.com/go/2026-03-28-1446</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-28-1446</guid>
-      <pubDate>Sat, 28 Mar 2026 14:46:34 GMT</pubDate>
-      <description>Cartographer and illustrator Anton Thomas has created "Wild World," a hand-drawn map featuring 1,642 animals that reimagines Earth through the lens of biodiversity rather than political borders. Each creature is carefully researched and positioned according to its native habitat, representing wild species that aren't extinct. While working on the project, Thomas found himself especially captivated by Brazil's extraordinary wildlife. Though the Amazon was expected to impress, it was the Atlantic Forest that truly surprised him—despite losing over 85% of its original coverage, it remains home to remarkable endemic species like golden lion tamarins and vinaceous-breasted parrots. The artist champions hand-drawing in our digital age, believing human touch perfectly captures our organic, physical world.</description>
-      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/03/28/artista-desenha-a-mao-mapa-do-mundo-com-1642-animais-e-se-surpreende-com-o-brasil.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
