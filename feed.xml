@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 18:29:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 20:34:30 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Baby from Ceará who received heart from girl from Piauí is discharged from hospital and goes home</title>
+      <link>https://news.bias.com/go/2026-04-02-2034</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-02-2034</guid>
+      <pubDate>Thu, 02 Apr 2026 20:34:28 GMT</pubDate>
+      <description>One-year-old Sophia Vitória returned home this week after receiving a life-saving heart transplant. Diagnosed with dilated cardiomyopathy at five months old—a condition where the heart muscle weakens and struggles to pump blood—she urgently needed a new heart. That gift came from seven-year-old Marina, who passed away following a quad bike accident. Marina's parents chose to donate her organs so that, in their words, their daughter's life could bless other children and families. Hospital staff celebrated Sophia's discharge by dressing her in a superhero costume, marking a moment of profound loss transformed into hope.</description>
+      <source url="https://g1.globo.com/pi/piaui/noticia/2026/04/02/bebe-coracao-alta.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Sex at arm’s length? Male octopuses use specialised arm to mate, scientists find</title>
       <link>https://news.bias.com/go/2026-04-02-1829</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 28 Mar 2026 14:46:34 GMT</pubDate>
       <description>Cartographer and illustrator Anton Thomas has created "Wild World," a hand-drawn map featuring 1,642 animals that reimagines Earth through the lens of biodiversity rather than political borders. Each creature is carefully researched and positioned according to its native habitat, representing wild species that aren't extinct. While working on the project, Thomas found himself especially captivated by Brazil's extraordinary wildlife. Though the Amazon was expected to impress, it was the Atlantic Forest that truly surprised him—despite losing over 85% of its original coverage, it remains home to remarkable endemic species like golden lion tamarins and vinaceous-breasted parrots. The artist champions hand-drawing in our digital age, believing human touch perfectly captures our organic, physical world.</description>
       <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/03/28/artista-desenha-a-mao-mapa-do-mundo-com-1642-animais-e-se-surpreende-com-o-brasil.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>The reason an hour has 60 minutes (and the failed attempt to make it 100)</title>
-      <link>https://news.bias.com/go/2026-03-28-1242</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-28-1242</guid>
-      <pubDate>Sat, 28 Mar 2026 12:42:35 GMT</pubDate>
-      <description>The ancient Sumerians of Mesopotamia developed a base-60 numerical system around 3300 BCE, which eventually shaped how we divide time into 60-minute hours and 60-second minutes. This sexagesimal system, used for record-keeping in their growing agricultural cities, proved remarkably enduring. In 1793, French revolutionaries attempted to rationalize timekeeping by creating decimal time—10-hour days with 100-minute hours—as part of broader calendar reforms. The experiment failed spectacularly after just over a year, plagued by complicated clock conversions, international isolation, and rural resistance to a 10-day work week. The Sumerian approach, born from clay tablets smaller than smartphones, outlasted the civilizations that created it and continues structuring our days.</description>
-      <source url="https://www.bbc.com/mundo/articles/c78r51lxmp8o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
