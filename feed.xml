@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 06:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 08:06:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>500-million-year-old fossil shows for the first time what the claws of spider and scorpion ancestors looked like</title>
+      <link>https://news.bias.com/go/2026-04-02-0806</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-02-0806</guid>
+      <pubDate>Thu, 02 Apr 2026 08:06:16 GMT</pubDate>
+      <description>Researchers at Harvard University have discovered a 500-million-year-old fossil that reveals, for the first time with clarity, the claws of the ancestors of spiders, scorpions, and other chelicerates. The newly identified species, Megachelicerax cousteaui, possesses exceptionally large chelicerae—the distinctive frontal claws that define this group. For decades, proposed Cambrian-period chelicerates lacked preserved claws, leaving paleontologists uncertain about when these structures emerged. This specimen's three-segmented claws, positioned at the front of the head, confirm the group existed half a billion years ago and suggest a more direct evolutionary path than previously thought. The discovery fills a crucial gap in understanding early chelicerate evolution.</description>
+      <source url="https://g1.globo.com/ciencia/noticia/2026/04/02/fossil-de-500-milhoes-de-anos-mostra-pela-1a-vez-como-eram-as-garras-dos-ancestrais-de-aranhas-e-escorpioes.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>'We go for all humanity' - emotional moment as rocket launches</title>
       <link>https://news.bias.com/go/2026-04-02-0601</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 28 Mar 2026 02:23:47 GMT</pubDate>
       <description>Ngalingkadji, an Indigenous community 2,300 kilometers north of Perth in Western Australia's Kimberley region, now has home internet access for the first time. The Concordia Initiative, a not-for-profit, installed solar-powered Starlink satellite connections that function even during power outages—crucial during the area's frequent flooding. Resident Gavin Smith describes the service as "life-changing," enabling communication with emergency services and outside organizations. The system also provides access to telehealth, online banking, and vital flood information. Concordia aims to connect 100 remote communities by 2030, addressing a significant gap: First Nations Australians are twice as likely to face digital exclusion. Local advisors emphasize that sustainable, long-term solutions are essential for future generations.</description>
       <source url="https://www.abc.net.au/news/2026-03-28/non-profit-digital-divide-wires-remote-indigenous-community/106457040">ABC Australia</source>
-    </item>
-    <item>
-      <title>End of an era for general store owned by family for 100 years</title>
-      <link>https://news.bias.com/go/2026-03-28-0020</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-28-0020</guid>
-      <pubDate>Sat, 28 Mar 2026 00:20:16 GMT</pubDate>
-      <description>After a century in the hands of the Jeffery family, the Tharwa General Store—a weatherboard building near Canberra dating to 1922—is being sold. Three generations ran the beloved shop, which served as post office, mechanic's workshop, and community gathering place for the small rural settlement. Clarrie Jeffery purchased it in 1926, his son Val ran it for over 70 years while also serving as bushfire captain and politician, and grandson Kevin now holds the keys. The family resisted developers, prioritizing community over profit. As Kevin prepares to hand over this historic trading post, he reflects on its enduring role as a place where people connect, not just shop.</description>
-      <source url="https://www.abc.net.au/news/2026-03-28/act-tharwa-general-store-look-new-owner-after-century-one-family/106504840">ABC Australia</source>
     </item>
   </channel>
 </rss>
