@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Apr 2026 11:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 13:13:55 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘Amazing’: how to grow a meadow in the sea</title>
+      <link>https://news.bias.com/go/2026-04-03-1313</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-03-1313</guid>
+      <pubDate>Fri, 03 Apr 2026 13:13:53 GMT</pubDate>
+      <description>On a Welsh beach, volunteers are working to restore seagrass meadows that have largely disappeared from UK waters. Using caulking guns filled with hand-collected seeds, participants including schoolchildren painstakingly plant hundreds of seeds per square meter in the sand. The effort aims to revive ecosystems that once served as vital nurseries for fish and provided crucial benefits like water filtration and carbon storage. Up to 92% of UK seagrass has been lost to development, pollution, and disease. While winter storms and hungry geese pose setbacks, some restoration sites are already thriving with fish and birds, offering hope that these underwater gardens can return.</description>
+      <source url="https://www.theguardian.com/environment/2026/apr/03/hard-work-how-to-grow-a-meadow-in-the-sea">The Guardian</source>
+    </item>
     <item>
       <title>Near Philadelphia’s New Green Spaces, a Dramatic Reduction in Crime</title>
       <link>https://news.bias.com/go/2026-04-03-1109</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 29 Mar 2026 07:18:17 GMT</pubDate>
       <description>A wildlife enthusiast makes the case for moth-watching as a rewarding alternative to birding. With over 2,500 British moth species compared to 636 bird species, identifying moths demands careful attention to subtle details like wing curves and antenna shapes. Through a citizen science project, the author traps and catalogues garden moths, discovering their underappreciated beauty and ecological importance. Yet data reveals half of garden moth species are declining, signaling environmental trouble. Beyond their role as pollinators and food sources, moths offer endless fascination—from species that mimic bird droppings to hawkmoths that raid beehives disguised as bees.</description>
       <source url="https://www.theguardian.com/commentisfree/2026/mar/29/birdwatching-mothwatching-uk-nature-cognitive-decline">The Guardian</source>
-    </item>
-    <item>
-      <title>What the 'first war in history' was like in the region where Iran is today</title>
-      <link>https://news.bias.com/go/2026-03-29-0514</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-29-0514</guid>
-      <pubDate>Sun, 29 Mar 2026 05:14:23 GMT</pubDate>
-      <description>Archaeologists and historians point to ancient Mesopotamia as the birthplace of organized warfare, emerging alongside the first civilizations around 3300 BCE. The conflict between the Sumerian city-states of Lagash and Umma, which lasted roughly 250 years (2600–2350 BCE), is considered the first documented war in human history. Eighteen clay tablet inscriptions from Lagash record this systematic struggle over Guedena, a fertile border region that controlled vital water supplies. While violent disagreements existed before civilization, experts note that organized military structures—with disciplined soldiers, tactical planning, and coordinated efforts—arose with centralized governments and sedentary agricultural societies in the Fertile Crescent. These early conflicts were driven by competition for resources, land, and water access in humanity's first urban centers.</description>
-      <source url="https://www.bbc.com/mundo/articles/cr71ev7xe0do?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
