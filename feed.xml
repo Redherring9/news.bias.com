@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 22:39:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 00:43:46 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Today is Jane Goodall Day. Her movement continues.</title>
+      <link>https://news.bias.com/go/2026-04-03-0043</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-03-0043</guid>
+      <pubDate>Fri, 03 Apr 2026 00:43:45 GMT</pubDate>
+      <description>April 3 has been designated Jane Goodall Day—not as a celebration, but as a day of action reflecting her belief that meaningful change starts small and local. The initiative invites people to take one concrete step benefiting people, animals, and the environment, mirroring her Roots &amp; Shoots program that empowers individuals to act in their own communities. Goodall's legacy continues through models like Tacare, developed with Emmanuel Mtiti, which centers conservation around listening to local communities and addressing their needs alongside ecological goals. Colleagues describe her consistent approach: stay attentive, start where you are, and trust that small actions accumulate into lasting change. The day embodies her conviction that progress depends less on grand scale than on individuals choosing to act with what they have.</description>
+      <source url="https://news.mongabay.com/2026/04/today-is-jane-goodall-day-her-movement-continues/">Mongabay</source>
+    </item>
     <item>
       <title>Green and gray: Mangroves and dikes show potential in protecting shorelines together</title>
       <link>https://news.bias.com/go/2026-04-02-2239</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 28 Mar 2026 18:54:22 GMT</pubDate>
       <description>A groundbreaking exhibition traces the evolution of the sari from a garment some diaspora members associated only with grandmothers to a canvas for innovation and activism. Curated by Priya Khanchandani and now showing in Melbourne, the display features 54 saris by renowned and contemporary Indian designers, including pieces made from recycled bottles, hospital X-ray film, and stainless steel. Beyond fashion, the exhibition highlights how rural women use embroidered saris to protect endangered birds, and how India's Gulabi Gang wears bright pink saris while fighting corruption and domestic abuse. The collection challenges assumptions about tradition and discomfort, celebrating the 5,000-year-old garment's ability to absorb cultural change while becoming a medium for environmental and social commentary.</description>
       <source url="https://www.abc.net.au/news/2026-03-29/the-offbeat-sari-exhibition-priya-khanchandani-indian-fashion/106489672">ABC Australia</source>
-    </item>
-    <item>
-      <title>Billions of Years Reveal: Life and Tectonic Plates Shaped the Air We Breathe</title>
-      <link>https://news.bias.com/go/2026-03-28-1650</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-28-1650</guid>
-      <pubDate>Sat, 28 Mar 2026 16:50:32 GMT</pubDate>
-      <description>Researchers have reconstructed 3.5 billion years of Earth's atmospheric oxygen history using machine learning and chemical analysis of ancient pyrite minerals preserved in sedimentary rocks. The study reveals that oxygen levels rose gradually over geological time, driven primarily by the expansion of photosynthetic life forms like cyanobacteria. However, this long-term increase wasn't steady—it was punctuated by shorter fluctuations linked to tectonic plate movements and the periodic assembly and breakup of supercontinents. These geological processes altered ocean chemistry and nutrient cycles, influencing oxygen production. The research offers unprecedented temporal precision in understanding how life and Earth's dynamic geology together shaped the atmosphere we breathe today.</description>
-      <source url="https://www.aljazeera.net/science/2026/3/28/%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b3%d9%86%d9%8a%d9%86-%d8%aa%d9%83%d8%b4%d9%81-%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%a9-%d9%88%d8%a7%d9%84%d8%b5%d9%81%d8%a7%d8%a6%d8%ad?traffic_source=rss">Al Jazeera Arabic</source>
     </item>
   </channel>
 </rss>
