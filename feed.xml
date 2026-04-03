@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Apr 2026 17:23:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 19:28:52 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>David Chivers obituary</title>
+      <link>https://news.bias.com/go/2026-04-03-1928</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-03-1928</guid>
+      <pubDate>Fri, 03 Apr 2026 19:28:50 GMT</pubDate>
+      <description>David Chivers, who dedicated over 40 years to studying gibbons and teaching primatology at Cambridge University, has died at 81. His fieldwork spanned the forests of Southeast Asia, where he investigated everything from howler monkey calls in Panama to the morning songs of siamang gibbons in Malaysia. Chivers supervised 50 PhD students, many from primate-habitat countries, who went on to establish conservation projects and wildlife reserves protecting entire ecosystems. Beyond academia, he held leadership positions with international primate and conservation organizations. His 80th birthday celebration brought together most of his former students, who co-authored a summary of decades of primate protection knowledge—a testament to his lasting influence and the global community he nurtured.</description>
+      <source url="https://www.theguardian.com/science/2026/apr/03/david-chivers-obituary">The Guardian</source>
+    </item>
     <item>
       <title>Marion Nixon obituary</title>
       <link>https://news.bias.com/go/2026-04-03-1723</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 29 Mar 2026 13:30:14 GMT</pubDate>
       <description>The Hubble and James Webb space telescopes have captured stunning new images of Saturn, revealing the planet's atmospheric secrets in unprecedented detail. Hubble's visible light observations show subtle color variations in Saturn's cloud bands, while Webb's infrared vision penetrates multiple atmospheric layers, exposing storms, atmospheric waves, and remnants of past tempests. The images reveal Saturn's iconic hexagonal polar pattern, glowing rings with intricate internal structures, and unusual gray-green poles possibly indicating auroral activity. This collaboration between NASA, ESA, and CSA provides scientists with a unique three-dimensional view of Saturn as an interconnected system, offering insights into atmospheric dynamics under extreme conditions.</description>
       <source url="https://www.aljazeera.net/science/2026/3/29/%d9%87%d8%a7%d8%a8%d9%84-%d9%88%d8%ac%d9%8a%d9%85%d8%b3-%d9%88%d9%8a%d8%a8-%d9%8a%d9%83%d8%b4%d9%81%d8%a7%d9%86-%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d9%83%d9%88%d9%83%d8%a8-%d8%b2%d8%ad%d9%84?traffic_source=rss">Al Jazeera Arabic</source>
-    </item>
-    <item>
-      <title>City in Rio Grande do Sul promotes 'Caramel Dog Parade' with 56 dogs to encourage adoption; VIDEO</title>
-      <link>https://news.bias.com/go/2026-03-29-1126</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-29-1126</guid>
-      <pubDate>Sun, 29 Mar 2026 11:26:22 GMT</pubDate>
-      <description>A Brazilian city in Rio Grande do Sul hosted a heartwarming "Caramelo Parade" featuring 56 dogs, mostly from the municipal shelter. The Saturday event celebrated mixed-breed dogs—affectionately called "caramelo" (caramel-colored) in Brazil—to promote responsible adoption. Dogs competed in three creative categories, including "50 Shades of Caramel" and "Most Fashionable Caramel," with prizes recognizing not just appearance but the bond between animals and their guardians. Organized by the city's environmental department, the parade combined animal welfare advocacy with community celebration, featuring musical performances and educational programming to raise awareness about responsible pet guardianship.</description>
-      <source url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/29/cidade-do-rs-promove-desfile-de-caramelo-com-56-caes-para-incentivar-adocao-video.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
