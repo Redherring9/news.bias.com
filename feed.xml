@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Apr 2026 13:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 15:18:34 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How an engineer brought degraded wetlands back to life in drought-hit Bangladesh</title>
+      <link>https://news.bias.com/go/2026-04-03-1518</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-03-1518</guid>
+      <pubDate>Fri, 03 Apr 2026 15:18:32 GMT</pubDate>
+      <description>In Bangladesh's drought-prone northern region, government engineer A.K.M. Fazlul Haque has successfully restored two nearly vanished wetlands that had been illegally converted to farmland over fifty years. Despite facing physical attacks and equipment damage from illegal occupants, Fazlul led excavation efforts in 2021 and 2023 to reclaim Bharardaho Beel and Patuakamri Beel. The restored wetlands now support hundreds of water birds and other wildlife year-round. His work is especially significant given that the region lost over 57% of its wetlands between 1989 and 2020. Experts emphasize such conservation is vital for both local ecosystems and food security in these water-scarce areas.</description>
+      <source url="https://news.mongabay.com/2026/04/how-an-engineer-brought-degraded-wetlands-back-to-life-in-drought-hit-bangladesh/">Mongabay</source>
+    </item>
     <item>
       <title>‘Amazing’: how to grow a meadow in the sea</title>
       <link>https://news.bias.com/go/2026-04-03-1313</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 29 Mar 2026 09:22:20 GMT</pubDate>
       <description>A farmer in Minas Gerais, Brazil, found a heartfelt way to thank the hospital that treated him years ago. Júlio Roberval de Souza raffled off a calf from his small farm, raising 5,000 reais to donate to Hospital das Clínicas Samuel Libânio. He's been giving back since 2015, when staff cared for him after a shoulder injury. His gesture reflects a wider culture of gratitude: the hospital, which performs over 115,000 procedures monthly and relies partly on donations to supplement public health funding, regularly receives gifts from former patients—from money to household items. University students even collected 14,000 liters of milk and oil this year in a solidarity drive.</description>
       <source url="https://g1.globo.com/mg/sul-de-minas/noticia/2026/03/29/sitiante-rifa-bezerro-e-doa-valor-como-agradecimento-para-hospital-que-o-tratou-em-mg.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Forget birdwatching, I’m into moth-watching: they’re fascinating and misunderstood insects | Helen Pilcher</title>
-      <link>https://news.bias.com/go/2026-03-29-0718</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-29-0718</guid>
-      <pubDate>Sun, 29 Mar 2026 07:18:17 GMT</pubDate>
-      <description>A wildlife enthusiast makes the case for moth-watching as a rewarding alternative to birding. With over 2,500 British moth species compared to 636 bird species, identifying moths demands careful attention to subtle details like wing curves and antenna shapes. Through a citizen science project, the author traps and catalogues garden moths, discovering their underappreciated beauty and ecological importance. Yet data reveals half of garden moth species are declining, signaling environmental trouble. Beyond their role as pollinators and food sources, moths offer endless fascination—from species that mimic bird droppings to hawkmoths that raid beehives disguised as bees.</description>
-      <source url="https://www.theguardian.com/commentisfree/2026/mar/29/birdwatching-mothwatching-uk-nature-cognitive-decline">The Guardian</source>
     </item>
   </channel>
 </rss>
