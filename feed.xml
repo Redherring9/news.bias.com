@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Apr 2026 15:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 17:23:34 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marion Nixon obituary</title>
+      <link>https://news.bias.com/go/2026-04-03-1723</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-03-1723</guid>
+      <pubDate>Fri, 03 Apr 2026 17:23:32 GMT</pubDate>
+      <description>Marion Nixon, who died at 95, spent decades illuminating the mysteries of octopus biology. Her PhD research debunked long-held myths about how octopuses feed, revealing they break food into pieces rather than dissolving it externally. She also pioneered the use of video cameras in scientific research during the 1960s. Beyond her own prolific publications, Marion served as an indispensable research assistant to anatomist John Z Young for 30 years, handling the detailed editorial work that enabled his substantial academic output. Colleagues remember her as soft-spoken yet opinionated, modest yet accomplished—a scientist whose diligence and curiosity advanced our understanding of cephalopods while supporting groundbreaking work in marine biology.</description>
+      <source url="https://www.theguardian.com/environment/2026/apr/03/marion-nixon-obituary">The Guardian</source>
+    </item>
     <item>
       <title>How an engineer brought degraded wetlands back to life in drought-hit Bangladesh</title>
       <link>https://news.bias.com/go/2026-04-03-1518</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 29 Mar 2026 11:26:22 GMT</pubDate>
       <description>A Brazilian city in Rio Grande do Sul hosted a heartwarming "Caramelo Parade" featuring 56 dogs, mostly from the municipal shelter. The Saturday event celebrated mixed-breed dogs—affectionately called "caramelo" (caramel-colored) in Brazil—to promote responsible adoption. Dogs competed in three creative categories, including "50 Shades of Caramel" and "Most Fashionable Caramel," with prizes recognizing not just appearance but the bond between animals and their guardians. Organized by the city's environmental department, the parade combined animal welfare advocacy with community celebration, featuring musical performances and educational programming to raise awareness about responsible pet guardianship.</description>
       <source url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/03/29/cidade-do-rs-promove-desfile-de-caramelo-com-56-caes-para-incentivar-adocao-video.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Farmer raffles calf and donates proceeds as thanks to hospital that treated him in MG</title>
-      <link>https://news.bias.com/go/2026-03-29-0922</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-29-0922</guid>
-      <pubDate>Sun, 29 Mar 2026 09:22:20 GMT</pubDate>
-      <description>A farmer in Minas Gerais, Brazil, found a heartfelt way to thank the hospital that treated him years ago. Júlio Roberval de Souza raffled off a calf from his small farm, raising 5,000 reais to donate to Hospital das Clínicas Samuel Libânio. He's been giving back since 2015, when staff cared for him after a shoulder injury. His gesture reflects a wider culture of gratitude: the hospital, which performs over 115,000 procedures monthly and relies partly on donations to supplement public health funding, regularly receives gifts from former patients—from money to household items. University students even collected 14,000 liters of milk and oil this year in a solidarity drive.</description>
-      <source url="https://g1.globo.com/mg/sul-de-minas/noticia/2026/03/29/sitiante-rifa-bezerro-e-doa-valor-como-agradecimento-para-hospital-que-o-tratou-em-mg.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
