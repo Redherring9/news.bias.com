@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Apr 2026 12:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 14:14:31 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Seeing the hidden face of the Moon and going where humanity has never been before: the records that NASA's Artemis missions seek to break</title>
+      <link>https://news.bias.com/go/2026-04-04-1414</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-04-1414</guid>
+      <pubDate>Sat, 04 Apr 2026 14:14:30 GMT</pubDate>
+      <description>NASA's Artemis II mission marks humanity's return to lunar exploration after more than 50 years. Four astronauts—Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen—embarked on a 10-day journey around the Moon's far side, traveling farther from Earth than any humans before them. The mission seeks to surpass Apollo-era achievements: Koch will become the first woman to orbit the Moon, while Glover will be the first Black person to make this journey. The crew will venture 406,840 kilometers from Earth, breaking Apollo 13's distance record. Named after Apollo's twin sister, the Greek moon goddess, Artemis aims to eventually land the first woman and first person of color on the lunar surface by 2028.</description>
+      <source url="https://www.bbc.com/mundo/articles/c9qdxrd2d8eo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Love of shade and 'fear' of water: meet Jack, the jaguar who underwent Brazil's first blood transfusion</title>
       <link>https://news.bias.com/go/2026-04-04-1209</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 30 Mar 2026 08:06:36 GMT</pubDate>
       <description>In rural northeastern Brazil, a doctor discovered many patients couldn't follow medical treatments because they couldn't read prescriptions. Dr. Lucas Cardim began drawing symbols on prescriptions—a coffee cup for morning doses, a moon for bedtime—to help his patients understand their medications. With help from a software engineer friend, he created a free digital platform called "Cuidado para Todos" that generates icon-based prescriptions. The system has already helped patients like Maria das Dores, a diabetic woman who now successfully manages her condition. The platform is now used in over ten municipalities and three indigenous districts, with hopes of permanent integration into Brazil's public health system.</description>
       <source url="https://g1.globo.com/saude/noticia/2026/03/30/medico-cria-receitas-com-desenhos-para-pacientes-que-nao-sabem-ler-e-muda-tratamento-de-doencas-no-sertao.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Traditional protection proves more successful for clams in American Samoa</title>
-      <link>https://news.bias.com/go/2026-03-30-0602</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-30-0602</guid>
-      <pubDate>Mon, 30 Mar 2026 06:02:14 GMT</pubDate>
-      <description>A new study reveals that traditional village-based protections in American Samoa are more effective at conserving giant clams than some federal no-take zones. Researchers found the highest clam densities in remote areas and sites managed through fa'asao, traditional fishery closures rooted in Samoan culture. On the most populated island, Tutuila, federally protected areas had the lowest clam densities, while community-managed sites fared better. The findings suggest that empowering Indigenous stewardship practices could offer a meaningful alternative to top-down federal restrictions, especially as new protections are being considered. Giant clams, deeply woven into fa'a Sāmoa and local food systems, face threats from overharvesting, habitat loss, and ocean warming.</description>
-      <source url="https://news.mongabay.com/2026/03/traditional-protection-proves-more-successful-for-clams-in-american-samoa/">Mongabay</source>
     </item>
   </channel>
 </rss>
