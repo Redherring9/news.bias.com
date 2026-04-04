@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Apr 2026 07:59:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 10:04:21 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meet the 'alambique' of Tiradentes' family: the oldest in operation in the country</title>
+      <link>https://news.bias.com/go/2026-04-04-1004</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-04-1004</guid>
+      <pubDate>Sat, 04 Apr 2026 10:04:20 GMT</pubDate>
+      <description>In the small town of Coronel Xavier Chaves, Brazil, the Engenho Boa Vista distillery has been producing cachaça continuously since 1755, making it the country's oldest operating distillery according to Embratur. The facility is maintained by the ninth generation of the family of Tiradentes, a Brazilian independence hero, descended through his younger sister. Their award-winning Século XVIII cachaça preserves traditional methods: hand-harvested sugarcane, natural fermentation with homemade corn starter, and manual fire control by a dedicated alambiqueiro. The 93-year-old patriarch still serves as quality control, tasting each batch. Around four thousand visitors tour the family-run distillery annually, experiencing craft techniques passed down across nearly three centuries.</description>
+      <source url="https://g1.globo.com/mg/minas-gerais/terra-de-minas/noticia/2026/04/04/conheca-o-alambique-da-familia-de-tiradentes-o-mais-antigo-em-funcionamento-do-pais.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth</title>
       <link>https://news.bias.com/go/2026-04-04-0759</link>
@@ -398,14 +406,6 @@
       <pubDate>Mon, 30 Mar 2026 03:58:15 GMT</pubDate>
       <description>Australian photographer Brad Rimmer's major retrospective at Fremantle Arts Centre chronicles two decades documenting life in Western Australia's Wheatbelt, where he grew up. The exhibition features series like "Silence," which captures the difficult choice facing rural teenagers: whether to leave for city opportunities or stay in their community. Once eager to distance himself from his country roots after moving to Perth, Rimmer eventually recognized the beauty and complexity of regional life he'd taken for granted. His work juxtaposes portraits of young people with the stark, lonely landscapes they inhabit, creating an important visual record of rural Australian communities often overlooked by documentary photographers.</description>
       <source url="https://www.abc.net.au/news/2026-03-30/brad-rimmer-loom-of-the-land-photography/106484020">ABC Australia</source>
-    </item>
-    <item>
-      <title>Brazil's first blood transfusion between jaguars performed in São Paulo to save animal with kidney disease</title>
-      <link>https://news.bias.com/go/2026-03-30-0154</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-30-0154</guid>
-      <pubDate>Mon, 30 Mar 2026 01:54:12 GMT</pubDate>
-      <description>In a groundbreaking veterinary achievement, an 18-year-old jaguar named Jack received Brazil's first recorded blood transfusion between jaguars. Severely anemic due to kidney disease, Jack was too weak for dialysis without the procedure. A young, healthy female jaguar named Ruana donated blood after compatibility tests confirmed a match. The delicate operation required careful monitoring, as anesthesia posed additional risks to the fragile animal. Jack recovered well, eating and drinking the following day. Beyond saving one life, this pioneering procedure establishes important protocols for treating endangered wildlife and may support conservation efforts by helping maintain healthy captive populations for future reintroduction to areas where jaguars have disappeared.</description>
-      <source url="https://g1.globo.com/fantastico/noticia/2026/03/29/primeira-transfusao-de-sangue-entre-oncas-pintadas-do-pais-e-feita-em-sp-para-salvar-animal-com-doenca-renal.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
