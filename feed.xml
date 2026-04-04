@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Apr 2026 03:48:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 05:53:46 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Adrenaline rush' of adaptive skateboarding redefines inclusive sport</title>
+      <link>https://news.bias.com/go/2026-04-04-0553</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-04-0553</guid>
+      <pubDate>Sat, 04 Apr 2026 05:53:45 GMT</pubDate>
+      <description>On Australia's Gold Coast, adaptive skateboarding is opening new possibilities for people with disabilities. Bobby Welch, who lives with a rare genetic condition and uses a wheelchair, now experiences the thrill of skating thanks to specially designed frames and trained volunteers. Professional skateboarder Jesse Noonan launched the program after creatively including a young wheelchair user at the skate park. Participants gain more than physical activity—they find social connection, independence, and an exhilarating sense of freedom previously out of reach. The initiative is reshaping community perceptions about what's possible, proving that inclusive sport can genuinely transform lives through joy and belonging.</description>
+      <source url="https://www.abc.net.au/news/2026-04-04/adaptive-skateboarding-opens-doors-for-people-with-disability/106515066">ABC Australia</source>
+    </item>
     <item>
       <title>First cloned pig in Brazil born healthy in USP laboratory</title>
       <link>https://news.bias.com/go/2026-04-04-0348</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 29 Mar 2026 23:50:04 GMT</pubDate>
       <description>Residents of Port Macdonnell, South Australia, have launched a festival to celebrate the seaweed of the Great Southern Reef, the world's most biodiverse region for marine algae. The event combines beach walks, research talks, and art exhibitions, organized by Holdfast Limestone Coast—a group pairing artistic appreciation with citizen science. While their coastline has escaped the toxic algal bloom devastating other parts of South Australia, researchers warn that warming oceans and marine heatwaves threaten seaweed species across the reef system. The festival aims to help people recognize both the beauty and ecological importance of these often-overlooked marine forests.</description>
       <source url="https://www.abc.net.au/news/2026-03-30/seaweed-celebrated-with-port-macdonnell-festival/106508428">ABC Australia</source>
-    </item>
-    <item>
-      <title>40,000 hand-raised baby corals bring hope of restoring Great Barrier Reef</title>
-      <link>https://news.bias.com/go/2026-03-29-2146</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-03-29-2146</guid>
-      <pubDate>Sun, 29 Mar 2026 21:46:16 GMT</pubDate>
-      <description>Scientists at the Australian Institute of Marine Science have partnered with tourism operators, traditional owners, and coral growers to transplant 40,000 hand-raised baby corals onto the Great Barrier Reef. The corals were either cultivated in land-based facilities or collected from natural spawn slicks and settled onto ceramic devices before being placed on the reef. This three-year pilot program aims to test large-scale restoration methods, including growing corals with better climate tolerance. The initiative combines modern science with traditional Indigenous knowledge, training diverse groups in restoration techniques that could eventually be scaled up to make a meaningful difference for the reef's future.</description>
-      <source url="https://www.abc.net.au/news/2026-03-30/thousands-of-baby-corals-transplanted-onto-great-barrier-reef/106502008">ABC Australia</source>
     </item>
   </channel>
 </rss>
