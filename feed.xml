@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Apr 2026 16:00:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:53:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ephemeral nature of fungi has this photographer hooked on forest life</title>
+      <link>https://news.bias.com/go/2026-04-16-1853</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-16-1853</guid>
+      <pubDate>Thu, 16 Apr 2026 18:53:00 GMT</pubDate>
+      <description>A surge of public interest in fungi has inspired a multisensory exhibition at Victoria's WAMA gallery, exploring themes of life, death, and renewal in the fungal kingdom. Environmental photographer Alison Pouliot, whose striking images span entire walls, attributes the "fungal awakening" to growing resistance against industrial food systems and the visual appeal of these ephemeral organisms. The exhibition features diverse artistic interpretations—from digital forest floor projections to sound installations made from recordings of tree roots—inviting visitors to consider fungi's vital role in Earth's ecosystems. Curator Felicity Spear hopes the show encourages deeper reflection on humanity's environmental impact through understanding these fascinating, foundational organisms.</description>
+      <source url="https://www.abc.net.au/news/2026-04-17/entanglements-with-fungi-wama-foraging-mushrooms/106566492">ABC Australia</source>
+    </item>
     <item>
       <title>An Argentine plants a guitar-shaped forest in tribute to his deceased wife</title>
       <link>https://news.bias.com/go/2026-04-16-1600</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 11 Apr 2026 19:11:51 GMT</pubDate>
       <description>Researchers in Brazil have captured the first thermal signature of a sea turtle nesting using drone-mounted sensors and artificial intelligence. The innovative project, led by Federal University of Paraíba and Associação Guajiru, detects the heat difference between the turtle's body and beach sand, creating an "invisible image" that helps locate nests even at night. Flying at a safe 40-meter height, the drone feeds data to AI software that recognizes patterns in real time. This gentle monitoring approach avoids disturbing the sensitive turtles, which can abandon nesting if they sense light or movement. The technology may significantly improve protection efforts for these threatened marine creatures along Paraíba's coastline.</description>
       <source url="https://g1.globo.com/pb/paraiba/noticia/2026/04/11/desova-tartaruga-registrada-sensor-termico-ia-litoral-paraiba.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Doug Allan, wildlife cameraman who filmed animals in extreme environments</title>
-      <link>https://news.bias.com/go/2026-04-11-1705</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-11-1705</guid>
-      <pubDate>Sat, 11 Apr 2026 17:05:53 GMT</pubDate>
-      <description>Doug Allan, a Scottish wildlife cameraman, spent decades capturing intimate footage of animals in some of Earth's harshest environments. Starting as a marine biologist and diver, he shifted to filmmaking after meeting David Attenborough in Antarctica in the early 1980s. His work on landmark BBC series like The Blue Planet and Frozen Planet brought remote polar and underwater ecosystems to global audiences through patient observation and remarkable proximity to wildlife. Allan's approach combined scientific training with fieldcraft, often spending weeks in extreme cold or darkness waiting for fleeting moments. He died on April 8th at age 74, leaving behind a legacy of footage that balanced intimacy with respect for the natural world.</description>
-      <source url="https://news.mongabay.com/2026/04/doug-allan-wildlife-cameraman-who-filmed-animals-in-extreme-environments/">Mongabay</source>
     </item>
   </channel>
 </rss>
