@@ -92,6 +92,32 @@ header {
 }
 
 /* -------------------------------------------------------------------------
+   Site-wide secondary nav (above toolbar)
+------------------------------------------------------------------------- */
+.site-nav {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 0.45rem 0;
+  text-align: center;
+  font-size: 0.75rem;
+}
+
+.site-nav-inner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0 0.1rem;
+}
+
+.site-nav a {
+  color: var(--text-muted);
+  text-decoration: none;
+  padding: 0.1rem 0.3rem;
+}
+.site-nav a:hover { color: var(--accent); }
+.site-nav .sep { color: var(--border); line-height: 1; }
+
+/* -------------------------------------------------------------------------
    Toolbar (search + tag filter — index only)
 ------------------------------------------------------------------------- */
 .toolbar {
@@ -516,6 +542,145 @@ header {
   text-align: center;
   color: var(--text-faint);
   font-size: 0.75rem;
+}
+
+/* -------------------------------------------------------------------------
+   Podcast — index card (compact strip on homepage)
+------------------------------------------------------------------------- */
+.podcast-index-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 0.75rem 1rem;
+  margin: 0.75rem 0 1rem;
+}
+
+.podcast-index-inner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.podcast-index-art img {
+  border-radius: 6px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.podcast-index-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  min-width: 0;
+}
+
+.podcast-index-label {
+  font-size: 0.68rem;
+  color: var(--text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.podcast-index-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text);
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.podcast-index-title:hover { color: var(--accent); }
+
+.podcast-index-show {
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+
+.podcast-index-listen {
+  flex-shrink: 0;
+  padding: 0.35rem 0.85rem;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  font-size: 0.8rem;
+  color: var(--accent);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.podcast-index-listen:hover {
+  background: var(--accent);
+  color: #fff;
+}
+
+/* -------------------------------------------------------------------------
+   Podcast — dedicated page
+------------------------------------------------------------------------- */
+.podcast-card {
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+}
+
+.podcast-artwork img {
+  border-radius: 10px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.podcast-body { flex: 1; min-width: 0; }
+
+.podcast-show {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-top: 0.2rem;
+  margin-bottom: 0.75rem;
+}
+
+.podcast-duration { background: var(--surface); }
+
+.podcast-actions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+.podcast-listen-btn {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.podcast-listen-btn:hover { opacity: 0.88; }
+
+.podcast-date {
+  font-size: 0.78rem;
+  color: var(--text-faint);
+}
+
+.podcast-about {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
+.podcast-about h2 {
+  font-size: 1rem;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+}
+
+.page-subtitle {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-top: 0.25rem;
 }
 
 /* -------------------------------------------------------------------------
