@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 05:50:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 10:04:29 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Electric car prototype created by UFMG students wins international award in USA for lowest energy consumption</title>
+      <link>https://news.bias.com/go/2026-04-17-1004</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-17-1004</guid>
+      <pubDate>Fri, 17 Apr 2026 10:04:28 GMT</pubDate>
+      <description>Engineering students from Brazil's Federal University of Minas Gerais achieved a historic first for Latin America, winning the Shell Eco-marathon United States competition in Indianapolis. Their electric prototype traveled an impressive 469.7 kilometers per kilowatt-hour, beating the second-place team by 40 km/kWh. The 30-member team, called Milhagem UFMG and founded in 2005, brings together students from mechanical, electrical, physics, and automation programs. Their $3,000 prize will fund improvements to their combustion-powered urban vehicle. The victory reflects years of refinement and consistent success at Brazilian competitions, where the team has claimed multiple national titles in electric prototype efficiency.</description>
+      <source url="https://g1.globo.com/mg/minas-gerais/noticia/2026/04/17/prototipo-de-carro-eletrico-criado-por-estudantes-da-ufmg-ganha-premio-internacional-nos-eua-por-menor-consumo-de-energia.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Community-led ecotourism protects rebounding wild cattle in Thailand</title>
       <link>https://news.bias.com/go/2026-04-17-0550</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 12 Apr 2026 03:32:14 GMT</pubDate>
       <description>The Artemis 2 crew has returned safely to Earth after a historic nine-day journey around the Moon, traveling farther from Earth than any crewed mission before. Commander Reid Wiseman, Jeremy Hansen, Victor Glover, and Christina Koch splashed down in the Pacific Ocean off San Diego following a dramatic reentry that subjected their heat shield to temperatures half as hot as the Sun's surface. All four astronauts are reported as "happy and healthy" after medical evaluations aboard a Navy recovery ship. The successful mission paves the way for Artemis 3, which aims to land humans on the lunar surface and eventually establish a permanent Moon base.</description>
       <source url="https://www.bbc.com/portuguese/articles/cg54g7gd811o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
-    </item>
-    <item>
-      <title>'This was not easy': Artemis II crew's first comments</title>
-      <link>https://news.bias.com/go/2026-04-12-0127</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-12-0127</guid>
-      <pubDate>Sun, 12 Apr 2026 01:27:00 GMT</pubDate>
-      <description>The four Artemis II astronauts received a warm welcome at NASA's Houston facility after completing humanity's first crewed journey toward the Moon in over 50 years. Commander Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen traveled more than 405,000 kilometers from Earth, breaking Apollo 13's distance record set 56 years ago. The crew described their mission as transformative and emotional, with Koch reflecting on Earth appearing as a solitary lifeboat in the vast darkness of space. Their successful return, enduring re-entry speeds of 40,000 kilometers per hour, paves the way for future Artemis missions—though NASA acknowledges the need to fix a malfunctioning space toilet before longer voyages.</description>
-      <source url="https://www.abc.net.au/news/2026-04-12/nasa-artemis-ii-crew-speaks-for-first-time-moon-mission/106555720">ABC Australia</source>
     </item>
   </channel>
 </rss>
