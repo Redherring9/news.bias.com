@@ -5,14 +5,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Archives — B.I.A.S.</title>
-  <meta name="description" content="Monthly archive of calm stories — B.I.A.S.">
-  <link rel="canonical" href="https://news.bias.com/archives/">
-  <meta property="og:url" content="https://news.bias.com/archives/">
+  <title>Contact — B.I.A.S.</title>
+  <meta name="description" content="Get in touch with the B.I.A.S. editorial team.">
+  <link rel="canonical" href="https://news.bias.com/contact.html">
+  <meta property="og:url" content="https://news.bias.com/contact.html">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="B.I.A.S.">
-  <meta property="og:title" content="B.I.A.S. — Balanced Information, Actual Stories">
-  <meta property="og:description" content="Balanced Information, Actual Stories. Biased toward calm.">
+  <meta property="og:title" content="Contact — B.I.A.S.">
+  <meta property="og:description" content="Get in touch with the B.I.A.S. editorial team.">
   <link rel="stylesheet" href="/css/style.css">
   <link rel="alternate" type="application/rss+xml" title="B.I.A.S." href="/feed.xml">
   
@@ -39,25 +39,42 @@
   
 <div class="container">
   <div class="page-header">
-    <p class="breadcrumb"><a href="/">Home</a> › Archives</p>
-    <h1>Archives</h1>
+    <p class="breadcrumb"><a href="/">Home</a> › Contact</p>
+    <h1>Contact</h1>
   </div>
 
-  
-    <ul class="archive-list">
-      
-      <li>
-        <a href="/archives/2026-04.html">April 2026</a>
-        <span class="archive-count">51 stories</span>
-      </li>
-      
-      <li>
-        <a href="/archives/2026-03.html">March 2026</a>
-        <span class="archive-count">363 stories</span>
-      </li>
-      
+  <div class="about-content">
+    <p>
+      B.I.A.S. is a one-person project. If you have a question, a suggestion for
+      a source we should add, or just want to say hello, you're welcome to get in touch.
+    </p>
+
+    <h2>Email</h2>
+    <p>
+      <span id="contact-email">
+        <noscript>contact [at] bias [dot] com</noscript>
+      </span>
+    </p>
+    <script>
+      (function() {
+        var u = "contact", d = "bias.com";
+        var el = document.getElementById("contact-email");
+        el.innerHTML = '<a href="mailto:' + u + '@' + d + '">' + u + '@' + d + '</a>';
+      })();
+    </script>
+
+    <h2>What to write about</h2>
+    <ul>
+      <li>Suggesting a publication or RSS feed we should follow</li>
+      <li>Flagging a story that slipped through our editorial criteria</li>
+      <li>General feedback on the site</li>
     </ul>
-  
+
+    <p>
+      For anything technical, you can also open an issue on
+      <a href="https://github.com/Redherring9/bias-news" rel="noopener">GitHub</a>.
+    </p>
+  </div>
 </div>
 
 </main>
