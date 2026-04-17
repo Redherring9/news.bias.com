@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 02:56:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 05:50:10 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Community-led ecotourism protects rebounding wild cattle in Thailand</title>
+      <link>https://news.bias.com/go/2026-04-17-0550</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-17-0550</guid>
+      <pubDate>Fri, 17 Apr 2026 05:50:09 GMT</pubDate>
+      <description>The critically endangered banteng, a rare wild cattle species, is thriving in Thailand's Huai Kha Khaeng Wildlife Sanctuary thanks to habitat protection and anti-poaching patrols. Over the past two decades, the population has doubled to at least 1,400 individuals—the largest in Southeast Asia. As herds expanded into surrounding farmland, local communities initially faced crop damage and conflict. In response, residents launched a community-based ecotourism initiative in 2021, offering banteng-watching tours and cultural activities. More than 320 people from 19 villages now participate, transforming the species from a source of conflict into a vital economic and cultural asset while fostering a shared commitment to conservation.</description>
+      <source url="https://news.mongabay.com/short-article/2026/04/community-led-ecotourism-protects-rebounding-wild-cattle-in-thailand/">Mongabay</source>
+    </item>
     <item>
       <title>Landmark US Magnuson-Stevens fisheries law turns 50 amid budget cut concerns</title>
       <link>https://news.bias.com/go/2026-04-17-0256</link>
@@ -398,14 +406,6 @@
       <pubDate>Sun, 12 Apr 2026 01:27:00 GMT</pubDate>
       <description>The four Artemis II astronauts received a warm welcome at NASA's Houston facility after completing humanity's first crewed journey toward the Moon in over 50 years. Commander Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen traveled more than 405,000 kilometers from Earth, breaking Apollo 13's distance record set 56 years ago. The crew described their mission as transformative and emotional, with Koch reflecting on Earth appearing as a solitary lifeboat in the vast darkness of space. Their successful return, enduring re-entry speeds of 40,000 kilometers per hour, paves the way for future Artemis missions—though NASA acknowledges the need to fix a malfunctioning space toilet before longer voyages.</description>
       <source url="https://www.abc.net.au/news/2026-04-12/nasa-artemis-ii-crew-speaks-for-first-time-moon-mission/106555720">ABC Australia</source>
-    </item>
-    <item>
-      <title>The 90-day swim that united New Zealand behind ocean conservation</title>
-      <link>https://news.bias.com/go/2026-04-11-2321</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-11-2321</guid>
-      <pubDate>Sat, 11 Apr 2026 23:21:56 GMT</pubDate>
-      <description>Marathon swimmer Jono Ridler completed the longest unassisted staged swim in history, covering 1,367 kilometers over 90 days along New Zealand's North Island coast. Thousands gathered in Wellington to celebrate his arrival, captivated not just by the athletic feat but by his mission: advocating against bottom trawling, a destructive fishing practice that damages ocean habitats. The swim highlighted a striking imbalance—while New Zealand controls the world's fourth-largest maritime zone, only 0.4 percent is protected, compared to 30 percent of its land. Ridler's journey united the nation around ocean conservation, blending personal passion with urgent environmental purpose.</description>
-      <source url="https://www.abc.net.au/news/2026-04-12/swim4theocean-jono-ridler-north-island-new-zealand-world-record/106511428">ABC Australia</source>
     </item>
   </channel>
 </rss>
