@@ -5,8 +5,16 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Apr 2026 22:12:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 02:56:41 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Landmark US Magnuson-Stevens fisheries law turns 50 amid budget cut concerns</title>
+      <link>https://news.bias.com/go/2026-04-17-0256</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-17-0256</guid>
+      <pubDate>Fri, 17 Apr 2026 02:56:40 GMT</pubDate>
+      <description>The U.S. Magnuson-Stevens Act celebrates its 50th anniversary this month, marking half a century of ocean conservation success. Passed in 1976 during an era of environmental crisis, the law extended U.S. coastal jurisdiction and established science-based fishery management councils. At least 50 fish stocks have been rebuilt since 2000, including Atlantic sea scallops and Pacific bluefin tuna, while the fishing industry now generates over $300 billion annually and supports 2.1 million jobs. However, conservationists worry that proposed $1.6 billion budget cuts to NOAA and calls to reduce fishing regulations could threaten these hard-won gains, even as 18% of U.S. fish stocks remain overfished.</description>
+      <source url="https://news.mongabay.com/short-article/2026/04/landmark-us-magnuson-stevens-fisheries-law-turns-50-amid-budget-cut-concerns/">Mongabay</source>
+    </item>
     <item>
       <title>The postcard that made its way home to Dunedin after 116 years</title>
       <link>https://news.bias.com/go/2026-04-16-2212</link>
@@ -398,14 +406,6 @@
       <pubDate>Sat, 11 Apr 2026 23:21:56 GMT</pubDate>
       <description>Marathon swimmer Jono Ridler completed the longest unassisted staged swim in history, covering 1,367 kilometers over 90 days along New Zealand's North Island coast. Thousands gathered in Wellington to celebrate his arrival, captivated not just by the athletic feat but by his mission: advocating against bottom trawling, a destructive fishing practice that damages ocean habitats. The swim highlighted a striking imbalance—while New Zealand controls the world's fourth-largest maritime zone, only 0.4 percent is protected, compared to 30 percent of its land. Ridler's journey united the nation around ocean conservation, blending personal passion with urgent environmental purpose.</description>
       <source url="https://www.abc.net.au/news/2026-04-12/swim4theocean-jono-ridler-north-island-new-zealand-world-record/106511428">ABC Australia</source>
-    </item>
-    <item>
-      <title>The doomsday seed collectors fighting to save Wales' native species</title>
-      <link>https://news.bias.com/go/2026-04-11-2116</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-11-2116</guid>
-      <pubDate>Sat, 11 Apr 2026 21:16:58 GMT</pubDate>
-      <description>Two conservationists in Wales are racing to preserve the country's botanical heritage by collecting and freezing wild plant seeds. Ellyn Baker and Kevin McGinn maintain a genetic library at the National Botanical Gardens, storing native species in case of environmental disaster. Wales hosts about 60 endemic plant species found nowhere else on Earth, with one-sixth of all Welsh plants threatened with extinction. The seed bank has already proven its worth, restoring Shore Dock after a landslide wiped out one population. Beyond catastrophe preparation, the work addresses "plant blindness"—society's tendency to overlook plants' vital roles in supporting pollinators, crop resilience, and ecosystem health. With only 11% of Wales' 15,000 species currently banked and climate change accelerating, the duo faces a challenging race against time.</description>
-      <source url="https://www.bbc.com/news/articles/c2d1k0nrwe9o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
