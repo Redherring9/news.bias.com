@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Apr 2026 00:41:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 00:43:57 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘The environmental movement needs many hands’: saving Australia’s biodiversity is getting personal</title>
+      <link>https://news.bias.com/go/2026-04-18-0043</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-18-0043</guid>
+      <pubDate>Sat, 18 Apr 2026 00:43:56 GMT</pubDate>
+      <description>A quiet shift is taking place in Australian conservation, one that draws its strength not from government mandates or corporate initiatives, but from individuals choosing to protect the land they love. Australians are increasingly gifting property for conservation and leaving environmental bequests in their wills, creating one of the world's largest networks of privately protected areas—over 10 million hectares. Between 2019 and 2024, leading environmental charities saw bequest revenue jump by 150 percent, a sign that personal action is filling gaps where public protection falls short.
+
+The movement traces back to 1990, when Tasmanian Greens MP Bob Brown bought two bush blocks he couldn't afford, outbidding a logging company at auction. With help from friend Judy Henderson and a scrappy fundraising effort, that impulsive act of hope grew into Bush Heritage Australia, now safeguarding 1.4 million hectares and supporting management of over 20 million more. The model has inspired smaller groups like the North East Tasmania Land Trust, which protects endangered eucalyptus forests and swift parrot habitats on just a few hectares. These organizations step in where government support is scarce, protecting ecosystems and wildlife that live outside national reserves, often on private or pastoral land vulnerable to clearing and invasive species.
+
+This story is worth your time because it illustrates how individual commitment can grow into something transformative. From Bob Brown's leap of faith to a taxi driver's million-dollar bequest for woodland recovery, Australians are writing conservation into their legacies. It's a reminder that large-scale change doesn't always require sweeping policy—sometimes it begins with many hands, each doing what they can.</description>
+      <source url="https://www.theguardian.com/australia-news/2026/apr/18/privately-protected-managed-land-australia-biodiversity-protection">The Guardian</source>
+    </item>
     <item>
       <title>Fremantle Prison break remembered 150 years on as 'ultimate story' of hope and freedom</title>
       <link>https://news.bias.com/go/2026-04-18-0041</link>
@@ -414,14 +426,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Sun, 12 Apr 2026 19:59:17 GMT</pubDate>
       <description>NASA's Artemis crew has returned to Earth following their lunar mission, marking a significant milestone in the agency's program to return humans to the Moon. The astronauts were greeted with celebration upon their homecoming, with crew members reflecting on the profound experience of viewing Earth from space. Their journey represents a step forward in NASA's broader goals of establishing a sustained presence on the Moon and eventually reaching Mars. The mission highlights both the technical achievement of modern spaceflight and the deeply human experience of space exploration.</description>
       <source url="https://www.bbc.com/news/videos/c1mkj5xp85xo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Artemis II crew speak out at welcome home event: ‘Earth was this lifeboat hanging in the universe’</title>
-      <link>https://news.bias.com/go/2026-04-12-1809</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-12-1809</guid>
-      <pubDate>Sun, 12 Apr 2026 18:09:56 GMT</pubDate>
-      <description>The four Artemis II astronauts received an emotional welcome home in Houston after completing humanity's first lunar journey in over 50 years. The crew traveled a record-breaking 252,756 miles from Earth during their nearly 10-day mission, surpassing Apollo 13's distance record and capturing unprecedented views of the moon's far side. Commander Reid Wiseman and his crewmates—Victor Glover, Christina Koch, and Canada's Jeremy Hansen—reflected on the profound experience of seeing Earth as a fragile "lifeboat hanging in the universe." Their successful mission marks a pivotal milestone for NASA's Artemis program, paving the way for future lunar landings planned for 2028.</description>
-      <source url="https://www.theguardian.com/science/2026/apr/12/artemis-ii-crew-speak-out">The Guardian</source>
     </item>
   </channel>
 </rss>
