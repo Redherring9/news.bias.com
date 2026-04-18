@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Apr 2026 06:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 08:03:03 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Artemis II Moon mission lifts children's ambitions</title>
+      <link>https://news.bias.com/go/2026-04-18-0803</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-18-0803</guid>
+      <pubDate>Sat, 18 Apr 2026 08:03:02 GMT</pubDate>
+      <description>The successful completion of NASA's Artemis II Moon mission has done more than make headlines—it's opened young minds to the reality of space careers, particularly in communities far from traditional aerospace hubs. In Cornwall, England, educators are witnessing a shift in how children perceive their future possibilities. What once seemed like science fiction now feels tangible, especially when local facilities like Goonhilly Earth Station played a direct role in supporting the mission.
+
+Caitlin Gould, who leads TECgirls, an organization dedicated to bringing more women into technology and engineering, says the mission has helped young people understand that space work isn't confined to distant American launch sites. Her Reach for the Sky festival at Spaceport Cornwall nearly sold out within a week, reflecting surging interest in aviation and aerospace careers. The event connects students with universities, employers, and training providers, demonstrating pathways through degrees, apprenticeships, and local colleges. Gould emphasizes that the Artemis crew's diverse backgrounds—pilots, engineers, scientists—challenge narrow assumptions about who belongs in space.
+
+Yet enthusiasm alone won't sustain momentum. A 2024 report from the Cornwall Space Cluster revealed that while school outreach has grown, training opportunities and further education courses have declined, likely due to funding pressures. Spaceport Cornwall recently paused its education programme amid financial challenges. Still, there are encouraging signs: female representation in engineering has risen from 10.5% in 2010 to 16.5% in 2022. As space agency officials note, the industry needs more than astronauts and engineers—it needs project managers, lawyers, and economists too. This story matters because it captures a moment when inspiration meets infrastructure, and reminds us that dreams require both missions to the Moon and resources back on Earth.</description>
+      <source url="https://www.bbc.com/news/articles/cx2dgp0k309o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Country diary: Return of the Manx shearwaters – this island is their home | Tim Earl</title>
       <link>https://news.bias.com/go/2026-04-18-0601</link>
@@ -434,14 +446,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Mon, 13 Apr 2026 05:18:27 GMT</pubDate>
       <description>A 1976 diary entry from England's Lake District captures an April morning in St John's Vale, where daffodils shiver in cold air and sunlight illuminates bracken beneath Helvellyn's crags. The timeless landscape holds farms nestled beneath fells, curlews calling over sodden fields swollen with floodwater. Among ewes gathered for lambing, one independent sheep has delivered her lamb alone on a distant hillside shelf. A farm worker arrives with his tractor to bring the damp newborn and its mother back to safety, concerned the lamb might tumble into the stream. The scene reflects a place where traditional farming rhythms continue largely unchanged, human care meeting animal instinct in the fells.</description>
       <source url="https://www.theguardian.com/environment/2026/apr/13/country-diary-1976-place-where-change-has-lain-lightly-lake-district">The Guardian</source>
-    </item>
-    <item>
-      <title>Can AI replace a priest? Japan’s temples and shrines are testing the limits.</title>
-      <link>https://news.bias.com/go/2026-04-13-0234</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-13-0234</guid>
-      <pubDate>Mon, 13 Apr 2026 02:34:17 GMT</pubDate>
-      <description>A Buddhist monk in Japan is experimenting with AI to manage temple schedules and communications, even as he questions whether technology can replace human presence in spiritual care. His temple has embraced innovation before—offering online meditation and tree burials—to survive amid declining membership. While the Vatican has issued formal guidance on AI, Japan's religious institutions show no unified response, reflecting how spirituality here is often woven into daily customs rather than strict doctrine. The monk demonstrates the tension by holding a visitor's hand: some moments of comfort and connection, he believes, require a human touch that machines may never replicate.</description>
-      <source url="https://www.japantimes.co.jp/life/2026/04/13/lifestyle/buddhism-shinto-ai-religioin/">The Japan Times</source>
     </item>
   </channel>
 </rss>
