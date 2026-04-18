@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 23:45:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 00:41:17 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fremantle Prison break remembered 150 years on as 'ultimate story' of hope and freedom</title>
+      <link>https://news.bias.com/go/2026-04-18-0041</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-18-0041</guid>
+      <pubDate>Sat, 18 Apr 2026 00:41:16 GMT</pubDate>
+      <description>One hundred fifty years ago, six Irish political prisoners pulled off one of Australia's most daring escapes from Fremantle Prison, a story now being remembered as a remarkable tale of hope and determination. The men were Fenians — Irish rebels who had fought for independence from British rule in the 1860s and were transported to Western Australia after their uprising failed. While most of their fellow prisoners were eventually released, these six military-trained Fenians remained locked away with no promise of freedom, languishing at what felt like the edge of the world.
+
+The rescue began with a desperate letter smuggled out by prisoner James Wilson in 1874, calling his situation a "living tomb" and pleading for help. His words reached John Devoy, a Fenian leader in America, who organized an audacious plan. They purchased a whaling ship called the Catalpa for the modern equivalent of $230,000 and sent it on what appeared to be a routine whaling voyage. The ship left Massachusetts in 1875 and didn't arrive in Western Australia until nearly a year later, with its crew posing as fishermen while secretly coordinating the breakout.
+
+What makes this story particularly captivating is not just its cinematic quality — complete with disguises, cryptic telegrams, and international intrigue — but the fact that nobody died in the escape. It's a narrative that connects Irish heritage with Australian history, yet remains surprisingly unknown. For those who discover it, the Catalpa rescue offers something quietly powerful: a reminder that even from the most hopeless circumstances, freedom can still be won.</description>
+      <source url="https://www.abc.net.au/news/2026-04-18/catalpa-rescue-150th-anniversary-of-fremantle-prison-break/106556082">ABC Australia</source>
+    </item>
     <item>
       <title>Not all city suburbs have NBN access and it isn't by accident. Here's why</title>
       <link>https://news.bias.com/go/2026-04-17-2345</link>
@@ -410,14 +422,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Sun, 12 Apr 2026 18:09:56 GMT</pubDate>
       <description>The four Artemis II astronauts received an emotional welcome home in Houston after completing humanity's first lunar journey in over 50 years. The crew traveled a record-breaking 252,756 miles from Earth during their nearly 10-day mission, surpassing Apollo 13's distance record and capturing unprecedented views of the moon's far side. Commander Reid Wiseman and his crewmates—Victor Glover, Christina Koch, and Canada's Jeremy Hansen—reflected on the profound experience of seeing Earth as a fragile "lifeboat hanging in the universe." Their successful mission marks a pivotal milestone for NASA's Artemis program, paving the way for future lunar landings planned for 2028.</description>
       <source url="https://www.theguardian.com/science/2026/apr/12/artemis-ii-crew-speak-out">The Guardian</source>
-    </item>
-    <item>
-      <title>Three jaguarundi kittens born at veterinary hospital in Uberaba; see the video</title>
-      <link>https://news.bias.com/go/2026-04-12-1604</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-12-1604</guid>
-      <pubDate>Sun, 12 Apr 2026 16:04:41 GMT</pubDate>
-      <description>A female jaguarundi, an endangered wild cat species, gave birth to three healthy kittens at a veterinary hospital in Uberaba, Brazil, after being rescued from a roadside in early April. The mother was found injured near a highway, though examinations revealed no fractures. Veterinarians discovered she was in late-stage pregnancy during her evaluation. Now under careful monitoring, the feline family remains in isolation while the mother recovers. Experts emphasize the case highlights growing concerns about how roads and human activity affect Brazilian wildlife. Once stable, the cats will be transferred to a rehabilitation center for assessment before a possible return to their natural habitat.</description>
-      <source url="https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/04/12/tres-filhotes-de-gato-mourisco-nascem-no-hospital-veterinario-de-uberaba-veja-o-video.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
