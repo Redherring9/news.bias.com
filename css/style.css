@@ -671,6 +671,83 @@ header {
   border-top: 1px solid var(--border);
 }
 
+/* ── Previous picks list ──────────────────────────────────────────────────── */
+.podcast-prev-section {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
+.podcast-prev-heading {
+  font-size: 1rem;
+  color: var(--text-muted);
+  margin-bottom: 1rem;
+}
+
+.podcast-prev-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.podcast-prev-card {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.6rem 0.85rem;
+}
+
+.podcast-prev-art img {
+  border-radius: 6px;
+  object-fit: cover;
+  flex-shrink: 0;
+  display: block;
+}
+
+.podcast-prev-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.podcast-prev-title {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text);
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.podcast-prev-title:hover { color: var(--accent); }
+
+.podcast-prev-meta {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin-top: 0.15rem;
+}
+
+.podcast-prev-listen {
+  flex-shrink: 0;
+  font-size: 0.9rem;
+  color: var(--accent);
+  text-decoration: none;
+  padding: 0.3rem 0.6rem;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  line-height: 1;
+}
+.podcast-prev-listen:hover { background: var(--accent); color: #fff; }
+
+.podcast-archive-link {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+}
+.podcast-archive-link a { color: var(--accent); }
+
 .podcast-about h2 {
   font-size: 1rem;
   color: var(--text-muted);
