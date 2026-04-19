@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 22:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 22:48:37 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What it's like creating a concert shaped by audience choices</title>
+      <link>https://news.bias.com/go/2026-04-19-2248</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-19-2248</guid>
+      <pubDate>Sun, 19 Apr 2026 22:48:36 GMT</pubDate>
+      <description>Each year, Australia's classical music lovers get to shape a live concert in a uniquely democratic way. The ABC Classic 100 in Concert transforms the nation's favourite classical pieces—chosen through public voting—into a live performance by the Melbourne Symphony Orchestra at Hamer Hall. What makes this annual event particularly intriguing is the logistical puzzle it creates: conductor Benjamin Northey must book soloists and plan a major orchestral program before knowing exactly which pieces will top the charts when voting closes in early June.
+
+The process begins when ABC Classic announces a secret theme and invites listeners to vote for their top ten pieces. As votes stream in, Northey and his team monitor trends and make educated guesses to avoid last-minute disasters, though he remains sworn to secrecy about what he knows. Meanwhile, presenters Megan Burslem and Jeremy Fernandez watch the public's musical preferences take shape in real time, building anticipation for both the radio countdown and the concert that follows weeks later. The event celebrates the full spectrum of classical music, from piano and strings to choral works and full orchestra pieces, reflecting the genuine tastes of everyday listeners rather than critics or institutions.
+
+This story offers a warm glimpse into how large-scale cultural events come together under unusual constraints. It's a reminder that classical music isn't just the domain of experts—it belongs to anyone who feels that spine-tingling response when a beloved piece fills a concert hall. The blend of public participation, logistical ingenuity, and shared musical joy makes this a quietly remarkable example of community-driven art.</description>
+      <source url="https://www.abc.net.au/news/2026-04-20/abc-classic-100-brings-classical-favourites-to-the-concert-stage/106572344">ABC Australia</source>
+    </item>
     <item>
       <title>80-year-old Frenchman formally apologizes for family ties to slavery</title>
       <link>https://news.bias.com/go/2026-04-19-2202</link>
@@ -518,14 +530,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Wed, 15 Apr 2026 09:27:56 GMT</pubDate>
       <description>At 81, Marlene Vicente has become the oldest student at a public university campus in Rio de Janeiro state, studying pedagogy through distance learning. Growing up in a low-income Black family, she faced financial barriers and was told university was only for the wealthy. After stopping her education as a young woman, she returned to school at 60, completed her high school equivalency, and passed university entrance exams. Now in her fifth semester, she navigates her studies with support from tutors and dreams of pursuing graduate work. Her professors describe her presence as a powerful reminder that learning has no age limit, while Marlene credits persistence as her greatest lesson.</description>
       <source url="https://g1.globo.com/rj/regiao-serrana/noticia/2026/04/15/aos-81-anos-idosa-vira-a-aluna-mais-velha-em-universidade-publica-do-rj-para-uma-pessoa-da-minha-cor-era-muita-dificuldade.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Interstellar A&amp;E: The Scottish doctor of space medicine</title>
-      <link>https://news.bias.com/go/2026-04-15-0701</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-15-0701</guid>
-      <pubDate>Wed, 15 Apr 2026 07:01:35 GMT</pubDate>
-      <description>Dr. Christina Mackaill balances life as a Glasgow A&amp;E physician with pioneering work in space medicine. The Edinburgh-born doctor developed the Mackaill-Russomano method, teaching astronauts how to perform CPR in the reduced gravity of the Moon and Mars. She's now collaborating with NASA to create guidelines for treating returning astronauts, whose bodies undergo significant changes in space—from fluid shifts and muscle loss to altered immune function and bone density. As missions venture deeper into space and commercial flights expand, Mackaill emphasizes the growing importance of understanding how microgravity affects human physiology, ensuring medical teams can safely care for space travelers without inadvertently causing harm.</description>
-      <source url="https://www.bbc.com/news/articles/c2k34qjnxw2o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
