@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 16:04:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 18:04:10 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why we become better friends as we age</title>
+      <link>https://news.bias.com/go/2026-04-19-1804</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-19-1804</guid>
+      <pubDate>Sun, 19 Apr 2026 18:04:08 GMT</pubDate>
+      <description>As people age, their approach to friendship undergoes a quiet but profound transformation. While younger adults typically seek to expand their social circles and make new connections, older adults deliberately narrow their networks—and research suggests this shift brings surprising benefits. Studies show that friendships become increasingly important sources of happiness in later life, sometimes even more so than family relationships. Older adults report finding time with friends more enjoyable and less stressful than visits with relatives, challenging earlier assumptions that family would be the primary support system in aging.
+
+This change is explained by socioemotional selectivity theory: as people perceive less time ahead of them, their priorities shift from gathering experiences and contacts toward savoring meaningful connections. Older adults intentionally prune weaker ties to increase what researchers call the "emotional density" of their circles, creating smaller, more cohesive groups. They also tend to be more forgiving and positive with chosen companions, focusing on joy rather than conflict. Interestingly, this isn't strictly age-dependent—when younger people are prompted to consider life's fragility, they too adopt a more selective approach to relationships.
+
+This story offers a reassuring counter-narrative to assumptions about aging and isolation. It reveals that smaller social circles in later life aren't necessarily signs of loneliness, but often reflect intentional choices toward quality over quantity. The research suggests that growing older can mean becoming better friends—more present, more appreciative, and more skilled at nurturing the connections that truly matter.</description>
+      <source url="https://www.bbc.com/portuguese/articles/cvgrpkxnwrxo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>The last Chernobyl wedding: the couple who married as a nuclear disaster unfolded</title>
       <link>https://news.bias.com/go/2026-04-19-1604</link>
@@ -506,14 +518,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Wed, 15 Apr 2026 02:08:22 GMT</pubDate>
       <description>A fishing guide in Goiás captured a tender moment when a jaguar and her cub swam across a lake in the Corumbá River. Lucas Rafael, who has worked these waters for three years, watched from a distance as the mother led the way while her cub followed with difficulty through the water. The guide chose not to interfere, allowing the animals to complete their natural journey before disappearing into the forest. The pair were black jaguars, a melanistic variation of the spotted jaguar native to Brazil's Cerrado region. Despite numerous wildlife encounters throughout his life, Lucas says he had never witnessed such a scene.</description>
       <source url="https://g1.globo.com/go/goias/noticia/2026/04/14/onca-com-filhote-encantam-ao-atravessar-juntos-lago-em-goias.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>A reforestation corridor in Madagascar offers a future for lemurs and locals</title>
-      <link>https://news.bias.com/go/2026-04-14-2345</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-14-2345</guid>
-      <pubDate>Tue, 14 Apr 2026 23:45:10 GMT</pubDate>
-      <description>In eastern Madagascar, conservationists are rebuilding a living bridge between two protected areas that were separated in the 1960s when forests were cleared for agriculture. The reforestation corridor project aims to reconnect 150 hectares of fragmented habitat, home to a dozen lemur species and countless plants and animals found nowhere else. Led by the Mad Dog Initiative and partners, the effort has already planted over 100 native tree species across 70 hectares, with promising survival rates. Lemurs are already using the young corridor. The project combines scientific research with community investment in ecotourism, healthcare, and education, creating a model where forest restoration supports both wildlife and local people.</description>
-      <source url="https://news.mongabay.com/2026/04/a-reforestation-corridor-in-madagascar-offers-a-future-for-lemurs-and-locals/">Mongabay</source>
     </item>
   </channel>
 </rss>
