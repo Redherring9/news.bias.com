@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 12:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 14:03:08 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘How much have we missed?’: book tunes in to overlooked world of female birdsong</title>
+      <link>https://news.bias.com/go/2026-04-19-1403</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-19-1403</guid>
+      <pubDate>Sun, 19 Apr 2026 14:03:07 GMT</pubDate>
+      <description>For centuries, birdwatchers have been told that the songs echoing through spring mornings are overwhelmingly male performances—territorial declarations and mating calls. A new guidebook is challenging that narrative, revealing that female birdsong has been systematically overlooked and misunderstood. As recently as 2016, only 0.01% of recordings in major sound archives were labeled as female, reflecting a profound gap in our understanding of avian communication.
+
+The Sound Approach to Birding 2, authored by Mark Constantine and researcher Lucy McRobert, accompanies its text with 300 recordings from 200 species, documenting that females sing for territory, to attract mates, and to ward off rivals—much like males. The oversight stems partly from European ornithologists studying songbirds in their region, where male song does predominate, then applying those assumptions globally. In reality, up to 70% of female bird species worldwide sing, with tropical species often performing elaborate duets. The book corrects colorful misconceptions too: the iconic quack attributed to Donald Duck is actually a female mallard call, since male mallards don't quack at all.
+
+This work joins a growing effort to recognize how gender bias shaped natural history. Inspired by Jasmine Donahaye's Birdsplaining, which critiqued mid-century field guides for depicting females as "duller" and submissive, the project aims to give female birds equal billing in both sound and description. For anyone who loves the dawn chorus or simply wonders about the natural world, this story offers a reminder of how much richness we've missed—and an invitation to listen more carefully.</description>
+      <source url="https://www.theguardian.com/environment/2026/apr/19/hidden-world-of-female-birdsong-book">The Guardian</source>
+    </item>
     <item>
       <title>Moctezuma's zoo that amazed the Spanish 500 years ago and that we are only now beginning to understand</title>
       <link>https://news.bias.com/go/2026-04-19-1201</link>
@@ -498,14 +510,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Tue, 14 Apr 2026 21:23:10 GMT</pubDate>
       <description>After a Māori health worker lost her home in a 2021 fire, her Waikato community is coming together to provide her with a new one. Te Kōhao Health is gifting a repurposed house to Billie Gillet-Kati, who has spent decades supporting families as a navigator for Whānau Ora, including frontline work during the pandemic despite health vulnerabilities. The home will be relocated to her land in Waharoa, with local businesses donating materials and labor while volunteers help with carpentry, painting, and finishing touches. Leaders describe the effort as kaupapa Māori values in action—recognizing someone who has quietly given everything to serve others, and ensuring she can continue living on her ancestral land.</description>
       <source url="https://www.rnz.co.nz/news/national/592402/waikato-community-rallies-to-gift-new-home-to-healthcare-worker-after-house-fire">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Elderly couple celebrates 65 years of marriage in hospital ICU in RS: 'Affection, respect and emotion'</title>
-      <link>https://news.bias.com/go/2026-04-14-1754</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-14-1754</guid>
-      <pubDate>Tue, 14 Apr 2026 17:54:01 GMT</pubDate>
-      <description>In a touching celebration at a Brazilian hospital, Erica and Arnoldo Gattermann renewed their vows in the ICU to mark 65 years of marriage. When 82-year-old Erica was hospitalized with pneumonia and heart failure, family members and hospital staff organized a symbolic ceremony so the couple wouldn't miss their platinum anniversary. A pastor officiated as the pair, ages 82 and 88, recommitted to each other surrounded by care and emotion. Hospital staff emphasized that honoring patients' life stories is part of compassionate care. The couple's daughter called the gesture beautiful and meaningful during a difficult time. Remarkably, Erica was moved out of intensive care the day after the celebration.</description>
-      <source url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/04/14/casal-de-idosos-celebra-65-anos-de-casamento-em-uti-de-hospital-no-rs-carinho-respeito-e-emocao.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
