@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 02:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 04:02:58 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘Lost Land’ director captures play and peril on a migrant's journey</title>
+      <link>https://news.bias.com/go/2026-04-19-0402</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-19-0402</guid>
+      <pubDate>Sun, 19 Apr 2026 04:02:57 GMT</pubDate>
+      <description>A Japanese documentary filmmaker has found a deeply human lens through which to understand one of the world's most persistent refugee crises. Akio Fujimoto's "Lost Land" follows two young Rohingya siblings—5-year-old Shafi and his 9-year-old sister Somira—as they navigate a dangerous journey from a refugee camp in Bangladesh to Malaysia. The children are too young to comprehend the persecution that forced their community to flee Myanmar's Rakhine State, or to fully grasp why they must leave behind the fragile security of camp life for perilous border crossings and encounters with human traffickers.
+
+By centering the story on the children's perspective, Fujimoto invites audiences to experience the Rohingya crisis without the weight of political rhetoric or historical complexity clouding immediate emotional understanding. The filmmaker notes that just as Shafi and Somira don't know the full history behind their displacement—including the 2017 military crackdown that drove hundreds of thousands from Myanmar—many viewers also come to the subject without deep background knowledge. This shared innocence creates an entry point for empathy.
+
+What makes this documentary quietly remarkable is its refusal to rely on sensationalism or despair. Instead, it captures both the play and peril inherent in childhood, even under the most precarious circumstances. Fujimoto, himself the father of a young son, brings a parent's eye to the resilience and vulnerability of children caught in forces far beyond their control. The film offers viewers not just information about a crisis, but an intimate window into lives lived at the margins—a reminder that behind every refugee statistic are children who simply want what all children want: safety, family, and a place to call home.</description>
+      <source url="https://www.japantimes.co.jp/culture/2026/04/19/film/lost-land-akio-fujimoto-rohingya/">The Japan Times</source>
+    </item>
     <item>
       <title>SOS Mata Atlântica completes 40 years with 44 million trees planted</title>
       <link>https://news.bias.com/go/2026-04-19-0202</link>
@@ -478,14 +490,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Tue, 14 Apr 2026 08:18:59 GMT</pubDate>
       <description>A finger-length fossil fragment discovered in a museum storage tray has revealed that giant echidnas once roamed Victoria. The specimen, excavated from Foul Air Cave in 1907 but only recently identified, belongs to Megalibgwilia owenii—a Pleistocene-era echidna weighing up to 15kg and measuring about a meter long. Collection manager Tim Ziegler recognized the distinctive palate and breathing chambers of an echidna beak, despite the fragment being mistaken for kangaroo bone for over a century. The robust skeleton suggests these ancient monotremes used powerful force to dig for prey or tear bark. This finding fills a 1,000km gap in the species' known distribution across Australia.</description>
       <source url="https://www.theguardian.com/environment/2026/apr/14/owens-giant-echidna-fossil-victoria">The Guardian</source>
-    </item>
-    <item>
-      <title>African scientists hail mushrooming global interest in conserving fungi</title>
-      <link>https://news.bias.com/go/2026-04-14-0553</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-14-0553</guid>
-      <pubDate>Tue, 14 Apr 2026 05:53:52 GMT</pubDate>
-      <description>Madagascar's first homegrown mycologist, Anna Ralaiveloarisoa, is working to classify 200 newly identified fungal species despite significant challenges including limited infrastructure and a lack of local collaborators. She's part of a growing network of African scientists pioneering fungal research and conservation across the continent. Last November, mycologists from 27 countries gathered in Benin for the International Congress on Fungal Conservation, reflecting global momentum in a field that has evolved from scattered voices in the early 2000s into a dynamic movement. While bird conservation began in the 19th century, the first fungal conservation organization wasn't established until 2010. The movement continues to grow, with conservation frameworks increasingly adopting the phrase "fauna, flora, funga" to ensure fungi receive equal recognition.</description>
-      <source url="https://www.theguardian.com/environment/2026/apr/14/african-scientists-fungal-conservation-movement-aoe">The Guardian</source>
     </item>
   </channel>
 </rss>
