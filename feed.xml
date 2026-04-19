@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 04:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 06:09:19 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘The Oscar of science’ awarded to scientists behind genetic treatment that restores lost vision win</title>
+      <link>https://news.bias.com/go/2026-04-19-0604</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-19-0604</guid>
+      <pubDate>Sun, 19 Apr 2026 06:04:06 GMT</pubDate>
+      <description>A husband-and-wife scientific team has been honored with a prestigious $3 million Breakthrough Prize for developing the first approved gene therapy to treat a form of inherited blindness. Jean Bennett, a molecular biologist, and Albert Maguire, an ophthalmologist, who first met as medical students dissecting a brain together at Harvard, spent 25 years working alongside physician Katherine High to create Luxturna. The therapy treats Leber congenital amaurosis, a genetic disorder that typically causes complete blindness by early adulthood, and was approved in the United States in 2017.
+
+The breakthrough came after the team discovered how to deliver a working copy of the faulty RPE65 gene directly into retinal cells. Clinical trials revealed profound results: patients described seeing their children's faces for the first time, noticing details like wood grain in furniture, and watching tree branches sway in the wind. The therapy proved so successful in early animal trials that Bennett and Maguire adopted two of the treated dogs, Venus and Mercury, as family pets. Despite the triumph, Bennett expressed concerns about political attacks on science in the United States, warning of potential long-term damage to research and a possible brain drain.
+
+This story offers a reminder of what patient, collaborative science can achieve. Beyond the technical accomplishment, it captures the deeply human dimension of medical research—from a chance meeting over anatomy to restored sight for people who had lost hope. The recognition also highlights a broader renaissance in gene therapy, with additional prizes awarded for treatments targeting sickle cell disease and neurodegenerative conditions, suggesting we may be entering an era where once-incurable genetic disorders become manageable realities.</description>
+      <source url="https://www.theguardian.com/science/2026/apr/19/the-oscar-of-science-awarded-to-scientists-behind-genetic-treatment-that-restores-lost-vision-win">The Guardian</source>
+    </item>
     <item>
       <title>‘Lost Land’ director captures play and peril on a migrant's journey</title>
       <link>https://news.bias.com/go/2026-04-19-0402</link>
@@ -482,14 +494,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Tue, 14 Apr 2026 10:44:14 GMT</pubDate>
       <description>Kathrin Marchand's athletic journey took an unexpected turn when a stroke at age 30 ended her Olympic rowing career and left her with lasting challenges including concentration difficulties and limited vision. The former Olympian, who competed for Germany in 2012 and 2016, has learned to accept her body's new limitations while rediscovering her love for sport. Within months of her stroke, she returned to rowing as a para-athlete, quickly earning medals at international competitions and placing fourth at the 2024 Paris Paralympics. Now she's embracing another challenge: para cross-country skiing, demonstrating remarkable resilience in redefining what athletic achievement means to her.</description>
       <source url="https://www.dw.com/de/kathrin-marchand-der-körper-ist-keine-maschine/a-76764390?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
-    </item>
-    <item>
-      <title>Giant echidnas weighing 15kg roamed Victoria – and the evidence was hiding in plain sight</title>
-      <link>https://news.bias.com/go/2026-04-14-0818</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-14-0818</guid>
-      <pubDate>Tue, 14 Apr 2026 08:18:59 GMT</pubDate>
-      <description>A finger-length fossil fragment discovered in a museum storage tray has revealed that giant echidnas once roamed Victoria. The specimen, excavated from Foul Air Cave in 1907 but only recently identified, belongs to Megalibgwilia owenii—a Pleistocene-era echidna weighing up to 15kg and measuring about a meter long. Collection manager Tim Ziegler recognized the distinctive palate and breathing chambers of an echidna beak, despite the fragment being mistaken for kangaroo bone for over a century. The robust skeleton suggests these ancient monotremes used powerful force to dig for prey or tear bark. This finding fills a 1,000km gap in the species' known distribution across Australia.</description>
-      <source url="https://www.theguardian.com/environment/2026/apr/14/owens-giant-echidna-fossil-victoria">The Guardian</source>
     </item>
   </channel>
 </rss>
