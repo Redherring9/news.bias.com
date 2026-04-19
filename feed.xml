@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 14:03:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 16:04:09 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The last Chernobyl wedding: the couple who married as a nuclear disaster unfolded</title>
+      <link>https://news.bias.com/go/2026-04-19-1604</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-19-1604</guid>
+      <pubDate>Sun, 19 Apr 2026 16:04:08 GMT</pubDate>
+      <description>On April 26, 1986, as the Chernobyl nuclear reactor exploded less than four kilometers away, nineteen-year-old teacher Iryna Stetsenko and twenty-five-year-old plant engineer Serhiy Lobanov prepared for their wedding day in the nearby Soviet city of Pripyat. Iryna heard a thunderous roar the night before that made windows rattle; Serhiy felt a tremor and went back to sleep. Neither realized they were witnessing the worst nuclear disaster in history.
+
+The morning brought surreal contradictions. Serhiy woke to beautiful sunshine and wedding-day excitement, only to see soldiers in gas masks and streets being washed with foam. Smoke rose from reactor four, where firefighters and workers were being exposed to lethal radiation levels. Using his technical knowledge, he placed a wet cloth at the apartment door to block radioactive dust, then went to buy tulips at an eerily empty market. Meanwhile, Iryna's mother fielded alarmed calls from neighbors, but authorities insisted all planned events should proceed. The Soviet state maintained strict information control—even as children were sent to school.
+
+The couple married at the Palace of Culture as planned, but their wedding banquet carried a somber tone. Everyone sensed something terrible had happened without knowing the details. Forty years later, the couple lives in Berlin, having rebuilt their lives twice—first after the nuclear disaster, then fleeing war when the highly radioactive remains of Chernobyl became part of a conflict zone. This story offers a quietly remarkable window into how ordinary life collided with extraordinary catastrophe, and how resilience can carry people through unimaginable circumstances.</description>
+      <source url="https://www.bbc.com/portuguese/articles/c05dqpj1y10o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>‘How much have we missed?’: book tunes in to overlooked world of female birdsong</title>
       <link>https://news.bias.com/go/2026-04-19-1403</link>
@@ -502,14 +514,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Tue, 14 Apr 2026 23:45:10 GMT</pubDate>
       <description>In eastern Madagascar, conservationists are rebuilding a living bridge between two protected areas that were separated in the 1960s when forests were cleared for agriculture. The reforestation corridor project aims to reconnect 150 hectares of fragmented habitat, home to a dozen lemur species and countless plants and animals found nowhere else. Led by the Mad Dog Initiative and partners, the effort has already planted over 100 native tree species across 70 hectares, with promising survival rates. Lemurs are already using the young corridor. The project combines scientific research with community investment in ecotourism, healthcare, and education, creating a model where forest restoration supports both wildlife and local people.</description>
       <source url="https://news.mongabay.com/2026/04/a-reforestation-corridor-in-madagascar-offers-a-future-for-lemurs-and-locals/">Mongabay</source>
-    </item>
-    <item>
-      <title>Waikato community rallies to gift new home to healthcare worker after house fire</title>
-      <link>https://news.bias.com/go/2026-04-14-2123</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-14-2123</guid>
-      <pubDate>Tue, 14 Apr 2026 21:23:10 GMT</pubDate>
-      <description>After a Māori health worker lost her home in a 2021 fire, her Waikato community is coming together to provide her with a new one. Te Kōhao Health is gifting a repurposed house to Billie Gillet-Kati, who has spent decades supporting families as a navigator for Whānau Ora, including frontline work during the pandemic despite health vulnerabilities. The home will be relocated to her land in Waharoa, with local businesses donating materials and labor while volunteers help with carpentry, painting, and finishing touches. Leaders describe the effort as kaupapa Māori values in action—recognizing someone who has quietly given everything to serve others, and ensuring she can continue living on her ancestral land.</description>
-      <source url="https://www.rnz.co.nz/news/national/592402/waikato-community-rallies-to-gift-new-home-to-healthcare-worker-after-house-fire">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
