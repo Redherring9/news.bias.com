@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 06:09:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 08:04:42 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Could Northland be NZ's coffee-growing capital?</title>
+      <link>https://news.bias.com/go/2026-04-20-0804</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-20-0804</guid>
+      <pubDate>Mon, 20 Apr 2026 08:04:40 GMT</pubDate>
+      <description>New Zealand's fledgling coffee industry is taking root in Northland, where growers are exploring whether the region could become an unlikely coffee-growing hub. What began as a single commercial plantation just five years ago has blossomed into a small but ambitious association of nine producers, now cultivating around 7,000 plants with thousands more in development. It's a surprising venture for a country better known for its wine than its beans, but industry leaders see parallels to New Zealand's wine sector half a century ago—another crop once thought impossible to grow commercially here.
+
+The government is backing the experiment with nearly half a million dollars in research funding, supporting trials across Northland to identify optimal soils and growing conditions. Growers aren't aiming for mass production; instead, they're pursuing premium varieties like Geisha and SL34, award-winning beans known for complex flavors and disease resistance. The strategy involves borrowing techniques from New Zealand's established wine and beer industries, including yeast fermentation to develop distinctive taste profiles. Experts from Hawaii's Kona region are being brought in to share processing knowledge, helping local growers understand how to coax out the special characteristics that command high prices.
+
+This story offers a glimpse into agricultural innovation at its most grassroots level—a handful of growers betting that climate, soil, and expertise can converge to create something genuinely new. It's a reminder that the crops we associate with certain landscapes aren't fixed, and that patient experimentation can reshape what we think is possible. Whether Northland's coffee will one day rival its wine remains to be seen, but the quiet ambition behind this emerging industry makes it worth watching.</description>
+      <source url="https://www.rnz.co.nz/news/business/592841/could-northland-be-nz-s-coffee-growing-capital">Radio New Zealand</source>
+    </item>
     <item>
       <title>Wellington floods: The stories of the people caught up in the disaster</title>
       <link>https://news.bias.com/go/2026-04-20-0604</link>
@@ -538,14 +550,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Wed, 15 Apr 2026 22:58:58 GMT</pubDate>
       <description>Gray whales, which historically avoided San Francisco Bay during their epic 10,000-mile migration between Mexico and the Arctic, have been appearing there with surprising frequency since 2018. A new study reveals that at least 18% of these whales have died in the bay, with vessel strikes accounting for over 40% of confirmed deaths. Researchers believe Arctic warming may be disrupting the whales' traditional food sources, pushing them to forage in this busy shipping corridor. With the overall gray whale population at its lowest since 1970, conservationists are calling for federal action to protect the animals, while local programs educate boat operators and explore AI-powered whale detection systems.</description>
       <source url="https://www.theguardian.com/us-news/2026/apr/15/gray-whales-san-francisco-bay">The Guardian</source>
-    </item>
-    <item>
-      <title>How this tiny town welcomed a 70-piece orchestra</title>
-      <link>https://news.bias.com/go/2026-04-15-2018</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-15-2018</guid>
-      <pubDate>Wed, 15 Apr 2026 20:18:49 GMT</pubDate>
-      <description>When the 70-piece Sydney Youth Orchestras traveled to Wilcannia, a remote town of 735 in rural New South Wales, they met the local children's choir for a cultural exchange through music. Fifteen-year-old violinist Demeil from Sydney connected with 14-year-old Barkindji girl Imogen, who had never seen an orchestra before. The Wilcannia children, who sing songs in their Aboriginal language to learn their culture, shared their connection to Country while discovering the magic of orchestral performance. After just a few days of rehearsals and exchanging handmade gifts, the young musicians performed together, bridging the city-country divide through their shared passion for music and creating lasting bonds across different worlds.</description>
-      <source url="https://www.abc.net.au/news/2026-04-16/how-this-tiny-town-welcomed-sydney-youth-orchestra/106283848">ABC Australia</source>
     </item>
   </channel>
 </rss>
