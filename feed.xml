@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 04:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 06:09:35 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wellington floods: The stories of the people caught up in the disaster</title>
+      <link>https://news.bias.com/go/2026-04-20-0604</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-20-0604</guid>
+      <pubDate>Mon, 20 Apr 2026 06:04:11 GMT</pubDate>
+      <description>Wellington's southern suburbs faced severe flooding on Monday morning after heavy rain battered New Zealand's North Island for the second consecutive weekend. The storm transformed quiet residential streets into waterways, catching residents off guard in the early hours and forcing swift evacuations.
+
+In Mount Cook, residents woke around 4:30am to find cars floating in the middle of streets and debris-choked streams overflowing into neighborhoods. Jane Loughnan watched half a dozen vehicles drift past her window, while mud covered footpaths and doorsteps. Nearby, Mik Breitenbach and her three flatmates experienced an even more alarming awakening—gurgling sounds that turned out to be water seeping up through their floorboards. Within minutes, they were wading through waist-deep currents outside their front door, arms linked to avoid being swept away. Fortunately, they had prepared emergency bags after an earlier cyclone warning and found refuge at a friend's dry home. In Brooklyn, CJ Kochar faced a different terror when a landslide caused his bedroom wall to collapse around 5am, the roof caving in as cracks spread through the structure.
+
+What makes these accounts quietly remarkable is the community response amid chaos—neighbors emerging with brooms and shovels, friends opening doors without hesitation, people maintaining composure when their homes literally crumbled around them. These stories capture both the vulnerability of urban life in the face of extreme weather and the resilience that surfaces when disaster strikes close to home. They're a reminder that behind every weather event are individual moments of fear, quick thinking, and the small acts of solidarity that help people through the worst mornings imaginable.</description>
+      <source url="https://www.rnz.co.nz/news/weather/592875/wellington-floods-the-stories-of-the-people-caught-up-in-the-disaster">Radio New Zealand</source>
+    </item>
     <item>
       <title>Asia’s longest free-flowing river contaminated by arsenic linked to Myanmar mines</title>
       <link>https://news.bias.com/go/2026-04-20-0401</link>
@@ -534,14 +546,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Wed, 15 Apr 2026 20:18:49 GMT</pubDate>
       <description>When the 70-piece Sydney Youth Orchestras traveled to Wilcannia, a remote town of 735 in rural New South Wales, they met the local children's choir for a cultural exchange through music. Fifteen-year-old violinist Demeil from Sydney connected with 14-year-old Barkindji girl Imogen, who had never seen an orchestra before. The Wilcannia children, who sing songs in their Aboriginal language to learn their culture, shared their connection to Country while discovering the magic of orchestral performance. After just a few days of rehearsals and exchanging handmade gifts, the young musicians performed together, bridging the city-country divide through their shared passion for music and creating lasting bonds across different worlds.</description>
       <source url="https://www.abc.net.au/news/2026-04-16/how-this-tiny-town-welcomed-sydney-youth-orchestra/106283848">ABC Australia</source>
-    </item>
-    <item>
-      <title>Video of recycling collector helping grandson read word on bus in Fortaleza goes viral</title>
-      <link>https://news.bias.com/go/2026-04-15-1717</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-15-1717</guid>
-      <pubDate>Wed, 15 Apr 2026 17:17:20 GMT</pubDate>
-      <description>A touching moment in Fortaleza, Brazil captured hearts online when a passerby filmed a recycling collector helping his seven-year-old grandson sound out the word "Vitória" on the back of a bus. Carlos André, 44, patiently guided young Moisés letter by letter while working his collection route. The boy, who attends second grade, often accompanies his grandfather on weekends, asking endless questions about the world around him. Though the family supports itself through recycling work and faces economic challenges, Carlos and his wife Luciana emphasize education as the greatest gift they can give their children. The spontaneous roadside reading lesson resonated widely as a tender example of learning woven into everyday life.</description>
-      <source url="https://g1.globo.com/ce/ceara/noticia/2026/04/15/video-de-catador-ajudando-neto-a-ler-palavra-em-onibus-em-fortaleza-viraliza-assista.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
