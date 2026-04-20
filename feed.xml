@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 02:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 04:01:39 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Asia’s longest free-flowing river contaminated by arsenic linked to Myanmar mines</title>
+      <link>https://news.bias.com/go/2026-04-20-0401</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-20-0401</guid>
+      <pubDate>Mon, 20 Apr 2026 04:01:38 GMT</pubDate>
+      <description>Asia's longest free-flowing river, the Salween, has been found contaminated with dangerous levels of arsenic traced to unregulated mining operations in Myanmar. Independent testing that began in September 2025 revealed arsenic levels more than double the safety threshold at every monitoring point along the Thai side of the river. The discovery came after researchers found similar contamination in nearby Thai rivers, prompting them to investigate the Salween, which forms part of the Myanmar-Thailand border.
+
+Satellite analysis identified 127 suspected mines operating within the Salween River Basin over the past decade, with 28 new operations opening since 2023. While the exact minerals being extracted remain unclear due to secrecy among ethnic factions controlling Myanmar's northern territories, evidence points to rare earth mining alongside gold and other critical minerals. Rare earth elements are essential for modern technologies including smartphones, electric vehicles, and renewable energy systems. The suspected use of in situ leaching—a process that pumps chemicals underground to dissolve minerals—raises particular concern for water contamination.
+
+For people like Saw Si Paw Rak Salween, an ethnic Karen fisherman who named himself after the river he loves, the news is devastating. He has fished these waters his entire life, learning the trade from his father. This story matters because it illuminates the hidden environmental costs of our technology-driven world, where the minerals powering our devices come at the expense of communities and ecosystems far from view. It's a quiet crisis unfolding along one of Asia's most important waterways, affecting the livelihoods and health of riverside communities while the mining continues largely in secret amid Myanmar's ongoing territorial conflicts.</description>
+      <source url="https://news.mongabay.com/2026/04/asias-longest-free-flowing-river-contaminated-by-arsenic-linked-to-myanmar-mines/">Mongabay</source>
+    </item>
     <item>
       <title>Research in Japan uses cell therapy and presents unprecedented results in treating Parkinson's</title>
       <link>https://news.bias.com/go/2026-04-20-0202</link>
@@ -530,14 +542,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Wed, 15 Apr 2026 17:17:20 GMT</pubDate>
       <description>A touching moment in Fortaleza, Brazil captured hearts online when a passerby filmed a recycling collector helping his seven-year-old grandson sound out the word "Vitória" on the back of a bus. Carlos André, 44, patiently guided young Moisés letter by letter while working his collection route. The boy, who attends second grade, often accompanies his grandfather on weekends, asking endless questions about the world around him. Though the family supports itself through recycling work and faces economic challenges, Carlos and his wife Luciana emphasize education as the greatest gift they can give their children. The spontaneous roadside reading lesson resonated widely as a tender example of learning woven into everyday life.</description>
       <source url="https://g1.globo.com/ce/ceara/noticia/2026/04/15/video-de-catador-ajudando-neto-a-ler-palavra-em-onibus-em-fortaleza-viraliza-assista.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Wetter winter and warmer summer hit marine life</title>
-      <link>https://news.bias.com/go/2026-04-15-1420</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-15-1420</guid>
-      <pubDate>Wed, 15 Apr 2026 14:20:54 GMT</pubDate>
-      <description>Record winter rainfall in Devon and Cornwall is washing pollution, sediment, and nutrients into coastal waters, potentially threatening marine ecosystems and human health. Scientists at Plymouth Marine Laboratory are using satellites and drones to track freshwater plumes carrying farm runoff and sewage. The sediment blocks light needed by seagrass and seaweed, while excess nutrients fuel algal blooms—some toxic to marine life. Researchers have detected elevated E. coli levels after heavy rain. The long-term impact depends on whether spring brings more rain or dry, hot conditions. Despite concerns, the Environment Agency notes that bathing water quality has improved significantly over the past decade, with 98% of beaches meeting excellent standards.</description>
-      <source url="https://www.bbc.com/news/articles/cy51wrg6lp0o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
