@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 08:04:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 10:01:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Back pain, difficult births, crowded teeth and sinusitis: the evolutionary 'defects' that challenge the idea of 'intelligent design' of the human body</title>
+      <link>https://news.bias.com/go/2026-04-20-1001</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-20-1001</guid>
+      <pubDate>Mon, 20 Apr 2026 10:01:38 GMT</pubDate>
+      <description>The human body is often celebrated as a marvel of perfect design, but a closer look reveals something quite different: a patchwork of evolutionary compromises that trade function for imperfection. Rather than creating structures from scratch, evolution modifies what already exists, resulting in solutions that are "good enough" rather than flawless—and many common health problems stem directly from these inherited limitations.
+
+Consider the human spine, which evolved from ancestors who moved on all fours and swung through trees. When humans adopted upright walking, the spine had to balance opposing demands: supporting vertical weight while maintaining flexibility for movement. The characteristic curves that help distribute weight also predispose us to back pain, herniated discs, and degenerative changes. Similarly, the recurrent laryngeal nerve takes a puzzling detour from brain to larynx, looping down into the chest and back up—a vestige from fish-like ancestors with gills, stretched over evolutionary time as necks grew longer. Even our eyes are "wired backward," with light passing through nerve fibers before reaching photoreceptors, creating a blind spot our brains must compensate for.
+
+This story offers a refreshing perspective on the human condition: our aches, pains, and vulnerabilities aren't design flaws but the natural result of evolutionary tinkering. Understanding these trade-offs helps us appreciate both the remarkable adaptability of life and the practical constraints that shape our bodies—a reminder that perfection was never the goal, only survival.</description>
+      <source url="https://www.bbc.com/portuguese/articles/c1eqy5gwn12o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Could Northland be NZ's coffee-growing capital?</title>
       <link>https://news.bias.com/go/2026-04-20-0804</link>
@@ -542,14 +554,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Thu, 16 Apr 2026 02:09:29 GMT</pubDate>
       <description>More than 7,000 people gathered in Auckland and thousands more across New Zealand to celebrate Holi, the Festival of Colours, marking spring's arrival with vibrant powders, music, and food. The festival's legends celebrate devotion and joy—one tells of Prahlad's faith saving him from fire, another of Krishna playfully colouring Radha's face, beginning the tradition of sharing hues. Communities from Hamilton to Tauranga, Wellington, and Christchurch's Rolleston hosted their own gatherings, with participants of all ages joining in. While one Christchurch event faced cancellation due to shipping delays, the celebrations offered New Zealanders of diverse backgrounds a chance to experience South Asian traditions and strengthen community bonds.</description>
       <source url="https://www.rnz.co.nz/news/community/589923/vibrant-holi-celebrations-draw-thousands-nationwide">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Gray whales, once rare in San Francisco Bay, dying there at alarming rates</title>
-      <link>https://news.bias.com/go/2026-04-15-2258</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-15-2258</guid>
-      <pubDate>Wed, 15 Apr 2026 22:58:58 GMT</pubDate>
-      <description>Gray whales, which historically avoided San Francisco Bay during their epic 10,000-mile migration between Mexico and the Arctic, have been appearing there with surprising frequency since 2018. A new study reveals that at least 18% of these whales have died in the bay, with vessel strikes accounting for over 40% of confirmed deaths. Researchers believe Arctic warming may be disrupting the whales' traditional food sources, pushing them to forage in this busy shipping corridor. With the overall gray whale population at its lowest since 1970, conservationists are calling for federal action to protect the animals, while local programs educate boat operators and explore AI-powered whale detection systems.</description>
-      <source url="https://www.theguardian.com/us-news/2026/apr/15/gray-whales-san-francisco-bay">The Guardian</source>
     </item>
   </channel>
 </rss>
