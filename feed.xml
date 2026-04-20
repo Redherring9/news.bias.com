@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 00:02:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 02:02:17 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Research in Japan uses cell therapy and presents unprecedented results in treating Parkinson's</title>
+      <link>https://news.bias.com/go/2026-04-20-0202</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-20-0202</guid>
+      <pubDate>Mon, 20 Apr 2026 02:02:15 GMT</pubDate>
+      <description>Researchers at Kyoto University in Japan have achieved a significant breakthrough in treating Parkinson's disease using cellular therapy, showing unprecedented results in restoring dopamine production in patients' brains. Brain imaging from seven participants revealed increased dopamine levels two years after receiving transplants of specially engineered cells—a development considered a milestone in the field.
+
+The therapy builds on Nobel Prize-winning research by Shinya Yamanaka, who discovered in 2012 that ordinary cells can be reprogrammed to resemble embryonic stem cells. The Japanese team took this further by transforming blood cells from donors into dopamine-producing neurons—precisely the type of cell that degenerates in Parkinson's disease. During the minimally invasive procedure, ten million of these engineered cells are implanted into a deep brain region called the putamen. The seven participants, aged 50 to 70, experienced an average 20% improvement in motor symptoms over two years, with some showing improvements as high as 50%. Unlike earlier stem cell attempts that caused problematic overgrowth, this controlled approach appears safer and more effective.
+
+While not yet a cure, this research represents a meaningful step forward after decades of trial and error with stem cell therapies. The treatment is currently intended for patients who have lived with Parkinson's for more than five years and haven't responded well to conventional medications. Researchers plan to expand the study to 35 participants and continue long-term monitoring before seeking official approval. For millions living with a progressive disease that robs them of movement and independence, this carefully measured advance offers something quietly powerful: renewed hope grounded in solid science.</description>
+      <source url="https://g1.globo.com/fantastico/noticia/2026/04/19/pesquisa-no-japao-usa-terapia-celular-e-apresenta-resultados-ineditos-no-tratamento-do-parkinson.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>'They told me he was dead': Children born near army base learn truth about UK soldier dads</title>
       <link>https://news.bias.com/go/2026-04-20-0002</link>
@@ -526,14 +538,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Wed, 15 Apr 2026 14:20:54 GMT</pubDate>
       <description>Record winter rainfall in Devon and Cornwall is washing pollution, sediment, and nutrients into coastal waters, potentially threatening marine ecosystems and human health. Scientists at Plymouth Marine Laboratory are using satellites and drones to track freshwater plumes carrying farm runoff and sewage. The sediment blocks light needed by seagrass and seaweed, while excess nutrients fuel algal blooms—some toxic to marine life. Researchers have detected elevated E. coli levels after heavy rain. The long-term impact depends on whether spring brings more rain or dry, hot conditions. Despite concerns, the Environment Agency notes that bathing water quality has improved significantly over the past decade, with 98% of beaches meeting excellent standards.</description>
       <source url="https://www.bbc.com/news/articles/cy51wrg6lp0o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>VIDEO: At 94, grandfather goes viral with energy for climbing roofs, cooking and even calculating</title>
-      <link>https://news.bias.com/go/2026-04-15-1154</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-15-1154</guid>
-      <pubDate>Wed, 15 Apr 2026 11:54:27 GMT</pubDate>
-      <description>Domingos Sanches Ledesma, a 94-year-old retiree from Araraquara, Brazil, has captured hearts online after his granddaughter shared videos of his daily life. With over 3 million views, viewers have been inspired by his remarkable energy as he climbs roofs, tends his orange tree in the rain, cooks meals, and performs mental math without a calculator. Married for 67 years to his wife Melisa, Domingos maintains both physical vitality and mental sharpness. His daughter notes he's always ready to help with any task, while his granddaughter, a physiotherapist, says people find his routine inspirational—a reminder that determination and joy aren't bound by age.</description>
-      <source url="https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/04/15/video-aos-94-anos-vovo-viraliza-com-disposicao-para-subir-em-telhado-cozinhar-e-ate-calcular.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
