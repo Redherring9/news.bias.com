@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 04:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 06:06:38 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bruce the kea achieves dominance with one-of-a-kind 'jousting' technique</title>
+      <link>https://news.bias.com/go/2026-04-21-0603</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-21-0603</guid>
+      <pubDate>Tue, 21 Apr 2026 06:03:08 GMT</pubDate>
+      <description>At a wildlife reserve in Christchurch, New Zealand, a kea named Bruce has turned what could have been a devastating disability into an unexpected advantage. After losing the upper half of his beak in 2013—likely from a trap—Bruce has not only survived but risen to the top of the social hierarchy among his fellow kea at Willowbank Wildlife Reserve. His secret? A one-of-a-kind fighting technique that researchers describe as "jousting."
+
+Behavioural ecologist Ximena Nelson and her team from the University of Canterbury were studying the kea's social dynamics when they discovered Bruce's remarkable status. Unable to bite like other kea, Bruce extends his neck and jabs opponents with his lower mandible like a spear, sometimes twisting to target unexpected body parts. The technique is so intimidating that other birds rarely challenge him—he fought only 36 times while researchers observed hundreds of conflicts among the other kea. The birds literally part "like the red sea" when Bruce approaches, giving him first choice at feeding trays and the lowest stress hormone levels in the group. He's even the only male preened by other males, a sign of his elevated status.
+
+Bruce's story offers more than novelty—it challenges assumptions about disability in wildlife. While he has adapted creative eating methods and remains the lightest bird in his group, his behavioural innovations have allowed him to thrive without intervention. Researchers suggest his success demonstrates that smart animals may compensate for disabilities better than we expect, offering hope for conservation efforts and raising questions about when human intervention is truly necessary. Bruce's resilience reminds us that nature often finds its own surprising solutions.</description>
+      <source url="https://www.rnz.co.nz/news/environment/592920/disabled-kea-achieves-social-dominance-with-one-of-a-kind-jousting-technique">Radio New Zealand</source>
+    </item>
     <item>
       <title>Pukinui population climbs sharply after controversial 1080 drop on Stewart Island</title>
       <link>https://news.bias.com/go/2026-04-21-0404</link>
@@ -582,14 +594,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Fri, 17 Apr 2026 13:16:21 GMT</pubDate>
       <description>Thomas J. Walker, who died in April 2026 at 94, devoted his career to understanding crickets and katydids through their songs. Working at the University of Florida for over forty years, he challenged traditional taxonomy by emphasizing the study of living insects rather than preserved specimens alone. Walker demonstrated that insect songs were not merely byproducts of anatomy but essential traits that distinguished species and structured behavior. A pioneer in open-access science, he helped digitize research journals and created the "Singing Insects of North America" website, making specialized knowledge available to both researchers and the public. His work bridged careful observation with generous sharing of knowledge.</description>
       <source url="https://news.mongabay.com/2026/04/thomas-j-walker-studied-the-songs-of-crickets-and-katydids/">Mongabay</source>
-    </item>
-    <item>
-      <title>Electric car prototype created by UFMG students wins international award in USA for lowest energy consumption</title>
-      <link>https://news.bias.com/go/2026-04-17-1004</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-17-1004</guid>
-      <pubDate>Fri, 17 Apr 2026 10:04:28 GMT</pubDate>
-      <description>Engineering students from Brazil's Federal University of Minas Gerais achieved a historic first for Latin America, winning the Shell Eco-marathon United States competition in Indianapolis. Their electric prototype traveled an impressive 469.7 kilometers per kilowatt-hour, beating the second-place team by 40 km/kWh. The 30-member team, called Milhagem UFMG and founded in 2005, brings together students from mechanical, electrical, physics, and automation programs. Their $3,000 prize will fund improvements to their combustion-powered urban vehicle. The victory reflects years of refinement and consistent success at Brazilian competitions, where the team has claimed multiple national titles in electric prototype efficiency.</description>
-      <source url="https://g1.globo.com/mg/minas-gerais/noticia/2026/04/17/prototipo-de-carro-eletrico-criado-por-estudantes-da-ufmg-ganha-premio-internacional-nos-eua-por-menor-consumo-de-energia.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
