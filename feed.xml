@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 14:02:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 16:04:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What is inattentional blindness, or why sometimes you are unable to see something right in front of your eyes</title>
+      <link>https://news.bias.com/go/2026-04-21-1604</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-21-1604</guid>
+      <pubDate>Tue, 21 Apr 2026 16:04:16 GMT</pubDate>
+      <description>We've all experienced the frustration: one person insists an object is nowhere to be found despite a thorough search, while another walks in and spots it immediately. This common domestic scenario reveals something fundamental about how our brains process visual information. The phenomenon, known as inattentional blindness, demonstrates that even when something sits directly in front of us, our brain may simply fail to register its presence.
+
+The explanation lies in how visual search works. Our brains cannot analyze every object in a scene simultaneously, so they rely on attention—a kind of spotlight that selects certain features while filtering out the rest. This selective processing is partly due to anatomy: the fovea, the center of our retina providing the sharpest vision, covers only a tiny portion of our visual field, about the size of a thumbnail at arm's length. Our eyes constantly make rapid movements called saccades to scan different parts of our environment. One famous demonstration involves people watching a basketball-passing video and counting passes; roughly half the viewers completely miss a person in a gorilla suit walking through the scene. The brain, focused on counting, simply doesn't register the unexpected visitor.
+
+This isn't a flaw but rather an efficient strategy that prevents us from becoming overwhelmed by visual information. Understanding inattentional blindness offers a quietly reassuring insight: when we can't find something right in front of us, it's not carelessness but simply how human perception works. The story reminds us that seeing involves not just what reaches our eyes, but what our brains expect and choose to process.</description>
+      <source url="https://www.bbc.com/mundo/articles/cq8wwkke5j7o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Hurricanes devastated Florida’s East Coast – then seagrass made an unexpected comeback</title>
       <link>https://news.bias.com/go/2026-04-21-1402</link>
@@ -594,18 +606,6 @@ Opticomm, a major private network operator serving half a million properties, ha
 
 The federal government is now considering options under existing telecommunications legislation, though experts caution that meaningful change may require significant reforms to the Telecommunications Act itself. The story is a quiet reminder that infrastructure promises can hinge on fine print, and that access to something as fundamental as reliable internet can still come down to the luck of a postcode. It's worth paying attention to—not as a technical controversy, but as a question of fairness in how essential services reach everyday Australians.</description>
       <source url="https://www.abc.net.au/news/2026-04-18/nbn-access-not-guaranteed-opticomm-private-service-subpar/106547106">ABC Australia</source>
-    </item>
-    <item>
-      <title>Freedmen’s Town Bricks in Houston, Texas</title>
-      <link>https://news.bias.com/go/2026-04-17-2142</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-17-2142</guid>
-      <pubDate>Fri, 17 Apr 2026 21:42:57 GMT</pubDate>
-      <description>In Houston's Fourth Ward, brick-paved streets tell a story that begins with freedom. After June 19, 1865, when Union General Gordon Granger arrived in Texas to enforce the Emancipation Proclamation—the day now celebrated as Juneteenth—formerly enslaved people began making their way to Texas cities. Many who had worked the plantations along the Brazos River settled in what became known as Freedmen's Town, building homes, churches, and a community from the ground up.
-
-The brick streets they laid in the 1860s were more than infrastructure; they were acts of self-determination, physical proof of people creating a place to belong. Remarkably, stretches of those original bricks still line Andrews Street and parts of Wilson Street today. They've endured more than 150 years of weather, the deliberate erasures of segregation, and repeated attempts by developers to pave them over. In 1985, Freedmen's Town gained recognition as a national historic site, offering some protection to what remains.
-
-This story matters because it's about persistence made tangible. These aren't replicas or commemorative installations—they're the actual bricks laid by hands that had just gained their freedom, still bearing the weight of traffic in a quiet residential neighborhood. It's a rare chance to walk on a piece of history that connects directly to one of America's most significant moments, preserved not in a museum but underfoot, part of the everyday landscape where that history unfolded.</description>
-      <source url="https://www.atlasobscura.com/places/freedmen-s-town-bricks">Atlas Obscura</source>
     </item>
   </channel>
 </rss>
