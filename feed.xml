@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 12:03:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 14:02:39 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hurricanes devastated Florida’s East Coast – then seagrass made an unexpected comeback</title>
+      <link>https://news.bias.com/go/2026-04-21-1402</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-21-1402</guid>
+      <pubDate>Tue, 21 Apr 2026 14:02:37 GMT</pubDate>
+      <description>Florida's Mosquito Lagoon, part of the Indian River Lagoon system, had become an ecological cautionary tale by the early 2020s. Years of nutrient pollution and harmful algal blooms had stripped away nearly all the seagrass—underwater meadows that stabilize sediments, clarify water, and provide vital habitat for everything from invertebrates to manatees. The collapse contributed to the starvation of more than 1,200 manatees between 2020 and 2025, devastating fisheries, tourism, and wildlife. By most measures, the lagoon had crossed a critical tipping point with little hope of natural recovery.
+
+Then, in fall 2022, hurricanes Ian and Nicole battered Florida's east coast within six weeks of each other. The immediate aftermath looked grim—seagrass coverage dropped even further. But something unexpected happened in spring 2023: seagrass began returning rapidly and widely. A team of geographers, including a Volusia County native who had heard from local guides about the lagoon's collapse, used satellite imagery and machine learning to track the stunning regrowth. By combining data from NASA's Harmonized Landsat-Sentinel program with Random Forest algorithms, they could monitor change at a scale impossible through traditional field surveys, which require laboriously boating or wading along transect lines.
+
+This story is worth attention because it challenges assumptions about degraded ecosystems and tipping points. The hurricanes, initially seen as destructive forces, may have inadvertently created conditions for recovery—perhaps by flushing out accumulated nutrients or resetting ecological conditions. It's a quietly hopeful reminder that nature's resilience can surprise us, even in systems we've written off as lost, and that new technologies are helping us witness these recoveries in real time.</description>
+      <source url="https://theconversation.com/hurricanes-devastated-floridas-east-coast-then-seagrass-made-an-unexpected-comeback-279177">The Conversation</source>
+    </item>
     <item>
       <title>Nurse leaves profession and rescues around 200 dogs and cats as animal protector in Piauí</title>
       <link>https://news.bias.com/go/2026-04-21-1203</link>
@@ -594,18 +606,6 @@ The brick streets they laid in the 1860s were more than infrastructure; they wer
 
 This story matters because it's about persistence made tangible. These aren't replicas or commemorative installations—they're the actual bricks laid by hands that had just gained their freedom, still bearing the weight of traffic in a quiet residential neighborhood. It's a rare chance to walk on a piece of history that connects directly to one of America's most significant moments, preserved not in a museum but underfoot, part of the everyday landscape where that history unfolded.</description>
       <source url="https://www.atlasobscura.com/places/freedmen-s-town-bricks">Atlas Obscura</source>
-    </item>
-    <item>
-      <title>The Brazilian admired by Michael Jackson and unknown in Brazil who will get a star on the Walk of Fame</title>
-      <link>https://news.bias.com/go/2026-04-17-1936</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-17-1936</guid>
-      <pubDate>Fri, 17 Apr 2026 19:36:43 GMT</pubDate>
-      <description>Paulinho da Costa may not be a household name in his native Brazil, but the 77-year-old percussionist from Rio de Janeiro has quietly shaped the sound of modern music. On May 13th, he'll become the first Brazilian-born musician to receive a star on the Hollywood Walk of Fame—a recognition that reflects a career spanning more than five decades and nearly 7,000 recorded songs.
-
-Da Costa's percussion has graced over 180 gold and platinum albums, including some of the most iconic tracks in music history. Michael Jackson considered him "the greatest percussionist in the world" and insisted on having him play on every solo album. His distinctive Brazilian rhythms can be heard on "Thriller," "We Are The World," Earth, Wind &amp; Fire's "September," Madonna's "La Isla Bonita," and countless other hits. He's worked with legends ranging from Quincy Jones and Stevie Wonder to Miles Davis and Bob Dylan, infusing a uniquely Brazilian sensibility into the songs that defined generations. Beyond music, he's contributed to more than 350 film soundtracks, and his work has been associated with 161 Grammy nominations and 59 wins.
-
-What makes da Costa's story quietly remarkable is how someone so influential could remain virtually unknown in his home country. A new Netflix documentary aims to change that, introducing audiences to the studio musician who never sought fame but became indispensable to the world's biggest artists. His story reminds us that some of the most profound cultural contributions happen not in the spotlight, but in the grooves beneath the groove—the subtle elements that make us want to dance without quite knowing why.</description>
-      <source url="https://www.bbc.com/portuguese/articles/ckgw894y3y8o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
     </item>
   </channel>
 </rss>
