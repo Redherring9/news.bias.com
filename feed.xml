@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 16:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 18:03:12 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Book that inspired Inconfidência Mineira has annotations confirmed as Tiradentes'</title>
+      <link>https://news.bias.com/go/2026-04-21-1803</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-21-1803</guid>
+      <pubDate>Tue, 21 Apr 2026 18:03:11 GMT</pubDate>
+      <description>A centuries-old mystery has been solved in Brazil. Forensic experts from the Federal Police's National Institute of Criminology have confirmed that handwritten annotations in a historic book belonged to Joaquim José da Silva Xavier — better known as Tiradentes, the martyred leader of an 18th-century independence movement. The book, seized when Tiradentes was arrested in Rio de Janeiro in 1789, contained ideas considered subversive at the time and helped inspire the Inconfidência Mineira, an early republican uprising against Portuguese colonial rule.
+
+Using a technique called graphoscopy, experts analyzed the morphology of letters, hand movements, and stroke connections with specialized equipment including spectral video comparators and custom lighting tables to examine the tiny annotations. They compared the markings with authenticated documents written by Tiradentes, reaching the highest level of certainty in their conclusion. The annotations include French translations and underlined passages on topics such as how provincial representatives should be elected, revealing that Tiradentes was already contemplating democratic governance for Minas Gerais.
+
+This confirmation reshapes historical understanding of both the man and the movement. Rather than a rebellion organized solely by elites, the Inconfidência Mineira now clearly included "a man of the people" engaging intellectually with revolutionary ideas from abroad. The book itself has journeyed through centuries — passing from colonial authorities to the National Archive, then to Santa Catarina, before returning to Minas Gerais in 1984. Today it rests in the Inconfidência Museum in Ouro Preto, where a replica is displayed. For historians, these modest marginalia offer something quietly profound: tangible evidence of one person's careful study of freedom, democracy, and rights — ideas that continue to echo across generations.</description>
+      <source url="https://g1.globo.com/mg/minas-gerais/noticia/2026/04/21/livro-que-inspirou-inconfidencia-mineira-tem-anotacoes-confirmadas-de-tiradentes.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>What is inattentional blindness, or why sometimes you are unable to see something right in front of your eyes</title>
       <link>https://news.bias.com/go/2026-04-21-1604</link>
@@ -594,18 +606,6 @@ The rescue began with a desperate letter smuggled out by prisoner James Wilson i
 
 What makes this story particularly captivating is not just its cinematic quality — complete with disguises, cryptic telegrams, and international intrigue — but the fact that nobody died in the escape. It's a narrative that connects Irish heritage with Australian history, yet remains surprisingly unknown. For those who discover it, the Catalpa rescue offers something quietly powerful: a reminder that even from the most hopeless circumstances, freedom can still be won.</description>
       <source url="https://www.abc.net.au/news/2026-04-18/catalpa-rescue-150th-anniversary-of-fremantle-prison-break/106556082">ABC Australia</source>
-    </item>
-    <item>
-      <title>Not all city suburbs have NBN access and it isn't by accident. Here's why</title>
-      <link>https://news.bias.com/go/2026-04-17-2345</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-17-2345</guid>
-      <pubDate>Fri, 17 Apr 2026 23:45:33 GMT</pubDate>
-      <description>When Australia rolled out its National Broadband Network in 2009, the promise was clear: 90 percent of homes, schools, and workplaces would gain access to fiber-optic internet. What many didn't realize was that this didn't necessarily mean access to the publicly owned NBN itself. In some areas—particularly new suburban developments—residents are served exclusively by private providers, and for hundreds of thousands of Australians, that distinction has made all the difference.
-
-Opticomm, a major private network operator serving half a million properties, has drawn repeated complaints from customers experiencing outages lasting days or even weeks. These disruptions prevent people from working remotely, accessing banking and healthcare services, or simply streaming news and entertainment. The issue disproportionately affects residents of newer, more affordable greenfield suburbs, where Opticomm often holds exclusive infrastructure rights. Many turn to mobile data as a backup, sometimes at additional cost. Consumer advocates describe the service as "patchy at best" and warn that unreliable internet deepens social and economic inequality in an increasingly digital world.
-
-The federal government is now considering options under existing telecommunications legislation, though experts caution that meaningful change may require significant reforms to the Telecommunications Act itself. The story is a quiet reminder that infrastructure promises can hinge on fine print, and that access to something as fundamental as reliable internet can still come down to the luck of a postcode. It's worth paying attention to—not as a technical controversy, but as a question of fairness in how essential services reach everyday Australians.</description>
-      <source url="https://www.abc.net.au/news/2026-04-18/nbn-access-not-guaranteed-opticomm-private-service-subpar/106547106">ABC Australia</source>
     </item>
   </channel>
 </rss>
