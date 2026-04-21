@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 02:03:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 04:04:26 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pukinui population climbs sharply after controversial 1080 drop on Stewart Island</title>
+      <link>https://news.bias.com/go/2026-04-21-0404</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-21-0404</guid>
+      <pubDate>Tue, 21 Apr 2026 04:04:24 GMT</pubDate>
+      <description>A rare seabird found only on Stewart Island, New Zealand's third-largest island, has experienced its most significant population increase in three decades following a pest control operation that proved both effective and contentious. The Southern New Zealand dotterel, known locally as pukinui, saw its numbers jump from 105 to 160 birds—a 52 percent increase that offers new hope for a species that has been losing dozens of adults to feral cats each year.
+
+The breakthrough came from an unusual approach: rather than targeting cats directly, wildlife managers distributed 1080 poison across 40,000 hectares to kill rats, which cats then consumed. Traditional year-round trapping had failed because the island's abundant rat population kept stealing bait before cats could find the traps. The August 2025 operation protected birds during their critical nesting season on mountaintops, with 91 of 97 known adults surviving alongside 56 newly banded juveniles. Conservation managers hope to reach 300 birds by 2035, though they acknowledge cats are already being detected at the edges of the treated area.
+
+The operation sparked division among island residents and revealed an unintended consequence: white-tailed deer proved more susceptible to the poison than expected, with camera detections dropping by 97 percent in some areas despite efforts to use deer-repellent bait. This story captures the genuine complexity of conservation work—the difficult trade-offs, the uncertainty about how long success will last, and the competing values within communities trying to restore ecosystems while preserving what different groups consider worth protecting. It's a reminder that saving species rarely follows a simple script.</description>
+      <source url="https://www.rnz.co.nz/news/environment/592983/pukinui-population-climbs-sharply-after-controversial-1080-drop-on-stewart-island">Radio New Zealand</source>
+    </item>
     <item>
       <title>Luis Yanza, campaigner who battled big oil in the Amazon rainforest</title>
       <link>https://news.bias.com/go/2026-04-21-0203</link>
@@ -578,14 +590,6 @@ What makes da Costa's story quietly remarkable is how someone so influential cou
       <pubDate>Fri, 17 Apr 2026 10:04:28 GMT</pubDate>
       <description>Engineering students from Brazil's Federal University of Minas Gerais achieved a historic first for Latin America, winning the Shell Eco-marathon United States competition in Indianapolis. Their electric prototype traveled an impressive 469.7 kilometers per kilowatt-hour, beating the second-place team by 40 km/kWh. The 30-member team, called Milhagem UFMG and founded in 2005, brings together students from mechanical, electrical, physics, and automation programs. Their $3,000 prize will fund improvements to their combustion-powered urban vehicle. The victory reflects years of refinement and consistent success at Brazilian competitions, where the team has claimed multiple national titles in electric prototype efficiency.</description>
       <source url="https://g1.globo.com/mg/minas-gerais/noticia/2026/04/17/prototipo-de-carro-eletrico-criado-por-estudantes-da-ufmg-ganha-premio-internacional-nos-eua-por-menor-consumo-de-energia.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Community-led ecotourism protects rebounding wild cattle in Thailand</title>
-      <link>https://news.bias.com/go/2026-04-17-0550</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-17-0550</guid>
-      <pubDate>Fri, 17 Apr 2026 05:50:09 GMT</pubDate>
-      <description>The critically endangered banteng, a rare wild cattle species, is thriving in Thailand's Huai Kha Khaeng Wildlife Sanctuary thanks to habitat protection and anti-poaching patrols. Over the past two decades, the population has doubled to at least 1,400 individuals—the largest in Southeast Asia. As herds expanded into surrounding farmland, local communities initially faced crop damage and conflict. In response, residents launched a community-based ecotourism initiative in 2021, offering banteng-watching tours and cultural activities. More than 320 people from 19 villages now participate, transforming the species from a source of conflict into a vital economic and cultural asset while fostering a shared commitment to conservation.</description>
-      <source url="https://news.mongabay.com/short-article/2026/04/community-led-ecotourism-protects-rebounding-wild-cattle-in-thailand/">Mongabay</source>
     </item>
   </channel>
 </rss>
