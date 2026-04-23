@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 14:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 16:03:56 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BBC Inside Science</title>
+      <link>https://news.bias.com/go/2026-04-23-1603</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-23-1603</guid>
+      <pubDate>Thu, 23 Apr 2026 16:03:54 GMT</pubDate>
+      <description>Scientists are taking proactive steps to prepare for potential future pandemics by developing vaccines for viruses that haven't yet mutated to threaten humanity. A phase 3 clinical trial is currently testing an mRNA vaccine for H5N1, a bird flu strain that rarely infects humans but proves deadly when it does. The concern isn't today's virus, but what it might become—researchers worry that mutations could transform H5N1 into a pathogen capable of rapid human-to-human transmission.
+
+The effort represents a significant shift in pandemic preparedness. Rather than scrambling to develop vaccines after an outbreak begins, this approach aims to stockpile effective vaccines in advance, ready for immediate deployment should the worst-case scenario materialize. The strategy builds directly on lessons learned during COVID-19, when governments worldwide found themselves unprepared for a global health crisis. Professor John Tregoning of Imperial College London explains how mRNA vaccine technology—the same platform used successfully against COVID-19—could revolutionize our ability to respond quickly to emerging threats.
+
+This story offers a glimpse into how science is learning from recent history to reimagine public health preparedness. It's a quiet but meaningful example of forward-thinking research that doesn't wait for disaster to strike, instead working steadily in the background to protect against dangers that may never arrive—but could prove catastrophic if they do.</description>
+      <source url="https://www.bbc.co.uk/programmes/w3ct977h?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Dippy the injured axolotl rescued from Welsh river</title>
       <link>https://news.bias.com/go/2026-04-23-1404</link>
@@ -594,18 +606,6 @@ The morning brought surreal contradictions. Serhiy woke to beautiful sunshine an
 
 The couple married at the Palace of Culture as planned, but their wedding banquet carried a somber tone. Everyone sensed something terrible had happened without knowing the details. Forty years later, the couple lives in Berlin, having rebuilt their lives twice—first after the nuclear disaster, then fleeing war when the highly radioactive remains of Chernobyl became part of a conflict zone. This story offers a quietly remarkable window into how ordinary life collided with extraordinary catastrophe, and how resilience can carry people through unimaginable circumstances.</description>
       <source url="https://www.bbc.com/portuguese/articles/c05dqpj1y10o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
-    </item>
-    <item>
-      <title>‘How much have we missed?’: book tunes in to overlooked world of female birdsong</title>
-      <link>https://news.bias.com/go/2026-04-19-1403</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-19-1403</guid>
-      <pubDate>Sun, 19 Apr 2026 14:03:07 GMT</pubDate>
-      <description>For centuries, birdwatchers have been told that the songs echoing through spring mornings are overwhelmingly male performances—territorial declarations and mating calls. A new guidebook is challenging that narrative, revealing that female birdsong has been systematically overlooked and misunderstood. As recently as 2016, only 0.01% of recordings in major sound archives were labeled as female, reflecting a profound gap in our understanding of avian communication.
-
-The Sound Approach to Birding 2, authored by Mark Constantine and researcher Lucy McRobert, accompanies its text with 300 recordings from 200 species, documenting that females sing for territory, to attract mates, and to ward off rivals—much like males. The oversight stems partly from European ornithologists studying songbirds in their region, where male song does predominate, then applying those assumptions globally. In reality, up to 70% of female bird species worldwide sing, with tropical species often performing elaborate duets. The book corrects colorful misconceptions too: the iconic quack attributed to Donald Duck is actually a female mallard call, since male mallards don't quack at all.
-
-This work joins a growing effort to recognize how gender bias shaped natural history. Inspired by Jasmine Donahaye's Birdsplaining, which critiqued mid-century field guides for depicting females as "duller" and submissive, the project aims to give female birds equal billing in both sound and description. For anyone who loves the dawn chorus or simply wonders about the natural world, this story offers a reminder of how much richness we've missed—and an invitation to listen more carefully.</description>
-      <source url="https://www.theguardian.com/environment/2026/apr/19/hidden-world-of-female-birdsong-book">The Guardian</source>
     </item>
   </channel>
 </rss>
