@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 20:04:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 22:02:53 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Amid conflict and poaching, tech helps boost mountain gorilla numbers</title>
+      <link>https://news.bias.com/go/2026-04-23-2202</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-23-2202</guid>
+      <pubDate>Thu, 23 Apr 2026 22:02:51 GMT</pubDate>
+      <description>In the steep, mist-wrapped mountains where Rwanda, Uganda, and the Democratic Republic of Congo meet, mountain gorillas are staging a quiet comeback. Their population has climbed 73% since 1989, reaching an estimated 1,063 individuals—enough to shift their status from critically endangered to endangered. It's a fragile victory in a landscape that has seen war, armed conflict, and relentless poaching pressure, where these apes face threats from snares, habitat loss, and the illegal wildlife trade.
+
+A key tool in this conservation success is SMART, a mobile platform that transforms how rangers work in the field. Standing for Spatial Monitoring and Reporting Tool, it allows forest guards to log wildlife sightings, map patrol routes, document poaching evidence, and analyze threats in real time. The data helps direct limited resources to the areas that need them most across the gorillas' 777-square-kilometer range, which spans eleven protected areas. Since its 2012 launch, SMART has been deployed at over 1,000 conservation sites worldwide, but in Virunga's challenging terrain—where gorillas live between 8,000 and 13,000 feet—it's proving especially valuable for coordinating efforts across borders.
+
+Yet challenges remain. Budgets are tight, rangers need more equipment, and security concerns persist across this volatile region. This story matters because it shows how technology and determination can help a species pull back from the brink, even in one of the world's most difficult conservation landscapes. It's a reminder that progress is possible, but never guaranteed—and that protecting the last 1,063 mountain gorillas requires constant vigilance, innovation, and care.</description>
+      <source url="https://news.mongabay.com/2026/04/amid-conflict-and-poaching-tech-helps-boost-mountain-gorilla-numbers/">Mongabay</source>
+    </item>
     <item>
       <title>The legacy of once-banned soldiers that hides in plain sight</title>
       <link>https://news.bias.com/go/2026-04-23-2004</link>
@@ -594,18 +606,6 @@ The two men collaborate through an association dedicated to "breaking the silenc
 
 This gesture arrives as global calls for reparations grow louder, even as debate continues about accountability for historical wrongs. What makes this moment quietly remarkable is one person's decision to look unflinchingly at inherited legacy—not to erase guilt, but to acknowledge harm and model a different kind of inheritance for future generations.</description>
       <source url="https://g1.globo.com/mundo/noticia/2026/04/19/homem-de-80-anos-e-1o-na-franca-a-se-desculpar-formalmente-por-ligacoes-de-familia-com-escravidao.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>'Our tīpuna have a funny way of making us remember': missing taonga found in Germany</title>
-      <link>https://news.bias.com/go/2026-04-19-2002</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-19-2002</guid>
-      <pubDate>Sun, 19 Apr 2026 20:02:12 GMT</pubDate>
-      <description>A carved wooden ancestor figure named Tāwhaki has been found in Munich, Germany, more than a century after disappearing from a marae in Manutūkē, a village on New Zealand's East Coast. The five-foot poutokomanawa, representing a revered ancestor and demigod, once stood in a wharepuni alongside its twin carving, Te Apaapa. Both figures vanished in the late 1800s, joining thousands of taonga scattered worldwide in museums and private collections.
-
-The mystery of Tāwhaki's journey begins with two English collectors: Thomas Hocken, a wealthy Dunedin surgeon and obsessive collector, and Augustus Hamilton, a scientist who amassed Māori artifacts. In 1895, the pair visited Whakatō marae, where Hamilton photographed both pou. Shortly afterward, both carvings disappeared. Te Apaapa surfaced in Hamilton's collection, though no record indicates it was gifted. Tāwhaki's whereabouts remained unknown until a recent chance discovery revealed he'd been in Munich's Museum Fünf Kontinente for fifty years, largely unidentified and puzzling to curators.
-
-This story offers a quiet meditation on cultural heritage, displacement, and the long journey toward reconnection. For the Rongowhakaata people, Tāwhaki's reappearance feels almost intentional—a reminder from ancestors across time and distance. The discovery opens questions about how such treasures traveled so far and highlights ongoing efforts by indigenous communities to locate and reclaim their cultural patrimony, one remarkable find at a time.</description>
-      <source url="https://www.rnz.co.nz/life/culture/our-tipuna-have-a-funny-way-of-making-us-remember-missing-taonga-found-in-germany">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
