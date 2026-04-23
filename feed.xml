@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 04:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 06:05:21 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Seeds can 'hear' the sound of raindrops, new study suggests</title>
+      <link>https://news.bias.com/go/2026-04-23-0602</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-23-0602</guid>
+      <pubDate>Thu, 23 Apr 2026 06:02:41 GMT</pubDate>
+      <description>A new study published in Scientific Reports suggests that rice seeds may be able to "hear" rainfall and use the sound to speed up germination. Researchers at MIT found that seeds exposed to the sound of water droplets in shallow puddles sprouted 24 percent faster than those in water without the droplet sounds. While plants have previously been observed responding to vibrations—such as producing defensive compounds when exposed to the sound of chewing caterpillars, or releasing pollen during buzz pollination—this appears to be the first time such sensitivity has been documented in seeds and seedlings.
+
+The research team chose rice seeds because they can germinate underwater, allowing scientists to isolate the effect of sound from the presence of water itself. What they discovered was surprising: beneath the surface of a puddle, a raindrop's "plunk" creates vibrations comparable in intensity to standing near a jet engine. The researchers believe these vibrations are detected by tiny structures inside the seed called statoliths—small starch granules that normally help plants sense gravity and orient their growth. These statoliths may vibrate at the same frequency as the raindrops, effectively allowing the seed to "hear" its environment much like sound waves cause a human eardrum to vibrate.
+
+This research opens a quietly remarkable window into how seeds interact with their surroundings. It suggests that germination isn't purely chemical or light-based, but may also be triggered by acoustic cues that signal favorable conditions for growth. While more research is needed to confirm the biological mechanisms at work and explore whether other plant species share this ability, the study invites us to reconsider the hidden sensory lives of plants—and to appreciate the complex ways nature times survival.</description>
+      <source url="https://www.abc.net.au/news/science/2026-04-23/plants-rain-sound-study-seeds/106585020">ABC Australia</source>
+    </item>
     <item>
       <title>Saint George: the warrior saint who became a symbol of faith, resistance, and identity in Rio</title>
       <link>https://news.bias.com/go/2026-04-23-0402</link>
@@ -594,18 +606,6 @@ The breakthrough came after the team discovered how to deliver a working copy of
 
 This story offers a reminder of what patient, collaborative science can achieve. Beyond the technical accomplishment, it captures the deeply human dimension of medical research—from a chance meeting over anatomy to restored sight for people who had lost hope. The recognition also highlights a broader renaissance in gene therapy, with additional prizes awarded for treatments targeting sickle cell disease and neurodegenerative conditions, suggesting we may be entering an era where once-incurable genetic disorders become manageable realities.</description>
       <source url="https://www.theguardian.com/science/2026/apr/19/the-oscar-of-science-awarded-to-scientists-behind-genetic-treatment-that-restores-lost-vision-win">The Guardian</source>
-    </item>
-    <item>
-      <title>‘Lost Land’ director captures play and peril on a migrant's journey</title>
-      <link>https://news.bias.com/go/2026-04-19-0402</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-19-0402</guid>
-      <pubDate>Sun, 19 Apr 2026 04:02:57 GMT</pubDate>
-      <description>A Japanese documentary filmmaker has found a deeply human lens through which to understand one of the world's most persistent refugee crises. Akio Fujimoto's "Lost Land" follows two young Rohingya siblings—5-year-old Shafi and his 9-year-old sister Somira—as they navigate a dangerous journey from a refugee camp in Bangladesh to Malaysia. The children are too young to comprehend the persecution that forced their community to flee Myanmar's Rakhine State, or to fully grasp why they must leave behind the fragile security of camp life for perilous border crossings and encounters with human traffickers.
-
-By centering the story on the children's perspective, Fujimoto invites audiences to experience the Rohingya crisis without the weight of political rhetoric or historical complexity clouding immediate emotional understanding. The filmmaker notes that just as Shafi and Somira don't know the full history behind their displacement—including the 2017 military crackdown that drove hundreds of thousands from Myanmar—many viewers also come to the subject without deep background knowledge. This shared innocence creates an entry point for empathy.
-
-What makes this documentary quietly remarkable is its refusal to rely on sensationalism or despair. Instead, it captures both the play and peril inherent in childhood, even under the most precarious circumstances. Fujimoto, himself the father of a young son, brings a parent's eye to the resilience and vulnerability of children caught in forces far beyond their control. The film offers viewers not just information about a crisis, but an intimate window into lives lived at the margins—a reminder that behind every refugee statistic are children who simply want what all children want: safety, family, and a place to call home.</description>
-      <source url="https://www.japantimes.co.jp/culture/2026/04/19/film/lost-land-akio-fujimoto-rohingya/">The Japan Times</source>
     </item>
   </channel>
 </rss>
