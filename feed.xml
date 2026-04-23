@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 00:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 02:04:09 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ping-pong robot Ace makes history by beating top-level human players</title>
+      <link>https://news.bias.com/go/2026-04-23-0204</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-23-0204</guid>
+      <pubDate>Thu, 23 Apr 2026 02:04:08 GMT</pubDate>
+      <description>In a Tokyo gymnasium, a robot named Ace has quietly made history by becoming the first autonomous machine to compete at an expert level in table tennis, occasionally besting professional human players in officially sanctioned matches. Created by Sony's AI research division, Ace represents a significant leap beyond previous ping-pong robots that have existed since the 1980s but never achieved the skill needed to challenge top-tier competitors.
+
+What sets Ace apart is its combination of high-speed perception, AI-driven decision-making, and precision robotics that allow it to respond to the lightning-fast rallies that define elite table tennis. The matches were conducted under official International Table Tennis Federation rules with licensed umpires, underscoring the legitimacy of Ace's achievement. This isn't just about mechanical arms swatting balls—it's about a system that can read spin, anticipate trajectory, and execute complex shots in real time, all skills that require the kind of adaptability humans have long monopolized in competitive sports.
+
+This story matters because it hints at a broader future for robotics. If a machine can master the intricate dance of table tennis—a sport demanding split-second reactions and physical finesse—similar technology could eventually assist in surgery, rehabilitation therapy, or delicate manufacturing tasks. Ace's success is less about robots replacing athletes and more about expanding what machines can learn to do alongside us, in domains where speed, precision, and adaptability intersect.</description>
+      <source url="https://www.japantimes.co.jp/business/2026/04/23/companies/ping-pong-robot/">The Japan Times</source>
+    </item>
     <item>
       <title>Michele Andrade adopts dog that wandered onto stage during DVD recording in Paraíba: 'He will be happy now'; VIDEO</title>
       <link>https://news.bias.com/go/2026-04-23-0002</link>
@@ -594,18 +606,6 @@ The work extends far beyond one property. An estimated 110 million people depend
 
 This story offers a quiet testament to what patient, persistent environmental work can achieve over decades. It shows how reforestation creates cascading benefits — for water security, biodiversity, and even nearby businesses — while pointing toward the considerable work still ahead to reach zero deforestation and restore what was lost.</description>
       <source url="https://g1.globo.com/jornal-nacional/noticia/2026/04/18/sos-mata-atlantica-completa-40-anos-com-44-milhoes-de-arvores-plantadas.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>The book written 250 years ago that still influences our lives</title>
-      <link>https://news.bias.com/go/2026-04-19-0002</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-19-0002</guid>
-      <pubDate>Sun, 19 Apr 2026 00:02:54 GMT</pubDate>
-      <description>Two hundred and fifty years ago, Scottish philosopher Adam Smith published *An Inquiry into the Nature and Causes of the Wealth of Nations*, a book that didn't just explain economics—it transformed it. The work became an instant success and remains a cornerstone of modern economic thought, shaping everything from global trade policies to how we think about wages. What makes this anniversary particularly fascinating is how Smith's ideas continue to be claimed across the political spectrum: Margaret Thatcher reportedly carried a copy in her pocket, while Barack Obama quoted Smith to argue that hard work should guarantee a decent living. The book has become one of those classics everyone references but fewer have actually read.
-
-At its heart, *The Wealth of Nations* introduced concepts that feel both familiar and revolutionary. Smith's famous example of a pin factory illustrates the power of dividing labor into specialized tasks—turning what one person might struggle to complete in a day into a process that could produce tens of thousands of pins with just ten workers. Perhaps most charmingly, he recognized that innovation often comes from ordinary workers themselves, like the bored boy tending a steam engine who rigged a rope so the valve would open and close automatically, freeing him to play with friends. Smith saw this as one of the greatest improvements to the machine since its invention.
-
-This story is worth reading because it reminds us that foundational ideas about how economies work—and how people work within them—have deep roots. Smith's observations about labor, trade, and human ingenuity remain surprisingly relevant, continuing to fuel debates and shape policies centuries later. It's a quiet testament to how certain insights transcend their time.</description>
-      <source url="https://www.bbc.com/portuguese/articles/cew7d0gr50wo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
     </item>
   </channel>
 </rss>
