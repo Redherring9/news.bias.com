@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 20:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 22:01:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Surfer turns decommissioned wind turbine blades into surfboard fins</title>
+      <link>https://news.bias.com/go/2026-04-24-2201</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-24-2201</guid>
+      <pubDate>Fri, 24 Apr 2026 22:01:17 GMT</pubDate>
+      <description>A Sydney surfer has discovered an inventive second life for old wind turbine blades: transforming them into surfboard fins. Banjo Hunt uses a computer-operated cutter to shape fins from the composite material of decommissioned blades, including a six-meter section from the Waubra Wind Farm near Ballarat. While ninety percent of a wind turbine can be recycled, the blades themselves present a growing challenge, with Australian wind farms expected to produce 15,000 tonnes of blade waste by 2034.
+
+What makes turbine blades so difficult to recycle—their durable composite structure—is precisely what makes them ideal for surfboard fins. Hunt's approach bypasses the expensive, toxic processes of traditional fin manufacturing while keeping production local. The material comes with an impressive environmental resume: the blade Hunt is currently using generated nearly 15,000 megawatt-hours of clean energy and avoided 19,000 tonnes of carbon emissions during its working life. Professional surfer Darcy Crump tested the prototype fins at last month's Australian Boardriders Battle, reporting they performed on par with major commercial brands, though with a slightly stiffer feel.
+
+This story offers a small but meaningful glimpse at circular thinking in action. As thirty-one Australian wind farms reach the fifteen-year mark and newer turbines grow to eighty meters in length, the question of what to do with retired blades becomes increasingly urgent. Hunt's surfboard fins won't solve the entire problem, but they represent the kind of creative, practical repurposing that transforms industrial waste into something functional and locally made—a quiet reminder that sustainability sometimes rides the waves.</description>
+      <source url="https://www.abc.net.au/news/2026-04-25/surfer-turns-decommissioned-wind-turbines-into-surfboard-fins/106570718">ABC Australia</source>
+    </item>
     <item>
       <title>'A bridge between generations':Tokelaun Easter tourney going strong 50 years on</title>
       <link>https://news.bias.com/go/2026-04-24-2002</link>
@@ -594,18 +606,6 @@ Peking Opera is a highly stylized art form that emerged in the 18th and 19th cen
 
 This tour reflects a quiet but significant cultural bridge between distant traditions. For a city like Salvador, already rich in its own performance heritage, hosting one of China's premier cultural ambassadors offers a window into how other societies preserve and celebrate their artistic lineage—a reminder that storytelling, in all its forms, continues to connect us across continents and centuries.</description>
       <source url="https://g1.globo.com/ba/bahia/o-que-fazer-em-salvador/noticia/2026/04/20/opera-de-pequim-traz-classico-da-cultura-chinesa-para-concha-acustica-do-tca.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Scientists discover 'invisible elevator' that transports life through the Amazon</title>
-      <link>https://news.bias.com/go/2026-04-20-1802</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-20-1802</guid>
-      <pubDate>Mon, 20 Apr 2026 18:02:28 GMT</pubDate>
-      <description>Deep in the Amazon rainforest, scientists have discovered what they're calling an "invisible elevator" — a natural mechanism that transports life through the forest canopy. Research at the Amazon Tall Tower Observatory, published in Nature, revealed that fog forming over the vegetation carries bacteria and fungi from the forest floor up to 325 meters into the atmosphere, distributing these microorganisms across different regions of the rainforest.
-
-The discovery began when researcher Bruna Sebben from the Federal University of Paraná noticed microorganisms high up on the research tower, far above the 40-meter tree canopy. Using a fog sampling device over more than a year, her team identified eight types of bacteria and seven types of fungi being transported by mist droplets. These microorganisms play a crucial role in decomposition and nutrient recycling — processes so vigorous in the Amazon that fallen trees can disappear within two years, broken down and returned to the forest as nourishment. The fog acts as a distribution system, spreading these essential organisms throughout the ecosystem and supporting forest regeneration.
-
-This story offers a glimpse into the elegant, invisible systems that keep Earth's largest rainforest thriving. It's a reminder that nature operates through countless subtle mechanisms we're only beginning to understand, and that protecting pristine environments gives us the chance to observe these processes at work. The research also carries a warning: deforestation and fires could disrupt the conditions necessary for fog formation, potentially interrupting this vital cycle of renewal that has sustained the Amazon for millennia.</description>
-      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/04/20/a-325-metros-da-amazonia-cientistas-encontram-vida-dentro-da-nevoa.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
