@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 04:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 06:03:46 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Country diary: The quiet vitality of a well-managed churchyard | Phil Gates</title>
+      <link>https://news.bias.com/go/2026-04-24-0601</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-24-0601</guid>
+      <pubDate>Fri, 24 Apr 2026 06:01:37 GMT</pubDate>
+      <description>A country churchyard in England offers a gentle lesson in how human spaces and nature can coexist with grace. The church itself carries the scars and renewal of a devastating 1998 fire that destroyed its organ, floors, and 900 years of history, leaving only a charred shell. Seven years of careful reconstruction transformed the interior into a light-filled space with pale oak furnishings and a striking new east window by artist Helen Whittaker.
+
+The Paradise window celebrates St Brendan's legendary search for the Garden of Eden, depicting subtropical blooms like strelitzia and jacaranda in vivid stained glass. But the artist left clear panels at the bottom, framing the churchyard's own native beauty beyond—a design choice that quietly honors the wildlife sanctuary just outside. The grounds are managed with thoughtful restraint: mown paths wind through longer grass where primroses attract bee-flies, where a queen bumblebee investigates vole tunnels for nesting sites, and where a song thrush's call is the loudest sound. A treecreeper scales an ash tree, its claws audible in the stillness. Snowdrops and winter aconites have given way to spring's progression of daffodils and primroses.
+
+This story matters because it shows how small acts of considerate stewardship—leaving grass a bit longer, choosing when and where to mow—can create refuges for wildlife without diminishing the dignity of a burial ground. The writer's parting image, of yellow pollen from an ancient yew dissolving like smoke in a shaft of sunlight, captures the quiet vitality of a place where endings and beginnings are woven together with care.</description>
+      <source url="https://www.theguardian.com/environment/2026/apr/24/country-diary-the-quiet-vitality-of-a-well-managed-churchyard">The Guardian</source>
+    </item>
     <item>
       <title>New ‘cryptic’ gecko species discovered in Vietnam’s imperiled karst forests</title>
       <link>https://news.bias.com/go/2026-04-24-0402</link>
@@ -594,18 +606,6 @@ Satellite analysis identified 127 suspected mines operating within the Salween R
 
 For people like Saw Si Paw Rak Salween, an ethnic Karen fisherman who named himself after the river he loves, the news is devastating. He has fished these waters his entire life, learning the trade from his father. This story matters because it illuminates the hidden environmental costs of our technology-driven world, where the minerals powering our devices come at the expense of communities and ecosystems far from view. It's a quiet crisis unfolding along one of Asia's most important waterways, affecting the livelihoods and health of riverside communities while the mining continues largely in secret amid Myanmar's ongoing territorial conflicts.</description>
       <source url="https://news.mongabay.com/2026/04/asias-longest-free-flowing-river-contaminated-by-arsenic-linked-to-myanmar-mines/">Mongabay</source>
-    </item>
-    <item>
-      <title>Research in Japan uses cell therapy and presents unprecedented results in treating Parkinson's</title>
-      <link>https://news.bias.com/go/2026-04-20-0202</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-20-0202</guid>
-      <pubDate>Mon, 20 Apr 2026 02:02:15 GMT</pubDate>
-      <description>Researchers at Kyoto University in Japan have achieved a significant breakthrough in treating Parkinson's disease using cellular therapy, showing unprecedented results in restoring dopamine production in patients' brains. Brain imaging from seven participants revealed increased dopamine levels two years after receiving transplants of specially engineered cells—a development considered a milestone in the field.
-
-The therapy builds on Nobel Prize-winning research by Shinya Yamanaka, who discovered in 2012 that ordinary cells can be reprogrammed to resemble embryonic stem cells. The Japanese team took this further by transforming blood cells from donors into dopamine-producing neurons—precisely the type of cell that degenerates in Parkinson's disease. During the minimally invasive procedure, ten million of these engineered cells are implanted into a deep brain region called the putamen. The seven participants, aged 50 to 70, experienced an average 20% improvement in motor symptoms over two years, with some showing improvements as high as 50%. Unlike earlier stem cell attempts that caused problematic overgrowth, this controlled approach appears safer and more effective.
-
-While not yet a cure, this research represents a meaningful step forward after decades of trial and error with stem cell therapies. The treatment is currently intended for patients who have lived with Parkinson's for more than five years and haven't responded well to conventional medications. Researchers plan to expand the study to 35 participants and continue long-term monitoring before seeking official approval. For millions living with a progressive disease that robs them of movement and independence, this carefully measured advance offers something quietly powerful: renewed hope grounded in solid science.</description>
-      <source url="https://g1.globo.com/fantastico/noticia/2026/04/19/pesquisa-no-japao-usa-terapia-celular-e-apresenta-resultados-ineditos-no-tratamento-do-parkinson.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
