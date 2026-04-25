@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 06:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 08:02:06 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dyslexic thinking made me the scientist I am today. If we could harness its power, imagine what could be possible | Maggie Aderin</title>
+      <link>https://news.bias.com/go/2026-04-25-0802</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-25-0802</guid>
+      <pubDate>Sat, 25 Apr 2026 08:02:05 GMT</pubDate>
+      <description>Space scientist and engineer Maggie Aderin-Pocock recently received a formal dyslexia diagnosis, though she had long suspected it. Reflecting on her life through what she playfully calls a "retrospectroscope," she traced how dyslexia shaped not just her challenges, but her remarkable strengths. The child who struggled with reading and spelling was the same one telling vivid stories, seeing big-picture connections, and gazing at the stars while walking home across Hampstead Heath, dreaming of space.
+
+Aderin-Pocock's journey wasn't easy. She attended thirteen schools in twelve years amid family upheaval, often relegated to the back of classrooms with safety scissors while classmates advanced through reading levels. The unspoken message was clear: she was lacking. Yet this same "nice but dim" teenager grew determined to build her own telescope rather than accept the world as handed to her. Her persistence led to a distinguished career in space science, though the path was marked by others' lowered expectations and her own internalized doubt.
+
+The diagnosis brought unexpected relief and reframing. After encountering the charity Made By Dyslexia and its concept of "dyslexic thinking"—recognizing the unique cognitive strengths that accompany dyslexia—Aderin-Pocock stopped viewing herself as "suffering" from the condition. She now sees it as a gift that fostered her spatial reasoning, creative problem-solving, and ability to envision possibilities others missed. Her story offers a quiet but powerful reminder that struggle in one domain doesn't diminish brilliance in another, and that children labeled as lacking may simply be thinking differently—perhaps even reaching for the stars.</description>
+      <source url="https://www.theguardian.com/commentisfree/2026/apr/25/dyslexic-thinking-scientist-neurodiversity-maggie-aderin">The Guardian</source>
+    </item>
     <item>
       <title>‘Cries of delight’ as Sumatran orangutan filmed using canopy bridge to cross road for first time</title>
       <link>https://news.bias.com/go/2026-04-25-0603</link>
@@ -594,18 +606,6 @@ Behavioural ecologist Ximena Nelson and her team from the University of Canterbu
 
 Bruce's story offers more than novelty—it challenges assumptions about disability in wildlife. While he has adapted creative eating methods and remains the lightest bird in his group, his behavioural innovations have allowed him to thrive without intervention. Researchers suggest his success demonstrates that smart animals may compensate for disabilities better than we expect, offering hope for conservation efforts and raising questions about when human intervention is truly necessary. Bruce's resilience reminds us that nature often finds its own surprising solutions.</description>
       <source url="https://www.rnz.co.nz/news/environment/592920/disabled-kea-achieves-social-dominance-with-one-of-a-kind-jousting-technique">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Pukinui population climbs sharply after controversial 1080 drop on Stewart Island</title>
-      <link>https://news.bias.com/go/2026-04-21-0404</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-21-0404</guid>
-      <pubDate>Tue, 21 Apr 2026 04:04:24 GMT</pubDate>
-      <description>A rare seabird found only on Stewart Island, New Zealand's third-largest island, has experienced its most significant population increase in three decades following a pest control operation that proved both effective and contentious. The Southern New Zealand dotterel, known locally as pukinui, saw its numbers jump from 105 to 160 birds—a 52 percent increase that offers new hope for a species that has been losing dozens of adults to feral cats each year.
-
-The breakthrough came from an unusual approach: rather than targeting cats directly, wildlife managers distributed 1080 poison across 40,000 hectares to kill rats, which cats then consumed. Traditional year-round trapping had failed because the island's abundant rat population kept stealing bait before cats could find the traps. The August 2025 operation protected birds during their critical nesting season on mountaintops, with 91 of 97 known adults surviving alongside 56 newly banded juveniles. Conservation managers hope to reach 300 birds by 2035, though they acknowledge cats are already being detected at the edges of the treated area.
-
-The operation sparked division among island residents and revealed an unintended consequence: white-tailed deer proved more susceptible to the poison than expected, with camera detections dropping by 97 percent in some areas despite efforts to use deer-repellent bait. This story captures the genuine complexity of conservation work—the difficult trade-offs, the uncertainty about how long success will last, and the competing values within communities trying to restore ecosystems while preserving what different groups consider worth protecting. It's a reminder that saving species rarely follows a simple script.</description>
-      <source url="https://www.rnz.co.nz/news/environment/592983/pukinui-population-climbs-sharply-after-controversial-1080-drop-on-stewart-island">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
