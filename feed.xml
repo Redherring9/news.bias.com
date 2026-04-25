@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 20:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 22:03:52 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Can commercial farming and conservation co-exist?</title>
+      <link>https://news.bias.com/go/2026-04-25-2203</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-25-2203</guid>
+      <pubDate>Sat, 25 Apr 2026 22:03:51 GMT</pubDate>
+      <description>On a thousand-hectare sheep farm in Western Victoria, endangered eastern barred bandicoots and eastern quolls are thriving behind a 17-kilometre electrified fence designed to keep out feral cats and foxes. Tiverton farm, Victoria's largest predator-free sanctuary, is proving that commercial agriculture and wildlife conservation can successfully coexist—a milestone that has captured the attention of conservationists across Australia.
+
+The property runs about 5,000 merino sheep while serving as a refuge for species relocated from the Odonata Foundation's other sanctuaries. What began as an effort to preserve endangered native grasslands has revealed unexpected synergies: bandicoots turn over remarkable amounts of soil relative to their size, aerating the earth and dispersing native seeds in ways that accelerate ecosystem recovery. Meanwhile, the regenerated native grasses have improved wool quality by producing stronger fiber, helping the farm top wool markets even in wet years when introduced pastures typically cause problems.
+
+The integration isn't without cost or effort—the protective fence alone required over half a million dollars to build, and ecologist Damian Jones patrols it weekly while reviewing nightly footage from fifty trail cameras. Yet the results speak for themselves: high lamb survival rates thanks to predator exclusion, rebounding populations of marsupials, and the return of ground-nesting birds like brolgas to protected wetlands. This story matters because it offers a practical template for reconciling two goals often viewed as competing. In a country where feral predators are the leading cause of animal extinction, Tiverton demonstrates that with thoughtful design and committed stewardship, working landscapes can become engines of recovery rather than loss.</description>
+      <source url="https://www.abc.net.au/news/2026-04-26/predator-free-farm-helps-endangered-species-thrive/106596356">ABC Australia</source>
+    </item>
     <item>
       <title>On the other side of the world, grave adopters still visit fallen Aussie diggers</title>
       <link>https://news.bias.com/go/2026-04-25-2002</link>
@@ -594,18 +606,6 @@ The changes come amid growing concern about chronic traumatic encephalopathy (CT
 
 While widely welcomed, the guidelines are seen as only a starting point. Pearce suggests the league could go further, potentially aligning with rugby union's 15-minute weekly contact limit. For parents and referees like Russell, head injury risk remains a constant concern. This story matters because it shows a major sports organization taking meaningful steps to protect player health, particularly for children, even as it acknowledges there's more ground to cover in balancing athletic preparation with long-term brain safety.</description>
       <source url="https://www.abc.net.au/news/2026-04-22/nrl-contact-training-changes-junior-sport-neuroscience/106587700">ABC Australia</source>
-    </item>
-    <item>
-      <title>Book that inspired Inconfidência Mineira has annotations confirmed as Tiradentes'</title>
-      <link>https://news.bias.com/go/2026-04-21-1803</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-21-1803</guid>
-      <pubDate>Tue, 21 Apr 2026 18:03:11 GMT</pubDate>
-      <description>A centuries-old mystery has been solved in Brazil. Forensic experts from the Federal Police's National Institute of Criminology have confirmed that handwritten annotations in a historic book belonged to Joaquim José da Silva Xavier — better known as Tiradentes, the martyred leader of an 18th-century independence movement. The book, seized when Tiradentes was arrested in Rio de Janeiro in 1789, contained ideas considered subversive at the time and helped inspire the Inconfidência Mineira, an early republican uprising against Portuguese colonial rule.
-
-Using a technique called graphoscopy, experts analyzed the morphology of letters, hand movements, and stroke connections with specialized equipment including spectral video comparators and custom lighting tables to examine the tiny annotations. They compared the markings with authenticated documents written by Tiradentes, reaching the highest level of certainty in their conclusion. The annotations include French translations and underlined passages on topics such as how provincial representatives should be elected, revealing that Tiradentes was already contemplating democratic governance for Minas Gerais.
-
-This confirmation reshapes historical understanding of both the man and the movement. Rather than a rebellion organized solely by elites, the Inconfidência Mineira now clearly included "a man of the people" engaging intellectually with revolutionary ideas from abroad. The book itself has journeyed through centuries — passing from colonial authorities to the National Archive, then to Santa Catarina, before returning to Minas Gerais in 1984. Today it rests in the Inconfidência Museum in Ouro Preto, where a replica is displayed. For historians, these modest marginalia offer something quietly profound: tangible evidence of one person's careful study of freedom, democracy, and rights — ideas that continue to echo across generations.</description>
-      <source url="https://g1.globo.com/mg/minas-gerais/noticia/2026/04/21/livro-que-inspirou-inconfidencia-mineira-tem-anotacoes-confirmadas-de-tiradentes.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
