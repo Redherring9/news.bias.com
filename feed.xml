@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 10:01:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 12:02:01 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why scientists believe they are close to solving the mystery of 'Planet 9' (and what role Chile plays in this search)</title>
+      <link>https://news.bias.com/go/2026-04-26-1202</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-26-1202</guid>
+      <pubDate>Sun, 26 Apr 2026 12:02:00 GMT</pubDate>
+      <description>Since Pluto lost its planetary status in 2006, our solar system has officially had eight planets. But astronomers believe a mysterious ninth member may be lurking in the outer reaches, and a powerful new telescope in Chile could finally settle the debate. The Vera Rubin Observatory, perched atop a mountain in northern Chile, began operations in June 2025 with a mission to revolutionize our view of the universe—starting with our own cosmic backyard.
+
+The idea of Planet 9 gained traction in 2016 when Caltech astronomers Konstantin Batygin and Michael Brown argued that only a massive planet—about ten times Earth's mass—could explain the unusual orbits of distant icy objects beyond Neptune. These trans-Neptunian objects move in strangely tilted and elongated paths, as if shepherded by an unseen giant. Ironically, Brown is the same astronomer whose work led to Pluto's demotion nearly two decades ago. No one has officially spotted Planet 9 yet, partly because it would be incredibly faint and far away, possibly taking 20,000 years to complete a single orbit around the Sun.
+
+What makes this story quietly remarkable is the convergence of mystery and cutting-edge technology. The Vera Rubin Observatory, equipped with the largest digital camera ever built, will scan the entire southern sky every few nights for a decade, cataloging billions of cosmic objects including tens of thousands of new trans-Neptunian bodies. It's a patient, methodical search that could either confirm a hidden world in our solar neighborhood or deepen one of astronomy's most intriguing puzzles.</description>
+      <source url="https://www.bbc.com/mundo/articles/cn53p5lg3x4o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Raghu Rai, legendary Indian photographer, dies at 83</title>
       <link>https://news.bias.com/go/2026-04-26-1001</link>
@@ -594,18 +606,6 @@ Scientists believe the monkeys may be self-medicating to counteract digestive pr
 
 This story offers a quietly sobering look at how wildlife adapts to human behavior in unexpected ways. While the monkeys' apparent self-medication is remarkable, it also raises concerns: the same roadside soil they're consuming may contain pollutants from vehicle traffic. It's a reminder that our interactions with wild animals carry consequences we don't always anticipate, and that nature's resilience sometimes comes with hidden costs worth understanding.</description>
       <source url="https://www.theguardian.com/world/2026/apr/22/gibraltar-monkeys-eat-mud-avoid-upset-stomachs-tourists-junk-food">The Guardian</source>
-    </item>
-    <item>
-      <title>Pūtiki kaumātua and kuia credited with creation of new Whanganui bus route</title>
-      <link>https://news.bias.com/go/2026-04-22-0801</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-22-0801</guid>
-      <pubDate>Wed, 22 Apr 2026 08:01:50 GMT</pubDate>
-      <description>For the first time in living memory, the riverside community of Pūtiki in Whanganui, New Zealand, has its own bus route — and the achievement belongs to the area's elders. The kaumātua and kuia (respected elders) of Pūtiki Marae championed the service after recognizing the community's vulnerability during floods in 2015. Member Witerina Cooper recalled that the area had never had a regular bus service, aside from a single school run years ago. When the city began rerouting its bus network, the community saw an opportunity and pushed for inclusion.
-
-The inaugural ride drew such enthusiastic crowds that two buses were needed. For many passengers, it was a completely new experience. Cooper admitted she'd never ridden a city bus before and was still learning the route. Doreen Ngatoka-Hogg, 86, was already planning trips to visit her son's grave and her sister in a rest home — journeys that had required taxis or help from family. Another passenger shared how his grandfather once resorted to driving a lawnmower into town until police stopped him on the bridge, saying it was unsafe. The new route connects Pūtiki to the city center and St John's Hill, linking with five other routes now running more frequently, some seven days a week.
-
-This story is a quiet reminder that infrastructure isn't just about routes and schedules — it's about dignity, independence, and community voice. When elders advocate for themselves and are heard, entire neighborhoods gain new freedom. The sight of first-time bus riders discovering their city anew is both joyful and quietly profound.</description>
-      <source url="https://www.rnz.co.nz/news/regional/593122/putiki-kaumatua-and-kuia-credited-with-creation-of-new-whanganui-bus-route">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
