@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 06:05:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 08:01:30 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The tortoise and the hare: will China beat the US in the race back to the moon?</title>
+      <link>https://news.bias.com/go/2026-04-26-0801</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-26-0801</guid>
+      <pubDate>Sun, 26 Apr 2026 08:01:29 GMT</pubDate>
+      <description>The race to return humans to the moon has become a marathon between two superpowers with very different approaches. NASA recently sent four astronauts around the moon, but landing on the surface—and establishing the first inhabited base on another world—has become a tight competition between the United States and China. Both nations aim to reach the lunar surface by the end of the decade, with NASA targeting 2028 and China aiming for 2030, though both dates could shift.
+
+The contrast in strategies is striking. China's space program operates with consistent funding and long-term planning insulated from political cycles, allowing it to meet ambitious timelines with remarkable reliability. Meanwhile, NASA works with a fraction of its Apollo-era budget and faces shifting priorities with each election cycle. To compensate, the American space agency has turned to private companies like SpaceX and Blue Origin to design critical components. Experts emphasize that this isn't really about who arrives first—it's about who can sustain a presence over the next decade. The nation that keeps returning will shape how humanity uses lunar resources and defines the still-murky legal framework for space.
+
+This story matters because it captures a quiet but momentous shift in how we're returning to the moon. Unlike the Cold War space race driven by singular symbolic victories, today's competition is about endurance, infrastructure, and who will write the rules for humanity's expansion beyond Earth. It's a reminder that sometimes the steady, deliberate approach might overtake the bold sprint—a very literal tortoise-and-hare scenario playing out 240,000 miles above our heads.</description>
+      <source url="https://www.theguardian.com/science/2026/apr/26/china-us-space-race-moon">The Guardian</source>
+    </item>
     <item>
       <title>Jean Lafaurie, 102 years old: surviving the camps and still resisting</title>
       <link>https://news.bias.com/go/2026-04-26-0604</link>
@@ -594,18 +606,6 @@ An inspector attributed the loss to varroa mites, parasites known for devastatin
 
 Despite this heartbreaking setback, Richard's affection for his bees remains undiminished. He speaks with genuine warmth about their organization, how each bee has its role, and how individual hives develop distinct personalities. He plans to acquire new colonies, though finding them this late in the season won't be easy. His gentle approach to beekeeping—working gloveless to move more slowly and carefully—reflects decades of respect for these "marvellous little insects." The story reminds us that even the most experienced stewards of nature can face mysterious losses, and that behind agricultural statistics are people whose connection to their work runs generations deep.</description>
       <source url="https://www.theguardian.com/environment/2026/apr/22/country-diary-a-beekeepers-lament-why-did-none-of-my-bees-survive-winter">The Guardian</source>
-    </item>
-    <item>
-      <title>How young boys helped Australians wage guerilla war against Japan in Timor</title>
-      <link>https://news.bias.com/go/2026-04-22-0402</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-22-0402</guid>
-      <pubDate>Wed, 22 Apr 2026 04:02:43 GMT</pubDate>
-      <description>A granddaughter's discovery of a hidden book revealed a story her grandfather never told: as a nine-year-old boy in World War II, he was attacked by Japanese soldiers who slashed his throat and cut off his ear for helping Australian troops. He survived, nursed back to health by an Australian soldier, and became a criado—one of many Timorese boys who assisted Allied forces during the war. His silence about those scars, hidden beneath long hair, speaks to a largely overlooked chapter of Pacific history.
-
-The conflict in Portuguese Timor began when Australian and Dutch forces landed in 1941, violating Portugal's neutrality. Historians now debate whether Japan had invasion plans before this breach, suggesting the Allied presence itself may have provoked the brutal occupation that followed. Between 40,000 and 60,000 Timorese, mostly civilians, died during the Japanese occupation—killed in reprisals, bombardments, or famine as farmland was destroyed. Many Timorese villagers sheltered and fed Australian soldiers conducting guerrilla operations, sometimes at terrible cost. President Jose Ramos-Horta's own grandmother refused to evacuate when Japanese troops approached her village; she sent her daughters to safety with the Australians, but no one else survived the village's destruction.
-
-This story matters because it illuminates the quiet courage of children and civilians caught in geopolitical conflict, and the complex legacies of wartime alliances. The criados and the communities that protected foreign soldiers paid an enormous price, forging bonds of friendship and shared trauma that persist generations later—even when the stories themselves remain hidden in suitcases, waiting to be found.</description>
-      <source url="https://www.abc.net.au/news/2026-04-22/anzac-day-east-timor-boys-who-helped-australia-during-wwii/106576402">ABC Australia</source>
     </item>
   </channel>
 </rss>
