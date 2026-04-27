@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 10:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 12:02:15 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Brazil nut harvester found after 22 days lost in forest between Amapá and Pará</title>
+      <link>https://news.bias.com/go/2026-04-27-1202</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-27-1202</guid>
+      <pubDate>Mon, 27 Apr 2026 12:02:13 GMT</pubDate>
+      <description>After 22 days lost in the vast Paru State Forest straddling the border between Amapá and Pará in northern Brazil, castanheiro (Brazil nut harvester) Jhemerson Rodrigues Gonçalves was found alive. The 33-year-old worker had disappeared on January 4th while gathering fallen seed pods deep in the jungle, one of the region's primary economic activities. When official search teams suspended operations after 19 days following standard protocol, his family refused to give up, mobilizing the community through social media and organizing their own volunteer rescue efforts.
+
+The challenges facing searchers were formidable. The immense forest features dense vegetation, cutting grasses, and oppressive humidity that exhausted rescue teams and made breathing difficult. Access required traveling by "batelões"—boats typically used to transport Brazil nuts—and search parties sometimes walked for two days straight through the jungle without success. Teams used pistol shots and specific calls to communicate across the thick canopy. At one point, residents reported hearing gunshots they hoped might be Jhemerson signaling for help, but he remained elusive. Search areas expanded to a four-kilometer radius from his last known location, eventually shifting to another forest section based on speculation he might have crossed a nearby river.
+
+This story captures both the profound risks faced by workers in remote resource extraction and the power of community determination. While other cases of lost castanheiros have occurred in the region, none lasted this long. Jhemerson spent Sunday night at a forest camp with his rescuers and was expected to return to Laranjal do Jari for emergency medical care. His survival offers a quiet testament to human resilience and the unwavering loyalty of those who refused to stop searching.</description>
+      <source url="https://g1.globo.com/ap/amapa/noticia/2026/04/27/castanheiro-e-encontrado-apos-23-dias-perdido-em-floresta-entre-amapa-e-para.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>A blue-nosed chameleon in Madagascar: Photo of the week</title>
       <link>https://news.bias.com/go/2026-04-27-1002</link>
@@ -594,18 +606,6 @@ The standout success story comes from one particularly ambitious penguin pair th
 
 This story offers a rare dose of unambiguous good news in the conservation world, where victories often feel hard-won and incremental. It's a reminder that patient, sustained effort can yield tangible results—and that nature, when given the support it needs, has a remarkable capacity to thrive. For anyone weary of environmental doom-scrolling, watching a penguin population nearly double its reproductive success in a single year is the kind of quiet triumph worth celebrating.</description>
       <source url="https://www.rnz.co.nz/news/environment/593247/nearly-1000-chicks-fledged-at-oamaru-s-blue-penguin-colony">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Seeds can 'hear' the sound of raindrops, new study suggests</title>
-      <link>https://news.bias.com/go/2026-04-23-0602</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-23-0602</guid>
-      <pubDate>Thu, 23 Apr 2026 06:02:41 GMT</pubDate>
-      <description>A new study published in Scientific Reports suggests that rice seeds may be able to "hear" rainfall and use the sound to speed up germination. Researchers at MIT found that seeds exposed to the sound of water droplets in shallow puddles sprouted 24 percent faster than those in water without the droplet sounds. While plants have previously been observed responding to vibrations—such as producing defensive compounds when exposed to the sound of chewing caterpillars, or releasing pollen during buzz pollination—this appears to be the first time such sensitivity has been documented in seeds and seedlings.
-
-The research team chose rice seeds because they can germinate underwater, allowing scientists to isolate the effect of sound from the presence of water itself. What they discovered was surprising: beneath the surface of a puddle, a raindrop's "plunk" creates vibrations comparable in intensity to standing near a jet engine. The researchers believe these vibrations are detected by tiny structures inside the seed called statoliths—small starch granules that normally help plants sense gravity and orient their growth. These statoliths may vibrate at the same frequency as the raindrops, effectively allowing the seed to "hear" its environment much like sound waves cause a human eardrum to vibrate.
-
-This research opens a quietly remarkable window into how seeds interact with their surroundings. It suggests that germination isn't purely chemical or light-based, but may also be triggered by acoustic cues that signal favorable conditions for growth. While more research is needed to confirm the biological mechanisms at work and explore whether other plant species share this ability, the study invites us to reconsider the hidden sensory lives of plants—and to appreciate the complex ways nature times survival.</description>
-      <source url="https://www.abc.net.au/news/science/2026-04-23/plants-rain-sound-study-seeds/106585020">ABC Australia</source>
     </item>
   </channel>
 </rss>
