@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 02:03:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 04:03:32 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Asian mothers, bad feelings: notes on an all-conquering stereotype</title>
+      <link>https://news.bias.com/go/2026-04-28-0403</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-28-0403</guid>
+      <pubDate>Tue, 28 Apr 2026 04:03:30 GMT</pubDate>
+      <description>A cultural phenomenon took hold in 2011 when Amy Chua's Wall Street Journal essay "Why Chinese mothers are superior" sparked global controversy. Her unapologetic account of strict parenting—banning sleepovers, demanding academic perfection, and using harsh discipline—ignited fierce debate about parenting styles and cultural stereotypes. The backlash was immediate, with Chua labeled everything from an abuser to a shock jock, though she maintained her memoir showed her eventually reckoning with her approach's limitations.
+
+Yet Chua's tiger mother narrative is just one thread in a much larger tapestry. From Maxine Hong Kingston's The Woman Warrior to Amy Tan's The Joy Luck Club, Asian diaspora literature has long explored fraught mother-daughter relationships, with mothers often emerging as "the primordial wound." This theme extends into contemporary cinema: Michelle Yeoh plays demanding mothers in both Crazy Rich Asians and Everything Everywhere All at Once, while Pixar's Turning Red depicts a Chinese Canadian teen escaping her overbearing parent. These mothers share certain traits—strictness, emotional distance, inscrutable grief—even when portrayed with more nuance than Chua's controversial figure.
+
+What makes this story quietly remarkable is how it maps the evolution of a stereotype while revealing the genuine complexity underneath. These narratives capture real intergenerational tensions—between tradition and assimilation, between immigrant sacrifice and second-generation freedom—even as they risk flattening diverse experiences into a single trope. The persistence of the difficult Asian mother across decades of books and films suggests both the power of these stories to resonate and the ongoing work of understanding what lies beneath the surface of any cultural shorthand.</description>
+      <source url="https://www.theguardian.com/lifeandstyle/2026/apr/28/asian-mothers-bad-feelings-tiger-mom-stereotype">The Guardian</source>
+    </item>
     <item>
       <title>Tasmanian teachers strike deal to lessen violence and workload</title>
       <link>https://news.bias.com/go/2026-04-28-0203</link>
@@ -594,18 +606,6 @@ The Saturday workshop, led by master letter painter Erbson Lima de Moraes, guide
 
 Beyond preserving a fading craft, the workshop opens pathways toward economic autonomy. Women are encouraged to reimagine the lettering tradition through embroidery, sewing, and other mediums—adaptations that honor the original art while creating income opportunities. In a region where identity is shaped by water, this meeting of tradition and possibility quietly affirms that cultural preservation and community empowerment can flow together, each strengthening the other.</description>
       <source url="https://g1.globo.com/pa/para/noticia/2026/04/23/economia-criativa-oficina-gratuita-leva-tradicao-das-letras-de-barco-a-mulheres-da-vila-da-barca-em-belem.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Amid conflict and poaching, tech helps boost mountain gorilla numbers</title>
-      <link>https://news.bias.com/go/2026-04-23-2202</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-23-2202</guid>
-      <pubDate>Thu, 23 Apr 2026 22:02:51 GMT</pubDate>
-      <description>In the steep, mist-wrapped mountains where Rwanda, Uganda, and the Democratic Republic of Congo meet, mountain gorillas are staging a quiet comeback. Their population has climbed 73% since 1989, reaching an estimated 1,063 individuals—enough to shift their status from critically endangered to endangered. It's a fragile victory in a landscape that has seen war, armed conflict, and relentless poaching pressure, where these apes face threats from snares, habitat loss, and the illegal wildlife trade.
-
-A key tool in this conservation success is SMART, a mobile platform that transforms how rangers work in the field. Standing for Spatial Monitoring and Reporting Tool, it allows forest guards to log wildlife sightings, map patrol routes, document poaching evidence, and analyze threats in real time. The data helps direct limited resources to the areas that need them most across the gorillas' 777-square-kilometer range, which spans eleven protected areas. Since its 2012 launch, SMART has been deployed at over 1,000 conservation sites worldwide, but in Virunga's challenging terrain—where gorillas live between 8,000 and 13,000 feet—it's proving especially valuable for coordinating efforts across borders.
-
-Yet challenges remain. Budgets are tight, rangers need more equipment, and security concerns persist across this volatile region. This story matters because it shows how technology and determination can help a species pull back from the brink, even in one of the world's most difficult conservation landscapes. It's a reminder that progress is possible, but never guaranteed—and that protecting the last 1,063 mountain gorillas requires constant vigilance, innovation, and care.</description>
-      <source url="https://news.mongabay.com/2026/04/amid-conflict-and-poaching-tech-helps-boost-mountain-gorilla-numbers/">Mongabay</source>
     </item>
   </channel>
 </rss>
