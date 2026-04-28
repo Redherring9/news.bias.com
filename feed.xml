@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 22:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 00:01:53 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How Asia-Pacific is fighting a fuel shock that could get worse</title>
+      <link>https://news.bias.com/go/2026-04-28-0001</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-28-0001</guid>
+      <pubDate>Tue, 28 Apr 2026 00:01:51 GMT</pubDate>
+      <description>A prolonged conflict in the Middle East has exposed Asia-Pacific's deep dependence on the region's energy supplies, creating mounting pressure on governments as shipping disruptions through the Strait of Hormuz continue beyond two months. The situation has forced nations across the region to deploy emergency measures and creative solutions to keep energy flowing and prices stable.
+
+Governments have responded with a mix of immediate interventions: expanding fuel subsidies to shield consumers from price spikes, implementing restrictions on fuel consumption, and even directing public employees to work remotely to reduce demand. Diplomatically, officials have traveled worldwide seeking alternative energy sources, including turning to Russia despite international sanctions. These emergency measures are proving expensive, straining national budgets already stretched by other priorities.
+
+What makes this story quietly significant is how it reveals the fragility of modern supply chains that often go unnoticed until disrupted. The energy shortage threatens to ripple through sectors that seem far removed from fuel markets—from Taiwan's critical semiconductor manufacturing, which powers much of the world's technology, to rice production across the continent, a staple crop feeding billions. It's a reminder that energy security isn't just about keeping the lights on; it affects the fabric of daily life, economic stability, and the interconnected systems that sustain both industry and agriculture across one of the world's most populous regions.</description>
+      <source url="https://www.japantimes.co.jp/business/2026/04/28/asia-pacific-fight-fuel-shock/">The Japan Times</source>
+    </item>
     <item>
       <title>Laughing at a footballer's error helped save this sports fan's life</title>
       <link>https://news.bias.com/go/2026-04-27-2201</link>
@@ -594,18 +606,6 @@ Historian Peter Stanley estimates up to 20 Australians of Indian heritage served
 
 This story quietly reshapes how we understand Australia's military heritage. Every Anzac Day marcher wearing a slouch hat carries a piece of Indian tradition, yet this connection remains largely unrecognized. It's a reminder that history often hides in plain sight, woven into symbols we see every day without understanding their origins—and that the people who helped build Australia were more diverse than official records once allowed.</description>
       <source url="https://www.abc.net.au/news/2026-04-24/the-legacy-of-sikh-soldiers-anzac-day/106593346">ABC Australia</source>
-    </item>
-    <item>
-      <title>How WWII shaped generations of Māori names</title>
-      <link>https://news.bias.com/go/2026-04-23-1802</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-23-1802</guid>
-      <pubDate>Thu, 23 Apr 2026 18:02:37 GMT</pubDate>
-      <description>Tunisia Aquitania Campbell spent her childhood puzzled by her unusual name, so different from her thirteen siblings' conventional ones. It wasn't until her teenage years that she discovered her name told the story of her father's service: Private Hamuera Tatana was shot in the knee during battle in Tunisia and returned home aboard the RMS Aquitania. Her name became a living memorial to his sacrifice and to a cousin whose body never returned to New Zealand.
-
-This naming practice represents a distinctly Māori way of honoring those who served in the 28th Māori Battalion during World War II. Children, grandchildren, and now great-grandchildren bear names like Cairo, El Alamein, Cassino, and Trieste—each corresponding to battle sites across North Africa, the Middle East, and Italy. The tradition, known as Te tohi o Uenuku, actually predates both world wars and European contact, rooted in the longstanding practice of naming people after significant places and events. In the 1940s, over fifty babies were given the name El Alamein alone, and the practice continues today with more than twenty children named Alamein born since 2020.
-
-What makes this story quietly remarkable is how it reveals an entire community's approach to remembrance—not through distant monuments, but through the intimate, daily act of speaking a loved one's name. These names served as a grassroots honors system, ensuring that sacrifice would be woven into family identity for generations. The war was particularly devastating for Māori families because brothers, cousins, and uncles often fought and died together. By carrying these names forward, families transformed geography into genealogy, turning distant battlefields into permanent parts of home.</description>
-      <source url="https://www.rnz.co.nz/life/people/identity/how-wwii-shaped-generations-of-maori-names">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
