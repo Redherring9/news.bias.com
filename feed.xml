@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 08:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 10:04:09 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Novel DNA research shows massive native ant decline over hundreds of years in Fiji</title>
+      <link>https://news.bias.com/go/2026-04-28-1004</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-28-1004</guid>
+      <pubDate>Tue, 28 Apr 2026 10:04:07 GMT</pubDate>
+      <description>Scientists have developed a remarkable new way to trace the rise and fall of insect populations across millennia, using DNA extracted from museum specimens. By analyzing more than 4,100 ant specimens collected across the Fiji islands, researchers reconstructed thousands of years of population history for an entire ecological community — revealing a sobering pattern of decline among the archipelago's native species.
+
+The study found that nearly 80% of Fiji's 88 endemic ant species have been declining since humans first arrived 3,000 years ago, with a particularly sharp drop beginning around 300 years ago when Europeans introduced industrial agriculture and invasive species. Meanwhile, a small number of non-native ants thrived. This methodology, called community genomics, reads population trends directly from genetic code — a breakthrough for understanding insects, whose populations are notoriously difficult to track in the wild. Fiji's ant communities, shaped by at least 65 separate colonization events over time, now cling mainly to intact high-elevation forests. Among them is Philidris nagasau, the only known non-human animal to practice true plant agriculture, cultivating Squamellaria colonies beneath tree bark and harvesting their flowers.
+
+This research quietly underscores two important truths: that island ecosystems, with their unique endemic species, are especially fragile in the face of human influence, and that museum collections hold far more value than we might imagine. Specimens gathered decades or centuries ago can unlock insights their original collectors never dreamed possible, offering windows into ecological changes that would otherwise remain invisible.</description>
+      <source url="https://news.mongabay.com/short-article/2026/04/novel-dna-research-shows-massive-native-ant-decline-over-hundreds-of-years-in-fiji/">Mongabay</source>
+    </item>
     <item>
       <title>Before Paranismo: 130 years ago, a group of poets tried to find Paraná's cultural identity through mysticism</title>
       <link>https://news.bias.com/go/2026-04-28-0803</link>
@@ -594,18 +606,6 @@ The Paradise window celebrates St Brendan's legendary search for the Garden of E
 
 This story matters because it shows how small acts of considerate stewardship—leaving grass a bit longer, choosing when and where to mow—can create refuges for wildlife without diminishing the dignity of a burial ground. The writer's parting image, of yellow pollen from an ancient yew dissolving like smoke in a shaft of sunlight, captures the quiet vitality of a place where endings and beginnings are woven together with care.</description>
       <source url="https://www.theguardian.com/environment/2026/apr/24/country-diary-the-quiet-vitality-of-a-well-managed-churchyard">The Guardian</source>
-    </item>
-    <item>
-      <title>New ‘cryptic’ gecko species discovered in Vietnam’s imperiled karst forests</title>
-      <link>https://news.bias.com/go/2026-04-24-0402</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-24-0402</guid>
-      <pubDate>Fri, 24 Apr 2026 04:02:49 GMT</pubDate>
-      <description>In the limestone karst forests of northern Vietnam, scientists have identified a new species of gecko—the twelfth known to the country. Named Ziegler's Slender Gecko in honor of a German researcher who has contributed significantly to Vietnamese biodiversity studies, these small yellowish-grey creatures were spotted clinging to limestone cliffs at night and, on one occasion, an electric pole in a cornfield. The discovery took place during surveys in Son La province's Copia Nature Reserve, a region that researchers say holds far more biodiversity than commonly recognized.
-
-What makes this gecko "cryptic" is its remarkable physical similarity to other species, despite being genetically distinct. DNA analysis revealed a 14% genetic divergence from its closest relatives—a substantial evolutionary gap that confirms it as a separate species. This pattern is becoming increasingly common: 85% of geckos in this genus have been described only within the last decade, suggesting that scientists are just beginning to understand the true diversity hidden within these overlooked landscapes. Yet even as new species come to light, their habitats face mounting pressures. Vietnam's limestone forests are frequently quarried for cement production, and even protected areas like Copia are being degraded by road construction and logging.
-
-This quiet discovery carries an urgent message about what remains unknown in the natural world—and how quickly it might disappear. The researchers recommend listing the gecko as "data deficient" while calling for greater public awareness of limestone ecosystems and their unique, endemic species. It's a reminder that some of nature's most remarkable diversity exists in places we've barely begun to explore, and that protecting these landscapes requires recognizing their value before they're lost to industrial development.</description>
-      <source url="https://news.mongabay.com/short-article/2026/04/new-cryptic-gecko-species-discovered-in-vietnams-imperiled-karst-forests/">Mongabay</source>
     </item>
   </channel>
 </rss>
