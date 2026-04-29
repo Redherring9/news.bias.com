@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Apr 2026 00:03:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 02:03:47 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘Coming home’: kiwi enter parliament for first time as New Zealand marks conservation win</title>
+      <link>https://news.bias.com/go/2026-04-29-0203</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-29-0203</guid>
+      <pubDate>Wed, 29 Apr 2026 02:03:46 GMT</pubDate>
+      <description>When five kiwi birds entered New Zealand's parliament for the first time in history, the 300 people gathered fell silent in wonder. Some wept as handlers carried the whiskery, flightless birds through the crowd—a rare sight in a country where the national bird exists more often as symbol than living creature. The emotional ceremony marked a remarkable conservation milestone: the return of kiwi to Wellington's wilderness after more than a century's absence.
+
+The Capital Kiwi Project has reintroduced 250 birds to the region since 2022, achieving an astounding 90% chick survival rate—three times higher than required. This success stems from extraordinary community collaboration: over 100 landowners agreed to host 4,600 stoat traps across 24,000 hectares, creating the country's largest intensive trapping network. Schools, iwi (tribes), volunteers, and mountain bikers have all contributed through advocacy, fundraising, and hands-on conservation work. The results speak for themselves—Wellington now hosts the world's largest population of people living alongside wild kiwi, with residents hearing the birds in their gardens at night and cyclists encountering them on trails.
+
+This story captures something quietly powerful about what communities can accomplish when they unite around a shared purpose. Once numbering 12 million, kiwi populations had crashed to 70,000 due to introduced predators and habitat loss. Wellington's success demonstrates that even dense urban environments can restore biodiversity through collective will and care. As project founder Paul Ward told the gathering, it's not just a network of traps but a network of relationships—a testament to honouring the gift of coexistence with these ancient, vulnerable birds that have inhabited these lands for millions of years.</description>
+      <source url="https://www.theguardian.com/world/2026/apr/29/kiwi-bird-nz-new-zealand-parliament">The Guardian</source>
+    </item>
     <item>
       <title>Dogs’ brains began to shrink at least 5,000 years ago, study finds</title>
       <link>https://news.bias.com/go/2026-04-29-0003</link>
@@ -594,18 +606,6 @@ What makes turbine blades so difficult to recycle—their durable composite stru
 
 This story offers a small but meaningful glimpse at circular thinking in action. As thirty-one Australian wind farms reach the fifteen-year mark and newer turbines grow to eighty meters in length, the question of what to do with retired blades becomes increasingly urgent. Hunt's surfboard fins won't solve the entire problem, but they represent the kind of creative, practical repurposing that transforms industrial waste into something functional and locally made—a quiet reminder that sustainability sometimes rides the waves.</description>
       <source url="https://www.abc.net.au/news/2026-04-25/surfer-turns-decommissioned-wind-turbines-into-surfboard-fins/106570718">ABC Australia</source>
-    </item>
-    <item>
-      <title>'A bridge between generations':Tokelaun Easter tourney going strong 50 years on</title>
-      <link>https://news.bias.com/go/2026-04-24-2002</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-24-2002</guid>
-      <pubDate>Fri, 24 Apr 2026 20:02:16 GMT</pubDate>
-      <description>In South Auckland this Easter, an estimated 2,000 people gathered at Bruce Pulman Park for a milestone celebration: the 50th Tokelau Easter Tournament. What began half a century ago as a sporting event has evolved into something larger—a cultural homecoming that draws Tokelauans from across New Zealand, Australia, and even as far as Hawai'i. The turnout exceeded the current population of the Tokelau atolls themselves, which sits under 1,500, illustrating the vitality of the diaspora community and their commitment to maintaining ties with their islands and each other.
-
-The tournament is more than competition. It's a deliberate bridge between generations, designed to preserve language, tradition, and identity. Tokelauan, classified by UNESCO as endangered, was spoken and sung throughout the weekend—most vividly during the Po Fatele, where teams performed traditional songs and dances to the rhythm of the pokihi drum. Cultural knowledge also found expression in quieter ways: 61-year-old Matagiolo Nanumea Foua sold and shared the story of pā kahoa, mother-of-pearl necklaces worn by women as symbols of value and identity. He encourages others to learn the craft, offering to teach anyone interested in carrying forward this intricate tradition.
-
-This story is a reminder that culture is kept alive not only through grand gestures but through steady, intentional gathering—through showing up, speaking the language, dancing the dances, and passing along what you know. It's about creating space where identity can be celebrated, renewed, and handed down with care.</description>
-      <source url="https://www.rnz.co.nz/news/pacific_tokelau/593386/a-bridge-between-generations-tokelaun-easter-tourney-going-strong-50-years-on">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
