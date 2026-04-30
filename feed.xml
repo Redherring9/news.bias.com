@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 02:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 04:02:46 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Twenty asylum seekers detained in prisons since report called for practice to end</title>
+      <link>https://news.bias.com/go/2026-04-30-0402</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-04-30-0402</guid>
+      <pubDate>Thu, 30 Apr 2026 04:02:44 GMT</pubDate>
+      <description>New Zealand continues to detain asylum seekers in prisons, despite a 2022 government-commissioned report calling for the practice to end. Twenty people seeking asylum have been held in correctional facilities since the report by Victoria Casey KC, which explicitly stated that detention in prisons "should not occur." The report followed revelations of troubling conditions, including organized fights at Mt Eden prison where asylum claimants were housed.
+
+While detention periods have shortened compared to earlier years—when 60 percent of detainees spent over three months in prison and one person was held for more than three years—the practice itself persists. Recent figures show asylum seekers held at facilities including Spring Hill, Mt Eden, Rimutaka, and Christchurch men's prisons, with one man detained for six to eight months. Officials cite challenges in locating suitable community accommodation as a reason for delays in release. Immigration New Zealand has been tasked with developing specialized civil detention arrangements, though no immigration-specific detention center has been established, with authorities arguing New Zealand is too small to justify one.
+
+Experts emphasize that seeking asylum is not a crime, and international guidelines specify detention should only be used as a last resort. Professor Jay Marlowe from Auckland University notes that alternatives exist—including designated addresses, movement restrictions, and regular reporting requirements—that don't involve prison settings. This story matters because it reveals the gap between policy intentions and administrative reality, raising questions about how a nation balances security concerns with humanitarian obligations while people navigate what is fundamentally a legal administrative process, not a criminal matter.</description>
+      <source url="https://www.rnz.co.nz/news/community/593776/twenty-asylum-seekers-detained-in-prisons-since-report-called-for-practice-to-end">Radio New Zealand</source>
+    </item>
     <item>
       <title>All-female voyage to tackle plastics problem sets sail</title>
       <link>https://news.bias.com/go/2026-04-30-0202</link>
@@ -594,18 +606,6 @@ What began as bare concrete has transformed into a vibrant marine nursery. The s
 
 Perhaps most remarkable is the return of the mero—a large fish species seriously threatened with extinction—which has become an increasingly common sight among the reefs. The environmental recovery has rippled beyond the ocean floor, strengthening artisanal fishing communities whose livelihoods depend on healthy marine populations. This quarter-century experiment demonstrates how thoughtful human intervention can restore damaged ecosystems, offering a quietly hopeful reminder that patient conservation efforts can yield profound results for both underwater worlds and the people who depend on them.</description>
       <source url="https://g1.globo.com/jornal-nacional/noticia/2026/04/25/recifes-artificiais-recuperam-biodiversidade-no-litoral-do-parana-apos-25-anos.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Can commercial farming and conservation co-exist?</title>
-      <link>https://news.bias.com/go/2026-04-25-2203</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-25-2203</guid>
-      <pubDate>Sat, 25 Apr 2026 22:03:51 GMT</pubDate>
-      <description>On a thousand-hectare sheep farm in Western Victoria, endangered eastern barred bandicoots and eastern quolls are thriving behind a 17-kilometre electrified fence designed to keep out feral cats and foxes. Tiverton farm, Victoria's largest predator-free sanctuary, is proving that commercial agriculture and wildlife conservation can successfully coexist—a milestone that has captured the attention of conservationists across Australia.
-
-The property runs about 5,000 merino sheep while serving as a refuge for species relocated from the Odonata Foundation's other sanctuaries. What began as an effort to preserve endangered native grasslands has revealed unexpected synergies: bandicoots turn over remarkable amounts of soil relative to their size, aerating the earth and dispersing native seeds in ways that accelerate ecosystem recovery. Meanwhile, the regenerated native grasses have improved wool quality by producing stronger fiber, helping the farm top wool markets even in wet years when introduced pastures typically cause problems.
-
-The integration isn't without cost or effort—the protective fence alone required over half a million dollars to build, and ecologist Damian Jones patrols it weekly while reviewing nightly footage from fifty trail cameras. Yet the results speak for themselves: high lamb survival rates thanks to predator exclusion, rebounding populations of marsupials, and the return of ground-nesting birds like brolgas to protected wetlands. This story matters because it offers a practical template for reconciling two goals often viewed as competing. In a country where feral predators are the leading cause of animal extinction, Tiverton demonstrates that with thoughtful design and committed stewardship, working landscapes can become engines of recovery rather than loss.</description>
-      <source url="https://www.abc.net.au/news/2026-04-26/predator-free-farm-helps-endangered-species-thrive/106596356">ABC Australia</source>
     </item>
   </channel>
 </rss>
