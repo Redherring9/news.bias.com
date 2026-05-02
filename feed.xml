@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 02:03:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 04:02:24 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Insurance seed bank helps revive rare flowers lost to bushfires</title>
+      <link>https://news.bias.com/go/2026-05-02-0402</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-02-0402</guid>
+      <pubDate>Sat, 02 May 2026 04:02:23 GMT</pubDate>
+      <description>In Western Australia's Stirling Range National Park, a place home to 1,500 native plant species found nowhere else on Earth, devastating bushfires in 2018 and 2019 threatened to erase some of the world's rarest flowers forever. Twenty-six threatened species were burned, including eighteen critically endangered ones. Among them was banksia montana, reduced to just 37 mature individuals before the fires consumed every single one.
+
+What saved these plants from extinction was foresight. For two decades, scientists had been quietly collecting seeds and storing them in foil-sealed bags at minus-20 degrees in Perth's Western Australian Seed Centre—insurance policies against disaster. When the fires passed, conservationists combined these frozen archives with on-the-ground heroics: identifying and protecting tiny seedlings that had survived, establishing seed production sites in other parks, and even using helicopters to transplant nearly 2,000 plants back into remote mountain locations. Some populations being restored today come from seed collected from sites that no longer exist in the wild.
+
+The work is painstaking and the challenges persist. Climate change is pushing plants to retreat from warmer, drier slopes to cooler pockets. Of the 1,000 banksia montana seedlings originally planted, fewer than 300 survive today due to drought, disease, and subsequent fires. Yet there's quiet optimism: some are flowering and setting seed. If 100 reach maturity, it will be considered a success—a reminder that conservation is measured not in grand victories but in patient, incremental care. This story matters because it shows how preparation, persistence, and a seed vault in a freezer can stand between a species and oblivion.</description>
+      <source url="https://www.abc.net.au/news/2026-05-02/endangered-flora-recovers-in-stirling-range-wa/106502284">ABC Australia</source>
+    </item>
     <item>
       <title>Unusual ant interaction hints at mutualistic ‘cleaning’ system</title>
       <link>https://news.bias.com/go/2026-05-02-0203</link>
@@ -594,18 +606,6 @@ The agreement includes meaningful changes to daily teaching life: mandatory afte
 
 This story offers a quiet window into the realities of modern teaching—where the weight of administrative demands and classroom challenges can matter as much as salary. The union's president noted that while some members remain disappointed about pay comparisons with other states, the focus on workload and violence reflected what teachers themselves had prioritized. It's a reminder that workplace agreements aren't always about the headline number, but about the conditions that allow people to do their work sustainably and return home with energy to spare.</description>
       <source url="https://www.abc.net.au/news/2026-04-28/tasmanian-education-union-teacher-pay-deal-violence-workload/106614778">ABC Australia</source>
-    </item>
-    <item>
-      <title>How Asia-Pacific is fighting a fuel shock that could get worse</title>
-      <link>https://news.bias.com/go/2026-04-28-0001</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-28-0001</guid>
-      <pubDate>Tue, 28 Apr 2026 00:01:51 GMT</pubDate>
-      <description>A prolonged conflict in the Middle East has exposed Asia-Pacific's deep dependence on the region's energy supplies, creating mounting pressure on governments as shipping disruptions through the Strait of Hormuz continue beyond two months. The situation has forced nations across the region to deploy emergency measures and creative solutions to keep energy flowing and prices stable.
-
-Governments have responded with a mix of immediate interventions: expanding fuel subsidies to shield consumers from price spikes, implementing restrictions on fuel consumption, and even directing public employees to work remotely to reduce demand. Diplomatically, officials have traveled worldwide seeking alternative energy sources, including turning to Russia despite international sanctions. These emergency measures are proving expensive, straining national budgets already stretched by other priorities.
-
-What makes this story quietly significant is how it reveals the fragility of modern supply chains that often go unnoticed until disrupted. The energy shortage threatens to ripple through sectors that seem far removed from fuel markets—from Taiwan's critical semiconductor manufacturing, which powers much of the world's technology, to rice production across the continent, a staple crop feeding billions. It's a reminder that energy security isn't just about keeping the lights on; it affects the fabric of daily life, economic stability, and the interconnected systems that sustain both industry and agriculture across one of the world's most populous regions.</description>
-      <source url="https://www.japantimes.co.jp/business/2026/04/28/asia-pacific-fight-fuel-shock/">The Japan Times</source>
     </item>
   </channel>
 </rss>
