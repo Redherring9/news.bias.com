@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 03 May 2026 12:03:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 14:03:43 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Between discovery and business: the controversial legacy of Craig Venter, the scientist who helped decode the human genome</title>
+      <link>https://news.bias.com/go/2026-05-03-1403</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-03-1403</guid>
+      <pubDate>Sun, 03 May 2026 14:03:42 GMT</pubDate>
+      <description>Craig Venter, the American scientist who helped decode the human genome, has died, leaving behind a legacy as complex as the genetic sequences he studied. Best described as a maverick, Venter was simultaneously celebrated as one of the century's most important scientists and criticized for commercializing research and treating science as a competitive sport. His career was marked by bold decisions that challenged established norms and sparked ongoing debate about the boundaries between scientific discovery and business.
+
+Venter's most famous move came in the 1980s when he left the publicly funded Human Genome Project, believing its methods were too slow. He founded the private company Celera and developed a faster, though less precise, sequencing method. In 2000, both Celera and the government project jointly announced they had produced the first draft of the human genome—a crucial milestone for understanding disease and human origins. But while the public project shared all its data freely, Venter initially withheld some of Celera's findings for commercial advantage. His success made him wealthy, complete with private jets and yachts, and he didn't hide his confidence, once comparing himself to Nobel laureates and later revealing he'd used his own genome for Celera's research.
+
+After sequencing the genome, Venter turned to synthetic biology, establishing the J. Craig Venter Institute where his team created the first synthetic bacterial cell controlled entirely by an artificial genome. This story matters because it captures an enduring tension in modern science: the push and pull between advancing human knowledge and the temptation to profit from it, embodied in one brilliant, controversial figure.</description>
+      <source url="https://www.bbc.com/mundo/articles/cze23nj9pl5o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>"I had no idea how sad he was": the man who organizes pub gatherings to chat with strangers after his best friend's suicide</title>
       <link>https://news.bias.com/go/2026-05-03-1203</link>
@@ -594,18 +606,6 @@ Behind the event is Grupo Iguais, an organization with nearly two decades of wor
 
 This story captures something quietly meaningful about how culture and community care can intertwine. A beach gathering that welcomes everyone, asks for nothing but offers much, and channels generosity back into the community—it's a model of celebration that nourishes in more ways than one. The event reminds us that public spaces, when thoughtfully activated, become stages not just for performance but for belonging.</description>
       <source url="https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/04/29/luau-dos-iguais-gratuito-sera-realizado-nesta-quinta-feira-no-canto-do-forte-em-cabo-frio.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Boy finds rare native frog exploring nearby creek</title>
-      <link>https://news.bias.com/go/2026-04-29-1002</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-29-1002</guid>
-      <pubDate>Wed, 29 Apr 2026 10:02:42 GMT</pubDate>
-      <description>A young naturalist's keen eye has revealed a surprising secret hiding in a suburban creek. Twelve-year-old Rumi Lourie, who dreams of becoming an entomologist, was exploring near his home in Lower Hutt, New Zealand, when he spotted a frog that didn't look quite right. Trusting his instincts, he photographed the creature and sent the images to the Department of Conservation, which confirmed his find: a native Hochstetter's frog, hundreds of kilometers south of where these rare amphibians are known to live.
-
-The discovery sparked an investigation that uncovered a delightful piece of scientific history. In the 1970s, researcher Dr. Ben Bell had been breeding Hochstetter's frogs nearby as part of a university project when some escaped during a flood. For nearly fifty years, everyone assumed the frogs had perished. Instead, they quietly established a small population in this busy suburban environment, surviving predators and weather events while remaining completely unnoticed by humans. Dr. Bell himself joined Rumi and conservation staff to survey the area, finding three frogs in just a few hours. Genetic testing is underway to confirm they're descendants of his long-lost research subjects.
-
-This story offers a gentle reminder that nature's resilience can surprise us in the most unexpected places. It celebrates a curious young person whose attention to detail led to a meaningful discovery, and it reveals that remarkable wildlife encounters don't require distant wilderness—sometimes they're happening right in our own neighborhoods, quietly persisting against the odds.</description>
-      <source url="https://www.rnz.co.nz/news/national/593679/lower-hutt-boy-finds-rare-native-hochstetter-s-frog-exploring-creek-near-his-home">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
