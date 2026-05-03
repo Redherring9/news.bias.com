@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 03 May 2026 06:05:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 08:02:33 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chernobyl isn't over: after 40 years, radiation still affects animals and reveals unexpected phenomena</title>
+      <link>https://news.bias.com/go/2026-05-03-0802</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-03-0802</guid>
+      <pubDate>Sun, 03 May 2026 08:02:32 GMT</pubDate>
+      <description>Four decades after the Chernobyl disaster, the nuclear accident continues to reveal unexpected biological phenomena that challenge our understanding of radiation's long-term effects. Nearly a thousand dogs—descendants of pets abandoned during the 1986 evacuation—roam the exclusion zone today, appearing outwardly normal but carrying measurable genetic changes, particularly in DNA repair mechanisms. These adaptations suggest that radiation is quietly reshaping life at the molecular level in ways scientists are only beginning to understand.
+
+Meanwhile, wild boar across Europe continue to show radiation levels exceeding safe limits, with Germany alone culling nearly 3,000 radioactive animals last year. The boars accumulate radioactive cesium by foraging for truffles in contaminated soil, but researchers have made a surprising discovery: much of this lingering radiation doesn't originate from Chernobyl at all, but from Cold War-era nuclear weapons testing—a reminder that environmental consequences can persist and migrate far beyond their source.
+
+Perhaps most remarkable is the black fungus discovered thriving inside Chernobyl's reactor itself, not merely surviving but seemingly growing toward radiation. Scientists believe it may actually feed on radioactive energy, and experiments aboard the International Space Station showed it grew faster in space while measurably blocking radiation. This accidental discovery could one day protect astronauts on missions to Mars. The story illustrates how disasters can become unintended laboratories, where nature's resilience reveals solutions we never thought to seek—a quietly astonishing testament to life's adaptability in the most hostile environments.</description>
+      <source url="https://g1.globo.com/ciencia/noticia/2026/05/03/chernobyl-nao-acabou-apos-40-anos-radiacao-ainda-afeta-animais-e-revela-fenomenos-inesperados.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>From neat lawns to wild havens: how No Mow May is transforming England’s gardens</title>
       <link>https://news.bias.com/go/2026-05-03-0602</link>
@@ -594,18 +606,6 @@ These aquatic insects possess a remarkable adaptation: eyes split into two pairs
 
 The writer finds something quietly profound in observing these gregarious creatures. Their seemingly random movements—comparable to sped-up footage of traffic or bustling crowds, yet never quite making logical sense—offer a meditative escape from everyday concerns. The beetles become an invitation to set aside the human need for meaning and simply appreciate nature's capacity to both confound and captivate. It's a reminder that sometimes the most compelling natural phenomena are the smallest and closest at hand, waiting in ordinary puddles for anyone patient enough to pause and look closely.</description>
       <source url="https://www.theguardian.com/environment/2026/apr/29/country-diary-the-simple-pleasure-of-watching-beetles-doing-a-barn-dance">The Guardian</source>
-    </item>
-    <item>
-      <title>Migration and climate pressures deepen flood risks in Bangladesh’s haors</title>
-      <link>https://news.bias.com/go/2026-04-29-0402</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-29-0402</guid>
-      <pubDate>Wed, 29 Apr 2026 04:02:30 GMT</pubDate>
-      <description>In northeastern Bangladesh, flash floods have always been part of life in the haor regions—shallow wetland basins that lie submerged for much of the year. But recent floods have brought destruction on a scale rarely seen before, even in communities accustomed to rising waters. In 2022, entire villages near the Indian border were swept away, their tin-sheet houses no match for the force of floodwaters surging down from the Himalayan foothills.
-
-What's changed is not just the climate, but the landscape and the people living on it. New settlements like Rangpur Bosti and Notun Jibonpur emerged as migrants from other districts arrived in search of work in stone quarries and a chance at new beginnings. They built homes on government-owned land, often along riverbanks and embankments, in areas not designed for habitation. Meanwhile, traditional natural defenses—swamp forests of hijal and karoch trees, dense reed grass—have been cleared to make way for agriculture. These plants once absorbed floodwater and slowed its momentum; without them, the water now rushes through unimpeded, turning flooding into devastation.
-
-This story is a quietly urgent reminder that environmental and social pressures rarely act alone. It shows how migration driven by poverty, the loss of natural barriers, and shifting climate patterns intertwine to deepen vulnerability. The solutions—better housing, smarter agricultural practices, restoring native vegetation—are within reach, but require recognizing that protecting communities means understanding both the people and the land they depend on.</description>
-      <source url="https://news.mongabay.com/2026/04/migration-and-climate-pressures-deepen-flood-risks-in-bangladeshs-haors/">Mongabay</source>
     </item>
   </channel>
 </rss>
