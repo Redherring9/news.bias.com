@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 10:03:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 12:03:21 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What is hantavirus, the infection suspected of causing 3 deaths on a cruise ship that departed from Ushuaia (and how widespread is it in Argentina)</title>
+      <link>https://news.bias.com/go/2026-05-04-1203</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-04-1203</guid>
+      <pubDate>Mon, 04 May 2026 12:03:19 GMT</pubDate>
+      <description>Three people have died following a suspected hantavirus outbreak aboard a polar cruise ship that departed from Ushuaia, Argentina, according to the World Health Organization. The MV Hondius, operated by Netherlands-based Oceanwide Expeditions, was traveling between Argentina and Cape Verde when the outbreak occurred. One case has been confirmed, with five additional suspected cases under investigation through laboratory testing.
+
+Hantavirus is a rodent-borne illness transmitted primarily through inhaling airborne particles from dried rodent droppings, urine, or saliva. The virus can cause two serious conditions: hantavirus pulmonary syndrome, which has a mortality rate of approximately 38% when respiratory symptoms develop, and hemorrhagic fever with renal syndrome, which affects the kidneys. An estimated 150,000 cases occur worldwide annually, concentrated mainly in Europe and Asia. There is no specific treatment, only supportive care including oxygen therapy, mechanical ventilation, and in severe cases, dialysis.
+
+What makes this outbreak particularly noteworthy is Argentina's unique hantavirus landscape. The country hosts two viral species—Andes and Laguna Negra—with the Andes strain dominating the southern region where Ushuaia is located. This strain possesses a rare and concerning characteristic: the ability to transmit between humans, unlike most hantavirus variants globally. While hantavirus remains relatively uncommon, with fewer than 900 cases recorded in the United States since monitoring began in 1993, this outbreak serves as a reminder of how wildlife-human interfaces can create unexpected health challenges, even in remote travel settings.</description>
+      <source url="https://www.bbc.com/mundo/articles/cg7prkzd0nvo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Woodland walks cut anxiety, study finds</title>
       <link>https://news.bias.com/go/2026-05-04-1003</link>
@@ -594,18 +606,6 @@ His curiosity led him to the Watanabe family—three generations bound together 
 
 This story matters because it captures the long, quiet aftermath of catastrophe—the kind that doesn't make headlines but shapes lives for decades. Through one family's hesitation and one filmmaker's attention, we see how disaster reverberates beyond the initial emergency, leaving questions about belonging, memory, and what it means to rebuild when home has fundamentally changed.</description>
       <source url="https://www.japantimes.co.jp/culture/2026/04/30/film/at-the-triangle-intersection-documentary/">The Japan Times</source>
-    </item>
-    <item>
-      <title>Caring for Grandchildren Is Good for the Brain</title>
-      <link>https://news.bias.com/go/2026-04-30-0804</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-30-0804</guid>
-      <pubDate>Thu, 30 Apr 2026 08:04:04 GMT</pubDate>
-      <description>A growing body of research suggests that caring for grandchildren offers cognitive benefits for older adults, adding scientific weight to what many grandparents already feel intuitively. A recent study published in Psychology and Aging found that even modest involvement in grandchild care can support memory and overall brain function in people over 50.
-
-Researchers followed nearly 2,900 grandparents with an average age of 67 over six years as part of the English Longitudinal Study of Ageing. They discovered that grandparents who provided any level of care scored higher on memory and verbal fluency tests than those who didn't, regardless of age or health conditions. Interestingly, the type of engagement mattered more than the amount of time spent: mentally active tasks like helping with homework or playing games showed the strongest associations with cognitive performance. The study also revealed a notable gender difference—grandmothers who provided care experienced slower cognitive decline over time, while grandfathers enjoyed cognitive benefits without the same protective effect against decline. Researchers suggest this may relate to grandmothers typically taking on more hands-on, structured responsibilities.
-
-The benefits flow both ways. Previous research from Oxford and Boston College has shown that children with strong grandparent connections tend to have fewer behavioral and emotional difficulties, and grandparents often serve as sources of resilience during family crises. This story quietly underscores an often-overlooked truth: the intergenerational bonds within families aren't just emotionally valuable—they may be cognitively and psychologically protective for everyone involved.</description>
-      <source url="https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/04/30/cuidar-dos-netos-faz-bem-ao-cerebro.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
