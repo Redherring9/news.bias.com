@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 18:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 20:02:27 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New Zealand passes solar tipping point</title>
+      <link>https://news.bias.com/go/2026-05-04-2002</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-04-2002</guid>
+      <pubDate>Mon, 04 May 2026 20:02:26 GMT</pubDate>
+      <description>New Zealand has reached a significant milestone in renewable energy adoption: solar panels now save most households more money than they cost. According to Josh Ellison of Rewiring Aotearoa, this tipping point was crossed about three years ago for solar installations and has recently been reached for battery storage systems as well. The shift has been driven by falling installation costs and rising electricity prices, making solar viable even for homes that don't face directly north or receive ideal sunlight.
+
+The average New Zealand household with solar can now save roughly $1,000 per year, a figure that holds true across most of the country—from sunny Central Otago to cloudier regions like Dunedin and even Stewart Island. The savings are particularly strong for households that consume electricity during daylight hours, such as those with people working from home. However, access remains uneven: only about 20 percent of households can obtain green loans for solar installation, typically requiring home equity and an active mortgage. Just under 84,000 customers currently have solar power, up from 20,000 in 2018.
+
+New regulatory changes aim to accelerate adoption further. From this week, households can export up to 10 kilowatts back to the grid—double the previous limit in many areas—and distributors must now pay rebates when small-scale generators supply power during peak times. This story matters because it illustrates a rare convergence: a technology that simultaneously addresses cost-of-living pressures and environmental concerns, showing how economic incentives and climate action can align in surprisingly practical ways.</description>
+      <source url="https://www.rnz.co.nz/news/business/594242/new-zealand-passes-solar-tipping-point">Radio New Zealand</source>
+    </item>
     <item>
       <title>VIDEO: Puma rescued from trap is reintroduced to nature after treatment in Jundiaí</title>
       <link>https://news.bias.com/go/2026-05-04-1802</link>
@@ -594,18 +606,6 @@ The event has earned official recognition at municipal, state, and national leve
 
 This story offers a window into how cultural traditions can thrive across generations, anchoring a community's identity while inviting newcomers into the fold. It's a reminder that some of the most meaningful celebrations are those that spill into the streets, turning an entire city into a stage for shared memory and joy.</description>
       <source url="https://g1.globo.com/pa/para/noticia/2026/04/30/arraial-do-pavulagem-divulga-datas-dos-arrastoes-de-2026-veja-calendario-completo.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>A 17th Century 'supercomputer' once owned by Indian royalty sells for record in auction</title>
-      <link>https://news.bias.com/go/2026-04-30-1401</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-30-1401</guid>
-      <pubDate>Thu, 30 Apr 2026 14:01:42 GMT</pubDate>
-      <description>A magnificent 17th-century brass astrolabe, once owned by Indian royalty, has sold for more than £2 million at a Sotheby's auction in London, setting a record for astronomical instruments from the Islamic world. Described as perhaps the largest astrolabe in existence, this hand-held "supercomputer" was part of the royal collection of Maharaja Sawai Man Singh II of Jaipur before passing to his wife, the glamorous Maharani Gayatri Devi, and eventually into private hands.
-
-The extraordinary instrument was crafted in early 17th-century Lahore by brothers Qa'im Muhammad and Muhammad Muqim for Aqa Afzal, a Mughal nobleman who administered the city. Weighing over eight kilograms and measuring nearly 30 centimeters in diameter—roughly four times the size of typical astrolabes from that era—it showcases the pinnacle of the renowned "Lahore School" of astrolabe-making. The device contains 94 cities marked with their coordinates, 38 star pointers with names in both Persian and Sanskrit, and plates calibrated with remarkable precision. Astrolabes themselves are marvels of ancient technology, two-dimensional projections of the three-dimensional universe that could calculate time, measure distances, map stars, and even cast horoscopes—essentially the smartphones of their day.
-
-This story resonates because it bridges science, art, and cultural exchange in a single object. The blend of Persian and Sanskrit inscriptions reveals the cross-cultural sophistication of the Mughal court, where technical mastery met aesthetic ambition. It's a tangible reminder that centuries before modern computing, craftspeople were creating instruments of breathtaking complexity and beauty—tools that compressed the cosmos into something you could hold in your hands.</description>
-      <source url="https://www.bbc.com/news/articles/c8x7kw9lp8do?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
