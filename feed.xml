@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 04:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 06:04:48 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Country diary: It’s hard to top a calling curlew | Nigel Brown</title>
+      <link>https://news.bias.com/go/2026-05-04-0603</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-04-0603</guid>
+      <pubDate>Mon, 04 May 2026 06:03:07 GMT</pubDate>
+      <description>A wildlife enthusiast shares a luminous evening at Cors Ddyga, an RSPB reserve on Anglesey in Wales, where the abundance of life makes choosing a single highlight nearly impossible. The visit begins with a descent through a shadowy lane that opens onto sunset-lit reedbeds—a transition the writer likens to stepping from a tunnel into a stadium of light. The marsh comes alive with the calls of four warbler species, the rasping of a water rail, and the booming of bitterns, birds that returned to breed on Anglesey in 2016 after a 32-year absence.
+
+The spectacle continues with a male marsh harrier performing its sky dance courtship display, feathers catching the last sunlight, and an astonishing roost of hundreds of white and pied wagtails settling into the reeds. Yet it's the curlew—Europe's largest wader—that ultimately captures the essence of the marsh with its bubbling, trembling call. The moment carries a bittersweet weight: this iconic bird faces steep decline due to breeding failures, and without better land management, experts predict it will vanish from Wales within a decade.
+
+This story offers a window into a place where biodiversity still thrives, yet reminds us how fragile that richness can be. The connection between conservation efforts at Cors Ddyga and the fate of species like the curlew illustrates how thoughtful stewardship matters. It's a gentle prompt to pay attention—to the soundscapes that can eclipse landscapes, to the birds that define a place, and to what we stand to lose when we look away.</description>
+      <source url="https://www.theguardian.com/environment/2026/may/04/country-diary-its-hard-to-top-a-calling-curlew">The Guardian</source>
+    </item>
     <item>
       <title>Environmental cost of cruise ships not worth the economic benefit, expert says</title>
       <link>https://news.bias.com/go/2026-05-04-0404</link>
@@ -594,18 +606,6 @@ While detention periods have shortened compared to earlier years—when 60 perce
 
 Experts emphasize that seeking asylum is not a crime, and international guidelines specify detention should only be used as a last resort. Professor Jay Marlowe from Auckland University notes that alternatives exist—including designated addresses, movement restrictions, and regular reporting requirements—that don't involve prison settings. This story matters because it reveals the gap between policy intentions and administrative reality, raising questions about how a nation balances security concerns with humanitarian obligations while people navigate what is fundamentally a legal administrative process, not a criminal matter.</description>
       <source url="https://www.rnz.co.nz/news/community/593776/twenty-asylum-seekers-detained-in-prisons-since-report-called-for-practice-to-end">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>All-female voyage to tackle plastics problem sets sail</title>
-      <link>https://news.bias.com/go/2026-04-30-0202</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-30-0202</guid>
-      <pubDate>Thu, 30 Apr 2026 02:02:52 GMT</pubDate>
-      <description>An international crew of ten women has set sail from Auckland aboard a 70-foot ketch, embarking on a research voyage to investigate plastic pollution in New Zealand and Pacific waters. Led by expedition leader Rowan Henthorn, the team will travel to Great Barrier Island, the Bay of Islands, and Tonga as part of a global initiative by UK-based nonprofit eXXpedition—one of ten such missions planned over the next 18 months.
-
-The crew is using sophisticated equipment to trace ocean plastics back to their land-based sources. A manta trawl skims the water's surface, collecting plastic fragments, while a specialized tool called Fourier Transform Infrared Spectroscopy analyzes the samples to identify what products they originally came from. This detective work has proven effective before: in Antigua, the team traced paint and resin chips in the water back to local boatyards, information that helped shape new policies around marine paint management. Their first stop, Great Barrier Island, was chosen strategically—it acts as a natural collection point for waste drifting out of Auckland's Hauraki Gulf on prevailing winds and currents.
-
-This voyage represents a thoughtful approach to an overwhelming problem. With trillions of plastic pieces now floating in our oceans and production rates still climbing, the expedition offers something valuable: not just data, but a pathway from evidence to action. By mapping pollution to its sources and sharing findings in real time, these researchers are building the knowledge needed for communities to craft meaningful waste reduction strategies where they'll matter most—at the beginning of the plastic journey, not its end.</description>
-      <source url="https://www.rnz.co.nz/life/people/all-female-voyage-to-tackle-plastics-problem-sets-sail-from-auckland">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
