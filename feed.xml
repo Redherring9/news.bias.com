@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 02:03:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 04:04:28 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Environmental cost of cruise ships not worth the economic benefit, expert says</title>
+      <link>https://news.bias.com/go/2026-05-04-0404</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-04-0404</guid>
+      <pubDate>Mon, 04 May 2026 04:04:27 GMT</pubDate>
+      <description>New Zealand's relationship with cruise tourism is sparking debate as researchers question whether the economic benefits justify the environmental toll. While business leaders in regions like the Bay of Islands point to significant revenue—with 42 ships bringing an estimated $16.2 million last year—experts paint a more complex picture of an industry whose costs may exceed its contributions.
+
+Research from Griffith University reveals that cruise passengers account for roughly 9 percent of New Zealand's international arrivals but only 3 percent of tourism spending, as most purchases happen onboard rather than in local communities. The disparity becomes even starker in places like Milford Sound, which receives 69 percent of all cruise passengers yet sees zero percent of their spending because ships cannot dock there. Small retailers and independent operators say they see little benefit, with gains concentrated mainly among bus companies and major attractions. Meanwhile, environmental impacts are substantial: a typical one-week cruise from Sydney produces two to three tonnes of carbon dioxide per passenger, emitting up to four times more CO2 per kilometer than economy air travel. Pollution-control technologies like scrubbers, designed to reduce air emissions, sometimes simply transfer the problem by flushing chemical-laden water back into the ocean.
+
+This story offers a valuable glimpse into the hidden trade-offs of tourism development, where headline revenue figures don't always reveal who benefits or what's being sacrificed. It's a quiet reminder that sustainability requires looking beyond the immediate economic gains to consider who pays the real price.</description>
+      <source url="https://www.rnz.co.nz/news/environment/593740/environmental-cost-of-cruise-ships-not-worth-the-economic-benefit-expert-says">Radio New Zealand</source>
+    </item>
     <item>
       <title>Tierney Thys, marine biologist and interpreter of the sunfish</title>
       <link>https://news.bias.com/go/2026-05-04-0203</link>
@@ -594,18 +606,6 @@ The crew is using sophisticated equipment to trace ocean plastics back to their 
 
 This voyage represents a thoughtful approach to an overwhelming problem. With trillions of plastic pieces now floating in our oceans and production rates still climbing, the expedition offers something valuable: not just data, but a pathway from evidence to action. By mapping pollution to its sources and sharing findings in real time, these researchers are building the knowledge needed for communities to craft meaningful waste reduction strategies where they'll matter most—at the beginning of the plastic journey, not its end.</description>
       <source url="https://www.rnz.co.nz/life/people/all-female-voyage-to-tackle-plastics-problem-sets-sail-from-auckland">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Why are so many gray whales dying in the waters of San Francisco Bay?</title>
-      <link>https://news.bias.com/go/2026-04-30-0003</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-30-0003</guid>
-      <pubDate>Thu, 30 Apr 2026 00:03:10 GMT</pubDate>
-      <description>The waters of San Francisco Bay have become an unexpected stage for a troubling mystery. Since 2018, gray whales from the eastern North Pacific have been making an unusual detour into the bay—a stopover that wasn't part of their known migration pattern until recently. These magnificent creatures undertake the longest annual migration of any mammal, traveling up to 20,000 kilometers round trip between the Arctic and Baja California. Now, researchers are witnessing them feed, mate, and interact in the bay's waters. But alongside the wonder comes growing alarm: many of these whales are dangerously thin, and record numbers are dying.
-
-In 2024, twenty-one gray whales perished in San Francisco Bay—an unprecedented toll. Seven more have died so far in 2025. The whales arriving in the bay, predominantly adult males and juveniles heading north, are noticeably underweight for this time of year. Researchers believe declining food sources in the Arctic may be driving hungry whales to seek alternative feeding grounds. Yet starvation isn't necessarily the direct cause of death. A recent study published in Frontiers in Marine Science found that vessel strikes are killing nearly one-fifth of the gray whales entering the bay, with malnourished animals particularly vulnerable to collisions.
-
-This story matters because these whales may be messengers, carrying warnings about larger changes happening beneath the ocean's surface. The bay offers scientists a rare window into how climate change is reshaping migration routes and food availability. Early sightings this season—beginning in January rather than the typical April peak—suggest the pattern may be intensifying. It's a quiet tragedy unfolding in plain sight, where each death teaches researchers something vital about our changing seas.</description>
-      <source url="https://www.bbc.com/mundo/articles/c5ye0rr7r6zo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
