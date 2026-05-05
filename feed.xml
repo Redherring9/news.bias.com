@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 08:03:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 10:03:36 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Study finds microplastics in tadpoles in the Amazon for the first time</title>
+      <link>https://news.bias.com/go/2026-05-05-1003</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-05-1003</guid>
+      <pubDate>Tue, 05 May 2026 10:03:35 GMT</pubDate>
+      <description>Scientists have discovered microplastics in tadpoles and their pond habitats deep in the Amazon rainforest for the first time, revealing that plastic pollution has infiltrated even relatively pristine areas of this vital ecosystem. Ecologist Fabrielle Barbosa de Araújo and her team from the Federal University of Pará sampled temporary rainwater ponds in Gunma Ecological Park, collecting water and tadpoles of the Venezuela snouted treefrog, a species common throughout South America.
+
+What startled the researchers wasn't merely finding the contamination—previous studies had already detected microplastics in Amazonian fish, invertebrates, soil, and water—but rather the sheer quantity present in an area with low human population density. The microplastics, mostly transparent, blue, and black polyester fibers, likely originated from sewage and fishing activities. The tadpoles may have ingested these particles while feeding on algae, fungi, and eggs. Araújo expressed particular concern because microplastics can cause genetic damage, alter blood cells and DNA, accumulate in tissues, and trigger physiological changes in amphibians.
+
+This discovery matters because amphibians are the most threatened vertebrate group on Earth, and understanding emerging threats like microplastic contamination is essential for their conservation. As ecologist Jess Hua noted, freshwater systems remain understudied compared to marine environments when it comes to plastic pollution. The research opens a window into how pervasive this modern contaminant has become, reaching organisms in one of the world's most biodiverse regions, and underscores the need for continued monitoring to protect the Amazon's remarkable but vulnerable wildlife.</description>
+      <source url="https://news.mongabay.com/short-article/2026/05/study-finds-microplastics-in-tadpoles-in-the-amazon-for-the-first-time/">Mongabay</source>
+    </item>
     <item>
       <title>Second act: the pioneers giving green tech a new spin</title>
       <link>https://news.bias.com/go/2026-05-05-0803</link>
@@ -594,18 +606,6 @@ Conservation groups have responded with practical, incremental solutions. Volunt
 
 The story illustrates how conservation adapts to challenging circumstances. In a place where every square meter is contested, preserving wildlife means finding creative compromises and engaging citizens in the work. The volunteer program does double duty: it gathers essential data while building public investment in the langurs' survival. Whether this momentum continues will depend on future land-use choices and whether remaining forest fragments can be protected and linked. It's a reminder that conservation success sometimes looks less like grand wilderness and more like careful stewardship of small, precious spaces.</description>
       <source url="https://news.mongabay.com/short-article/2026/05/singapores-population-of-raffles-banded-langur-has-doubled/">Mongabay</source>
-    </item>
-    <item>
-      <title>The paradox of Norway, the country that earns billions from rising oil prices but uses less and less of it</title>
-      <link>https://news.bias.com/go/2026-05-01-0402</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-01-0402</guid>
-      <pubDate>Fri, 01 May 2026 04:02:59 GMT</pubDate>
-      <description>Norway presents one of the modern world's most striking contradictions. The Scandinavian nation has earned a reputation as an environmental leader: nearly all its electricity comes from renewable sources, nine out of ten new cars sold in 2024 were electric, and bicycles fill its city streets. It was among the first countries to impose carbon taxes and has systematically decarbonized its domestic energy consumption. Yet simultaneously, Norway remains one of the world's largest exporters of oil and gas, with fossil fuel sales accounting for over 60% of its exports and more than a fifth of its GDP.
-
-This duality—what commentators have dubbed "the Norwegian paradox"—has intensified amid recent geopolitical turmoil. Tensions in the Middle East and the blockade of the Strait of Hormuz have driven global energy prices upward, generating billions in unexpected revenue for Norway's state coffers and its famous sovereign wealth fund, now valued at roughly $1.9 trillion. The country has become Europe's most reliable energy supplier since Russia's invasion of Ukraine reduced Moscow's exports, now providing about 30% of the continent's gas and 15% of its oil. While this position ensures economic prosperity and underwrites Norway's generous pension system, it has reopened uncomfortable national conversations about profiting from global instability.
-
-The debate reflects a deeper question about responsibility and transition. Environmental activists argue the contradiction is untenable and call for concrete timelines to wind down fossil fuel production, while industry defenders point to the sector's economic importance and the hundreds of thousands of jobs it sustains. This story matters because it illuminates the complex trade-offs wealthy nations face between climate commitments and economic realities—a tension that may define the coming decades as the world attempts to navigate energy transition while maintaining stability and prosperity.</description>
-      <source url="https://www.bbc.com/mundo/articles/c98r144q49ro?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
