@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 20:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 22:02:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A new documentary film captures rare mountain gorilla behavior</title>
+      <link>https://news.bias.com/go/2026-05-05-2202</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-05-2202</guid>
+      <pubDate>Tue, 05 May 2026 22:02:01 GMT</pubDate>
+      <description>A new Netflix documentary has captured extraordinarily rare mountain gorilla behaviors that researchers might typically wait a decade to witness. Within just days of filming, the crew documented a "dominance transfer"—where a younger male silverback assumes leadership from an older male—along with other seldom-seen social dynamics among gorilla groups in Rwanda's Volcanoes National Park.
+
+Tara Stoinski, CEO of the Dian Fossey Gorilla Fund and scientific adviser on the multi-year project, emphasizes how the film reveals the striking similarities between gorillas and humans. Viewers witness long-term friendships, protective care for vulnerable members, and complex social structures that mirror some of humanity's most admired traits. The documentary, narrated by David Attenborough, follows a gorilla group descended from an individual who famously approached a young Attenborough during filming in 1978, creating an emotional through-line across generations.
+
+Yet the film also highlights the precarious reality these mountain gorillas face. Living in what Stoinski describes as "a small island of forests surrounded by some of the highest rural human population densities in Africa," the animals confront different threats depending on their location. While gorillas in the Democratic Republic of Congo's Virunga National Park face armed conflict and poaching, those in Rwanda contend with climate change and disease transmission risks. This documentary offers a rare window into behavior that even dedicated researchers seldom observe, while quietly underscoring the fragility of these endangered populations and the interconnected challenges facing both gorillas and neighboring human communities.</description>
+      <source url="https://news.mongabay.com/podcast/2026/05/a-new-documentary-film-captures-rare-mountain-gorilla-behavior/">Mongabay</source>
+    </item>
     <item>
       <title>Three men walked into a whisky bar. Eight years on, a court case has ended</title>
       <link>https://news.bias.com/go/2026-05-05-2001</link>
@@ -594,18 +606,6 @@ Cannon's path into journalism began with biology studies at Ohio State Universit
 
 What makes Cannon's approach quietly compelling is its rejection of both despair and hype. His reporting doesn't claim to solve the problems it documents; instead, it aims to illuminate what's happening and why it matters. In a landscape where environmental stories can feel overwhelming or abstract, his work suggests that careful, fact-driven journalism still has the power to connect scientific findings with the lives of those most affected—and to reveal how deeply interconnected those lives are with our own.</description>
       <source url="https://news.mongabay.com/short-article/2026/05/why-evidence-matters-in-environmental-journalism/">Mongabay</source>
-    </item>
-    <item>
-      <title>Eggs of elusive bird rescued by firefighters during wildfire</title>
-      <link>https://news.bias.com/go/2026-05-01-1601</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-01-1601</guid>
-      <pubDate>Fri, 01 May 2026 16:01:20 GMT</pubDate>
-      <description>In the midst of battling a major wildfire in County Fermanagh, Northern Ireland, firefighters discovered a curlew nest directly in the path of the advancing flames. Despite challenging conditions and the urgency of containing the blaze, which required 85 firefighters over eight hours, the crew took careful steps to protect the nest before coordinating with the Royal Society for the Protection of Birds to safely remove the eggs for incubation.
-
-The rescue carries particular significance because curlews have become critically rare in Northern Ireland. Once a common sight across the countryside, the distinctive wading bird has seen its population plummet by more than 80% since the 1980s, leaving only about 150 breeding pairs in the region. This dramatic decline has made every nest precious, and recent conservation efforts have begun to show promise, with curlews now thriving in certain areas.
-
-This story offers a quiet reminder of how human intervention can make a tangible difference for vulnerable species, even in the chaos of an emergency. The firefighters' decision to pause and protect the nest amid their dangerous work speaks to a growing awareness of our interconnected responsibility to the natural world. For a bird teetering on the edge of disappearing from the Northern Irish landscape entirely, these rescued eggs represent not just individual lives but hope for a species struggling to reclaim its place in the countryside it once defined.</description>
-      <source url="https://www.bbc.com/news/articles/c2k20ggnqldo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
