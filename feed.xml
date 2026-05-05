@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 06:03:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 08:03:46 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Second act: the pioneers giving green tech a new spin</title>
+      <link>https://news.bias.com/go/2026-05-05-0803</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-05-0803</guid>
+      <pubDate>Tue, 05 May 2026 08:03:45 GMT</pubDate>
+      <description>A quiet revolution is underway in the world of clean technology, where innovators are finding clever ways to extend the life of equipment that would otherwise be discarded. At Connected Energy in Norfolk, teams are transforming used electric vehicle batteries—no longer powerful enough for cars but still capable of storing significant energy—into massive power packs for grid-scale storage. These repurposed batteries can supply electricity to data centers, help balance renewable energy supply and demand, and even participate in energy trading by buying cheap power and selling it when prices rise.
+
+Tania Saxby, who joined Connected Energy fresh from university in 2019, has grown into her role as head of sustainability, now responsible for quantifying the carbon savings these second-life batteries deliver compared to manufacturing new ones. When she started, she was the only woman in a company dominated by ex-Lotus engineers and motorsport enthusiasts. As the company has expanded, so has its diversity, bringing what Saxby describes as a more open atmosphere and better collaboration between teams. She's noticed similar shifts in the wider industry, with universities reporting significantly more women interested in energy storage and electrical engineering.
+
+The timing couldn't be better. As renewable energy sources like wind and solar generate more of our electricity, the need for storage grows in tandem. Meanwhile, electrification across industries—from passenger vehicles to enormous mining trucks with person-height tires—means a steady stream of batteries will eventually need new purposes. This story matters because it illustrates how sustainability challenges can become opportunities, turning potential waste into essential infrastructure while opening doors for a new generation of engineers to reimagine what's possible.</description>
+      <source url="https://www.positive.news/environment/second-act-the-pioneers-giving-green-tech-a-new-spin/">Positive News</source>
+    </item>
     <item>
       <title>Country diary: Newts in the pond, commotion in the house | Mark Cocker</title>
       <link>https://news.bias.com/go/2026-05-05-0602</link>
@@ -594,18 +606,6 @@ This duality—what commentators have dubbed "the Norwegian paradox"—has inten
 
 The debate reflects a deeper question about responsibility and transition. Environmental activists argue the contradiction is untenable and call for concrete timelines to wind down fossil fuel production, while industry defenders point to the sector's economic importance and the hundreds of thousands of jobs it sustains. This story matters because it illuminates the complex trade-offs wealthy nations face between climate commitments and economic realities—a tension that may define the coming decades as the world attempts to navigate energy transition while maintaining stability and prosperity.</description>
       <source url="https://www.bbc.com/mundo/articles/c98r144q49ro?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>Samoan choreographers behind Michael Jackson biopic proud of Pacific roots</title>
-      <link>https://news.bias.com/go/2026-05-01-0202</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-01-0202</guid>
-      <pubDate>Fri, 01 May 2026 02:02:03 GMT</pubDate>
-      <description>Two Samoan choreographers are celebrating their role in bringing Michael Jackson's story to the screen as the biopic 'Michael' breaks box office records. Rich and Tone Talauega, brothers who grew up in California with deep roots in American Samoa, served as lead choreographers for the film, which earned $217 million worldwide in its opening weekend—a record for a music biopic.
-
-The Talauega brothers spent four years on the project, including two years training lead actor Jaafar Jackson, Michael's nephew, who had no formal dance or acting experience. They began with "Billie Jean," viewing it as the ultimate test: a one-man performance that would determine whether Jackson could carry the weight of the entire film. Their journey with Michael Jackson spans decades—they danced on his HIStory World Tour in 1996 and choreographed his "You Rock My World" music video in 2001. Between them, they've worked with Madonna, Jennifer Lopez, and Chris Brown, building careers that blend street dance origins with world-class artistry.
-
-What makes this story quietly resonant is how the brothers credit their Samoan upbringing for their success. As the youngest of 14 children, they watched their parents' work ethic and absorbed family values that became the foundation of their craft. They remember their mother hosting church choir practice and performing cultural dances alongside their street dancing. For the Pacific community watching their names scroll in the credits, it's a moment of representation in an industry where such visibility matters. This is a story about heritage carried forward through art, about two brothers honoring both their roots and their craft on the world's biggest stage.</description>
-      <source url="https://www.rnz.co.nz/news/pacific_samoa/593965/samoan-choreographers-behind-michael-jackson-biopic-proud-of-pacific-roots">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
