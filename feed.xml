@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 10:03:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 12:01:29 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Facebook is a hub for illegal wildlife trade, and that’s by design, report says</title>
+      <link>https://news.bias.com/go/2026-05-05-1201</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-05-1201</guid>
+      <pubDate>Tue, 05 May 2026 12:01:28 GMT</pubDate>
+      <description>A new report reveals that Facebook has become the dominant marketplace for illegal wildlife trade, hosting more than three-quarters of the 22,000 wild animals and animal parts sold online over a two-year period. The sales, valued at approximately $65 million, included everything from live endangered animals like ring-tailed lemurs and chimpanzees to products made from pangolins, ivory, and rhino horn. Researchers analyzing data from ten countries found that about 84% of the species offered for sale are banned from international commercial trade, and more than half were endangered or critically endangered.
+
+The platform's design features appear to facilitate rather than prevent this illicit trade. Closed groups, anonymous profiles, and algorithms that recommend related content to users create an ideal environment for traffickers to operate discreetly. Despite Facebook's official policy prohibiting wildlife sales, the sheer volume of listings suggests inadequate enforcement and moderation. As wildlife researcher Chris Shepherd notes, online platforms offer traffickers convenience, anonymity, and low overhead costs compared to physical markets. This shift from street corners to screens mirrors broader economic trends but presents unique challenges for law enforcement trying to track and prosecute criminals operating across borders from behind their keyboards.
+
+This story matters because it exposes a troubling gap between corporate policy and reality in the digital age. While technology companies publicly oppose wildlife trafficking, their platforms inadvertently enable a thriving black market that threatens species survival worldwide. Experts are calling for stricter platform regulation, better collaboration with law enforcement, and increased accountability—a reminder that in our interconnected world, the tools we use daily can have profound consequences for the natural world.</description>
+      <source url="https://news.mongabay.com/2026/05/facebook-is-a-hub-for-illegal-wildlife-trade-and-thats-by-design-report-says/">Mongabay</source>
+    </item>
     <item>
       <title>Study finds microplastics in tadpoles in the Amazon for the first time</title>
       <link>https://news.bias.com/go/2026-05-05-1003</link>
@@ -594,18 +606,6 @@ The fishing technique is a community affair. Spotters perched on rocky outcrops 
 
 This story offers a window into how economic necessity and cultural heritage can intertwine seamlessly across generations. It's a reminder that some traditions endure not just as folklore, but as living practices that feed families, shape communities, and occasionally inspire internet memes—like the viral "dinosaur mullet" or a lottery shop's "lucky tainha" statue promising fortune to those who rub its scales.</description>
       <source url="https://g1.globo.com/sc/santa-catarina/noticia/2026/05/01/sc-largada-pesca-tainha-tradicao-mistura-economia-cultura-litoral.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Singapore’s population of Raffles’ banded langur has doubled</title>
-      <link>https://news.bias.com/go/2026-05-01-0604</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-01-0604</guid>
-      <pubDate>Fri, 01 May 2026 06:04:02 GMT</pubDate>
-      <description>In the small forest reserves scattered across Singapore, a quiet conservation effort is paying off. Volunteers spend patient hours watching the treetops for glimpses of the Raffles' banded langur, a primate that lives in isolated pockets of habitat throughout the densely developed city-state. These langurs depend on continuous canopy cover to move and forage, but urban expansion has fragmented their forest homes into disconnected patches.
-
-Conservation groups have responded with practical, incremental solutions. Volunteers meticulously document group sizes and behaviors, building a knowledge base about how these primates navigate their constrained world. Meanwhile, agencies work to reconnect broken habitats by planting native food trees and installing rope bridges that allow langurs to cross gaps in the canopy without descending to the ground. Researcher Andie Ang reports that the population has grown from roughly 40 individuals in 2011 to 80 today—a doubling that suggests these modest interventions are making a tangible difference.
-
-The story illustrates how conservation adapts to challenging circumstances. In a place where every square meter is contested, preserving wildlife means finding creative compromises and engaging citizens in the work. The volunteer program does double duty: it gathers essential data while building public investment in the langurs' survival. Whether this momentum continues will depend on future land-use choices and whether remaining forest fragments can be protected and linked. It's a reminder that conservation success sometimes looks less like grand wilderness and more like careful stewardship of small, precious spaces.</description>
-      <source url="https://news.mongabay.com/short-article/2026/05/singapores-population-of-raffles-banded-langur-has-doubled/">Mongabay</source>
     </item>
   </channel>
 </rss>
