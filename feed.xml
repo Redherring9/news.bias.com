@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 02:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 04:02:52 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meteor shower, a comet and the Moon: What's in the sky this month</title>
+      <link>https://news.bias.com/go/2026-05-05-0402</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-05-0402</guid>
+      <pubDate>Tue, 05 May 2026 04:02:50 GMT</pubDate>
+      <description>May's night sky offers a mixed bag of celestial events, starting with the Eta Aquariids meteor shower peaking on May 6 and 7. These meteors, debris from Halley's Comet that Earth passes through each year, typically produce 20 to 30 shooting stars per hour under ideal conditions. This year, however, a waning gibbous moon will significantly wash out the display, reducing visible meteors to just 5 to 10 per hour in the predawn darkness. Astronomers suggest that patient stargazers who happen to be up before sunrise might still catch a few fireballs, but those seeking a better show should wait until next year when a new moon promises darker skies.
+
+For those unwilling to wake at 4 a.m., May delivers more accessible wonders. Comet C/2025 R3 PanSTARRS glows blue-green in western skies just after sunset, fresh from its close approach to the Sun in late April. At magnitude 5.2, it sits at the edge of naked-eye visibility but makes an excellent target for binoculars or cameras. Meanwhile, Venus and Jupiter are drawing closer together in the evening sky, offering a planetary pairing visible at more convenient hours. The month also features a "blue" micromoon, though the article doesn't elaborate on this lunar event.
+
+This story reminds us that astronomy requires patience and timing. While May's meteor shower may disappoint, it illustrates how celestial mechanics—the dance of Earth, Moon, and ancient comet debris—shape what we see overhead. For casual observers, the accessible evening comet and planetary conjunction offer gentler entry points to skywatching, no alarm clock required.</description>
+      <source url="https://www.abc.net.au/news/science/2026-05-05/meteor-showers-and-moons-what-s-in-the-sky-in-may/106625436">ABC Australia</source>
+    </item>
     <item>
       <title>At 100, David Attenborough’s message is no longer just about wonder</title>
       <link>https://news.bias.com/go/2026-05-05-0201</link>
@@ -594,18 +606,6 @@ Young birders like Jess Painter, 24, describe the practice as a form of mindfuln
 
 As International Dawn Chorus Day approaches, when spring birdsong reaches its seasonal peak, the RSPB is inviting people to set their alarms early and experience this natural symphony. This story matters because it reveals how a generation often characterized by screen time is actively seeking authentic connection with the natural world. It's a quiet reminder that ancient rhythms—birds defending territories at dawn, humans pausing to listen—still resonate deeply, offering what one observer calls "one of the purest joys of life."</description>
       <source url="https://www.theguardian.com/environment/2026/may/01/birdwatching-boom-britain-nature-gen-z-rspb-environment">The Guardian</source>
-    </item>
-    <item>
-      <title>Synthetic biology promised to rewrite life – with the death of its pioneer, J. Craig Venter, how close are scientists?</title>
-      <link>https://news.bias.com/go/2026-04-30-2202</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-04-30-2202</guid>
-      <pubDate>Thu, 30 Apr 2026 22:02:51 GMT</pubDate>
-      <description>When J. Craig Venter's team created the first cell controlled by a fully synthetic genome in 2010, it seemed biology had reached a transformative threshold. For the first time, scientists had written DNA code on a computer, assembled it in a lab, and used it to command a living cell—suggesting that life itself might be not just understood, but engineered from the ground up. Venter, who helped lead efforts to sequence the human genome, became a pioneer of synthetic biology, a field that blends biology and engineering to design organisms that can produce medicines, create sustainable fuels, or clean up environmental toxins.
-
-The promise was bold: if DNA could be read like software code, perhaps entire organisms could one day be written like programs. And there have been real successes—microbes engineered to manufacture antimalarial drugs, biofuels designed to reduce fossil fuel dependence, and organisms tailored to break down pollutants. Yet the field has moved more slowly than its early boosters imagined. Living systems have proven far more complex than modular machines; cells don't simply swap parts like interchangeable components. Following Venter's death in April 2026, scientists are taking stock of how far synthetic biology has actually come.
-
-This story offers a chance to reflect on a rare scientific milestone and ask an honest question: when we dream of rewriting life, what have we learned about its stubborn, intricate beauty? It's a moment to appreciate both the genuine progress and the humility required when ambition meets the living world.</description>
-      <source url="https://theconversation.com/synthetic-biology-promised-to-rewrite-life-with-the-death-of-its-pioneer-j-craig-venter-how-close-are-scientists-281963">The Conversation</source>
     </item>
   </channel>
 </rss>
