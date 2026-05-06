@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 12:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 14:02:26 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Australia’s new national park links habitat to protect koalas</title>
+      <link>https://news.bias.com/go/2026-05-06-1402</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-06-1402</guid>
+      <pubDate>Wed, 06 May 2026 14:02:24 GMT</pubDate>
+      <description>Australia has created the Great Koala National Park, a nearly 5,000-square-kilometer protected area along the country's east coast designed to safeguard koalas and 66 other threatened species. The park, set to be finalized in 2026, represents the culmination of a 13-year campaign by environmental groups and activists like ecologist Mark Graham. By linking existing conservation reserves with state forests, it will create connected wildlife corridors and protect roughly 20% of New South Wales' wild koala population—a species declared endangered under federal law in 2022.
+
+The koala's decline has been dramatic and long-standing. Between 1888 and 1927, at least 8 million koalas were killed for the international fur trade, with a particularly devastating hunt in Queensland's "Black August" of 1927 claiming 600,000 lives. Public outcry over that event sparked what's considered Australia's first major conservation movement. Today, koalas face new threats: disappearing eucalyptus forests, climate-driven wildfires of increasing frequency and intensity, and fragmented habitats that prevent populations from dispersing and thriving.
+
+While conservationists celebrate the park as one of the most significant conservation victories in decades, they also sound notes of caution. Loopholes in land-use regulations, ongoing logging pressures, development interests, and weak enforcement continue to threaten koala habitat even within protected boundaries. This story matters because it captures both the promise of large-scale conservation efforts and the complex reality of protecting vulnerable species in a changing world—a reminder that designating protected areas is only the beginning of the work required to ensure wildlife can truly recover.</description>
+      <source url="https://news.mongabay.com/2026/05/australias-new-national-park-links-habitat-to-protect-koalas/">Mongabay</source>
+    </item>
     <item>
       <title>Rethinking conservation through elephants’ sense of time and memory</title>
       <link>https://news.bias.com/go/2026-05-06-1202</link>
@@ -594,18 +606,6 @@ What makes Pikipiki particularly meaningful is how it honors Māori musical heri
 
 Alexander-Masters's journey has included unexpected turns, from playing a nurse on Shortland Street (an experience she found uncomfortable due to negative fan responses) to spending years performing disco covers at weddings with her band Coco Rocky. Now engaged to fashion designer Mike Hill, she's planning her own wedding—complete with a hāngī—and dreaming of wholesome daytime garden parties where families can gather. This story captures someone who's found her creative voice by looking backward with respect while moving forward with heart, building community through music one kitchen-table song at a time.</description>
       <source url="https://www.rnz.co.nz/life/music/geneva">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>First malaria drug for babies is approved in ‘major public health milestone’</title>
-      <link>https://news.bias.com/go/2026-05-02-0802</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-02-0802</guid>
-      <pubDate>Sat, 02 May 2026 08:02:27 GMT</pubDate>
-      <description>The World Health Organization has approved the first malaria treatment specifically designed for babies, marking what health officials are calling a watershed moment in global public health. In parts of Africa, nearly one in five infants under six months contracts malaria, yet until now there has been no safe, purpose-built treatment for the youngest and smallest patients. With roughly 610,000 malaria deaths in 2024—three-quarters of them African children under five—the gap has been deadly and long-standing.
-
-Coartem Baby, which can treat infants as small as 2 kilograms, comes as cherry-flavored tablets that dissolve in liquids, including breast milk. The drug combines two antimalarials—artemether and lumefantrine—and was developed through a partnership between Novartis and the Medicines for Malaria Venture. Previously, infants were given formulations intended for older children, increasing the risks of incorrect dosing and harmful side effects. The WHO's prequalification means the treatment now meets international standards and can be procured by public health systems across malaria-endemic countries, particularly in sub-Saharan Africa.
-
-This approval follows growing research that challenged the old assumption that newborns retain their mothers' immunity through pregnancy and breastfeeding. One early beneficiary is Baby Wonder in Ghana, who was successfully treated at 12 weeks after developing a high fever and elevated parasite levels. His mother, Naomi, described her fear when her underweight son fell ill. Doctors noted that they historically overlooked malaria in the youngest patients, uncertain how to proceed. With Coartem Baby now available on a largely not-for-profit basis, this story offers something quietly profound: a reminder that closing small gaps in medical care can save countless young lives.</description>
-      <source url="https://www.theguardian.com/global-development/2026/may/02/new-drug-coartem-baby-babies-malaria-who-treatment">The Guardian</source>
     </item>
   </channel>
 </rss>
