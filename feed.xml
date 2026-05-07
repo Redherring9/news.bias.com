@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 20:03:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 22:02:09 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Students in RN create 'paint' that helps prevent collision and death of birds in wind towers</title>
+      <link>https://news.bias.com/go/2026-05-07-2202</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-07-2202</guid>
+      <pubDate>Thu, 07 May 2026 22:02:07 GMT</pubDate>
+      <description>A team of high school students in Rio Grande do Norte, Brazil, has developed an innovative coating that could help save birds from colliding with wind turbine blades. The special paint reflects colors that birds can see, allowing them to detect the towers and adjust their flight paths—a simple yet clever solution to a growing environmental concern as wind energy expands across the region.
+
+The project emerged from a partnership between the SESI Bat Tech robotics team and the Global Wind Energy Council, the leading international trade association for the wind energy sector. The students identified real-world challenges in the wind industry—efficiency, costs, and environmental impacts—and set out to create practical solutions. Their work, called BAT Solution, encompasses multiple initiatives aimed at making wind energy more sustainable. The team earned recognition at Brazil's National Robotics Tournament in March, winning the Connect Award for best linking robotics with industry needs, which secured their spot at the Western Edge Premier Event in California in late May.
+
+Beyond the technical innovation, this story offers a heartening glimpse of young people applying scientific thinking to protect wildlife while supporting renewable energy. The students and their mentors are also working to bring robotics education to underserved schools in Brazil's interior, extending the impact of their work beyond a single invention. It's a reminder that environmental solutions don't always require choosing between progress and preservation—sometimes creativity can serve both at once.</description>
+      <source url="https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/05/07/estudantes-tinta-evitar-aves-mortes-eolicas.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Ted Turner didn’t just revolutionize television − he changed the way we see our world</title>
       <link>https://news.bias.com/go/2026-05-07-2003</link>
@@ -594,18 +606,6 @@ Before European colonization, these dragons thrived across the volcanic plains a
 
 This story matters because it illuminates both the fragility and resilience of conservation work. The dragon's survival hinges on the goodwill of private landowners, prompting calls for government action to secure the land permanently. It's a quiet reminder that even the smallest creatures, rediscovered against all odds, deserve our most thoughtful efforts to ensure they don't disappear again.</description>
       <source url="https://www.theguardian.com/environment/2026/may/04/victorian-grassland-earless-dragon-melbourne-zoo-endangered-species-second-extinction">The Guardian</source>
-    </item>
-    <item>
-      <title>Between discovery and business: the controversial legacy of Craig Venter, the scientist who helped decode the human genome</title>
-      <link>https://news.bias.com/go/2026-05-03-1403</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-03-1403</guid>
-      <pubDate>Sun, 03 May 2026 14:03:42 GMT</pubDate>
-      <description>Craig Venter, the American scientist who helped decode the human genome, has died, leaving behind a legacy as complex as the genetic sequences he studied. Best described as a maverick, Venter was simultaneously celebrated as one of the century's most important scientists and criticized for commercializing research and treating science as a competitive sport. His career was marked by bold decisions that challenged established norms and sparked ongoing debate about the boundaries between scientific discovery and business.
-
-Venter's most famous move came in the 1980s when he left the publicly funded Human Genome Project, believing its methods were too slow. He founded the private company Celera and developed a faster, though less precise, sequencing method. In 2000, both Celera and the government project jointly announced they had produced the first draft of the human genome—a crucial milestone for understanding disease and human origins. But while the public project shared all its data freely, Venter initially withheld some of Celera's findings for commercial advantage. His success made him wealthy, complete with private jets and yachts, and he didn't hide his confidence, once comparing himself to Nobel laureates and later revealing he'd used his own genome for Celera's research.
-
-After sequencing the genome, Venter turned to synthetic biology, establishing the J. Craig Venter Institute where his team created the first synthetic bacterial cell controlled entirely by an artificial genome. This story matters because it captures an enduring tension in modern science: the push and pull between advancing human knowledge and the temptation to profit from it, embodied in one brilliant, controversial figure.</description>
-      <source url="https://www.bbc.com/mundo/articles/cze23nj9pl5o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
