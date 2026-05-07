@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 08:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 10:04:17 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cerrado’s hidden carbon highlights gaps in Brazil’s conservation policy</title>
+      <link>https://news.bias.com/go/2026-05-07-1004</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-07-1004</guid>
+      <pubDate>Thu, 07 May 2026 10:04:16 GMT</pubDate>
+      <description>Scientists have discovered that Brazil's Cerrado wetlands hold far more carbon than previously understood — six times more per hectare than lowland Amazon forests. Using deep-soil sampling and satellite mapping, researchers estimated these peaty grasslands, known locally as veredas and campos úmidos, could store up to 20 billion metric tons of carbon dioxide. The wetlands also cover a surprisingly vast area: potentially 16.7 million hectares, or about 2% of Brazil's entire landmass.
+
+For ecologist Larissa Verona and her team, studying these waterlogged grasslands meant trudging through reeds, dodging tapir trails, and once even fleeing a lightning-sparked wildfire during fieldwork. Their research revealed not just the scale of carbon stored beneath the surface, but also the vulnerability of these systems. Unlike more stable tropical peatlands elsewhere, Cerrado wetlands appear more sensitive to shifts in rainfall and groundwater — changes already underway as dry seasons grow longer and hotter. Over the past fifty years, more than half the Cerrado's native vegetation has been cleared, often dismissed as a "sacrifice biome" less valuable than the Amazon or Atlantic Forest.
+
+This research joins a growing effort to reframe how the Cerrado is perceived: not as expendable savanna, but as a biodiversity hotspot, a regional water source, and now a critical carbon reserve. The findings highlight a troubling gap in conservation policy and awareness. As co-author Rafael Oliveira asks, how can such a significant carbon stockpile remain so poorly understood this far into the century? The study offers a quiet but urgent reminder that some of the planet's most important ecological systems may be hiding in plain sight, awaiting recognition before they vanish.</description>
+      <source url="https://news.mongabay.com/2026/05/cerrados-hidden-carbon-highlights-gaps-in-brazils-conservation-policy/">Mongabay</source>
+    </item>
     <item>
       <title>The New Zealand scientist hoping to bring the Norfolk Island snail back from the brink of extinction</title>
       <link>https://news.bias.com/go/2026-05-07-0801</link>
@@ -594,18 +606,6 @@ The festival began in 2012 as an unlikely experiment — what happens when a whe
 
 This story is worth your time because it captures something quietly remarkable about small-town resilience and imagination. In an era when rural communities often struggle for visibility and economic vitality, Trundle found both through pure, unapologetic joy. The festival delivers what Crowley calls "a mini harvest" for local businesses, fills the showground, and packs the pub. But perhaps more meaningful is what happens when 2,000 people gather in a town of 335 to celebrate music, renewal, and the improbable magic of a good idea in an unexpected place.</description>
       <source url="https://www.abc.net.au/news/2026-05-03/trundle-abba-festival-returns/106615014">ABC Australia</source>
-    </item>
-    <item>
-      <title>What's turning this red-tailed black cockatoo orange?</title>
-      <link>https://news.bias.com/go/2026-05-03-0202</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-03-0202</guid>
-      <pubDate>Sun, 03 May 2026 02:02:55 GMT</pubDate>
-      <description>A striking orange and black cockatoo has been making periodic appearances around Bunbury in Western Australia, drawing attention from photographers and bird enthusiasts alike. The bird, a female red-tailed black cockatoo, displays this unusual coloring due to leucism—a rare genetic condition affecting approximately one in 30,000 birds. Unlike typical members of her species, which sport black feathers with red tail markings, this individual has lost some of her dark pigmentation, resulting in vibrant orange plumage where black would normally appear.
-
-According to Tegan Douglas from BirdLife Australia, leucism is related to albinism and occurs when genetic signals that control feather coloration don't function as expected. "It's just a little glitch," Dr. Douglas explained, noting that the condition doesn't provide any special advantages—it's simply a genetic quirk that makes this bird visually distinctive. Reports of an orange cockatoo in the Bunbury area have surfaced sporadically over the past decade, and researchers believe these sightings likely involve the same long-lived individual. Her intermittent appearances may be linked to food availability and increased competition in suburban environments, where native birds face pressure from invasive species like corellas.
-
-This story offers a gentle reminder of the individual lives unfolding in our neighborhoods. While red-tailed black cockatoos already face threats from habitat loss and development, this particular bird has persisted in the same community for years—a testament to both her resilience and the importance of urban wildlife corridors. Her story invites readers to look more closely at the birds around them and consider the quiet, ongoing dramas of survival and adaptation happening overhead.</description>
-      <source url="https://www.abc.net.au/news/2026-05-03/leucistic-red-black-orange-cockatoo-bunbury-wa/106630808">ABC Australia</source>
     </item>
   </channel>
 </rss>
