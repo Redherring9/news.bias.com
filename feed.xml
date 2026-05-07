@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 04:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 06:04:26 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Lamine-Guèye Law: 80 years ago, the 'natives' of French colonies became citizens</title>
+      <link>https://news.bias.com/go/2026-05-07-0602</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-07-0602</guid>
+      <pubDate>Thu, 07 May 2026 06:02:17 GMT</pubDate>
+      <description>Eighty years ago, a French law transformed the legal status of millions living under colonial rule. On May 7, 1946, the Lamine-Guèye law granted French citizenship to all residents of France's overseas territories, ending a discriminatory system that had existed since 1881. Named after Amadou Lamine Guèye, the socialist mayor of Dakar and parliamentary deputy, the law abolished the Code de l'Indigénat—a punitive legal regime that had denied basic civil rights to colonized peoples across French Africa, Madagascar, and Algeria.
+
+The change was significant in principle: for the first time, inhabitants of these territories gained the same legal status as French citizens in the metropole. Previously in Senegal, only residents of four specific communes enjoyed citizenship rights. The law emerged from France's postwar Constituent Assembly, where newly elected African deputies skillfully advocated for reform during a period of humanitarian idealism following liberation. Even the terminology shifted—"colonies" officially became "territoires d'outre-mer" (overseas territories).
+
+Yet Senegalese historians emphasize that the law's execution remained limited in practice. While it represented a major juridical advance and formally ended the status of "indigène," the gap between legal promise and lived reality was considerable. The story offers a window into a pivotal moment when colonized peoples gained formal rights within an imperial system—a complex legacy that speaks to both progress and the constraints that continued to shape daily life under colonial administration.</description>
+      <source url="https://www.france24.com/fr/france/20260507-loi-lamine-gueye-citoyens-colonies-senegal-france-histoire">France 24</source>
+    </item>
     <item>
       <title>Manchester City wins Women's Super League title</title>
       <link>https://news.bias.com/go/2026-05-07-0402</link>
@@ -594,18 +606,6 @@ Today, electrofishing surveys reveal thriving populations, with some Victorian r
 
 This story matters as a quiet testament to what targeted conservation can achieve when science, regulation, and community values align. It shows how an apex predator's return can signal broader ecosystem health, and reminds us that even species pushed to the brink can recover when given the right support.</description>
       <source url="https://www.abc.net.au/news/2026-05-03/murray-cod-is-back-fish-numbers-victoria/106614938">ABC Australia</source>
-    </item>
-    <item>
-      <title>Timmy the humpback whale escapes to the North Sea</title>
-      <link>https://news.bias.com/go/2026-05-02-2201</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-02-2201</guid>
-      <pubDate>Sat, 02 May 2026 22:01:35 GMT</pubDate>
-      <description>A young humpback whale who captured hearts across Germany after repeatedly becoming stranded in the Baltic Sea has been successfully transported to the North Sea in a carefully orchestrated rescue operation. The calf, affectionately nicknamed Timmy, was first spotted near Germany's Baltic coast in early March, far from the Atlantic Ocean where humpback whales naturally belong. Despite multiple attempts to guide him back to deeper waters, he continued getting stuck in the shallows, and his condition steadily worsened.
-
-The whale's plight became a media sensation as the public followed his story with growing concern. Timmy developed skin problems due to the Baltic Sea's unusually low salt content and began showing signs of severe distress, moving very little and breathing irregularly. Early rescue attempts using inflatable cushions and pontoons failed, leading German officials to suggest the situation was hopeless. The International Whaling Commission noted that each stranding caused additional harm, making survival increasingly unlikely. Yet a privately funded initiative, approved by local authorities, managed what seemed impossible: transporting Timmy via a water-filled barge and releasing him off the Danish coast on Saturday. Reports indicate he swam freely in the right direction upon release, heading toward the Norwegian coast and eventually the Arctic.
-
-This story resonates because it captures both the fragility of wildlife and the lengths humans will go to offer a second chance. Whether Timmy lost his way chasing herring or during migration remains a mystery, but a GPS transmitter attached before his release may provide answers. It's a reminder that sometimes the most unlikely rescues succeed, and that our connection to other creatures can inspire extraordinary efforts.</description>
-      <source url="https://www.aljazeera.com/news/2026/5/2/timmy-the-humpback-whale-escapes-to-the-north-sea?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
