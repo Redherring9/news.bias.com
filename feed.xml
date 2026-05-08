@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 18:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 20:02:26 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mother's Day gratitude from a former foster child</title>
+      <link>https://news.bias.com/go/2026-05-08-2002</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-08-2002</guid>
+      <pubDate>Fri, 08 May 2026 20:02:24 GMT</pubDate>
+      <description>Jaharn Mundy-Drazevich remembers the confusion and loneliness he felt on Mother's Days as a foster child, watching classmates embrace their parents while he stood alone. Now a confident 19-year-old advocate, he credits Selina Walker—the Ngunnawal woman who became his kinship foster parent—with transforming his life through unconditional love and unwavering commitment. Their story offers a quiet portrait of resilience, cultural connection, and the profound difference one person can make.
+
+Removed from his birth parents at just two months old and moved through several placements, Jaharn arrived at Selina's home alongside six other young relatives when she was 29. As a single parent, she spent over a decade building trust with a traumatized child who needed to learn he wouldn't be abandoned. Selina, who has fostered children for more than 20 years and currently cares for nine, describes the work as demanding but rewarding. Her dedication earned recognition as ACT's Barnardos' Mother of the Year and the 2024 ACT Australian of the Year Local Hero. She also co-founded an Aboriginal organization supporting Indigenous families navigating the care system.
+
+Jaharn's journey toward self-discovery included reconnecting with his Yuin heritage and meeting extended family at his grandfather's funeral—a bittersweet first real connection through "Sorry Business." Now he serves on youth advisory boards and plans to study social work, hoping to guide other young people through similar challenges. His story reminds us that family can be chosen, that healing takes time, and that the quiet work of showing up, day after day, can reshape a life entirely.</description>
+      <source url="https://www.abc.net.au/news/2026-05-09/mothers-day-complicated-full-of-love-kids-in-foster-care/106657340">ABC Australia</source>
+    </item>
     <item>
       <title>Theatro da Paz Opera Festival celebrates 25 years with world premieres and classics in Belém</title>
       <link>https://news.bias.com/go/2026-05-08-1801</link>
@@ -594,18 +606,6 @@ The incident has sparked a complex ethical and legal situation. Under Brazilian 
 
 This story quietly raises questions about the boundaries between helping and enabling, and the consequences faced by those caught between compassion and protocol. It illustrates how a moment of apparent consideration can become entangled in legal definitions and corporate policy, leaving observers to wonder about the proportionality of the responses involved.</description>
       <source url="https://g1.globo.com/df/distrito-federal/noticia/2026/05/04/empresa-diz-que-vai-demitir-motorista-de-onibus-que-parou-para-passageiro-pegar-celular-caido-em-rua-do-df.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>What is hantavirus, the infection suspected of causing 3 deaths on a cruise ship that departed from Ushuaia (and how widespread is it in Argentina)</title>
-      <link>https://news.bias.com/go/2026-05-04-1203</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-04-1203</guid>
-      <pubDate>Mon, 04 May 2026 12:03:19 GMT</pubDate>
-      <description>Three people have died following a suspected hantavirus outbreak aboard a polar cruise ship that departed from Ushuaia, Argentina, according to the World Health Organization. The MV Hondius, operated by Netherlands-based Oceanwide Expeditions, was traveling between Argentina and Cape Verde when the outbreak occurred. One case has been confirmed, with five additional suspected cases under investigation through laboratory testing.
-
-Hantavirus is a rodent-borne illness transmitted primarily through inhaling airborne particles from dried rodent droppings, urine, or saliva. The virus can cause two serious conditions: hantavirus pulmonary syndrome, which has a mortality rate of approximately 38% when respiratory symptoms develop, and hemorrhagic fever with renal syndrome, which affects the kidneys. An estimated 150,000 cases occur worldwide annually, concentrated mainly in Europe and Asia. There is no specific treatment, only supportive care including oxygen therapy, mechanical ventilation, and in severe cases, dialysis.
-
-What makes this outbreak particularly noteworthy is Argentina's unique hantavirus landscape. The country hosts two viral species—Andes and Laguna Negra—with the Andes strain dominating the southern region where Ushuaia is located. This strain possesses a rare and concerning characteristic: the ability to transmit between humans, unlike most hantavirus variants globally. While hantavirus remains relatively uncommon, with fewer than 900 cases recorded in the United States since monitoring began in 1993, this outbreak serves as a reminder of how wildlife-human interfaces can create unexpected health challenges, even in remote travel settings.</description>
-      <source url="https://www.bbc.com/mundo/articles/cg7prkzd0nvo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
