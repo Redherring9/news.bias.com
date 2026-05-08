@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 14:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 16:02:13 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Forests, fires and fragile gains: Interview with WRI’s Elizabeth Goldman</title>
+      <link>https://news.bias.com/go/2026-05-08-1602</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-08-1602</guid>
+      <pubDate>Fri, 08 May 2026 16:02:11 GMT</pubDate>
+      <description>After years of relentless forest destruction, 2025 brought unexpected relief: tropical primary forest loss dropped by 36% compared to the previous year, according to new data from the World Resources Institute's Global Forest Watch platform. While more than 4.3 million hectares—an area larger than Switzerland—still vanished, the decline marks the steepest single-year improvement in two decades and offers a rare glimmer of hope for scientists and conservationists who have grown accustomed to grim annual updates.
+
+Much of the progress traces back to Brazil, where renewed political commitment under President Luiz Inácio Lula da Silva has strengthened environmental enforcement and reestablished protective policies like the national plan to combat deforestation. Even when fire-related loss is excluded, Brazil's deforestation fell by more than 40%, suggesting that policy and leadership can make a measurable difference. But Elizabeth Goldman, co-director of Global Forest Watch, cautions against celebration. The gains are fragile, she warns, shaped not only by policy but by favorable weather. Had 2025 experienced the kind of extreme fire season that ravaged forests in 2024, the story would be very different.
+
+Looking ahead, Goldman expresses concern about 2026, as a new El Niño cycle threatens to bring hotter, drier conditions across the tropics. The real test, she says, will be whether protective measures can withstand climate pressures. This story matters because it shows that forest loss is not inevitable—but it also reminds us how quickly progress can unravel without sustained commitment and the right conditions. It's a moment to understand what worked, and to ask whether it can last.</description>
+      <source url="https://news.mongabay.com/2026/05/forests-fires-and-fragile-gains-interview-with-wris-elizabeth-goldman/">Mongabay</source>
+    </item>
     <item>
       <title>David Attenborough turns 100: how 'Life on Earth' was made, the documentary that transformed our way of seeing nature</title>
       <link>https://news.bias.com/go/2026-05-08-1402</link>
@@ -594,18 +606,6 @@ The programme grew from personal experience. Ellen Devine, wellbeing programme m
 
 This story offers a hopeful glimpse at how small, thoughtful interventions can create measurable wellbeing improvements. As nature-based prescriptions gain traction — over 100 doctors in the West Midlands now prescribe nature walks — the research suggests that accessible, everyday encounters with the natural world may offer a surprisingly powerful tool for mental health support.</description>
       <source url="https://www.positive.news/lifestyle/woodland-walks-cut-anxiety-study-finds/">Positive News</source>
-    </item>
-    <item>
-      <title>Small, discreet and rare: critically endangered tree frog offspring born in captivity in Paraná</title>
-      <link>https://news.bias.com/go/2026-05-04-0803</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-04-0803</guid>
-      <pubDate>Mon, 04 May 2026 08:03:13 GMT</pubDate>
-      <description>In a quiet corner of Brazil's Paraná state, researchers have achieved something that has never happened before: the successful captive breeding of the rusty tree frog, a tiny amphibian teetering on the edge of extinction. Seventeen tadpoles recently emerged at Parque das Aves in Foz do Iguaçu, marking a milestone for a species with perhaps only 20 to 30 individuals remaining in the wild. Classified as critically endangered—the last step before a species is considered extinct in nature—this small frog is endemic to Brazil's Atlantic Forest and uniquely adapted to wetlands in the highland grasslands of southern Brazil.
-
-The journey to this moment began four years ago when a single breeding pair was rescued by helicopter from degraded habitat between Paraná and Santa Catarina. Since then, scientists have been learning the frog's needs, creating carefully controlled environments that replicate its natural conditions. Each frog, no larger than four centimeters and weighing just five grams, sports a green body with orange belly and legs, along with spot patterns as unique as human fingerprints. The species wasn't even scientifically recognized until 2014, having been first identified in 2008, and it remains the only tree frog documented in the Atlantic Forest grasslands of southern Brazil.
-
-This story matters because it represents both fragility and hope. Habitat degradation threatens to erase this species entirely, yet patient observation and care have given researchers a chance to build a rescue population. Beyond saving one small frog, the work protects an entire ecosystem—these amphibians control insect populations and serve as sensitive indicators of environmental health, reminding us that even the smallest, most overlooked creatures play irreplaceable roles in the world around us.</description>
-      <source url="https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/05/04/pequena-discreta-e-rara-filhotes-de-perereca-criticamente-ameacada-de-extincao-nascem-em-cativeiro-no-parana.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
