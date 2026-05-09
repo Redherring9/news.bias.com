@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 22:03:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 00:04:08 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>David Attenborough turns 100: the life in images of the risk-taking documentarian who changed the way we see our planet</title>
+      <link>https://news.bias.com/go/2026-05-09-0004</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-09-0004</guid>
+      <pubDate>Sat, 09 May 2026 00:04:06 GMT</pubDate>
+      <description>David Attenborough has reached a milestone that few in any profession can claim: 100 years of life, seven decades of which have been devoted to bringing the natural world into our living rooms. The British broadcaster, whose calm and trustworthy voice has become synonymous with nature documentary, is being celebrated not just for his longevity but for the remarkable risks and innovations that defined his career.
+
+Throughout his decades-long journey, Attenborough has consistently embraced new technologies and ventured into remote, often dangerous locations to capture the planet's wonders. From championing the launch of color television to undertaking a record-breaking dive at the Great Barrier Reef at age 89, he has never stopped seeking novel ways to showcase Earth and its inhabitants. His willingness to experiment and push boundaries helped transform the nature documentary from a niche format into compelling television that captivated global audiences.
+
+This story matters because Attenborough's work fundamentally changed how millions of people understand and relate to the natural world. His career represents more than personal achievement—it's a testament to how one person's curiosity, courage, and commitment to storytelling can shape our collective awareness of the living planet we share. At 100, his legacy is a quiet reminder that patience, wonder, and a willingness to take creative risks can leave an enduring mark on the world.</description>
+      <source url="https://www.bbc.com/mundo/articles/c0728v55yxdo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Country Life: Skinny-dipping inspires back-to-nature rural venture</title>
       <link>https://news.bias.com/go/2026-05-08-2203</link>
@@ -594,18 +606,6 @@ The average New Zealand household with solar can now save roughly $1,000 per yea
 
 New regulatory changes aim to accelerate adoption further. From this week, households can export up to 10 kilowatts back to the grid—double the previous limit in many areas—and distributors must now pay rebates when small-scale generators supply power during peak times. This story matters because it illustrates a rare convergence: a technology that simultaneously addresses cost-of-living pressures and environmental concerns, showing how economic incentives and climate action can align in surprisingly practical ways.</description>
       <source url="https://www.rnz.co.nz/news/business/594242/new-zealand-passes-solar-tipping-point">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>VIDEO: Puma rescued from trap is reintroduced to nature after treatment in Jundiaí</title>
-      <link>https://news.bias.com/go/2026-05-04-1802</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-04-1802</guid>
-      <pubDate>Mon, 04 May 2026 18:02:42 GMT</pubDate>
-      <description>A male puma found trapped in a hunting snare in São Paulo state has been successfully returned to the wild after months of careful rehabilitation. The adult cat was discovered with a severe wound around his midsection and received emergency treatment on-site before being transported to the Mata Ciliar Association in Jundiaí for recovery.
-
-The rehabilitation process was methodical and patient. Veterinarians and wildlife specialists gave the puma time to heal while housing him in progressively larger enclosures designed to help him rebuild strength and reawaken his natural instincts. In the final phase, staff observed his behavior closely in an expansive habitat to ensure he was ready for release. On Thursday, the puma was reintroduced to his natural habitat in Bragança Paulista, where he can once again roam free.
-
-This story offers a quiet reminder of both the threats facing wildlife and the dedication of those working to protect it. Pumas, the second-largest cats in the Americas, are classified as "near threatened" in Brazil due to illegal hunting, habitat fragmentation, and vehicle strikes. Each successful rescue and release represents not just one animal saved, but a small victory for a species struggling to survive alongside human expansion. It's a testament to what's possible when conservation organizations, police, and communities work together with care and persistence.</description>
-      <source url="https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/05/04/video-onca-parda-resgatada-de-armadilha-e-reintroduzida-na-natureza-apos-tratamento-em-jundiai.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
