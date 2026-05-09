@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 09 May 2026 00:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 02:02:17 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Where's the pastizzis?' Secrets from a lifetime of Maltese cheese-crafting</title>
+      <link>https://news.bias.com/go/2026-05-09-0202</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-09-0202</guid>
+      <pubDate>Sat, 09 May 2026 02:02:15 GMT</pubDate>
+      <description>At 80 years old, Philippa Abela rises before dawn each morning on her North Queensland property to milk her cows and craft cheese using techniques her mother brought from Malta in 1950. The family fled post-war depression, settling on a cane farm in Habana near Mackay, where Mrs Abela's mother adapted traditional Maltese sheep's milk recipes to work with cow's milk. Two cheeses remain local favorites: a soft ricotta-like cheese for pastizzis and a firm, vinegar-pickled pepper cheese that's become essential at community gatherings. "If there's a street party, and you go without, it's 'where's the pastizzis?'" she says, having once produced 90 kilos of pepper cheese in a single year.
+
+Mrs Abela has mastered about 13 cheese varieties over her lifetime, emphasizing that well-fed, relaxed cows, clean equipment, and precise temperature control are the foundation of quality cheese. Each variety demands its own careful process, from basic fresh cheese made by straining whey to more complex varieties like halloumi and mozzarella that require cultures, heating, pressing, and aging. She now shares this knowledge through family and occasional community classes, observing a renewed interest in traditional food crafts.
+
+This story captures something quietly remarkable about the persistence of craft and culture across generations. As a cheesemaking supplier notes, retail sales to hobbyists have grown over 200 percent recently, suggesting a generational shift away from convenience culture toward valuing the craftsmanship and stories behind what we eat. Mrs Abela's daily ritual connects a small Australian farming community to Malta, proving that the slow, patient work of making food by hand remains meaningful in our fast-paced world.</description>
+      <source url="https://www.abc.net.au/news/2026-05-09/philippa-abela-embodies-lifetime-of-maltese-cheese-crafting/106638494">ABC Australia</source>
+    </item>
     <item>
       <title>David Attenborough turns 100: the life in images of the risk-taking documentarian who changed the way we see our planet</title>
       <link>https://news.bias.com/go/2026-05-09-0004</link>
@@ -594,18 +606,6 @@ What makes this arrangement particularly striking is the hens' clear division of
 
 This quiet story reminds us that elaborate parenting strategies aren't exclusive to humans or even to conventionally social animals. The instinct to cooperate, share responsibilities, and protect the young can emerge in surprising places—even in a backyard chicken coop in rural Brazil.</description>
       <source url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/04/casal-de-galinhas-choca-no-mesmo-ninho-e-cuida-de-25-pintinhos-no-noroeste-do-rs.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>New Zealand passes solar tipping point</title>
-      <link>https://news.bias.com/go/2026-05-04-2002</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-04-2002</guid>
-      <pubDate>Mon, 04 May 2026 20:02:26 GMT</pubDate>
-      <description>New Zealand has reached a significant milestone in renewable energy adoption: solar panels now save most households more money than they cost. According to Josh Ellison of Rewiring Aotearoa, this tipping point was crossed about three years ago for solar installations and has recently been reached for battery storage systems as well. The shift has been driven by falling installation costs and rising electricity prices, making solar viable even for homes that don't face directly north or receive ideal sunlight.
-
-The average New Zealand household with solar can now save roughly $1,000 per year, a figure that holds true across most of the country—from sunny Central Otago to cloudier regions like Dunedin and even Stewart Island. The savings are particularly strong for households that consume electricity during daylight hours, such as those with people working from home. However, access remains uneven: only about 20 percent of households can obtain green loans for solar installation, typically requiring home equity and an active mortgage. Just under 84,000 customers currently have solar power, up from 20,000 in 2018.
-
-New regulatory changes aim to accelerate adoption further. From this week, households can export up to 10 kilowatts back to the grid—double the previous limit in many areas—and distributors must now pay rebates when small-scale generators supply power during peak times. This story matters because it illustrates a rare convergence: a technology that simultaneously addresses cost-of-living pressures and environmental concerns, showing how economic incentives and climate action can align in surprisingly practical ways.</description>
-      <source url="https://www.rnz.co.nz/news/business/594242/new-zealand-passes-solar-tipping-point">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
