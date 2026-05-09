@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 09 May 2026 18:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 20:02:41 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The 'magnificent' mansion that housed movie stars, hippies and refugees</title>
+      <link>https://news.bias.com/go/2026-05-09-2002</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-09-2002</guid>
+      <pubDate>Sat, 09 May 2026 20:02:40 GMT</pubDate>
+      <description>At the end of a quiet Melbourne cul-de-sac stands Labassa, a mansion that has sheltered an extraordinary cross-section of humanity across more than a century. Built in 1887 by millionaire Alexander Robertson as "the most magnificent house in Melbourne," the 35-room estate once epitomized high society with its manicured gardens, tennis courts, and glittering dinner parties attended by socialites, war heroes, and silent film stars. But Labassa's most moving chapter began after World War II, when its top floor was converted into flats for Jewish refugees desperately seeking safety and a fresh start.
+
+Among those refugees was young Rachel Apfelbaum, who recently returned to Labassa after 70 years, marveling at the ornate ceilings and leadlight windows she remembered sliding past as a child. Her mother Helen, now nearly 100, recalled arriving with nothing after surviving the Holocaust—no furniture, just a mattress on the floor of their single room—yet feeling they had come "from hell back to life." The mansion's devoted caretaker Emily Brearley tended both the delicate furnishings and the people who lived there for 43 years, her kindness still remembered fondly. Rachel discovered the indentation where her father once placed a mezuzah on their doorway, a small sacred marker of the Jewish home they built within those grand walls.
+
+This story matters because it reveals how a single building can hold multiple histories at once—opulence and displacement, privilege and survival, all layered within the same magnificent rooms. Labassa stands as a quiet monument to resilience, showing how shelter becomes home when kindness meets necessity.</description>
+      <source url="https://www.abc.net.au/news/2026-05-10/melbourne-mansion-labassa-housed-movie-stars-hippies-refugees/106658828">ABC Australia</source>
+    </item>
     <item>
       <title>Polar air mass takes over Rio Grande do Sul with chance of snow this weekend; city has frost this Saturday</title>
       <link>https://news.bias.com/go/2026-05-09-1802</link>
@@ -594,18 +606,6 @@ This remarkable underground architecture evolved as a survival strategy against 
 
 This story matters because the Cerrado's invisible infrastructure is quietly essential to Brazil's water supply and climate regulation, yet conversion to shallow-rooted crops and pastures is disrupting this ancient system. What took centuries to develop cannot easily be restored, reminding us that some of nature's most critical work happens entirely out of sight.</description>
       <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/05/05/cerrado-a-floresta-invertida-que-guarda-o-segredo-das-aguas-e-do-clima-no-subsolo.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Facebook is a hub for illegal wildlife trade, and that’s by design, report says</title>
-      <link>https://news.bias.com/go/2026-05-05-1201</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-05-1201</guid>
-      <pubDate>Tue, 05 May 2026 12:01:28 GMT</pubDate>
-      <description>A new report reveals that Facebook has become the dominant marketplace for illegal wildlife trade, hosting more than three-quarters of the 22,000 wild animals and animal parts sold online over a two-year period. The sales, valued at approximately $65 million, included everything from live endangered animals like ring-tailed lemurs and chimpanzees to products made from pangolins, ivory, and rhino horn. Researchers analyzing data from ten countries found that about 84% of the species offered for sale are banned from international commercial trade, and more than half were endangered or critically endangered.
-
-The platform's design features appear to facilitate rather than prevent this illicit trade. Closed groups, anonymous profiles, and algorithms that recommend related content to users create an ideal environment for traffickers to operate discreetly. Despite Facebook's official policy prohibiting wildlife sales, the sheer volume of listings suggests inadequate enforcement and moderation. As wildlife researcher Chris Shepherd notes, online platforms offer traffickers convenience, anonymity, and low overhead costs compared to physical markets. This shift from street corners to screens mirrors broader economic trends but presents unique challenges for law enforcement trying to track and prosecute criminals operating across borders from behind their keyboards.
-
-This story matters because it exposes a troubling gap between corporate policy and reality in the digital age. While technology companies publicly oppose wildlife trafficking, their platforms inadvertently enable a thriving black market that threatens species survival worldwide. Experts are calling for stricter platform regulation, better collaboration with law enforcement, and increased accountability—a reminder that in our interconnected world, the tools we use daily can have profound consequences for the natural world.</description>
-      <source url="https://news.mongabay.com/2026/05/facebook-is-a-hub-for-illegal-wildlife-trade-and-thats-by-design-report-says/">Mongabay</source>
     </item>
   </channel>
 </rss>
