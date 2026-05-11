@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 22:03:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 00:01:34 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New clues about mysterious dark energy in the largest 3D map of the universe ever created</title>
+      <link>https://news.bias.com/go/2026-05-11-0001</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-11-0001</guid>
+      <pubDate>Mon, 11 May 2026 00:01:31 GMT</pubDate>
+      <description>A powerful instrument with 5,000 fiber-optic eyes has produced the largest three-dimensional map of the universe ever created, capturing more than 47 million galaxies and quasars alongside 20 million stars. The Dark Energy Spectroscopic Instrument (DESI), housed at Arizona's Kitt Peak National Observatory, has recorded six times more cosmic objects than all previous measurements combined, peering back across 11 billion light-years to galaxies near the universe's origins.
+
+Over five years, DESI mapped a third of the night sky, measuring more than 100,000 galaxies per night. By analyzing the light spectra from these distant objects, the instrument tracked how the universe has expanded over cosmic time. But perhaps the most intriguing discovery isn't just the map's unprecedented scale—it's what DESI reveals about dark energy, the mysterious force that makes up 70% of the universe and drives its accelerating expansion. The new observations suggest that dark energy may not be constant, as Einstein's cosmological equations predicted, but instead appears to be evolving and possibly weakening over time.
+
+This finding could fundamentally reshape our understanding of the cosmos. If dark energy continues to weaken, it might alter the universe's ultimate fate—potentially even leading to a "Big Crunch" where gravity eventually reverses expansion and pulls galaxies back together. What makes this story quietly remarkable is how a single instrument is challenging century-old assumptions about the universe's structure and destiny, reminding us that even our most fundamental cosmic models remain open to revision as our observational capabilities expand.</description>
+      <source url="https://www.bbc.com/portuguese/articles/c24296m661lo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Being Rotuman is more than just an ethnicity says Rotuman community leader</title>
       <link>https://news.bias.com/go/2026-05-10-2203</link>
@@ -594,18 +606,6 @@ The crisis stems from a confluence of human activities and natural forces. Sedim
 
 What makes this story quietly remarkable is that solutions exist — replacing dams with alternative energy, curbing groundwater extraction, changing farming practices — yet implementation lags due to economic constraints and political inertia. This is a crisis unfolding in real time, affecting landscapes the size of entire countries and the livelihoods of millions, yet it remains underrecognized globally. Understanding delta subsidence matters because these sinking lands are both breadbaskets and bellwethers for how humanity responds to environmental change it has largely caused.</description>
       <source url="https://news.mongabay.com/2026/05/the-worlds-great-deltas-are-sinking-and-with-them-a-global-food-system/">Mongabay</source>
-    </item>
-    <item>
-      <title>Residents of quilombola community become stranded with rains in Paraíba and report losses: 'There was loss of years of work'</title>
-      <link>https://news.bias.com/go/2026-05-06-1804</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-06-1804</guid>
-      <pubDate>Wed, 06 May 2026 18:04:39 GMT</pubDate>
-      <description>Residents of the Mituaçu quilombo community in Paraíba, Brazil, found themselves stranded after severe flooding transformed their annual rainy season challenge into something far more devastating. Though no lives were lost, families watched years of work wash away as the Gramame River overflowed, submerging homes up to half their height and destroying refrigerators, beds, and other hard-won possessions.
-
-The community faces this struggle every year, but the recent floods were unprecedented in their severity. All three unpaved access roads became impassable, preventing residents from reaching medical appointments, buying food, or traveling to jobs in nearby João Pessoa. Farmer Carlos Allan lost three hectares of crops including manioc, corn, and beans. Ruth Neide returned to her home after the waters receded to sort through what could be salvaged, her tears mixing with the cleanup work. Residents point to the silting of the Gramame River and nearby real estate development as factors that have accelerated the water's force and speed.
-
-This story illuminates what researchers call environmental racism—the disproportionate impact of natural disasters on Black, Indigenous, and marginalized communities historically pushed into vulnerable areas. The Mituaçu residents aren't asking for rescue from nature; they're calling for infrastructure investment and policies that acknowledge their reality. Their request is straightforward: they shouldn't have to rebuild their lives from scratch every year. It's a quiet but powerful reminder that disaster vulnerability isn't random—it follows the contours of historical exclusion.</description>
-      <source url="https://g1.globo.com/pb/paraiba/noticia/2026/05/06/moradores-de-comunidade-quilombola-ficam-ilhados-com-as-chuvas-na-pb-e-relatam-prejuizos-houve-perda-de-anos-de-trabalho.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
