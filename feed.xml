@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 22:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 00:03:31 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wellington tetraplegic man climbs equivalent of Mt Everest in a year</title>
+      <link>https://news.bias.com/go/2026-05-12-0003</link>
+      <guid isPermaLink="false">https://news.bias.com/go/2026-05-12-0003</guid>
+      <pubDate>Tue, 12 May 2026 00:03:29 GMT</pubDate>
+      <description>Andrew Leslie, a Wellington man living with tetraplegia, has accomplished something quietly extraordinary: climbing the equivalent of Mount Everest's elevation over the course of a year. He reached the summit of Mount Kaukau 35 times in twelve months, each ascent a deliberate act of will and physical coordination that doesn't come naturally after his spinal cord injury.
+
+Six years ago, Leslie's life changed dramatically following a mountain biking accident. Though he eventually walked out of the hospital, movement became a conscious, complicated task requiring him to "use his brain in a different way" for each step. Rather than viewing recovery as a destination, he embraced ongoing rehabilitation through annual challenges. Past goals have included walking to his crash site, running 5km, completing an Outward Bound course, and trekking 60 kilometres of the Abel Tasman track with a friend who also lives with tetraplegia—an experience he described as incredibly emotional. Mount Kaukau, where he once trail-ran before his accident, presented unique obstacles: uneven stairs, erosion creating high steps, and protruding rocks that become genuine hazards when automatic movement isn't an option.
+
+Leslie's story extends beyond personal achievement. He's working with Wellington City Council and conservation groups to rethink outdoor accessibility, advocating for a spectrum of solutions rather than a one-size-fits-all approach. His message is both practical and philosophical: connecting with nature matters for everyone, and accessibility can take many forms. His annual challenges aren't just about what his body can do—they're about expanding what's possible for others navigating the outdoors with different abilities.</description>
+      <source url="https://www.rnz.co.nz/news/regional/594909/wellington-tetraplegic-man-climbs-equivalent-of-mt-everest-in-a-year">Radio New Zealand</source>
+    </item>
     <item>
       <title>Family's 'most vulnerable moment' drives daughter to help hospice patients</title>
       <link>https://news.bias.com/go/2026-05-11-2202</link>
@@ -594,18 +606,6 @@ Sandiford's record came about after the Croquet Association discovered the New Z
 
 This story offers a gentle reminder that passion and new pursuits don't come with expiration dates. Sandiford's late-life discovery of croquet, his decades of dedicated practice, and his continued enthusiasm at 102 challenge assumptions about aging and athletic engagement. His advice to aspiring players remains simple and timeless: practice, practice, practice.</description>
       <source url="https://www.rnz.co.nz/life/people/102-year-old-kiwi-named-world-s-oldest-competitive-croquet-player">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Students in RN create 'paint' that helps prevent collision and death of birds in wind towers</title>
-      <link>https://news.bias.com/go/2026-05-07-2202</link>
-      <guid isPermaLink="false">https://news.bias.com/go/2026-05-07-2202</guid>
-      <pubDate>Thu, 07 May 2026 22:02:07 GMT</pubDate>
-      <description>A team of high school students in Rio Grande do Norte, Brazil, has developed an innovative coating that could help save birds from colliding with wind turbine blades. The special paint reflects colors that birds can see, allowing them to detect the towers and adjust their flight paths—a simple yet clever solution to a growing environmental concern as wind energy expands across the region.
-
-The project emerged from a partnership between the SESI Bat Tech robotics team and the Global Wind Energy Council, the leading international trade association for the wind energy sector. The students identified real-world challenges in the wind industry—efficiency, costs, and environmental impacts—and set out to create practical solutions. Their work, called BAT Solution, encompasses multiple initiatives aimed at making wind energy more sustainable. The team earned recognition at Brazil's National Robotics Tournament in March, winning the Connect Award for best linking robotics with industry needs, which secured their spot at the Western Edge Premier Event in California in late May.
-
-Beyond the technical innovation, this story offers a heartening glimpse of young people applying scientific thinking to protect wildlife while supporting renewable energy. The students and their mentors are also working to bring robotics education to underserved schools in Brazil's interior, extending the impact of their work beyond a single invention. It's a reminder that environmental solutions don't always require choosing between progress and preservation—sometimes creativity can serve both at once.</description>
-      <source url="https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/05/07/estudantes-tinta-evitar-aves-mortes-eolicas.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
