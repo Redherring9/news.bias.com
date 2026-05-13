@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 18:03:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 20:02:36 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Scientists race to study the Amazon’s frogs before they disappear</title>
+      <link>https://news.mongabay.com/2026/05/scientists-race-to-study-the-amazons-frogs-before-they-disappear/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/05/scientists-race-to-study-the-amazons-frogs-before-they-disappear/</guid>
+      <pubDate>Wed, 13 May 2026 20:02:35 GMT</pubDate>
+      <description>Deep in the Amazon rainforest, scientists armed with directional microphones crouch in the leaf litter at night, listening for the distinctive croaks that might signal a newly discovered frog species. The Amazon Basin harbors an estimated 1,525 amphibian species — the greatest diversity on Earth — yet only about half have been formally described by science. Researchers like biologist Igor Kaefer regularly return from remote field surveys with multiple undescribed species, including tiny treasures like the brown, two-centimeter-long toad that seems to vanish among dead leaves.
+
+Yet this abundance comes with urgency. Climate change and human activity threaten amphibian populations across the region, raising the troubling possibility that species could vanish before science even knows they existed. The challenge is compounded by a shortage of researchers and resources: between 2001 and 2010, only 12 percent of Brazilian amphibian studies focused on the Amazon, compared to 60 percent in the more accessible Atlantic Forest. As Kaefer puts it, "Biologists who know about amphibians are the real threatened species in the Amazon." Recent research shows that rising temperatures combined with pesticide exposure can disrupt tadpole development, adding another layer of concern.
+
+This story matters because amphibians perform essential, largely invisible work — controlling disease-carrying mosquitoes and agricultural pests, a service worth over a billion dollars annually in Brazil alone. The race to catalog the Amazon's frogs is more than an academic exercise; it's an attempt to understand and protect creatures whose roles in the ecosystem we're only beginning to appreciate, before they slip away into silence.</description>
+      <source url="https://news.mongabay.com/2026/05/scientists-race-to-study-the-amazons-frogs-before-they-disappear/">Mongabay</source>
+    </item>
     <item>
       <title>Hopes dashed after parasitic worm found to be ineffective at killing invasive millipedes</title>
       <link>https://www.rnz.co.nz/news/science-and-technology/595129/hopes-dashed-after-parasitic-worm-found-to-be-ineffective-at-killing-invasive-millipedes</link>
@@ -594,18 +606,6 @@ Today, life with Pippa is both exhausting and enchanting. Developmentally around
 
 The story touches something tender about parenting under the weight of mortality. Kerrie acknowledges the fear that one morning Pippa might not wake up, and the complicated grief of imagining a future without the child who has defined nearly two decades of her life. Yet beneath the worry runs a current of gratitude—for the sweetness of small victories, the permanence of wonder, and a love that asks nothing of the future except to be present now. It's a quiet portrait of devotion that refuses sentimentality while honoring something profound.</description>
       <source url="https://www.abc.net.au/news/2026-05-10/love-when-you-dont-know-how-long-youve-got/106415274">ABC Australia</source>
-    </item>
-    <item>
-      <title>How tiny 'backpacks' and sniffer dogs could save hedgehogs from extinction</title>
-      <link>https://www.bbc.com/news/articles/c775rz4ey66o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/c775rz4ey66o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sun, 10 May 2026 00:04:02 GMT</pubDate>
-      <description>A conservation project in Northern Ireland is using an inventive combination of technology and canine talent to understand and protect hedgehogs, whose populations have plummeted across Europe since the 1950s. The common western European hedgehog is now listed as Near Threatened, and researchers believe urban gardens may be their last stronghold—though surprisingly little is known about how these spiny creatures navigate city life.
-
-Ulster Wildlife has begun fitting male hedgehogs with tiny GPS devices that resemble backpacks, tracking their nightly journeys through gardens, across roads, and to feeding spots. The devices don't interfere with the hedgehogs' signature defensive curl and provide crucial data about their movements and obstacles. Enter Russell, a two-year-old cocker spaniel trained as Ireland's first hedgehog detection dog. Russell has two jobs: finding hedgehogs that don't visit artificial feeders so researchers can gather more representative data, and locating tags that fall off or stop transmitting. His handler, Patrice Kerrigan, previously trained dogs to find bat and bird carcasses around wind farms, bringing specialized expertise to this conservation effort.
-
-The research aims to inform practical changes homeowners can make, such as creating "hedgehog highways"—small gaps allowing the animals to move between gardens. Since hedgehogs can travel up to three kilometers in a single night and need access to large territories for food and mates, connected green spaces are essential. Beyond their ecological importance as slug-eaters and "the gardener's friend," hedgehogs represent something worth preserving for its own sake. This project offers a reminder that conservation often requires creativity, and that understanding a species' daily reality is the first step toward ensuring its survival.</description>
-      <source url="https://www.bbc.com/news/articles/c775rz4ey66o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
