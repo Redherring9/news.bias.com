@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 16:02:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 18:03:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hopes dashed after parasitic worm found to be ineffective at killing invasive millipedes</title>
+      <link>https://www.rnz.co.nz/news/science-and-technology/595129/hopes-dashed-after-parasitic-worm-found-to-be-ineffective-at-killing-invasive-millipedes</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/science-and-technology/595129/hopes-dashed-after-parasitic-worm-found-to-be-ineffective-at-killing-invasive-millipedes</guid>
+      <pubDate>Wed, 13 May 2026 18:03:00 GMT</pubDate>
+      <description>Wellington residents battling invasive Portuguese millipedes have received disappointing news: a parasitic worm they hoped would control the pests has proven ineffective. South coast residents first raised concerns nearly a year ago about infestations of the small black millipedes, finding hundreds around their homes and even inside personal belongings and bedding. While the species has now been identified in New Plymouth, Nelson, and possibly Christchurch, it's not classified as a pest species and doesn't qualify for official government control measures.
+
+Earlier this year, some Ōwhiro Bay residents deployed parasitic nematodes—microscopic worms available as biocontrol agents—hoping to suppress millipede populations that surge in spring and autumn. However, laboratory trials led by Victoria University entomology professor Phil Lester revealed that the nematode Steinernema feltiae, while deadly to other insects within days, leaves Portuguese millipedes unharmed. The nematodes work by releasing bacteria that act like blood poisoning in their hosts, but millipedes appear resistant even at concentrations 100 times the recommended dose. Field observations confirmed what the lab showed: the treatment simply doesn't work.
+
+This story captures a familiar frustration in dealing with invasive species—the gap between hopeful solutions and ecological reality. With the Portuguese millipede established in New Zealand for at least 20 years and spreading, affected residents face an ongoing nuisance with no easy remedy in sight. While the millipedes pose no health risks and aren't known to harm the environment, their presence in such overwhelming numbers tests the limits of tolerance. Professor Lester remains hopeful that further research will eventually yield effective solutions for communities grappling with these unexpected houseguests.</description>
+      <source url="https://www.rnz.co.nz/news/science-and-technology/595129/hopes-dashed-after-parasitic-worm-found-to-be-ineffective-at-killing-invasive-millipedes">Radio New Zealand</source>
+    </item>
     <item>
       <title>As elephants return in eastern Zambia, communities adapt to coexistence</title>
       <link>https://news.mongabay.com/2026/05/as-elephants-return-in-eastern-zambia-communities-adapt-to-coexistence/</link>
@@ -594,18 +606,6 @@ Ulster Wildlife has begun fitting male hedgehogs with tiny GPS devices that rese
 
 The research aims to inform practical changes homeowners can make, such as creating "hedgehog highways"—small gaps allowing the animals to move between gardens. Since hedgehogs can travel up to three kilometers in a single night and need access to large territories for food and mates, connected green spaces are essential. Beyond their ecological importance as slug-eaters and "the gardener's friend," hedgehogs represent something worth preserving for its own sake. This project offers a reminder that conservation often requires creativity, and that understanding a species' daily reality is the first step toward ensuring its survival.</description>
       <source url="https://www.bbc.com/news/articles/c775rz4ey66o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Regional sports 'stronger through diversity' as refugees thrive on field</title>
-      <link>https://www.abc.net.au/news/2026-05-10/belong-in-hockey-program-toowoomba-supports-yazidi-refugees/106657450</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-05-10/belong-in-hockey-program-toowoomba-supports-yazidi-refugees/106657450</guid>
-      <pubDate>Sat, 09 May 2026 22:02:27 GMT</pubDate>
-      <description>In Toowoomba, Queensland, a hockey program is helping refugees find community and confidence in their new home. Amir Abdalla, a 21-year-old goalie who fled ISIS genocide against the Yazidi people as a child, has become both a player and an advocate for the sport that helped him adapt to life in Australia. His journey—from seven days without food or water in the mountains of northern Iraq to owning a home and working as an apprentice—reflects the transformative potential of inclusive sports programs.
-
-Toowoomba hosts Australia's largest Yazidi refugee population, a community still processing profound trauma while navigating life in regional Queensland. The Belong in Hockey program, run by Jessie McCartney through the Toowoomba Hockey Club, offers Friday morning sessions where refugees learn hockey, share meals with volunteers, and participate in educational activities. Since launching in 2023, the program has welcomed 140 participants, providing not just athletic skills but language practice, friendship, and a sense of belonging. Nineteen-year-old Chinar Ali, who arrived in 2024, credits the program with teaching her how to navigate her new country and build connections.
-
-What makes this story quietly remarkable is its demonstration of how local sports communities can become engines of welcome and integration. With recent recognition from Hockey Australia and $95,000 in Queensland government funding, the program plans to expand to other marginalized groups, including First Nations communities, people with disabilities, and veterans. It's a reminder that belonging isn't just about finding a place—it's about being invited onto the field, handed a stick, and called by name when you make a good play.</description>
-      <source url="https://www.abc.net.au/news/2026-05-10/belong-in-hockey-program-toowoomba-supports-yazidi-refugees/106657450">ABC Australia</source>
     </item>
   </channel>
 </rss>
