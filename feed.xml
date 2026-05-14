@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 02:03:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 04:01:07 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>From caws to code: AI helps decrypt animal communication</title>
+      <link>https://news.mongabay.com/2026/05/from-caws-to-code-ai-helps-decrypt-animal-communication/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/05/from-caws-to-code-ai-helps-decrypt-animal-communication/</guid>
+      <pubDate>Thu, 14 May 2026 04:01:06 GMT</pubDate>
+      <description>After decades of studying carrion crows in northern Spain, researchers Vittorio Baglione and Daniela Canestrari found themselves drowning in data. These cooperative-breeding birds have complex family structures where multiple generations work together to raise chicks, requiring sophisticated communication between relatives. Audio recorders capturing six to seven days of constant crow conversation generated far more material than the scientists could humanly analyze—until artificial intelligence entered the picture.
+
+Since 2024, the researchers have partnered with the Earth Species Project, a U.S.-based nonprofit developing AI tools to decode animal communication across species. The technology has already identified more than 127,000 crow vocalizations, distinguishing between adult and juvenile calls, filtering out other bird species, and synchronizing recordings when multiple crows vocalize simultaneously. Early findings reveal that most crow communication consists of soft, low-amplitude murmurs, suggesting these birds prefer intimate, close-range conversations rather than long-distance calls. The team is now working to create a comprehensive semantic map linking audio recordings with video footage and movement data from accelerometers, hoping to match specific calls with corresponding behaviors.
+
+This story matters because it represents a fundamental shift in how humans might understand the inner lives of other species. As biodiversity faces mounting threats, AI is opening windows into animal consciousness that were previously sealed shut by the sheer volume of data required to detect patterns in communication. What carrion crows are saying to each other may soon be less mysterious—and that growing understanding could reshape how we relate to the non-human world around us.</description>
+      <source url="https://news.mongabay.com/2026/05/from-caws-to-code-ai-helps-decrypt-animal-communication/">Mongabay</source>
+    </item>
     <item>
       <title>Family who lost a child say palliative care funding 'heart-warming'</title>
       <link>https://www.rnz.co.nz/news/health/595214/family-who-lost-a-child-say-palliative-care-funding-heart-warming</link>
@@ -594,18 +606,6 @@ To stay close during treatment, Lane brought her accounting business home, resha
 
 This story resonates beyond the medical milestone. It's a testament to the quiet strength found in caregiving, the reshaping of lives around illness, and the profound gift of organ donation. Luiz's gratitude extends to the unknown donor's family, whose "yes" changed everything. As mother and son prepare for a simple celebration at home, their story reminds us how resilience, love, and strangers' generosity can converge to create second chances.</description>
       <source url="https://g1.globo.com/se/sergipe/noticia/2026/05/10/eu-criei-ele-pra-ser-forte-diz-sergipana-que-vai-passar-primeiro-dia-das-maes-ao-lado-do-filho-transplantado.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>After 40 years away from school, mother returns to study encouraged by her daughter and is accepted to UFRB</title>
-      <link>https://g1.globo.com/ba/bahia/noticia/2026/05/10/mae-volta-a-estudar-incentivada-pela-filha-e-e-aprovada-na-ufrb.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/ba/bahia/noticia/2026/05/10/mae-volta-a-estudar-incentivada-pela-filha-e-e-aprovada-na-ufrb.ghtml</guid>
-      <pubDate>Sun, 10 May 2026 08:02:43 GMT</pubDate>
-      <description>At 65, Josélia Santos da Silva has returned to the classroom after more than four decades away, completing her high school education and earning admission to Brazil's Federal University of Recôncavo da Bahia. Her journey back to education began with persistent encouragement from her daughter Jovelina, a teacher who wanted to see her mother achieve what had long seemed out of reach. Josélia had left school in seventh grade in 1979 after marrying at 18, when her husband wouldn't allow her to continue studying. She spent the following decades raising her family and working as a seamstress, but never stopped reading or learning—she even taught her own children to read and write before they started school.
-
-The turning point came in 2023, after Josélia became a widow. Her daughter convinced her to enroll in adult education classes, and then, with support from her grandson as well, encouraged her to take the national university entrance exam. Now Josélia commutes 73 kilometers from Salvador to Santo Amaro during the week to attend her interdisciplinary program in culture, languages, and applied technologies. The role reversal is touching: a mother who always championed her children's education is now being championed by them.
-
-This story offers a quiet reminder that dreams deferred are not dreams denied. Josélia's words capture it simply: "Dreams may fall asleep, but they don't die. There's no age limit for fulfilling them." Her determination to live not just as someone alive, but as a full participant in society, makes this a story about dignity, family bonds, and the transformative power of education at any stage of life.</description>
-      <source url="https://g1.globo.com/ba/bahia/noticia/2026/05/10/mae-volta-a-estudar-incentivada-pela-filha-e-e-aprovada-na-ufrb.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
