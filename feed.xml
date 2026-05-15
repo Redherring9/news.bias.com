@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 22:02:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:04:07 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vaccine program almost halves RSV hospitalisations of young babies</title>
+      <link>https://www.abc.net.au/news/2026-05-15/vaccines-halve-babies-hospitalised-with-rsv/106679488</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-05-15/vaccines-halve-babies-hospitalised-with-rsv/106679488</guid>
+      <pubDate>Fri, 15 May 2026 00:04:04 GMT</pubDate>
+      <description>Australia's healthcare system is seeing a promising shift in the fight against a common but dangerous respiratory illness. A new vaccination program targeting pregnant women and newborns has led to a dramatic 44 percent drop in hospital admissions for respiratory syncytial virus—or RSV—among babies under three months old, according to preliminary research from 13 hospitals across the country.
+
+RSV is highly contagious and a leading cause of hospitalization in infants, sending roughly 12,000 Australian babies to the hospital each year, mostly during colder months. The virus can trigger serious conditions like pneumonia and bronchiolitis, sometimes requiring intensive care. The new immunization approach offers protection in two ways: pregnant women receive a free RSV vaccine (available since early 2024), and newborns whose mothers didn't get vaccinated can receive a monoclonal antibody treatment. The study found that vaccinated mothers' babies were 80 percent less likely to be hospitalized, while those receiving the antibody saw a 90 percent reduction in admissions. Reductions were also seen in older infants, though the effect diminished with age.
+
+This story matters because it represents a meaningful public health success—one that pediatricians say they can observe firsthand on hospital wards. The program not only protects vulnerable newborns from a potentially life-threatening illness but also eases the seasonal strain on healthcare resources, freeing up beds and staff for other critical needs. While the results are still undergoing peer review, experts suggest that with broader vaccine uptake, the impact could be even greater—a quiet but significant win for preventive medicine.</description>
+      <source url="https://www.abc.net.au/news/2026-05-15/vaccines-halve-babies-hospitalised-with-rsv/106679488">ABC Australia</source>
+    </item>
     <item>
       <title>Visitor levy to fund upgraded tracks and campgrounds</title>
       <link>https://www.rnz.co.nz/news/regional/595304/visitor-levy-to-fund-upgraded-tracks-and-campgrounds</link>
@@ -594,18 +606,6 @@ The woodcock's presence is particularly striking. These birds are known for thei
 
 This clustering of nests near human presence may illustrate what researchers call the "human shield effect"—the phenomenon where wildlife becomes less vigilant around people, recognizing that predators often avoid areas of human activity. Combined with the garden's undisturbed habitat, this protective presence may be teaching birds that proximity to humans can mean safety. It's a story worth pausing over: a reminder that thoughtful coexistence can create unexpected sanctuaries, and that trust between species can be quietly learned and passed along.</description>
       <source url="https://www.theguardian.com/environment/2026/may/11/country-diary-nesting-mallard-owl-and-woodcock-this-is-the-human-shield-effect">The Guardian</source>
-    </item>
-    <item>
-      <title>'We can be a voice for women': Afghan cricketers push for ICC recognition</title>
-      <link>https://www.abc.net.au/news/2026-05-11/afghanistan-womens-cricket-team-urges-icc-for-recognition-fifa/106665250</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-05-11/afghanistan-womens-cricket-team-urges-icc-for-recognition-fifa/106665250</guid>
-      <pubDate>Mon, 11 May 2026 04:02:48 GMT</pubDate>
-      <description>Afghanistan's exiled women's cricket team is calling on the International Cricket Council to grant them the same recognition FIFA gave to Afghan women footballers earlier this year. Since the Taliban's return to power in 2021, sweeping restrictions on women and girls have forced many female athletes to flee the country or abandon their sports entirely. The cricket team hasn't played an official international match since before the takeover.
-
-FIFA's April decision to allow displaced Afghan footballers—many now living in Australia—to compete internationally has sparked hope among cricketers like Canberra-based player Shafiqa Khan. She describes the possibility as a chance to "be a voice for Afghan women" and represent those denied basic rights back home. While the ICC has established a task force with cricket boards from Australia, England, and India to support Afghan women, sport integrity expert Dr. Catherine Ordway notes the group has met only once and lacks a clear plan beyond August, when current funding ends. Notably, no representatives from the Afghan women's team have been included in the task force.
-
-The situation raises thorny questions about international sports governance. Afghanistan's men's team continues to compete in ICC tournaments despite regulations requiring full member nations to field women's teams. With cricket set to return to the Olympics in Los Angeles, the standoff highlights the tension between sporting inclusion and human rights principles. For the displaced athletes, recognition would mean more than personal achievement—it would send a powerful message to millions of girls in Afghanistan that their dreams and rights still matter on the world stage.</description>
-      <source url="https://www.abc.net.au/news/2026-05-11/afghanistan-womens-cricket-team-urges-icc-for-recognition-fifa/106665250">ABC Australia</source>
     </item>
   </channel>
 </rss>
