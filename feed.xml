@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 12:03:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 14:01:57 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Zambian prodigy draws on theoretical physics to improve weather prediction</title>
+      <link>https://news.mongabay.com/2026/05/zambian-teen-draws-on-theoretical-physics-to-improve-weather-prediction/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/05/zambian-teen-draws-on-theoretical-physics-to-improve-weather-prediction/</guid>
+      <pubDate>Fri, 15 May 2026 14:01:54 GMT</pubDate>
+      <description>An 18-year-old from Zambia is turning heads in the scientific community by applying theoretical physics to a pressing local challenge: accurate weather prediction. Prosper Chanda, who began studying algebra at age three and is currently awaiting publication of a research paper attempting to bridge classical and quantum physics, has developed a weather forecasting model tailored specifically for sub-Saharan Africa. His innovation has earned him a spot among five finalists for this year's Earth Prize, which celebrates young people aged 13 to 19 creating solutions to environmental problems.
+
+Chanda recognized that existing weather prediction systems, built primarily with data from Europe and the United States, often fall short in regions like Zambia where monitoring infrastructure is limited and climate impacts are increasingly severe. His model, based on what he calls Prosper's Unified Position Equation (PUPE), takes initial atmospheric conditions such as wind speed and produces a single, deterministic forecast of how weather systems will evolve—including the timing, location, and intensity of floods and storms. Rather than replacing existing models, Chanda intends his approach to complement them, providing communities and governments with better tools to prepare for extreme weather events that can be devastating when people lack timely, accurate information.
+
+This story offers a quietly powerful reminder that innovation can emerge from anywhere, and that young minds are already grappling with some of the world's most complex problems. Chanda's self-taught journey and his focus on local relevance demonstrate how scientific curiosity, when paired with attention to real community needs, can produce meaningful contributions—even from places without extensive research infrastructure.</description>
+      <source url="https://news.mongabay.com/2026/05/zambian-teen-draws-on-theoretical-physics-to-improve-weather-prediction/">Mongabay</source>
+    </item>
     <item>
       <title>Thailand identifies largest dinosaur ever found in Southeast Asia</title>
       <link>https://g1.globo.com/ciencia/noticia/2026/05/15/tailandia-identifica-maior-dinossauro-do-sudeste-asiatico.ghtml</link>
@@ -594,18 +606,6 @@ The pipal or sacred fig tree is more than a religious symbol. It's a keystone sp
 
 Experts view this exchange as a form of "Buddhist diplomacy," where spiritual heritage, environmental stewardship, and international goodwill intersect. The story invites reflection on how ancient practices of reverence for nature might inform contemporary conservation efforts, reminding us that care for the living world has always been intertwined with human culture and meaning.</description>
       <source url="https://news.mongabay.com/2026/05/ancient-trees-modern-voyage-from-sri-lanka-to-texas/">Mongabay</source>
-    </item>
-    <item>
-      <title>Scorpion poison or scorpion repellent? Which is more effective?</title>
-      <link>https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/especial-publicitario/biomagistral/noticia/2026/05/11/veneno-para-escorpiao-ou-repelente-para-escorpiao-qual-e-mais-eficiente.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/especial-publicitario/biomagistral/noticia/2026/05/11/veneno-para-escorpiao-ou-repelente-para-escorpiao-qual-e-mais-eficiente.ghtml</guid>
-      <pubDate>Mon, 11 May 2026 14:05:03 GMT</pubDate>
-      <description>In response to a series of scorpion incidents at daycare centers near São José do Rio Preto, Brazil, a pharmaceutical group has developed a non-toxic scorpion repellent specifically designed for spaces where children gather. The product, called BioScorp, represents a new approach to managing an escalating public health challenge in urban Brazil, where scorpion encounters have been steadily increasing according to Ministry of Health data.
-
-The innovation addresses a particular vulnerability: children are at higher risk from scorpion stings due to their smaller body mass, which intensifies the venom's effects on the nervous system. Traditional chemical controls, while effective at killing scorpions and other pests, carry their own risks for humans and pets—especially in settings like daycare centers. BioScorp takes a different path, using liposomal green propolis, homeopathy, and nanotechnology-based natural compounds to repel rather than poison. The formulation aligns with scorpion behavior patterns, targeting the dark, damp hiding spots these nocturnal arachnids prefer in urban environments, often near sewage systems and debris.
-
-What makes this story quietly compelling is how it illustrates adaptive problem-solving in the face of changing urban ecosystems. As scorpions—particularly the Tityus serrulatus species, which reproduces without mating—thrive in Brazilian cities, communities need solutions that protect vulnerable populations without introducing new hazards. This repellent represents a thoughtful middle ground: acknowledging that we share space with creatures we'd rather avoid, while prioritizing the safety of our youngest and most vulnerable neighbors.</description>
-      <source url="https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/especial-publicitario/biomagistral/noticia/2026/05/11/veneno-para-escorpiao-ou-repelente-para-escorpiao-qual-e-mais-eficiente.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
