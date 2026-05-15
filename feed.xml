@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 16:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 18:03:19 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Brazilian researchers discover new species of organism in Antarctic volcano that may help research on life beyond Earth</title>
+      <link>https://g1.globo.com/sp/sao-paulo/noticia/2026/05/15/brasileiras-descobrem-nova-especie-de-organismo-em-vulcao-na-antartida-que-pode-ajudar-em-pesquisas-sobre-vida-fora-da-terra.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/sp/sao-paulo/noticia/2026/05/15/brasileiras-descobrem-nova-especie-de-organismo-em-vulcao-na-antartida-que-pode-ajudar-em-pesquisas-sobre-vida-fora-da-terra.ghtml</guid>
+      <pubDate>Fri, 15 May 2026 18:03:17 GMT</pubDate>
+      <description>Brazilian researchers from the University of São Paulo have discovered a new species of archaea—a single-celled microorganism without a nucleus—living in the fissure of an active volcano on Antarctica's Deception Island. The organism, named Pyroantarcticum pellizari after pioneering Brazilian microbiologist Vivian Pellizari, thrives in an extreme environment where temperatures approach 100°C, yet it's surrounded by ice and snow.
+
+What makes this discovery particularly intriguing is the contrast with previously known relatives. While other members of the Pyrodictiaceae family typically inhabit deep-sea hydrothermal vents where water exceeds 400°C under intense pressure, this new species lives in a surface fissure under very different conditions. The samples were collected during a 2014 expedition aboard the Polar Ship Almirante Maximiano, but the microorganism's uniqueness only became apparent recently through advanced genetic analysis using a technique called metagenome-assembled genomes, which reconstructs an organism's DNA from environmental samples without needing to culture it in a lab.
+
+This quiet finding carries surprisingly broad implications. Understanding how life persists in such hostile conditions offers insights into climate change adaptation, biotechnology applications, and even astrobiology—the search for life beyond Earth. The researchers now plan to return to Deception Island to collect more samples and attempt to culture the organism in laboratory conditions, which would allow for even deeper study. It's a reminder that our planet still holds countless mysteries, and that patient scientific work can reveal life flourishing in places we might least expect it.</description>
+      <source url="https://g1.globo.com/sp/sao-paulo/noticia/2026/05/15/brasileiras-descobrem-nova-especie-de-organismo-em-vulcao-na-antartida-que-pode-ajudar-em-pesquisas-sobre-vida-fora-da-terra.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Speech therapy clinic grows in Florianópolis with financial support from Sicoob</title>
       <link>https://g1.globo.com/sc/santa-catarina/sc-que-da-certo/especial-publicitario/sicoob/noticia/2026/05/15/clinica-de-fonoaudiologia-cresce-em-floripa-com-o-apoio-financeiro-do-sicoob.ghtml</link>
@@ -594,18 +606,6 @@ The cloak's construction reveals remarkable skill: woven from harakeke (flax) wi
 
 Meanwhile, the cloak's journey to England remains a mystery. It arrived at Durham's Oriental Museum in the 1960s from an aristocratic family's estate, but earlier provenance is unclear. Researchers now suspect a network of women collectors within British aristocracy whose contributions went largely unrecorded. This story matters not just as the homecoming of a treasured object, but as a living link to ancestral knowledge—a chance to recover skills, honor craftsmanship, and understand the communal values that made such artistry possible.</description>
       <source url="https://www.rnz.co.nz/news/te-manu-korihi/594914/centuries-old-maori-warrior-s-cloak-returned-to-aotearoa">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>The story of suicide dolphins trained in the Soviet Union that Iran bought from Ukraine 26 years ago</title>
-      <link>https://www.bbc.com/mundo/articles/cwy2n4em13do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cwy2n4em13do?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Mon, 11 May 2026 18:03:16 GMT</pubDate>
-      <description>A curious question at a Pentagon press conference this May brought renewed attention to an unusual piece of Cold War history: the story of Soviet-trained military dolphins that Iran reportedly purchased from Ukraine 26 years ago. When asked about reports of Iranian "kamikaze dolphins," U.S. Defense Secretary Pete Hegseth denied their current existence, while a general compared the idea to fictional sharks with laser beams. The question stemmed from a Wall Street Journal article suggesting Iran might deploy dolphins equipped with mines against American warships in the Strait of Hormuz.
-
-The concept isn't pure fantasy. In 1998, the BBC reported that Iran had indeed acquired dolphins and other marine mammals trained by the former Soviet navy. After the USSR's collapse, budget cuts left trainer Boris Zhurid unable to feed his animals, prompting their sale. Twenty-seven creatures—including dolphins, porpoises, sea lions, seals, and a beluga whale—were flown from Sevastopol in Crimea to the Persian Gulf. These animals had been trained to attack enemy divers with harpoons, drag them to the surface, or carry out suicide missions by detonating mines against ship hulls. They could reportedly distinguish between Soviet and foreign submarines.
-
-This story offers a fascinating glimpse into the unexpected casualties of geopolitical change—highly trained marine mammals caught between military programs and economic reality. Whether these dolphins are still operational nearly three decades later remains unconfirmed, but the tale reminds us that the Cold War's legacy includes not just weapons and treaties, but living creatures trained for purposes that blur the line between the ingenious and the unsettling.</description>
-      <source url="https://www.bbc.com/mundo/articles/cwy2n4em13do?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
