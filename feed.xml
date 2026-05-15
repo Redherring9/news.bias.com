@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 18:03:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 20:02:05 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Light pollution reshapes predator-prey dynamics at California’s urban edge, study finds</title>
+      <link>https://news.mongabay.com/2026/05/light-pollution-reshapes-predator-prey-dynamics-at-californias-urban-edge-study-finds/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/05/light-pollution-reshapes-predator-prey-dynamics-at-californias-urban-edge-study-finds/</guid>
+      <pubDate>Fri, 15 May 2026 20:02:03 GMT</pubDate>
+      <description>A two-year study using camera traps across California's urban edges has revealed that artificial light at night influences wildlife behavior more powerfully than noise pollution. Researchers monitoring pumas, bobcats, and mule deer discovered that light pollution is fundamentally reshaping the ancient relationship between predators and prey in unexpected ways.
+
+Analyzing more than 35,000 days of footage from 61 camera stations, scientists found that large carnivores like pumas and bobcats actively avoided brightly lit areas near urban developments, while mule deer did the opposite—spending more time under streetlights and city glow, seemingly using the illumination as a shield from their natural predators. The contrast was visually dramatic: cameras in dark, protected areas captured abundant nighttime carnivore activity, while those at lit urban edges showed the predators "practically vanishing" after dark, replaced by deer foraging calmly under artificial light. The study also revealed regional differences tied to development patterns. Orange County's sprawling fragmentation pushed pumas to hunt closer to dusk, waiting for human activity to subside, while San Mateo County's more connected open spaces allowed earlier morning activity.
+
+This research matters because it pinpoints a specific, addressable environmental pressure on wildlife. By shrinking hunting grounds and forcing predators into riskier encounters with roads, people, and pets, light pollution may affect carnivore health, reproduction, and long-term survival. The findings suggest practical solutions—shielded fixtures, motion sensors, dark-sky ordinances, and unlit wildlife corridors—that could help restore more natural behaviors. It's a quiet reminder that something as simple as how we light our neighborhoods shapes the hidden rhythms of the wild animals living at our doorstep.</description>
+      <source url="https://news.mongabay.com/2026/05/light-pollution-reshapes-predator-prey-dynamics-at-californias-urban-edge-study-finds/">Mongabay</source>
+    </item>
     <item>
       <title>Brazilian researchers discover new species of organism in Antarctic volcano that may help research on life beyond Earth</title>
       <link>https://g1.globo.com/sp/sao-paulo/noticia/2026/05/15/brasileiras-descobrem-nova-especie-de-organismo-em-vulcao-na-antartida-que-pode-ajudar-em-pesquisas-sobre-vida-fora-da-terra.ghtml</link>
@@ -594,18 +606,6 @@ Despite improvements like the new facility, challenges remain in Australia's end
 
 This story matters because it illuminates how compassion and community action can transform the experience of dying. Wingard's volunteering—and the hospice itself—shows what's possible when people recognize a need and respond with practical kindness. It's a quiet reminder that dignity at the end of life isn't just about medical intervention, but also about human connection, familiar comforts, and spaces that allow families to be present without hardship.</description>
       <source url="https://www.abc.net.au/news/2026-05-12/central-queensland-hospice-residents-get-free-haircuts/106651844">ABC Australia</source>
-    </item>
-    <item>
-      <title>Centuries-old Māori warrior's cloak returned to Aotearoa</title>
-      <link>https://www.rnz.co.nz/news/te-manu-korihi/594914/centuries-old-maori-warrior-s-cloak-returned-to-aotearoa</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/te-manu-korihi/594914/centuries-old-maori-warrior-s-cloak-returned-to-aotearoa</guid>
-      <pubDate>Mon, 11 May 2026 20:01:15 GMT</pubDate>
-      <description>A centuries-old Māori warrior's cloak has returned to New Zealand for the first time, offering researchers an extraordinary window into ancestral knowledge and craft. The pauku—one of only seven such warrior cloaks known to exist worldwide—is on a five-year loan from Durham University's Oriental Museum to Auckland's Tāmaki Paenga Hira Auckland War Memorial Museum, where it's being studied by traditional weaving experts.
-
-The cloak's construction reveals remarkable skill: woven from harakeke (flax) with a twining stitch so tight it could deflect wooden spears in battle. Dr Kahutoi Te Kanawa and her sister Dr Rangi Te Kanawa, both specialists in Māori textiles, are leading the research alongside the museum's expert weavers' advisory group. Though the black-dyed fibres have deteriorated over time, this decay has unexpectedly revealed the underlying structure, providing fresh insight into 18th-century weaving techniques. The researchers aren't simply documenting these methods—they plan to revive them, attempting to recreate the raised and recessed patterns that required extraordinary focus and community support. Creating such a cloak would have been a village effort, with the weaver's children cared for by extended family so she could dedicate herself entirely to the work.
-
-Meanwhile, the cloak's journey to England remains a mystery. It arrived at Durham's Oriental Museum in the 1960s from an aristocratic family's estate, but earlier provenance is unclear. Researchers now suspect a network of women collectors within British aristocracy whose contributions went largely unrecorded. This story matters not just as the homecoming of a treasured object, but as a living link to ancestral knowledge—a chance to recover skills, honor craftsmanship, and understand the communal values that made such artistry possible.</description>
-      <source url="https://www.rnz.co.nz/news/te-manu-korihi/594914/centuries-old-maori-warrior-s-cloak-returned-to-aotearoa">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
