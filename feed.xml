@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 06:04:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 08:02:22 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Giant 27-meter, 27-ton dinosaur identified in Thailand</title>
+      <link>https://www.france24.com/fr/asie-pacifique/20260515-un-dinosaure-gigantesque-de-27-m%C3%A8tres-et-27-tonnes-identifi%C3%A9-en-tha%C3%AFlande</link>
+      <guid isPermaLink="false">https://www.france24.com/fr/asie-pacifique/20260515-un-dinosaure-gigantesque-de-27-m%C3%A8tres-et-27-tonnes-identifi%C3%A9-en-tha%C3%AFlande</guid>
+      <pubDate>Fri, 15 May 2026 08:02:20 GMT</pubDate>
+      <description>Scientists have identified a colossal new dinosaur species from fossils unearthed in northeastern Thailand, marking a significant paleontological discovery for Southeast Asia. The herbivore, officially named Nagatitan chaiyaphumensis, measured an impressive 27 meters in length and weighed approximately 27 tons—making it larger than the famous Dippy the Diplodocus and the biggest dinosaur ever found in the region.
+
+The long-necked sauropod roamed what is now Thailand between 100 and 120 million years ago. Local residents first discovered the creature's remains a decade ago, but the excavation wasn't completed until 2024. Researchers found that while the bones shared some similarities with previously known sauropods, they possessed enough unique characteristics to warrant classification as an entirely new species. The dinosaur's name draws from rich mythology: "naga" references a mythical Southeast Asian serpent, combined with "titan" from Greek mythology, and "chaiyaphumensis" honors Chaiyaphum province where the fossils were found.
+
+What makes this discovery particularly intriguing is its timing in Earth's history. The rock formation where Nagatitan was found is among the most recent dinosaur-bearing layers in Thailand, leading researchers to dub it "the last titan." The region later transformed into a shallow sea, suggesting this may be the final—or most recent—giant sauropod that will ever be discovered in Southeast Asia. A full-scale reconstruction now stands in Bangkok's Thainosaur Museum, offering visitors a chance to appreciate the sheer magnitude of these ancient giants that once walked the earth.</description>
+      <source url="https://www.france24.com/fr/asie-pacifique/20260515-un-dinosaure-gigantesque-de-27-m%C3%A8tres-et-27-tonnes-identifi%C3%A9-en-tha%C3%AFlande">France 24</source>
+    </item>
     <item>
       <title>Britons to vote in inaugural contest to find nation’s favourite butterfly</title>
       <link>https://www.theguardian.com/environment/2026/may/15/britain-vote-contest-find-nation-favourite-butterfly</link>
@@ -594,18 +606,6 @@ The museum will feature never-before-seen archival materials, a recreation of th
 
 This museum offers something quietly remarkable: a chance to walk through the actual space where one of music's most influential groups created their final chapter, culminating in a visit to the rooftop where they made history one last time together.</description>
       <source url="https://www.bbc.com/portuguese/articles/cy82d6dqdvyo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
-    </item>
-    <item>
-      <title>How scientists 'hunt' viruses around the world to anticipate pandemics</title>
-      <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/05/11/como-cientistas-cacam-virus-pelo-mundo-para-antecipar-pandemias.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/05/11/como-cientistas-cacam-virus-pelo-mundo-para-antecipar-pandemias.ghtml</guid>
-      <pubDate>Mon, 11 May 2026 12:01:28 GMT</pubDate>
-      <description>In the heart of the Amazon rainforest, scientists from the University of Campinas are pursuing an ambitious goal: identifying viral threats before they trigger the next pandemic. Using metagenomics—a technique that sequences all genetic material in environmental and animal samples—researchers are tracking known viruses and discovering entirely new microorganisms along Brazil's BR-319 highway, which cuts through pristine forest between Manaus and Porto Velho.
-
-The Amazon harbors one of the planet's richest viral ecosystems, but deforestation and environmental disruption are breaking down natural barriers that historically kept wildlife viruses away from human populations. This creates conditions for "spillover" events, where pathogens jump from animals to people. The research team focuses on rodents, which can carry highly dangerous viruses like hantavirus, and on insects that transmit diseases through bites. The recent spread of Oropouche fever illustrates this dynamic perfectly: genetic studies suggest the virus underwent changes in degraded forest areas between 2015 and 2016, circulated in isolated communities, then reached urban centers and eventually spread across Latin America and beyond.
-
-What makes this work quietly revolutionary is its shift from reactive to preventive science. Rather than studying diseases after outbreaks occur, metagenomics allows researchers to conduct broad surveillance of viral diversity before threats emerge. This story matters because it shows scientists working at the intersection of environmental health and human disease, demonstrating how protecting forests isn't just about conservation—it's also about anticipating the next global health crisis before it begins.</description>
-      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/05/11/como-cientistas-cacam-virus-pelo-mundo-para-antecipar-pandemias.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
