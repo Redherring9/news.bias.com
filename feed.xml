@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 14:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 16:03:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The 'fat icebergs' that are spreading through city sewers and worrying scientists</title>
+      <link>https://www.bbc.com/portuguese/articles/c202py9p3eqo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/c202py9p3eqo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sat, 16 May 2026 16:03:38 GMT</pubDate>
+      <description>Deep beneath the streets of London, workers discovered a monster lurking in the Victorian-era sewer system: a 130-ton mass of congealed fat, oil, grease, wet wipes, sanitary products, and condoms. These formations, called "fatbergs," harden like concrete and pose a growing challenge for cities around the world. The Whitechapel fatberg took nine weeks to remove in 2017, only to return by late 2025, reforming to over 100 tons.
+
+These underground behemoths form when households and businesses dispose of fats and unsuitable materials down drains, creating blockages that can cause sewage to back up into homes or overflow into streets and rivers. UK water companies deal with roughly 300,000 grease blockages annually, while New York City spends about $18.8 million each year clearing grease and unblocking sewers. Similar giants have appeared beneath Detroit, Baltimore, Oxford, Liverpool, Melbourne, and Sydney, forming with alarming frequency and unpredictability.
+
+The real difficulty lies in detecting these formations before they reach monstrous proportions. Now, water companies are turning to artificial intelligence for help. Southern Water has installed approximately 34,000 sensors in its sewer system that use radar signals to monitor water levels, feeding data into machine learning algorithms that can predict normal conditions and flag anomalies. This story offers a fascinating glimpse into the hidden infrastructure beneath our feet and the surprising ways modern technology is being deployed to solve a problem created by our own disposal habits—a reminder that what we flush away doesn't simply disappear.</description>
+      <source url="https://www.bbc.com/portuguese/articles/c202py9p3eqo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Between Faith and Resistance, 'São Benedito de Santos Pretos' Chapel Preserves Tradition Linked to Enslaved Woman Anastácia in Southern Minas Gerais</title>
       <link>https://g1.globo.com/mg/sul-de-minas/noticia/2026/05/16/entre-fe-e-resistencia-capela-sao-benedito-de-santos-pretos-preserva-tradicao-ligada-a-escrava-anastacia-no-sul-de-mg.ghtml</link>
@@ -594,18 +606,6 @@ Researchers point out that Colombian migration isn't new—it's been happening f
 
 This story offers a nuanced look at modern migration, challenging assumptions that people only leave during economic crises. It reveals how personal ambition, family connections, and policy changes intertwine to shape population movements—a reminder that human decisions about home and belonging rarely fit into simple economic models.</description>
       <source url="https://www.bbc.com/mundo/articles/c4g07xe7pr1o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>‘Six lanes of tarmac and vehicles doing 70mph’: can ‘green bridges’ help animals cross the UK’s motorways in safety?</title>
-      <link>https://www.theguardian.com/environment/2026/may/12/cockrow-green-bridge-wildlife-road-crossings-aoe</link>
-      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/may/12/cockrow-green-bridge-wildlife-road-crossings-aoe</guid>
-      <pubDate>Tue, 12 May 2026 10:02:40 GMT</pubDate>
-      <description>A new wildlife bridge over a busy highway in Surrey offers a hopeful experiment in reconnecting fragmented habitats. The Cockrow Bridge spans six lanes of the A3, a major route into London, reuniting two halves of protected heathland that have been isolated for years by traffic traveling at 70 mph. James Herd, who manages the reserves for Surrey Wildlife Trust, has watched reptile populations dwindle over the past decade as the road created an impassable barrier between breeding groups, tightening gene pools and threatening long-term survival.
-
-The bridge itself is a transplanted slice of the heath, complete with heather, sand piles for breeding lizards, and logs for shelter. It's designed not just for charismatic species like roe deer and adders—both already spotted using the crossing—but for the insects that underpin the entire ecosystem through pollination and decomposition. The project emerged as mitigation for a £317 million motorway expansion, turning what could have been further habitat loss into an opportunity for ecological repair. With nearly 1,500 species threatened with extinction in Great Britain and biodiversity in steep decline since 1970, such crossings address a quiet crisis: the way infrastructure silently fractures the landscape.
-
-What makes this story quietly remarkable is its reminder that conservation can be woven into the infrastructure we depend on. The bridge won't reverse decades of habitat loss overnight, but it offers isolated populations a lifeline—a chance to intermingle, adapt, and persist in a landscape increasingly shaped by human movement. It's a modest structure with an outsized ambition: to let nature flow again where tarmac once severed it.</description>
-      <source url="https://www.theguardian.com/environment/2026/may/12/cockrow-green-bridge-wildlife-road-crossings-aoe">The Guardian</source>
     </item>
   </channel>
 </rss>
