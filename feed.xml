@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 06:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 08:02:43 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rare plant makes comeback from brink of extinction</title>
+      <link>https://www.bbc.com/news/articles/c4g0w899j5yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c4g0w899j5yo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sat, 16 May 2026 08:02:41 GMT</pubDate>
+      <description>A small wildflower that once teetered on the edge of disappearance is flourishing again in the Kent countryside, offering a quiet but powerful testament to patient conservation work. The Kentish milkwort, reduced to just a handful of plants across three sites a decade ago, now numbers 1,245 self-sown individuals at Queendown Warren near Sittingbourne—the largest population of the species in the United Kingdom.
+
+The turnaround began in 2013 when conservationists recognized the plant's perilous state. Once found in both northern England and Kent, the species had dwindled dramatically. To prevent its complete loss, seeds were carefully collected from the strongest remaining plants and cultivated at the Royal Botanic Gardens, Kew, creating a genetic safety net without further stressing the fragile wild population. Between 2018 and 2019, those cultivated seeds were used to grow plants for reintroduction, leading to the remarkable seven-fold increase observed today. The recovery effort brought together Kent Wildlife Trust, The Species Recovery Trust, Kew Gardens, and dedicated local volunteers in a collaboration that spanned years.
+
+Looking ahead, conservationists plan to maintain the open, disturbed ground conditions the milkwort needs—even enlisting pigs to root through the soil at Queendown Warren. If the population continues to thrive, the site may eventually serve as a seed source for restoring the species at other chalk grassland locations across Kent. It's a story worth reading because it shows how careful, methodical conservation can reverse what seems inevitable, turning near-extinction into genuine hope for a species' future.</description>
+      <source url="https://www.bbc.com/news/articles/c4g0w899j5yo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Country diary: A solid ball of bees, right in front of me – what a stroke of luck | Michael White</title>
       <link>https://www.theguardian.com/environment/2026/may/16/country-diary-a-solid-ball-of-bees-right-in-front-of-me-what-a-stroke-of-luck</link>
@@ -594,18 +606,6 @@ The filter system transforms everyday agricultural waste—coconut shells and ma
 
 This story matters because it represents the kind of problem-solving that emerges when young people connect technical ingenuity with lived experience. The teens didn't just identify a crisis—vehicular exhaust contributes significantly to the 4.4 million annual premature deaths from air pollution worldwide—they built a tangible, affordable solution using resources already at hand. Their work now competes for the global Earth Prize, but the real achievement may be demonstrating that environmental innovation doesn't require distant laboratories or expensive materials, just resourcefulness, compassion, and a willingness to act on what hurts close to home.</description>
       <source url="https://news.mongabay.com/2026/05/teen-innovators-in-kenya-turn-farm-waste-into-award-winning-vehicle-exhaust-filter/">Mongabay</source>
-    </item>
-    <item>
-      <title>Why brain implants are more than a sci-fi fantasy</title>
-      <link>https://www.japantimes.co.jp/news/2026/05/12/world/brain-implants-sci-fi-fantasy/</link>
-      <guid isPermaLink="false">https://www.japantimes.co.jp/news/2026/05/12/world/brain-implants-sci-fi-fantasy/</guid>
-      <pubDate>Tue, 12 May 2026 02:01:29 GMT</pubDate>
-      <description>Brain-computer interfaces, long a staple of science fiction from Star Trek to RoboCop, are quietly transitioning from imagination to reality. For decades, researchers have been developing neural implants designed to help people with paralysis, blindness, and hearing loss regain lost functions. Some early adopters have already used these devices to control computer cursors with their thoughts, manipulate robotic arms, or convert mental activity into text—achievements that would have seemed impossible just years ago.
-
-The technology remains in its early stages, with only hundreds of people worldwide having received implants so far. Regulatory hurdles are significant, and just a handful of companies have secured approval to move beyond clinical trials into commercial applications, which remain limited in scope. Yet the field appears poised at a critical juncture. Recent breakthroughs in both hardware design and artificial intelligence are dramatically improving researchers' ability to decode the complex signals the brain produces, potentially accelerating the pace of development.
-
-This story matters because it represents a fundamental shift in how we might address profound human challenges. What makes these advances quietly remarkable is not their flashiness, but their potential to restore independence and connection to people who have lost essential abilities—transforming what was once pure speculation into tangible hope grounded in rigorous science.</description>
-      <source url="https://www.japantimes.co.jp/news/2026/05/12/world/brain-implants-sci-fi-fantasy/">The Japan Times</source>
     </item>
   </channel>
 </rss>
