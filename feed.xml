@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 10:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 12:03:13 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Elephants return to Mount Elgon side of Uganda after four decades</title>
+      <link>https://news.mongabay.com/2026/05/elephants-return-to-mount-elgon-side-of-uganda-after-four-decades/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/05/elephants-return-to-mount-elgon-side-of-uganda-after-four-decades/</guid>
+      <pubDate>Mon, 18 May 2026 12:03:11 GMT</pubDate>
+      <description>After more than four decades of absence, a herd of approximately 60 elephants has crossed back into Uganda's side of Mount Elgon, reclaiming territory they abandoned in the 1970s. Tracking collars fitted by conservation groups documented the animals' journey across the Suam River from Kenya, marking a remarkable homecoming to landscapes scarred by decades of ivory poaching during Uganda's civil war and subsequent habitat degradation.
+
+Several factors appear to have drawn the elephants back. Kenya's growing elephant population and increasing human pressure may have encouraged them to seek new ground, while Uganda's side of the mountain offers the safety of fully protected national park status. There's even a poignant possibility that the generational memory of past trauma has faded as older elephants have died naturally. Uganda Wildlife Authority officials point to successful forest restoration efforts as the key factor, with degraded montane habitats gradually regenerating through both natural processes and tree-planting initiatives. Communities that once lived within the park boundaries have been relocated, allowing the forest to heal.
+
+The return represents more than just a conservation milestone—it's a testament to what patience and habitat restoration can achieve. Local residents have expressed cautious pride alongside understandable anxiety about crop damage, though rangers have successfully prevented losses so far in 2026. The story quietly illustrates how wildlife can forgive and reclaim spaces once thought lost forever, offering hope that even the deepest wounds inflicted on ecosystems can, with time and care, begin to mend.</description>
+      <source url="https://news.mongabay.com/2026/05/elephants-return-to-mount-elgon-side-of-uganda-after-four-decades/">Mongabay</source>
+    </item>
     <item>
       <title>Cat missing for nearly 3 years is recognized by his 'little mustache,' reunites with family and moves guardians in interior São Paulo</title>
       <link>https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/05/18/gato-desaparecido-ha-quase-3-anos-e-reconhecido-pelo-bigodinho-reencontra-familia-e-emociona-tutores-no-interior-de-sp.ghtml</link>
@@ -594,18 +606,6 @@ This phenomenon resembles a rare condition in humans known as Persistent Müller
 
 This discovery matters because it challenges traditional textbook representations of animal sex determination, showing that biology can be more flexible and surprising than commonly taught. The research also highlights the importance of scientific collections as "animal libraries" that allow researchers to study biodiversity without removing new specimens from nature, demonstrating how patient, curiosity-driven science continues to reveal hidden complexities in familiar creatures living quietly in Brazil's landscapes.</description>
       <source url="https://g1.globo.com/meio-ambiente/noticia/2026/05/14/pesquisa-da-usp-faz-descoberta-sobre-biologia-reprodutiva-de-jiboias-arco-iris-do-cerrado.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>From caws to code: AI helps decrypt animal communication</title>
-      <link>https://news.mongabay.com/2026/05/from-caws-to-code-ai-helps-decrypt-animal-communication/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/05/from-caws-to-code-ai-helps-decrypt-animal-communication/</guid>
-      <pubDate>Thu, 14 May 2026 04:01:06 GMT</pubDate>
-      <description>After decades of studying carrion crows in northern Spain, researchers Vittorio Baglione and Daniela Canestrari found themselves drowning in data. These cooperative-breeding birds have complex family structures where multiple generations work together to raise chicks, requiring sophisticated communication between relatives. Audio recorders capturing six to seven days of constant crow conversation generated far more material than the scientists could humanly analyze—until artificial intelligence entered the picture.
-
-Since 2024, the researchers have partnered with the Earth Species Project, a U.S.-based nonprofit developing AI tools to decode animal communication across species. The technology has already identified more than 127,000 crow vocalizations, distinguishing between adult and juvenile calls, filtering out other bird species, and synchronizing recordings when multiple crows vocalize simultaneously. Early findings reveal that most crow communication consists of soft, low-amplitude murmurs, suggesting these birds prefer intimate, close-range conversations rather than long-distance calls. The team is now working to create a comprehensive semantic map linking audio recordings with video footage and movement data from accelerometers, hoping to match specific calls with corresponding behaviors.
-
-This story matters because it represents a fundamental shift in how humans might understand the inner lives of other species. As biodiversity faces mounting threats, AI is opening windows into animal consciousness that were previously sealed shut by the sheer volume of data required to detect patterns in communication. What carrion crows are saying to each other may soon be less mysterious—and that growing understanding could reshape how we relate to the non-human world around us.</description>
-      <source url="https://news.mongabay.com/2026/05/from-caws-to-code-ai-helps-decrypt-animal-communication/">Mongabay</source>
     </item>
   </channel>
 </rss>
