@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 00:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 02:02:37 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>University of Canterbury's space lab ready for lift-off</title>
+      <link>https://www.rnz.co.nz/news/science-and-technology/595649/university-of-canterbury-s-space-lab-ready-for-lift-off</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/science-and-technology/595649/university-of-canterbury-s-space-lab-ready-for-lift-off</guid>
+      <pubDate>Tue, 19 May 2026 02:02:36 GMT</pubDate>
+      <description>Scientists at the University of Canterbury have built a compact, shoebox-sized laboratory designed to conduct biotechnology experiments in microgravity—the environment between Earth's gravity and the weightlessness of space. The automated lab will soon be tested aboard Dawn Aerospace's reusable unmanned spaceplane, marking a novel approach to developing better medicines through space-based research.
+
+The project, led by Associate Professor Sarah Kessans, focuses on growing higher-quality protein crystals that reveal atomic-level structures crucial for drug design. On Earth, gravity creates convection currents and uneven settling that disrupt crystal formation, but microgravity allows proteins to organize into near-perfect lattices. Kessans compares the difference to a Rubik's Cube: Earth-grown crystals are imperfect, while those formed in space achieve geometric precision. These pristine crystals can be analyzed with X-rays to understand protein structures, or used to create new drug formulations. A real-world success story involves the cancer drug Keytruda, which was crystallized aboard the International Space Station in 2017, leading to a reformulation that transformed a lengthy hospital IV infusion into a simple clinic injection.
+
+What makes this work quietly remarkable is its ambition to democratize access to space-based research. With $10 million in government funding already supporting a prototype flown to the ISS in 2024, and an additional $600,000 for testing multiple spaceplane flights—including two launches in a single day—the team aims to establish a commercial service for pharmaceutical and biotech companies. It's a story about making the extraordinary routine: turning the frontier of space into a practical tool for improving health care on Earth.</description>
+      <source url="https://www.rnz.co.nz/news/science-and-technology/595649/university-of-canterbury-s-space-lab-ready-for-lift-off">Radio New Zealand</source>
+    </item>
     <item>
       <title>VIDEO: Four right whales swim together in southern Santa Catarina in early arrival of the species to the state's coast</title>
       <link>https://g1.globo.com/sc/santa-catarina/noticia/2026/05/18/video-baleias-francas-nadam-juntas-laguna.ghtml</link>
@@ -594,18 +606,6 @@ The few minutes Luiz spent on the field at Couto Pereira stadium before the Sant
 
 More than a month after his last chemotherapy session, all of Luiz's tests are pointing toward cancer remission. His doctor, Rhayane Peres, expressed cautious optimism, saying they're waiting for confirmation that the disease is gone — "at the goal line ready to celebrate." This story offers a gentle reminder of how small moments of joy can carry enormous weight, especially for children navigating serious illness, and how a community coming together can create memories that transcend the playing field.</description>
       <source url="https://g1.globo.com/pr/parana/noticia/2026/05/14/menino-realiza-sonho-neymar-tratamento-leucemia-curitiba.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Giant new dinosaur identified from fossils in Thailand</title>
-      <link>https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Thu, 14 May 2026 18:01:36 GMT</pubDate>
-      <description>Scientists have identified a new species of giant dinosaur from fossils discovered beside a pond in northeastern Thailand a decade ago. The Nagatitan chaiyaphumensis, meaning "serpent titan from Chaiyaphum," is the largest dinosaur ever found in Southeast Asia, measuring 27 meters long and weighing 27 tonnes—roughly nine adult Asian elephants. This long-necked herbivore belongs to the sauropod family and lived between 100 and 120 million years ago, making it about twice the size of a tyrannosaurus rex and predating that famous predator by 40 million years.
-
-The discovery, led by Thai doctoral student Thitiwoot Sethapanichsakul at University College London, represents what researchers call "the last titan" of Thailand. The fossils were found in the country's youngest dinosaur-bearing rock formation; younger rocks from the end of the dinosaur era contain no remains because the region had become a shallow sea by then. For Sethapanichsakul, a self-described "dinosaur kid," the work fulfilled a childhood dream of naming a dinosaur. Thailand has proven remarkably rich in dinosaur fossils, with the nagatitan becoming the 14th species named there.
-
-What makes this discovery particularly intriguing is the climate context. The nagatitan thrived during a period of rising atmospheric carbon dioxide and high global temperatures—conditions that seem counterintuitive for such massive creatures, since large bodies retain heat and are difficult to cool. Researchers suggest these hot conditions may have actually boosted the plant life that sustained these enormous herbivores, offering a window into how ancient climate shaped the evolution of Earth's largest land animals.</description>
-      <source url="https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
     </item>
   </channel>
 </rss>
