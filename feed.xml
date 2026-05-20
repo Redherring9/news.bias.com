@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 18:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 20:04:15 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New Zealand entomologist leads mission against coconut rhinoceros beetle in New Caledonia</title>
+      <link>https://www.rnz.co.nz/news/pacific_new-caledonia/595857/new-zealand-entomologist-leads-mission-against-coconut-rhinoceros-beetle-in-new-caledonia</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/pacific_new-caledonia/595857/new-zealand-entomologist-leads-mission-against-coconut-rhinoceros-beetle-in-new-caledonia</guid>
+      <pubDate>Wed, 20 May 2026 20:04:13 GMT</pubDate>
+      <description>A New Zealand entomologist is helping New Caledonia combat an invasive beetle that threatens coconut palms across the Pacific. Trevor Jackson, a specialist from AgResearch, recently completed a mission to the French Pacific territory where the coconut rhinoceros beetle has been spreading in recent years. The beetle burrows into palm stems to feed on sap, causing significant damage. If left unchecked, experts estimate the pest could cost the Pacific region at least NZ$237 million annually by 2040 through damage to coconut trees alone.
+
+Jackson and local scientists captured around 80 specimens in less than a week—a surprisingly high number that will help researchers understand which strains are present. Early analysis suggests two different strains may be established: one on the main island and another on Lifou in the Loyalty Islands. The response relies on biological control rather than pesticides. Since the 1960s, New Zealand scientists have collected virus strains that specifically target the rhinoceros beetle. Jackson's approach involves feeding the virus to healthy beetles, which are then released to spread the pathogen through wild populations—a method that has proven successful on other Pacific islands.
+
+This story offers a window into the quiet, painstaking work of protecting island ecosystems from invasive species. It's a reminder that biodiversity threats often require international cooperation and decades of careful research. Local scientists are now assessing whether the biocontrol method might affect endemic species, ensuring the cure doesn't create new problems. With funding secured through 2026 and additional partnerships in development, the project represents a thoughtful, science-based response to a challenge that crosses borders and affects livelihoods across the Pacific.</description>
+      <source url="https://www.rnz.co.nz/news/pacific_new-caledonia/595857/new-zealand-entomologist-leads-mission-against-coconut-rhinoceros-beetle-in-new-caledonia">Radio New Zealand</source>
+    </item>
     <item>
       <title>'I answered to a name that wasn't mine'</title>
       <link>https://www.rnz.co.nz/life/people/identity/i-answered-to-a-name-that-wasn-t-mine</link>
@@ -594,18 +606,6 @@ These underground behemoths form when households and businesses dispose of fats 
 
 The real difficulty lies in detecting these formations before they reach monstrous proportions. Now, water companies are turning to artificial intelligence for help. Southern Water has installed approximately 34,000 sensors in its sewer system that use radar signals to monitor water levels, feeding data into machine learning algorithms that can predict normal conditions and flag anomalies. This story offers a fascinating glimpse into the hidden infrastructure beneath our feet and the surprising ways modern technology is being deployed to solve a problem created by our own disposal habits—a reminder that what we flush away doesn't simply disappear.</description>
       <source url="https://www.bbc.com/portuguese/articles/c202py9p3eqo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
-    </item>
-    <item>
-      <title>Between Faith and Resistance, 'São Benedito de Santos Pretos' Chapel Preserves Tradition Linked to Enslaved Woman Anastácia in Southern Minas Gerais</title>
-      <link>https://g1.globo.com/mg/sul-de-minas/noticia/2026/05/16/entre-fe-e-resistencia-capela-sao-benedito-de-santos-pretos-preserva-tradicao-ligada-a-escrava-anastacia-no-sul-de-mg.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/mg/sul-de-minas/noticia/2026/05/16/entre-fe-e-resistencia-capela-sao-benedito-de-santos-pretos-preserva-tradicao-ligada-a-escrava-anastacia-no-sul-de-mg.ghtml</guid>
-      <pubDate>Sat, 16 May 2026 14:01:44 GMT</pubDate>
-      <description>In the heart of Lavras, a city in southern Minas Gerais, Brazil, the Chapel of São Benedito de Santos Pretos stands as a living testament to faith, culture, and community resilience. Nestled within an urban quilombo—a historically Black community—the chapel has evolved far beyond a place of worship into a hub for cultural preservation and collective support. Created through the collaboration of capoeira masters, religious leaders, and local residents, the space honors Afro-Brazilian traditions while offering refuge to those facing hardship.
-
-Central to the chapel's identity is the veneration of Escrava Anastácia, an enslaved woman who, though not recognized as a saint by the Catholic Church, holds profound significance in popular devotion and Afro-Brazilian religions like Umbanda Nagô. For the community, Anastácia embodies resistance, protection, and hope—a spiritual anchor passed down through generations. The chapel gained special attention during May 13th commemorations, marking both the signing of Brazil's abolition law and honoring Anastácia's legacy. Visitors like Lucineia da Silva Balbino describe the chapel as a second home, a place where she found strength after losing her son and continues to draw courage for daily struggles.
-
-This story matters because it quietly illuminates how communities preserve their heritage against persistent prejudice, transforming sacred spaces into sources of healing and continuity. The chapel represents not just historical memory, but living tradition—where faith, identity, and mutual care intertwine to sustain a community's spirit across generations.</description>
-      <source url="https://g1.globo.com/mg/sul-de-minas/noticia/2026/05/16/entre-fe-e-resistencia-capela-sao-benedito-de-santos-pretos-preserva-tradicao-ligada-a-escrava-anastacia-no-sul-de-mg.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
