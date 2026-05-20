@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 22:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 00:03:51 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Researchers uncover longest whale journey ever documented</title>
+      <link>https://www.abc.net.au/news/2026-05-20/whales-travelling-between-continents-found-in-photo-research/106697918</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-05-20/whales-travelling-between-continents-found-in-photo-research/106697918</guid>
+      <pubDate>Wed, 20 May 2026 00:03:49 GMT</pubDate>
+      <description>Two humpback whales have shattered distance records by swimming between Australia and Brazil, journeys spanning more than 14,000 kilometres across the Pacific Ocean. The discoveries emerged from an innovative analysis of 20,000 photographs submitted to Happywhale, a citizen science platform that tracks individual whales using images of their tail flukes—each as distinctive as a human fingerprint.
+
+Researchers identified one whale photographed in Queensland's Hervey Bay in 2013 that later appeared off São Paulo, Brazil, in 2019. A second travelled even farther: first spotted at Brazil's Abrolhos Bank nursery in 2003, it was found 22 years later back in Hervey Bay, covering 15,100 kilometres—the longest documented distance between sightings of any individual whale. Until now, scientists understood that humpbacks remained within distinct breeding populations. This study provides the first photographic proof that whales cross between these groups, a phenomenon that likely enhances genetic diversity as populations recover from historical whaling and facilitates cultural transmission, including the spread of whale songs across the hemisphere.
+
+What makes this discovery particularly meaningful is how it was achieved. Decades of photographs—many taken by amateur whale watchers and uploaded to online databases—allowed researchers to piece together these extraordinary journeys non-invasively. While the exact routes and current whereabouts of these well-travelled whales remain unknown, that mystery itself feels appropriate. The study reminds us that even in our data-rich age, the ocean still holds secrets, and that ordinary people with cameras can help unlock them, one tail fluke at a time.</description>
+      <source url="https://www.abc.net.au/news/2026-05-20/whales-travelling-between-continents-found-in-photo-research/106697918">ABC Australia</source>
+    </item>
     <item>
       <title>Rural schools use bees, natural paints and endangered birds to teach conservation</title>
       <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/05/19/escolas-rurais-usam-abelhas-tintas-naturais-e-aves-ameacadas-para-ensinar-conservacao.ghtml</link>
@@ -594,18 +606,6 @@ What makes this discovery particularly intriguing is the contrast with previousl
 
 This quiet finding carries surprisingly broad implications. Understanding how life persists in such hostile conditions offers insights into climate change adaptation, biotechnology applications, and even astrobiology—the search for life beyond Earth. The researchers now plan to return to Deception Island to collect more samples and attempt to culture the organism in laboratory conditions, which would allow for even deeper study. It's a reminder that our planet still holds countless mysteries, and that patient scientific work can reveal life flourishing in places we might least expect it.</description>
       <source url="https://g1.globo.com/sp/sao-paulo/noticia/2026/05/15/brasileiras-descobrem-nova-especie-de-organismo-em-vulcao-na-antartida-que-pode-ajudar-em-pesquisas-sobre-vida-fora-da-terra.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Speech therapy clinic grows in Florianópolis with financial support from Sicoob</title>
-      <link>https://g1.globo.com/sc/santa-catarina/sc-que-da-certo/especial-publicitario/sicoob/noticia/2026/05/15/clinica-de-fonoaudiologia-cresce-em-floripa-com-o-apoio-financeiro-do-sicoob.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/sc/santa-catarina/sc-que-da-certo/especial-publicitario/sicoob/noticia/2026/05/15/clinica-de-fonoaudiologia-cresce-em-floripa-com-o-apoio-financeiro-do-sicoob.ghtml</guid>
-      <pubDate>Fri, 15 May 2026 16:01:18 GMT</pubDate>
-      <description>Two newly graduated speech therapists in Florianópolis, Brazil, took a leap into entrepreneurship in 2016, founding Clínica Vitafon Fonoaudiologia. What began as a single-room practice has grown into a multidisciplinary clinic occupying an entire floor in the city center, thanks in part to financial support from Sicoob, a cooperative financial institution. The story captures how access to well-structured credit can transform a small healthcare practice into a thriving community resource.
-
-Michelle Lima de Oliveira Pires, one of the clinic's partners, explains that the vision was always to provide integrated care, especially for children. As demand grew and the team expanded to include psychology, occupational therapy, and neuropsychopedagogy, the original space became a constraint. In 2024, facing a waiting list and limited rooms, the owners turned to Sicoob—their financial partner since the beginning—for an expansion loan with favorable terms. The cooperative's willingness to invest in their vision made the difference, Michelle notes, allowing them to increase capacity and improve service quality. The clinic is now run by three women speech therapists who share clinical and management responsibilities, reflecting a broader trend of female entrepreneurship in Brazil, where women represent about 34% of the country's entrepreneurs.
-
-This story is worth a reader's time because it illustrates how thoughtful financial partnerships can enable small businesses to grow sustainably while serving their communities better. It's a quietly encouraging example of cooperative economics in action, showing that behind statistics about women-led businesses and credit access are real people building something meaningful—one therapy session, one expanded clinic, one supported family at a time.</description>
-      <source url="https://g1.globo.com/sc/santa-catarina/sc-que-da-certo/especial-publicitario/sicoob/noticia/2026/05/15/clinica-de-fonoaudiologia-cresce-em-floripa-com-o-apoio-financeiro-do-sicoob.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
