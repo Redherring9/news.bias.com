@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 20:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 22:01:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Glow worms and slime moulds found in Scotland's declining rainforest</title>
+      <link>https://www.bbc.com/news/articles/ce8pe9k304jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/ce8pe9k304jo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Thu, 21 May 2026 22:01:38 GMT</pubDate>
+      <description>In a quiet corner of Scotland's West Cowal peninsula, volunteers armed with smartphones are documenting an ecosystem that turns out to be rarer than the Amazon. A citizen science survey has recorded 1,109 species — including glow worms, slime moulds, and rare lichens — in what remains of Scotland's temperate rainforest, the first comprehensive look at the area in fifty years.
+
+Scotland's rainforests, nurtured by high rainfall and mild temperatures, cover an estimated 30,000 hectares and support extraordinary biodiversity. Yet they face twin threats: overpopulated deer herds that devour young saplings before they mature, and Victorian-era rhododendron that has spread catastrophically, choking out native species across 40% of the region. The Argyll Countryside Trust's project uses mobile apps and AI to help volunteers identify and map species far more quickly than traditional methods, with over 3,400 records contributed by 171 participants. This modern approach is revealing fragments of rainforest previously unknown and establishing crucial baseline data for conservation efforts.
+
+The timing matters. Scotland ranks among the world's most nature-depleted countries, with species abundance down 15% since 1994. The newly passed Natural Environment Bill aims to reverse these losses through legally binding restoration targets. This story is worth attention not for alarm, but for what it reveals about resilience and rediscovery — how patient volunteers, aided by technology, are helping to see and protect an ecosystem that has been quietly disappearing, one glow worm and slime mould at a time.</description>
+      <source url="https://www.bbc.com/news/articles/ce8pe9k304jo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Jaguar Aroeira appears with 4-month-old cub and enchants tourists in the Pantanal</title>
       <link>https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/05/21/onca-aroeira-surge-com-filhote-de-4-meses-e-encanta-turistas-no-pantanal.ghtml</link>
@@ -594,18 +606,6 @@ The album was born from Father Fábio's personal struggle with depression, lendi
 
 This is a quiet story about how art can become a vessel for healing, and how collaboration can transform a personal project into something greater. For listeners, the album offers a chance to hear exceptional Brazilian vocalists breathing new life into songs that honor the musical traditions of Brazil's northeast — a regional heritage symbolized by the vaqueiro hat gracing the album cover, an homage to the legendary Luiz Gonzaga.</description>
       <source url="https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/05/17/vozes-de-monica-salmaso-roberta-sa-e-paula-fernandes-sobressaem-no-album-nordestino-de-padre-fabio-de-melo.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>First ever stone skimming champions crowned in Lake Hāwea</title>
-      <link>https://www.rnz.co.nz/news/regional/595495/first-ever-stone-skimming-champions-crowned-in-lake-hawea</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/regional/595495/first-ever-stone-skimming-champions-crowned-in-lake-hawea</guid>
-      <pubDate>Sun, 17 May 2026 18:02:23 GMT</pubDate>
-      <description>On a pristine Saturday at Lake Hāwea in New Zealand's South Island, more than 130 competitors gathered for the country's first-ever national stone skimming championship. The event drew everyone from serious contenders to playful participants with aliases like Hans Skimmer and Splash Bandicoot, all vying to send flat stones dancing across the water's surface. Abbey McDonald, an Australian living in Queenstown, emerged as the women's champion with a remarkable 72-metre throw—the day's longest—earning her a spot at the World Stone Skimming Championships in Scotland this September. She described entering the competition as destiny, joking that she'd finally found her calling after wondering whether to pursue university.
-
-The men's title went to Auckland radio host Jay Reeve, who managed a 51-metre winning throw despite admitting he hadn't skimmed stones in years and describing himself as "held together by duct tape." Competitors faced strict rules: stones couldn't exceed three inches in width, throws had to bounce at least twice, and both feet had to stay planted on the platform. Organiser Richie Laming noted that a high-pressure system delivered near-perfect calm conditions for the event, which was held as a fundraiser for Melanoma New Zealand to raise awareness of the country's high melanoma rates.
-
-This story offers a delightful glimpse into how a simple childhood pastime can transform into a spirited community gathering. It celebrates the joy of play, the camaraderie of friendly competition, and the unexpected places people find purpose—all while supporting an important health cause in one of the world's most beautiful settings.</description>
-      <source url="https://www.rnz.co.nz/news/regional/595495/first-ever-stone-skimming-champions-crowned-in-lake-hawea">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
