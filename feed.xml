@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 10:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 12:04:28 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI listens for endangered orcas to help reduce underwater noise exposure</title>
+      <link>https://news.mongabay.com/short-article/2026/05/ai-listens-for-endangered-orcas-to-help-reduce-underwater-noise-exposure/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/05/ai-listens-for-endangered-orcas-to-help-reduce-underwater-noise-exposure/</guid>
+      <pubDate>Fri, 22 May 2026 12:04:26 GMT</pubDate>
+      <description>In the waters off Washington State and western Canada, an AI system is working around the clock to protect one of the world's most endangered marine mammals. Southern resident orcas—a distinct subspecies numbering just 76 individuals across three pods—face a constant threat from underwater noise pollution that disrupts their ability to hunt and communicate. These whales rely on echolocation and vocalizations to navigate and find food, but vessel traffic can raise sound levels by 12 to 17 decibels, enough to reduce their hunting success by more than 12 percent per additional decibel.
+
+The solution came from an unexpected place: a 2019 hackathon. Developers created OrcaHello, a machine-learning tool that listens to underwater audio streams in real time and recognizes the specific calls of southern resident orcas. When the system detects the whales approaching busy waterways or ports, it sends alerts to the Port of Seattle, Washington State Ferries, and the Quiet Sound program. These organizations then coordinate immediate responses—slowing vessels or pausing noisy construction like pile-driving until the orcas move on. In 2026 alone, the system has already detected orca calls on 19 separate days.
+
+This story offers a quietly hopeful example of technology serving conservation in a practical, immediate way. It shows how a creative solution developed by a small team can translate into real-world protection for creatures whose survival hangs in the balance—proof that sometimes the most meaningful innovations are those that simply listen.</description>
+      <source url="https://news.mongabay.com/short-article/2026/05/ai-listens-for-endangered-orcas-to-help-reduce-underwater-noise-exposure/">Mongabay</source>
+    </item>
     <item>
       <title>Scientists discover molecular process of normal brain aging</title>
       <link>https://www.japantimes.co.jp/news/2026/05/22/japan/science-health/brain-aging-research/</link>
@@ -594,18 +606,6 @@ The city of Fukuoka has emerged as a leader in this approach, actively working t
 
 This story matters because it highlights a compassionate alternative to crisis intervention. Rather than waiting for families to reach a breaking point, short-stay programs recognize that everyone needs help sometimes — and that temporary support can prevent longer-term struggles. Fukuoka's model suggests a gentler safety net is possible, one that honors both the challenges of parenting and children's need for continuity and care.</description>
       <source url="https://www.japantimes.co.jp/news/2026/05/18/japan/society/fukuoka-short-term-foster-care-program/">The Japan Times</source>
-    </item>
-    <item>
-      <title>Starwatch: A young crescent moon journeys past Venus and Jupiter</title>
-      <link>https://www.theguardian.com/science/2026/may/18/starwatch-a-young-crescent-moon-journeys-past-venus-and-jupiter</link>
-      <guid isPermaLink="false">https://www.theguardian.com/science/2026/may/18/starwatch-a-young-crescent-moon-journeys-past-venus-and-jupiter</guid>
-      <pubDate>Mon, 18 May 2026 06:03:33 GMT</pubDate>
-      <description>Skygazers have a gentle celestial treat in store this week as the young crescent moon traces a graceful path past two of the solar system's brightest planets. Beginning around May 18, observers can watch the moon glide first by Venus, then Jupiter, offering a rare chance to witness the moon's orbital journey in real time. The moon, barely 2.4 days old and showing only a sliver of illumination, will appear near brilliant Venus in the western twilight, with dimmer Jupiter positioned a bit higher, all set against the backdrop of Gemini's twin stars, Castor and Pollux.
-
-What makes this alignment particularly compelling is how it transforms an abstract concept—the moon's orbit—into something tangible and trackable. Night after night, observers can watch the moon shift eastward and grow gradually brighter as its angle to the sun changes. The show requires only patience and a clear view toward the western horizon after sunset. Those in the southern hemisphere will have a slight advantage, as the ecliptic tilts more steeply upward at this time of year, lifting the celestial gathering higher and clearer in the evening sky.
-
-This story offers a quiet invitation to slow down and notice the clockwork of the cosmos unfolding overhead. No telescope needed, no special expertise required—just a willingness to look up over several evenings and witness the ancient dance that connects Earth to its nearest neighbor and the planets beyond. It's astronomy at its most accessible, a reminder that some of nature's most elegant performances happen right above us, every night.</description>
-      <source url="https://www.theguardian.com/science/2026/may/18/starwatch-a-young-crescent-moon-journeys-past-venus-and-jupiter">The Guardian</source>
     </item>
   </channel>
 </rss>
