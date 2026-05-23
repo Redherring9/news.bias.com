@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 06:04:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 08:02:13 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>First osprey chick of the year hatches</title>
+      <link>https://www.bbc.com/news/articles/c1728pjg0dno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/c1728pjg0dno?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sat, 23 May 2026 08:02:12 GMT</pubDate>
+      <description>A pair of ospreys nesting in a walled garden near Poole Harbour, Dorset, have welcomed their first chick of 2026, marking another milestone in a careful conservation effort to restore these majestic raptors to England's south coast. Female CJ7 and male 022, the only breeding ospreys in southern England, have laid four eggs for the third consecutive year—a relatively rare occurrence that signals the health of this recovering population.
+
+The couple's partnership has been remarkably productive since they first nested at Careys Secret Garden in 2022. Together, they've raised eleven chicks over three years, making them the first ospreys to breed on the south coast in nearly two centuries. Their success is the fruit of a long-term reintroduction program launched in 2017 by Birds of Poole Harbour and the Roy Dennis Wildlife Foundation, which relocated osprey chicks from Scotland to the area each year until 2021. The young birds typically depart for West Africa in late summer, spending several years there before returning to breed in Dorset.
+
+This story offers a quiet testament to patience and ecological restoration. The careful translocation of young birds, the monitoring of nesting pairs, and the gradual return of a species absent for 180 years reflect both human dedication and nature's resilience. For readers interested in conservation done thoughtfully and over the long haul, the arrival of this tiny chick represents not just new life, but proof that thoughtful intervention can help ecosystems heal and species reclaim their historical range.</description>
+      <source url="https://www.bbc.com/news/articles/c1728pjg0dno?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Why are people buying pet ants?</title>
       <link>https://news.mongabay.com/video/2026/05/why-are-people-buying-pet-ants/</link>
@@ -594,18 +606,6 @@ Edi and his wife fled Java's overcrowded cities in 2016 through a transmigration
 
 This story matters because it asks an uncomfortable question about conservation in the real world: how do we protect endangered species when doing so conflicts with the livelihoods of vulnerable people? The orangutans' forest is vanishing, but so are the economic options for families who've been encouraged to settle here. It's a quietly remarkable glimpse into the moral complexity of environmental protection, where there are no easy villains—only difficult choices and shrinking space for all involved.</description>
       <source url="https://www.theguardian.com/news/2026/may/19/should-we-leave-them-to-die-the-battle-over-how-to-save-orangutans-from-the-curse-of-palm-oil">The Guardian</source>
-    </item>
-    <item>
-      <title>University of Canterbury's space lab ready for lift-off</title>
-      <link>https://www.rnz.co.nz/news/science-and-technology/595649/university-of-canterbury-s-space-lab-ready-for-lift-off</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/science-and-technology/595649/university-of-canterbury-s-space-lab-ready-for-lift-off</guid>
-      <pubDate>Tue, 19 May 2026 02:02:36 GMT</pubDate>
-      <description>Scientists at the University of Canterbury have built a compact, shoebox-sized laboratory designed to conduct biotechnology experiments in microgravity—the environment between Earth's gravity and the weightlessness of space. The automated lab will soon be tested aboard Dawn Aerospace's reusable unmanned spaceplane, marking a novel approach to developing better medicines through space-based research.
-
-The project, led by Associate Professor Sarah Kessans, focuses on growing higher-quality protein crystals that reveal atomic-level structures crucial for drug design. On Earth, gravity creates convection currents and uneven settling that disrupt crystal formation, but microgravity allows proteins to organize into near-perfect lattices. Kessans compares the difference to a Rubik's Cube: Earth-grown crystals are imperfect, while those formed in space achieve geometric precision. These pristine crystals can be analyzed with X-rays to understand protein structures, or used to create new drug formulations. A real-world success story involves the cancer drug Keytruda, which was crystallized aboard the International Space Station in 2017, leading to a reformulation that transformed a lengthy hospital IV infusion into a simple clinic injection.
-
-What makes this work quietly remarkable is its ambition to democratize access to space-based research. With $10 million in government funding already supporting a prototype flown to the ISS in 2024, and an additional $600,000 for testing multiple spaceplane flights—including two launches in a single day—the team aims to establish a commercial service for pharmaceutical and biotech companies. It's a story about making the extraordinary routine: turning the frontier of space into a practical tool for improving health care on Earth.</description>
-      <source url="https://www.rnz.co.nz/news/science-and-technology/595649/university-of-canterbury-s-space-lab-ready-for-lift-off">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
