@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 14:03:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 16:03:15 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘Pompeii, but in the middle of a massive city’: the ice age fossil site hidden in Los Angeles</title>
+      <link>https://www.theguardian.com/us-news/2026/may/24/la-brea-tar-pits-museum</link>
+      <guid isPermaLink="false">https://www.theguardian.com/us-news/2026/may/24/la-brea-tar-pits-museum</guid>
+      <pubDate>Sun, 24 May 2026 16:03:14 GMT</pubDate>
+      <description>In the heart of Los Angeles, beneath the urban bustle, lies one of the world's most extraordinary fossil sites. The La Brea Tar Pits and Museum houses more than 2 million ice age remains—mastodons, saber-toothed cats, and ancient flora—all preserved in naturally occurring tar pools that still bubble to the surface today. What makes this site exceptional is not just its scientific treasure trove, but its visibility: visitors can watch the entire archaeological process unfold, from excavation to fossil restoration, all in real time. As one curator describes it, the site is like "Pompeii, but in the middle of a massive city."
+
+The tar pits owe their existence to a geological quirk. Oil seeping up from an underground fault biodegrades into asphalt at the surface, creating sticky traps that ensnared countless creatures over millennia. Indigenous Chumash people once harvested this tar to waterproof boats. During Los Angeles's early 20th-century oil boom, workers drilling in the area stumbled upon masses of tar-stained bones—remarkably well-preserved specimens dating back at least 13,000 years. The tar not only prevented decay but also preserved collagen, allowing for precise modern carbon dating.
+
+After nearly 50 years of operation, the museum is embarking on a major transformation: a two-year, $240 million renovation beginning in July. The redesign will modernize exhibition and research spaces while adding dramatic walkways and bridges throughout the park. For the curators, this renovation represents more than aesthetic improvement—it's a rare opportunity to enhance public scientific literacy by showcasing how research actually happens, making the process of discovery accessible and understandable to everyone who visits this uniquely urban archaeological wonder.</description>
+      <source url="https://www.theguardian.com/us-news/2026/may/24/la-brea-tar-pits-museum">The Guardian</source>
+    </item>
     <item>
       <title>New charter gives River Wye the right to be free from pollution</title>
       <link>https://www.bbc.com/news/articles/czx21820rn4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ Researchers have discovered that the direction of this mental number line depend
 
 To untangle biology from culture, researchers turned to orangutans and gorillas, who lack reading and counting traditions. These great apes showed individual preferences—some mapping magnitudes left-to-right, others right-to-left—but no consistent group pattern. This quiet finding carries surprising weight: it suggests that while the capacity to organize quantities spatially may be ancient and shared across species, the specific direction we choose is learned, not innate. The story reminds us how deeply cultural practices like reading shape even our most basic perceptions, and how studying our fellow primates can illuminate what makes human cognition distinctively malleable.</description>
       <source url="https://theconversation.com/how-you-map-numbers-in-your-mind-isnt-universal-even-among-people-who-read-the-same-language-261258">The Conversation</source>
-    </item>
-    <item>
-      <title>Documentary 'Pororocas' Premieres in Macapá and Highlights Women in Science and Art</title>
-      <link>https://g1.globo.com/ap/amapa/noticia/2026/05/20/documentario-pororocas-estreia-em-macapa-e-destaca-mulheres-na-ciencia-e-arte.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/ap/amapa/noticia/2026/05/20/documentario-pororocas-estreia-em-macapa-e-destaca-mulheres-na-ciencia-e-arte.ghtml</guid>
-      <pubDate>Wed, 20 May 2026 10:04:21 GMT</pubDate>
-      <description>A new documentary premiering in Macapá, Brazil, brings together the voices of Amazonian women who are making their mark in science and art. "Pororocas – Vivências de Mulheres na Ciência e na Arte Amazônica" (Pororocas – Experiences of Women in Amazonian Science and Art) offers a 30-minute window into the lives of artists, scientists, educators, and cultural professionals navigating fields traditionally dominated by men.
-
-The film was conceived by Estelly Soares, a DJ, cultural producer, and chemical engineering student, who wanted to create something that young Amazonian girls could see themselves in. Her hope is simple but powerful: that viewers will understand they too can occupy laboratories, stages, universities, and any space they choose. The documentary features testimonies from a diverse group of women, including musicians, researchers, and educators, revealing stories of resistance, creativity, and knowledge production that often go unnoticed despite their brilliance.
-
-What makes this project quietly remarkable is its intentionality. Funded through the Paulo Gustavo Law and produced by Baluarte Cultural, "Pororocas" doesn't just document achievement—it creates visibility where it has been lacking. The film's visual identity, designed by Ya Juarez using forms and colors to represent the symbolic meeting of different female trajectories, reinforces this mission. For anyone interested in how regional stories can challenge historical inequalities and inspire new generations, this documentary offers a meaningful glimpse into the lives of women reshaping the cultural and scientific landscape of the Amazon.</description>
-      <source url="https://g1.globo.com/ap/amapa/noticia/2026/05/20/documentario-pororocas-estreia-em-macapa-e-destaca-mulheres-na-ciencia-e-arte.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
