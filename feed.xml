@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 16:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 18:03:43 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>One of the world's most mysterious and remote nations opens up to tourism</title>
+      <link>https://www.bbc.com/portuguese/articles/cj9p1pdx8wlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/cj9p1pdx8wlo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sun, 24 May 2026 18:03:42 GMT</pubDate>
+      <description>Bhutan, one of the world's most isolated and mysterious nations, is preparing to welcome tourists in a dramatically new way. This February, the king of Bhutan joined 12,000 volunteers in the jungle near the Indian border to help clear land for the Gelephu International Airport, a striking wooden terminal designed to naturally regulate humidity and include spaces for gong baths, yoga, and meditation. Set to open in 2029 and already awarded Project of the Future at the 2025 World Architecture Festival, the airport will handle up to 123 flights daily—a significant leap for a country that has historically limited access to preserve its culture and environment.
+
+For centuries, Bhutan remained closed to outsiders, only opening to tourism in 1974 under a "High Value, Low Volume" policy. Until the pandemic, foreign visitors faced daily fees of $200–$250 and mandatory licensed tour operators. Since 2022, the country shifted to a $100-per-night Sustainable Development Fee, though travel remains tightly controlled. Currently, only Paro Airport in the west serves international flights—just eight per day from two airlines—making multi-day journeys with expensive connections the norm. Paro itself is one of the world's most challenging airports, nestled at 2,243 meters in a narrow valley where fewer than 50 pilots globally are certified to land.
+
+The new airport promises to unlock Bhutan's wilder, biodiverse south, a region rarely explored by the luxury travelers who typically visit the country's well-trodden northern valleys. It's a story worth following because it captures a delicate balance: how a nation can open its doors wider while striving to protect what makes it extraordinary in the first place.</description>
+      <source url="https://www.bbc.com/portuguese/articles/cj9p1pdx8wlo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>‘Pompeii, but in the middle of a massive city’: the ice age fossil site hidden in Los Angeles</title>
       <link>https://www.theguardian.com/us-news/2026/may/24/la-brea-tar-pits-museum</link>
@@ -594,18 +606,6 @@ This event marks a significant moment for French space exploration. Adenot is on
 
 What makes this story quietly remarkable is the human dimension it brings to space exploration. Beyond the technical accomplishments and scientific research, Adenot's willingness to share her impressions offers an intimate window into an experience few will ever have. Her perspective on adapting to microgravity, conducting experiments in orbit, and representing her country in space helps demystify astronaut life while reminding us of the ongoing human presence beyond our atmosphere. It's a moment that connects the extraordinary realm of space travel with the curiosity of audiences back home, bridging the distance between Earth and orbit through conversation.</description>
       <source url="https://www.france24.com/fr/%C3%A9co-tech/20260520-direct-conf%C3%A9rence-sophie-adenot-depuis-iss-epsilon-espace">France 24</source>
-    </item>
-    <item>
-      <title>How you map numbers in your mind isn’t universal, even among people who read the same language</title>
-      <link>https://theconversation.com/how-you-map-numbers-in-your-mind-isnt-universal-even-among-people-who-read-the-same-language-261258</link>
-      <guid isPermaLink="false">https://theconversation.com/how-you-map-numbers-in-your-mind-isnt-universal-even-among-people-who-read-the-same-language-261258</guid>
-      <pubDate>Wed, 20 May 2026 12:03:20 GMT</pubDate>
-      <description>Most English speakers instinctively place small numbers on the left and large numbers on the right—a mental habit so automatic that a backwards ruler feels deeply wrong. This phenomenon, known as the SNARC effect, has fascinated psychologists for decades. It turns out this spatial mapping of numbers isn't hardwired into human brains at all, but shaped profoundly by culture and experience.
-
-Researchers have discovered that the direction of this mental number line depends largely on reading direction. Arabic speakers, who read right-to-left, often show the reverse pattern, responding faster to small numbers on the right. Even more tellingly, Farsi speakers who move from Iran to France gradually shift their mental number lines over time. People who never learned to read or count often show no consistent pattern at all—suggesting that literacy itself may teach us to organize numbers in space. The effect extends beyond numbers to other magnitudes like size and brightness, hinting at a broader cognitive preference for ordering information spatially.
-
-To untangle biology from culture, researchers turned to orangutans and gorillas, who lack reading and counting traditions. These great apes showed individual preferences—some mapping magnitudes left-to-right, others right-to-left—but no consistent group pattern. This quiet finding carries surprising weight: it suggests that while the capacity to organize quantities spatially may be ancient and shared across species, the specific direction we choose is learned, not innate. The story reminds us how deeply cultural practices like reading shape even our most basic perceptions, and how studying our fellow primates can illuminate what makes human cognition distinctively malleable.</description>
-      <source url="https://theconversation.com/how-you-map-numbers-in-your-mind-isnt-universal-even-among-people-who-read-the-same-language-261258">The Conversation</source>
     </item>
   </channel>
 </rss>
