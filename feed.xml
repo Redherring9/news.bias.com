@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 00:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 02:01:42 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>As bee population collapses, U.S. apiarists fear research cuts</title>
+      <link>https://www.japantimes.co.jp/environment/2026/05/25/wildlife/bee-population-us-research-cuts/</link>
+      <guid isPermaLink="false">https://www.japantimes.co.jp/environment/2026/05/25/wildlife/bee-population-us-research-cuts/</guid>
+      <pubDate>Mon, 25 May 2026 02:01:40 GMT</pubDate>
+      <description>In the shadow of the Appalachian Mountains, a community of beekeepers is grappling with a crisis that extends far beyond their local hives. American beekeepers lost more than half their colonies in the year leading up to April 2025—the highest annual loss on record—driven largely by parasitic varroa mites and the viruses they carry. Roy Funkhouser, a commercial beekeeper who once managed 1,200 hives, now tends fewer than 200. The tiny varroa mite feeds on bees and spreads devastating diseases, threatening not only honey production but the pollination services that underpin American agriculture, from almond orchards in California to crops across the country.
+
+As beekeepers struggle to save their colonies, they've relied on support from the USDA's Beltsville Agricultural Research Center, home to the nation's oldest bee lab and more than a century of expertise. Researcher Zac Lamas and his team have worked closely with beekeepers, sampling hives, culturing pathogens, and developing strategies to combat mites and disease. But now the lab faces closure as the USDA seeks to cut costs following a congressional reduction of over $32 million in agricultural research funding. Lamas argues the decision is shortsighted: his lab costs $3.2 million annually but addresses a $600 million problem. With researchers like Lamas already seeking positions elsewhere, the beekeeping community worries about losing decades of specialized knowledge just when they need it most.
+
+This story quietly underscores how easily institutional wisdom can slip away during budget cuts, and how the fate of something as small as a bee can ripple through entire food systems and rural economies.</description>
+      <source url="https://www.japantimes.co.jp/environment/2026/05/25/wildlife/bee-population-us-research-cuts/">The Japan Times</source>
+    </item>
     <item>
       <title>Untouchable Girls: The Topp Twins in their own words</title>
       <link>https://www.rnz.co.nz/life/people/celebrity/untouchable-girls-the-topp-twins-in-their-own-words</link>
@@ -594,18 +606,6 @@ The author, drawing on firsthand encounters with rock art in remote regions, not
 
 The analysis poses a quiet but provocative question: if so many societies across history saw the natural world as worthy of reverence and symbolic centrality, what does it say about our era that we are overseeing its rapid destruction? These ancient artists understood intuitively what modern science now confirms—that human survival, identity, and meaning are inseparable from the ecosystems that sustain us. Their work invites us to remember a relationship with nature that was neither distant nor transactional, but immediate, relational, and profound.</description>
       <source url="https://news.mongabay.com/2026/05/humanitys-ancient-bond-with-biodiversity-is-visible-in-rock-art-analysis/">Mongabay</source>
-    </item>
-    <item>
-      <title>New Zealand entomologist leads mission against coconut rhinoceros beetle in New Caledonia</title>
-      <link>https://www.rnz.co.nz/news/pacific_new-caledonia/595857/new-zealand-entomologist-leads-mission-against-coconut-rhinoceros-beetle-in-new-caledonia</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/pacific_new-caledonia/595857/new-zealand-entomologist-leads-mission-against-coconut-rhinoceros-beetle-in-new-caledonia</guid>
-      <pubDate>Wed, 20 May 2026 20:04:13 GMT</pubDate>
-      <description>A New Zealand entomologist is helping New Caledonia combat an invasive beetle that threatens coconut palms across the Pacific. Trevor Jackson, a specialist from AgResearch, recently completed a mission to the French Pacific territory where the coconut rhinoceros beetle has been spreading in recent years. The beetle burrows into palm stems to feed on sap, causing significant damage. If left unchecked, experts estimate the pest could cost the Pacific region at least NZ$237 million annually by 2040 through damage to coconut trees alone.
-
-Jackson and local scientists captured around 80 specimens in less than a week—a surprisingly high number that will help researchers understand which strains are present. Early analysis suggests two different strains may be established: one on the main island and another on Lifou in the Loyalty Islands. The response relies on biological control rather than pesticides. Since the 1960s, New Zealand scientists have collected virus strains that specifically target the rhinoceros beetle. Jackson's approach involves feeding the virus to healthy beetles, which are then released to spread the pathogen through wild populations—a method that has proven successful on other Pacific islands.
-
-This story offers a window into the quiet, painstaking work of protecting island ecosystems from invasive species. It's a reminder that biodiversity threats often require international cooperation and decades of careful research. Local scientists are now assessing whether the biocontrol method might affect endemic species, ensuring the cure doesn't create new problems. With funding secured through 2026 and additional partnerships in development, the project represents a thoughtful, science-based response to a challenge that crosses borders and affects livelihoods across the Pacific.</description>
-      <source url="https://www.rnz.co.nz/news/pacific_new-caledonia/595857/new-zealand-entomologist-leads-mission-against-coconut-rhinoceros-beetle-in-new-caledonia">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
