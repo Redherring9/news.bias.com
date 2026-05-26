@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 12:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:02:52 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>In rare case, sheep gives birth to quadruplets in RS: 'First time I've seen this,' says agronomist</title>
+      <link>https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/26/em-caso-considerado-raro-ovelha-da-a-luz-quadrigemeos-no-rs-1a-vez-que-vejo-diz-agronomo.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/26/em-caso-considerado-raro-ovelha-da-a-luz-quadrigemeos-no-rs-1a-vez-que-vejo-diz-agronomo.ghtml</guid>
+      <pubDate>Tue, 26 May 2026 14:02:50 GMT</pubDate>
+      <description>A Dorper sheep at a university in southern Brazil has given birth to quadruplets, an event so uncommon that even the 60-year-old agronomy coordinator had never witnessed it before. While twin births are routine among well-managed sheep flocks, four lambs from a single pregnancy represent something genuinely extraordinary in the ovine world.
+
+The birth occurred at the Regional Integrated University of Alto Uruguai and Missões in Santiago on May 1st, following a deliberate breeding technique called the "male effect" — temporarily separating rams from the flock before reintroducing them to stimulate ovulation. The university's Inova Ovinos project attributes the successful pregnancy to a combination of genetic predisposition, excellent nutrition, and exceptional animal welfare. Yet the story takes an even more charming turn: because sheep only have two teats, the four newborns require supplemental cow's milk feeding. Despite this physiological limitation, the mother has embraced her abundant family with remarkable devotion, even extending her care to two additional lambs from another ewe who've joined the group.
+
+This quiet agricultural milestone matters beyond its novelty. For researchers and farmers alike, it demonstrates how attentive husbandry — the thoughtful intersection of genetics, nutrition, and animal well-being — can yield surprising results. It's a gentle reminder that even in the well-documented rhythms of farm life, nature still holds the capacity to astonish, and that exceptional care creates the conditions for the exceptional to occur.</description>
+      <source url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/26/em-caso-considerado-raro-ovelha-da-a-luz-quadrigemeos-no-rs-1a-vez-que-vejo-diz-agronomo.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Literary Occupation Brings Free Programming with Authors to Natal</title>
       <link>https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/05/26/ocupacao-literaria-traz-programacao-gratuita-com-autores-em-natal.ghtml</link>
@@ -594,18 +606,6 @@ The solution came from an unexpected place: a 2019 hackathon. Developers created
 
 This story offers a quietly hopeful example of technology serving conservation in a practical, immediate way. It shows how a creative solution developed by a small team can translate into real-world protection for creatures whose survival hangs in the balance—proof that sometimes the most meaningful innovations are those that simply listen.</description>
       <source url="https://news.mongabay.com/short-article/2026/05/ai-listens-for-endangered-orcas-to-help-reduce-underwater-noise-exposure/">Mongabay</source>
-    </item>
-    <item>
-      <title>Scientists discover molecular process of normal brain aging</title>
-      <link>https://www.japantimes.co.jp/news/2026/05/22/japan/science-health/brain-aging-research/</link>
-      <guid isPermaLink="false">https://www.japantimes.co.jp/news/2026/05/22/japan/science-health/brain-aging-research/</guid>
-      <pubDate>Fri, 22 May 2026 10:02:07 GMT</pubDate>
-      <description>Japanese researchers have uncovered a molecular mechanism that may help explain how our brains age naturally. A team at Shimane University's School of Medicine, led by associate professor Ken-ichiro Kuwako, has identified a specific group of proteins in nerve cells that decline over time, potentially opening pathways toward future therapies that support brain health as we grow older.
-
-The study, published in the journal EMBO Reports, focused on what's called the LINC complex—a set of proteins that plays a crucial role in controlling neuron activity. Working with mice, the researchers tracked the production of key molecules within this complex, particularly proteins named Sun1 and Nesprin-1. They found that three-month-old mice produced these molecules at high levels, but by twelve months, production had declined significantly. By twenty months, the decline was even more pronounced, and this pattern appeared across many different regions of the brain.
-
-What makes this research quietly significant is its focus on normal aging rather than disease. Understanding the natural processes that change our brains over time could eventually help scientists develop interventions that support cognitive health throughout life. The discovery offers a window into the cellular mechanisms that tick away steadily in the background as we age, revealing that even something as fundamental as protein production in our neurons follows a predictable trajectory. For anyone curious about why our brains change as we get older, this study provides a tangible piece of the puzzle—one that might, in time, inform how we care for our minds in later years.</description>
-      <source url="https://www.japantimes.co.jp/news/2026/05/22/japan/science-health/brain-aging-research/">The Japan Times</source>
     </item>
   </channel>
 </rss>
