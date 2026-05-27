@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 20:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 22:02:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'An additional set of eyes' - How AI could help fight breast cancer</title>
+      <link>https://www.rnz.co.nz/news/health/596574/an-additional-set-of-eyes-how-ai-could-help-fight-breast-cancer</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/health/596574/an-additional-set-of-eyes-how-ai-could-help-fight-breast-cancer</guid>
+      <pubDate>Wed, 27 May 2026 22:02:38 GMT</pubDate>
+      <description>New Zealand is preparing to integrate artificial intelligence into its breast cancer screening program as early as next year, a move that health advocates say could save lives through earlier detection. Rather than replacing human expertise, the AI will function as one of two independent readers currently required to assess mammograms, working alongside radiologists to identify areas that need closer examination.
+
+The Breast Cancer Foundation's chief executive emphasizes that this isn't about computers making autonomous medical decisions. Instead, the technology acts as "an additional set of eyes" in a labor-intensive process that traditionally requires two radiologists to independently review each mammogram. International evidence suggests that the combination of AI and human radiologists detects more cancers than two human readers alone, while also addressing workforce shortages affecting health systems worldwide. New Zealand faces its own radiologist shortage amid growing demand for screening services, making the technology particularly timely. However, the AI systems will need to be trained specifically on New Zealand's population data before their effectiveness can be fully measured.
+
+This story offers a grounded look at how artificial intelligence is being woven into healthcare—not as a replacement for human judgment, but as a support tool that could improve both access and outcomes. It's a reminder that technological progress in medicine often comes not from dramatic breakthroughs, but from thoughtful enhancements to existing processes that might quietly help catch cancers earlier, when they're most treatable.</description>
+      <source url="https://www.rnz.co.nz/news/health/596574/an-additional-set-of-eyes-how-ai-could-help-fight-breast-cancer">Radio New Zealand</source>
+    </item>
     <item>
       <title>Can farmers become less reliant on synthetic fertiliser? Some are trying</title>
       <link>https://www.abc.net.au/news/2026-05-28/synthetic-fertiliser-reliance-on-australian-farms/106723890</link>
@@ -594,18 +606,6 @@ The story began in 2016 when villager Thanom Luangnan spotted unusual bones prot
 
 This story resonates beyond its scientific significance. It's a reminder that passion pursued with patience can lead somewhere extraordinary, and that the eyes of everyday people—farmers, fishers, walkers—are often the first to glimpse wonders hidden beneath our feet. The researchers hope their work will inspire the next generation of Thai paleontologists to explore their homeland's deep prehistoric past.</description>
       <source url="https://www.abc.net.au/news/science/2026-05-24/dinosaur-thailand-nagatitan-sauropod-childhood-dream/106162894">ABC Australia</source>
-    </item>
-    <item>
-      <title>West Asia conflict brings Norwegian marine research vessel back to Sri Lanka</title>
-      <link>https://news.mongabay.com/2026/05/west-asia-conflict-brings-norwegian-marine-research-vessel-back-to-sri-lanka/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/05/west-asia-conflict-brings-norwegian-marine-research-vessel-back-to-sri-lanka/</guid>
-      <pubDate>Sat, 23 May 2026 18:03:09 GMT</pubDate>
-      <description>When conflict in West Asia forced the cancellation of a planned marine survey in Oman, Norway's state-of-the-art research vessel Fridtjof Nansen was unexpectedly redirected to Sri Lankan waters. The detour proved to be a scientific windfall for a country that had lost its chance at the survey the previous year due to approval delays. The United Nations-flagged vessel spent a month exploring Sri Lanka's marine ecosystems, offering researchers a rare second opportunity to study the island's changing seas.
-
-The expedition represents the fifth Nansen mission to Sri Lankan waters since the program began in 1975, with previous surveys conducted in 1978, 1980, and 2018. Scientists from Sri Lanka's National Aquatic Resources Research and Development Agency led the work, using standardized methods that allow direct comparison with decades of earlier data. The team documented approximately 800 species during the voyage, including around 125 that may be new records for Sri Lankan waters and a few that could potentially be new to science pending further analysis. Beyond collecting specimens, the mission employed advanced acoustic and oceanographic techniques to assess fish stocks, biodiversity, pollution levels, and ocean conditions across Sri Lanka's Exclusive Economic Zone.
-
-This story quietly illustrates how scientific collaboration can find unexpected pathways even amid global disruption. The mission not only advanced understanding of Sri Lanka's marine ecosystems but also provided invaluable hands-on training for local researchers aboard one of the world's most advanced oceanographic platforms—a silver lining born from circumstances no one would have chosen, yet yielding knowledge that may help protect these waters for generations to come.</description>
-      <source url="https://news.mongabay.com/2026/05/west-asia-conflict-brings-norwegian-marine-research-vessel-back-to-sri-lanka/">Mongabay</source>
     </item>
   </channel>
 </rss>
