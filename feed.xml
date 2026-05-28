@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 14:03:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 16:02:24 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mosquitoes can become attracted to insect repellant, study suggests</title>
+      <link>https://www.theguardian.com/environment/2026/may/28/deet-mosquito-spray-attract-insects-study-malaria-zika</link>
+      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/may/28/deet-mosquito-spray-attract-insects-study-malaria-zika</guid>
+      <pubDate>Thu, 28 May 2026 16:02:22 GMT</pubDate>
+      <description>A surprising discovery about one of the world's most trusted defenses against mosquito bites suggests these insects may be more adaptable than previously thought. Researchers in France found that mosquitoes can learn to associate Deet—the active ingredient in many repellents—with feeding opportunities, much like Pavlov's famous dogs learned to connect a bell with food. In laboratory conditions, about 60% of mosquitoes that successfully fed on blood while exposed to Deet later attempted to bite when presented with the chemical alone, compared to just 17% of untrained insects.
+
+The findings challenge the long-held belief that repellents work purely through their chemical properties by being unpleasant or toxic to mosquitoes. Instead, the study reveals that mosquitoes possess impressive learning abilities that can modify their response to deterrents based on experience. This associative learning occurred specifically when mosquitoes fed while simultaneously exposed to Deet, but not when these experiences happened separately. While experts found the results remarkable, they emphasized that travelers shouldn't abandon their insect repellent. Under normal conditions, mosquitoes encounter different repellents across multiple feeding events, and it remains unclear how long such learned associations would last given that mosquitoes feed only every few days.
+
+This research matters because it deepens our understanding of how insects interact with the tools we use to protect ourselves from disease-carrying bites. The practical takeaway remains reassuring: Deet continues to work effectively when applied as directed. The study simply reveals another layer of complexity in the ongoing evolutionary dance between humans and the creatures that share our world.</description>
+      <source url="https://www.theguardian.com/environment/2026/may/28/deet-mosquito-spray-attract-insects-study-malaria-zika">The Guardian</source>
+    </item>
     <item>
       <title>How much suffering do invasive species cause? Researchers are measuring that</title>
       <link>https://news.mongabay.com/2026/05/how-much-suffering-do-invasive-species-cause-researchers-are-measuring-that/</link>
@@ -594,18 +606,6 @@ The charter comes at a critical time for the Wye, which despite being one of Bri
 
 This story matters because it represents a fundamental shift in how we think about natural systems—not as resources to be managed, but as entities with inherent rights to exist and thrive. Supporters hope the initiative will ripple outward to other British waterways, from the Severn to the Thames, potentially building momentum for constitutional recognition of nature's rights. It's a quiet revolution in environmental thinking, grounded in local action and cross-border cooperation.</description>
       <source url="https://www.bbc.com/news/articles/czx21820rn4o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Under rain and cold of 16°C, crowds fill downtown São Paulo on first day of Virada Cultural; Pará culture dominates the early morning hours</title>
-      <link>https://g1.globo.com/guia/guia-sp/noticia/2026/05/24/sob-chuva-e-frio-de-16oc-publico-lota-centro-de-sp-no-1o-dia-da-virada-cultural-cultura-do-para-domina-madrugada.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/guia/guia-sp/noticia/2026/05/24/sob-chuva-e-frio-de-16oc-publico-lota-centro-de-sp-no-1o-dia-da-virada-cultural-cultura-do-para-domina-madrugada.ghtml</guid>
-      <pubDate>Sun, 24 May 2026 12:02:47 GMT</pubDate>
-      <description>Despite weather forecasts predicting heavy rain and unseasonably cold temperatures of 16°C (61°F), thousands of people filled the streets of downtown São Paulo for the first night of Virada Cultural 2026, an annual 24-hour arts festival. Armed with raincoats, umbrellas, and a willingness to brave the drizzle, attendees packed 22 stages across the city center and peripheral neighborhoods. Many came prepared for the weather, picking up transparent rain ponchos from street vendors and warming up with food and drink from sidewalk stalls. Some visitors stumbled upon the festival by chance after other plans fell through, finding themselves swept up in performances that stretched past midnight.
-
-A standout feature of this year's festival was the prominent presence of Pará culture from Brazil's northern Amazon region. Building on last year's success, music and traditions from Pará—particularly tecnobrega and performances by sound system Carabao—drew enthusiastic crowds and frequent displays of regional pride. Attendees waving Pará state flags and speaking in distinctive northern accents gathered to celebrate their home culture, with some traveling from other cities specifically to catch these performances. One returning festivalgoer noted improvements from the previous year, including better organization, more restrooms, and enhanced security.
-
-This story captures something quietly remarkable about urban life: how a shared cultural experience can transform a city overnight, drawing people together across weather warnings and regional boundaries. It's a reminder that sometimes the most memorable experiences happen when communities decide to show up regardless of the forecast, and when cultural traditions from one corner of a vast country find enthusiastic new audiences in another.</description>
-      <source url="https://g1.globo.com/guia/guia-sp/noticia/2026/05/24/sob-chuva-e-frio-de-16oc-publico-lota-centro-de-sp-no-1o-dia-da-virada-cultural-cultura-do-para-domina-madrugada.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
