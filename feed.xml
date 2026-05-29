@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 12:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 14:03:15 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The new burden of proving wildlife is real</title>
+      <link>https://news.mongabay.com/short-article/2026/05/the-new-burden-of-proving-wildlife-is-real/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/05/the-new-burden-of-proving-wildlife-is-real/</guid>
+      <pubDate>Fri, 29 May 2026 14:03:13 GMT</pubDate>
+      <description>Conservation journalism is grappling with an unexpected challenge: distinguishing real wildlife footage from increasingly convincing AI-generated images and videos. While fake wildlife photos have existed for decades, what's changed is the quality, accessibility, and rapid spread of synthetic media across social platforms—often before anyone verifies whether the animal, location, or behavior actually exists.
+
+The consequences extend beyond simple misinformation. Fabricated videos of animal attacks can escalate fear in communities already navigating difficult human-wildlife conflicts. Fake images showing wild animals as docile companions may fuel illegal exotic pet trade. Misleading footage diverts precious time and resources as researchers, journalists, and conservation organizations work to determine if reported sightings are genuine. Mongabay founder Rhett Ayers Butler notes that newsrooms now invest significantly more effort in verification—examining image metadata, conducting reverse searches, consulting forensic tools, and confirming sources through trusted researchers and institutions. AI detection software offers limited help, plagued by both false positives and negatives.
+
+The irony is that artificial intelligence serves vital conservation purposes: analyzing camera trap images, processing satellite data, and interpreting bioacoustic recordings. The problem emerges specifically when AI fabricates events presented as observed reality. In fields built on trust—where understanding which species exist, how they behave, and what threatens them depends on accurate documentation—the stakes are particularly high. This story matters because it quietly chronicles a fundamental shift in how we establish truth about the natural world, reminding us that as technology makes fiction easier to create, the work of careful verification becomes not just important but essential.</description>
+      <source url="https://news.mongabay.com/short-article/2026/05/the-new-burden-of-proving-wildlife-is-real/">Mongabay</source>
+    </item>
     <item>
       <title>Honorary doctorate and Indigenous rights activist: who was Pedro Ortaça, singer who died at 83 in Rio Grande do Sul</title>
       <link>https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/29/doutor-honoris-causa-e-ativista-da-causa-indigena-quem-era-pedro-ortaca-cantor-que-morreu-aos-83-anos-no-rs.ghtml</link>
@@ -594,18 +606,6 @@ Owners Lucinaira and Adriano Andrea launched the venture after Adriano discovere
 
 What makes this story quietly remarkable is how it transforms beverage-making into cultural storytelling. By rooting each recipe in local memory—mate and pineapple evoking beach vendors, or a beer named after the "Ghost of Paquetá" legend—the brewery offers more than novelty flavors. It creates an edible archive of place, inviting drinkers to taste the personality of Santos itself. In an era of globalized craft beer, Manube's commitment to hyper-local identity shows how small producers can honor their communities while experimenting boldly, turning regional ingredients and inside jokes into something both familiar and surprising.</description>
       <source url="https://g1.globo.com/sp/santos-regiao/culinaria-013/noticia/2026/05/25/cervejaria-mistura-pacoca-acai-e-abobora-em-receitas-de-cerveja-artesanal.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>‘Landmark’ illustration museum launches in the capital</title>
-      <link>https://www.positive.news/lifestyle/arts/landmark-illustration-museum-launches-in-the-capital/</link>
-      <guid isPermaLink="false">https://www.positive.news/lifestyle/arts/landmark-illustration-museum-launches-in-the-capital/</guid>
-      <pubDate>Mon, 25 May 2026 10:04:15 GMT</pubDate>
-      <description>London is about to welcome the world's largest museum devoted entirely to illustration, a project that represents the lifelong dream of one of Britain's most beloved artists. The Quentin Blake Centre for Illustration, opening in May in Clerkenwell, is the creation of renowned illustrator Quentin Blake, best known for bringing Roald Dahl's characters to life. Set within the historic grounds of an 18th-century waterworks, the centre features three galleries that will showcase rotating exhibitions celebrating illustration in all its forms, from traditional to contemporary works from around the globe.
-
-The opening exhibition highlights British-Sri Lankan artist Murugiah, whose vibrant, graphic work explores themes of identity and mental health through prints, paintings, and sketches. Beyond the galleries, the centre offers a free public library, gardens, learning studios, and displays tracing the rich history of illustration. Perhaps most charming is the site's inclusion of London's oldest surviving windmill, which will serve as a home for illustrator and community residencies, creating a living space for artists to work and connect.
-
-This story matters because it elevates an art form that touches daily life yet rarely receives dedicated institutional recognition. Blake's vision creates not just a museum, but a welcoming space where illustration is celebrated as what he calls "a wonderful universal and varied language." In an era when visual storytelling surrounds us everywhere, this centre offers a rare opportunity to pause and appreciate the craft, diversity, and humanity behind the images that shape how we see the world.</description>
-      <source url="https://www.positive.news/lifestyle/arts/landmark-illustration-museum-launches-in-the-capital/">Positive News</source>
     </item>
   </channel>
 </rss>
