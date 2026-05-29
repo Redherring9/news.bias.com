@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 20:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 22:03:21 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How IVF could spell doom for feral rabbits</title>
+      <link>https://www.abc.net.au/news/2026-05-30/rabbit-gene-drive-feral-pest-control-melbourne-university/106726688</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-05-30/rabbit-gene-drive-feral-pest-control-melbourne-university/106726688</guid>
+      <pubDate>Fri, 29 May 2026 22:03:20 GMT</pubDate>
+      <description>Australian scientists are developing a groundbreaking approach to control the country's devastating feral rabbit problem: a "gene drive" that would use the animals' own prolific breeding against them. At Mt Rothwell Wildlife Sanctuary west of Melbourne, researchers are collecting tissue samples from wild rabbits to create laboratory-bred populations in which genetically modified males father only infertile female offspring. The strategy is elegant in its design—male rabbits would remain fertile and spread the modification through wild populations, but their daughters, while otherwise healthy, would be unable to reproduce. Because rabbits breed so rapidly, the gene drive would propagate quickly, causing dramatic population declines.
+
+The urgency behind this research stems from the declining effectiveness of traditional controls. The calici and myxoma viruses, once highly successful at managing rabbit numbers, have lost their potency in recent years, leading to rabbit populations reaching their highest levels in decades. Feral rabbits now cost Australian agriculture more than $200 million annually, with control measures adding tens of millions more and environmental damage proving nearly impossible to quantify. The gene drive technology, though still at least six years from release, represents a critical next step in conservation.
+
+What makes this story quietly remarkable is its unexpected connection to human fertility science. The research team includes a clinical embryologist with twenty years of human IVF experience, applying techniques developed for helping people conceive to instead limit reproduction in a pest species. It's a poignant reminder that scientific advances often travel in surprising directions—and that sometimes the same technology that creates life can be thoughtfully adapted to restore ecological balance.</description>
+      <source url="https://www.abc.net.au/news/2026-05-30/rabbit-gene-drive-feral-pest-control-melbourne-university/106726688">ABC Australia</source>
+    </item>
     <item>
       <title>Groundbreaking genomic test could spare millions of breast cancer patients chemotherapy</title>
       <link>https://www.theguardian.com/society/2026/may/29/groundbreaking-genomic-test-spare-breast-cancer-patients-chemotherapy-hormone-therapy</link>
@@ -594,18 +606,6 @@ Historical records reveal the cemetery trust repeatedly resold and reused old bu
 
 This story matters because it quietly exposes how easily the dead can be forgotten when bureaucracy and expediency override respect. For descendants like Eaton and Tranter, it's a deeply personal violation—a search for connection met with incomprehensible disregard. Now, efforts are underway to restore dignity to those whose final resting places were disturbed, a reminder that honoring the past requires more than headstones along a dirt road.</description>
       <source url="https://www.abc.net.au/news/2026-05-26/castlemaine-cemetery-desecrated-graves/106695938">ABC Australia</source>
-    </item>
-    <item>
-      <title>Marsupial hidden for millions of years discovered in Atlantic Forest fragments in Rio de Janeiro</title>
-      <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/05/25/marsupial-escondido-ha-milhoes-de-anos-e-descoberto-em-fragmentos-da-mata-atlantica-no-rj.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/05/25/marsupial-escondido-ha-milhoes-de-anos-e-descoberto-em-fragmentos-da-mata-atlantica-no-rj.ghtml</guid>
-      <pubDate>Mon, 25 May 2026 18:02:23 GMT</pubDate>
-      <description>Researchers at the Federal University of Rio de Janeiro have identified a new species of marsupial that has lived unnoticed in Atlantic Forest fragments for nearly 1.8 million years. The Rio de Janeiro three-striped short-tailed opossum, or Monodelphis semilineata, was discovered in forest areas across three municipalities: Macaé, Silva Jardim, and Paracambi. Initially mistaken for a known species of opossum common to the Atlantic Forest, the animal's true identity was revealed only through DNA analysis and detailed anatomical studies.
-
-What makes this discovery particularly striking is where these marsupials were found: small, unprotected forest patches surrounded by human development. None of the known individuals have been recorded within fully protected conservation units; all were found on private, unprotected land. This reality has led researchers to classify the species as vulnerable, given the historical destruction of lowland Atlantic Forest below 50 meters altitude. The research team, led by graduate students Carina Azevedo Oliveira Silva and Isabelle Chagas Vilela Borges, is now advocating for expanded protected areas and the creation of private nature reserves in regions where the marsupial lives.
-
-This story quietly underscores how much remains unknown even in well-studied ecosystems. It's a reminder that biodiversity can persist in the smallest, most fragmented spaces—and that these overlooked corners may harbor irreplaceable life. The researchers emphasize the urgency of continued species research and express concern about dwindling interest among students in this essential field, even as discoveries like this reveal how much the natural world still has to teach us.</description>
-      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/05/25/marsupial-escondido-ha-milhoes-de-anos-e-descoberto-em-fragmentos-da-mata-atlantica-no-rj.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
