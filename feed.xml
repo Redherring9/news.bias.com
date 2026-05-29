@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 18:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 20:02:44 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Groundbreaking genomic test could spare millions of breast cancer patients chemotherapy</title>
+      <link>https://www.theguardian.com/society/2026/may/29/groundbreaking-genomic-test-spare-breast-cancer-patients-chemotherapy-hormone-therapy</link>
+      <guid isPermaLink="false">https://www.theguardian.com/society/2026/may/29/groundbreaking-genomic-test-spare-breast-cancer-patients-chemotherapy-hormone-therapy</guid>
+      <pubDate>Fri, 29 May 2026 20:02:43 GMT</pubDate>
+      <description>A groundbreaking genomic test could allow millions of women with breast cancer to safely skip chemotherapy, according to results from a major international trial. The Optima trial, led by University College London and involving over 4,000 patients across six countries, demonstrates that women with low scores on the test can be treated with hormone therapy alone without increasing their risk of cancer recurrence. This represents a significant shift from decades of standard practice where chemotherapy was routinely recommended after surgery to remove tumors.
+
+The Prosigna test analyzes the activity of 50 genes in tumor tissue to predict the likelihood of breast cancer returning within the next decade. In the trial, patients who received only hormone therapy based on low test scores showed remarkably similar outcomes to those who underwent chemotherapy—94% were alive and cancer-free five years later, compared to 95% who had chemotherapy. The test applies specifically to hormone-positive breast cancer, which accounts for up to 80% of all breast cancer cases globally. One trial participant described being able to skip chemotherapy as feeling "like Christmas," and nine years after diagnosis remains healthy and active.
+
+This research marks a meaningful advance toward personalized medicine in cancer treatment. Chemotherapy's side effects—including hair loss, nausea, fatigue, and potentially life-altering consequences like infertility or early menopause—are physically and emotionally challenging for patients. Being able to identify who truly needs this aggressive treatment and who doesn't represents both a compassionate refinement of care and a more efficient use of healthcare resources. The findings offer hope that medical decisions can increasingly be guided by individual tumor biology rather than one-size-fits-all protocols.</description>
+      <source url="https://www.theguardian.com/society/2026/may/29/groundbreaking-genomic-test-spare-breast-cancer-patients-chemotherapy-hormone-therapy">The Guardian</source>
+    </item>
     <item>
       <title>Dartford warbler stages a comeback 60 years after almost vanishing</title>
       <link>https://www.theguardian.com/environment/2026/may/29/dartford-warbler-stages-a-comeback-60-years-after-almost-vanishing</link>
@@ -594,18 +606,6 @@ What makes this discovery particularly striking is where these marsupials were f
 
 This story quietly underscores how much remains unknown even in well-studied ecosystems. It's a reminder that biodiversity can persist in the smallest, most fragmented spaces—and that these overlooked corners may harbor irreplaceable life. The researchers emphasize the urgency of continued species research and express concern about dwindling interest among students in this essential field, even as discoveries like this reveal how much the natural world still has to teach us.</description>
       <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/05/25/marsupial-escondido-ha-milhoes-de-anos-e-descoberto-em-fragmentos-da-mata-atlantica-no-rj.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Larissa Luz amplifies 'fury of the drum' with rock energy in 'Desmonte', high-voltage ideological album</title>
-      <link>https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/05/25/larissa-luz-amplifica-furia-do-tambor-com-a-energia-do-rock-em-desmonte-album-de-alta-voltagem-ideologica.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/05/25/larissa-luz-amplifica-furia-do-tambor-com-a-energia-do-rock-em-desmonte-album-de-alta-voltagem-ideologica.ghtml</guid>
-      <pubDate>Mon, 25 May 2026 16:04:11 GMT</pubDate>
-      <description>Brazilian singer-songwriter Larissa Luz is releasing her fourth solo album, "Desmonte" ("Dismantle"), a powerful fusion of rock energy and Afro-Bahian rhythms that amplifies her voice as an artist unafraid to speak truth. Seven years after her previous full-length album, Luz returns with a high-voltage collection produced by Danilo Panda and Ícaro Motta, who help shape songs that might feel simple stripped down but gain tremendous force through rock-driven arrangements layered with electronic elements and the fury of drums.
-
-The album draws from Bahia's musical traditions—ijexá, samba-reggae, pagodão—but reimagines them through the lens of rock, a genre Luz describes as having Black origins that were "whitened over time." Tracks like "Fúria do tambor" ("Fury of the Drum") blend subtle samba with rock weight, while "Careta" repurposes a children's folk song to confront male fear of female power. Throughout, Luz addresses structural racism, questions the corporate takeover of Salvador's Carnival, and refuses to perform the sorrow society expects from Black artists. The album closes with collaborations featuring rapper Áurea Semiseria and singer Zé Atunbí, reinforcing themes of Black empowerment and reclamation.
-
-This album matters because it demonstrates how musical fusion can be both aesthetic and ideological—Luz isn't simply mixing genres, but reclaiming rock's African roots while keeping her Bahian identity central. It's a reminder that protest music can pulse with joy and fury simultaneously, and that cultural traditions remain most vital when artists fearlessly reinvent them.</description>
-      <source url="https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/05/25/larissa-luz-amplifica-furia-do-tambor-com-a-energia-do-rock-em-desmonte-album-de-alta-voltagem-ideologica.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
