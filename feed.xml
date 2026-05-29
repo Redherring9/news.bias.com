@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 02:04:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 04:04:27 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>"Your plane is 1,000 miles off course": the worrying invisible GPS war that is disrupting air transport</title>
+      <link>https://www.bbc.com/mundo/articles/cdjp03nmxxdo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cdjp03nmxxdo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 29 May 2026 04:04:25 GMT</pubDate>
+      <description>A quiet but growing technological conflict is disrupting air travel across multiple continents. When a British Royal Air Force plane carrying the UK's Defense Secretary flew near Estonia last week, its GPS suddenly indicated it had teleported 300 kilometers into Russian territory, hovering impossibly over a lake near St. Petersburg. The aircraft had fallen victim to GPS spoofing—a form of electronic warfare where ground transmitters flood an area with fake satellite signals that overpower genuine GPS data.
+
+Originally deployed by militaries to defend against GPS-guided weapons like drones and long-range missiles, these spoofing and jamming systems are increasingly affecting civilian flights. Data analyzed by aviation consultancy SkAI Data Services reveals a dramatic escalation: in the Baltic region alone, reported incidents jumped from 17,243 in 2024 to 59,447 in 2025, coinciding with increased drone warfare between Russia and Ukraine. The Persian Gulf saw spoofing reports surge from just 14 in January to over 5,000 in March, following regional military escalations. Globally, more than 800 flights now encounter GPS interference daily, affecting heavily traveled routes across Europe, the Middle East, and Asia. Pilots like British aviator Sam Rutherford have experienced the unsettling moment when navigation systems and autopilot simply stop working mid-flight.
+
+This story quietly illuminates how modern conflicts extend far beyond traditional battlefields, creating invisible zones of technological disruption that affect ordinary travelers. As the technology becomes more accessible to nations worldwide, experts worry this electronic shadow war will only expand, making the skies above conflict zones increasingly difficult to navigate with the precision we've come to expect.</description>
+      <source url="https://www.bbc.com/mundo/articles/cdjp03nmxxdo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Refugee who tried to flee the Taliban 15 times finally safe to play cricket</title>
       <link>https://www.abc.net.au/news/2026-05-29/nt-afghan-refugee-women-athletes-cricket-tour-of-darwin/106731180</link>
@@ -594,18 +606,6 @@ As beekeepers struggle to save their colonies, they've relied on support from th
 
 This story quietly underscores how easily institutional wisdom can slip away during budget cuts, and how the fate of something as small as a bee can ripple through entire food systems and rural economies.</description>
       <source url="https://www.japantimes.co.jp/environment/2026/05/25/wildlife/bee-population-us-research-cuts/">The Japan Times</source>
-    </item>
-    <item>
-      <title>Untouchable Girls: The Topp Twins in their own words</title>
-      <link>https://www.rnz.co.nz/life/people/celebrity/untouchable-girls-the-topp-twins-in-their-own-words</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/life/people/celebrity/untouchable-girls-the-topp-twins-in-their-own-words</guid>
-      <pubDate>Mon, 25 May 2026 00:04:05 GMT</pubDate>
-      <description>For more than four decades, New Zealand's Topp Twins—Lynda and Jools—have entertained audiences as a comedic country music duo, building a legacy rooted in authenticity and joy. Their book, *Untouchable Girls*, offers an intimate look at their journey from childhood on a Waikato farm through careers marked by music, comedy, and activism. The story is bittersweet: originally broadcast in 2023, it has resurfaced following Jools' death at 68 after living with breast cancer.
-
-The twins describe their bond as a "golden thread" connecting them across distance and time. Raised by parents who rejected gender roles and embraced their children's individuality, Lynda and Jools grew up driving tractors, picking hay, and eventually discovering their identities as gay women in an era when New Zealand had no visible LGBTQ community. Their path wasn't always smooth—Jools recounts a youthful struggle with prescription drug dependency, resolved by her mother's intervention and months spent reconnecting with her father while milking cows. A stint in the army at Burnham Military Camp became an unexpected bonding experience, preparing them for the protest movements they would later join.
-
-This story resonates because it captures how two people can remain deeply connected while carving out space for themselves in a world that didn't always have room for them. The Topp Twins lived openly as lesbians from the start, choosing visibility over concealment in a time when that required courage. Their hope—that they changed lives along the way—feels both modest and profound, a quiet testament to the power of showing up as yourself.</description>
-      <source url="https://www.rnz.co.nz/life/people/celebrity/untouchable-girls-the-topp-twins-in-their-own-words">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
