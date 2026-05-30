@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 20:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 22:04:12 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bioremediation of Agent Orange chemicals made in Sydney for Vietnam War</title>
+      <link>https://www.abc.net.au/news/2026-05-31/bioremediation-of-vietnam-war-agent-orange-chemicals-from-rhodes/106568108</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-05-31/bioremediation-of-vietnam-war-agent-orange-chemicals-from-rhodes/106568108</guid>
+      <pubDate>Sat, 30 May 2026 22:04:10 GMT</pubDate>
+      <description>More than five decades after the Vietnam War ended, university students in Sydney are working to remove traces of Agent Orange chemicals from waterways near the city's harbour. The contamination stems from a surprising piece of history: between 1928 and 1986, the industrial site at Rhodes Peninsula was home to Union Carbide, the company that manufactured key ingredients for Agent Orange used by the US military during the war. The herbicide mixture contained dioxins, persistent toxins known to cause serious health issues, and an estimated 3 million Vietnamese people developed conditions from exposure during the conflict.
+
+The legacy of this production has lingered in Homebush Bay for decades. Union Carbide's practice of dumping toxic waste into the bay and covering it with soil—creating what one long-time resident described as a "layered chocolate mud cake"—left deep contamination that has affected local ecosystems. A failed cleanup attempt in 1993 derailed plans for an Olympic athletes' village, but a successful $200 million remediation concluded in 2011. Still, dioxins spread through the harbour, prompting fishing bans and ongoing concerns about contamination in marine life more than 10 kilometres from the original site.
+
+This story offers a sobering reminder of how industrial legacies can outlast the conflicts and companies that created them. It's worth reading not only as a chapter in environmental history, but as an example of patient, persistent work to heal damaged ecosystems—and the unexpected connections between distant wars and local waterways half a world away.</description>
+      <source url="https://www.abc.net.au/news/2026-05-31/bioremediation-of-vietnam-war-agent-orange-chemicals-from-rhodes/106568108">ABC Australia</source>
+    </item>
     <item>
       <title>After five days in a dark cave, a scienist emerged with life-changing insights</title>
       <link>https://www.abc.net.au/news/2026-05-31/darkness-retreat-sensory-deprivation-cave-kiana-aran/106681456</link>
@@ -594,18 +606,6 @@ The project brings together an international production team, including acclaime
 
 This story offers a window into both conservation and the power of long-held dreams realized. Irons is determined the series won't sugarcoat the challenges facing Australian wildlife, wanting audiences to understand the real consequences of habitat loss and human behavior. It's a reminder that sometimes the most impactful stories come from people quietly doing essential work, now given a platform to share both the struggles and successes of protecting creatures that depend on human compassion.</description>
       <source url="https://www.abc.net.au/news/2026-05-27/bonorong-paramountplus-documentary-the-animal-sanctuary-tasmania/106719186">ABC Australia</source>
-    </item>
-    <item>
-      <title>What has Pope Leo warned about AI – and why that’s significant</title>
-      <link>https://www.aljazeera.com/news/2026/5/26/what-has-pope-leo-warned-about-ai-and-why-thats-significant?traffic_source=rss</link>
-      <guid isPermaLink="false">https://www.aljazeera.com/news/2026/5/26/what-has-pope-leo-warned-about-ai-and-why-thats-significant?traffic_source=rss</guid>
-      <pubDate>Tue, 26 May 2026 18:01:53 GMT</pubDate>
-      <description>Pope Leo XIV has made artificial intelligence the central focus of his first encyclical, a significant form of papal teaching that reaches the Catholic Church's 1.4 billion members worldwide. In the nearly 43,000-word letter titled *Magnifica humanitas*, the pontiff calls for AI to be "disarmed" and freed from becoming an instrument of domination or death, comparing its potential risks to those of nuclear energy. He presented the encyclical at the Vatican alongside AI experts, including Christopher Olah, cofounder of the AI company Anthropic.
-
-The pope's concerns are wide-ranging and specific. He warns against an accelerating race for more powerful algorithms driven by geopolitical and commercial interests, urging policymakers to protect workers' rights and children's safety. He issues a direct appeal to AI developers, reminding them that "every design choice reflects a vision of humanity" and calling for independent oversight and robust legal frameworks. The encyclical also addresses AI's use in warfare, pointing to its role in recent conflicts and warning that the technology is normalizing war as a human activity.
-
-This story matters because it represents a major religious institution weighing in on one of the defining technological challenges of our time. By elevating AI concerns to the level of an encyclical—one of the highest forms of church teaching—Pope Leo is signaling that questions about artificial intelligence are not merely technical or political, but deeply moral and spiritual. It's a rare moment when ancient religious authority meets cutting-edge technology, offering a perspective that prioritizes human dignity over innovation for its own sake.</description>
-      <source url="https://www.aljazeera.com/news/2026/5/26/what-has-pope-leo-warned-about-ai-and-why-thats-significant?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
