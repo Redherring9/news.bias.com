@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 04:03:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 06:05:08 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘Nature’s soap opera’: how a wildlife artist’s nestboxes became a YouTube hit</title>
+      <link>https://www.theguardian.com/environment/2026/may/30/wildlife-artist-robert-fuller-nestboxes-youtube</link>
+      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/may/30/wildlife-artist-robert-fuller-nestboxes-youtube</guid>
+      <pubDate>Sat, 30 May 2026 06:03:41 GMT</pubDate>
+      <description>A wildlife artist's childhood hobby has blossomed into an unexpected global phenomenon. Robert Fuller, who grew up building bird boxes with his father in the Yorkshire Wolds, decided to install cameras inside his handmade nest boxes to satisfy his curiosity about what was happening inside. What began as a personal project to document British wildlife has grown into a YouTube channel approaching one million subscribers, generating nearly 3 million views each month from audiences spanning China, South Korea, India, the US, and Europe.
+
+The channel's success came gradually, then surged during lockdown when isolated viewers discovered the intimate dramas unfolding in real time. A Dutch bar even replaced sports broadcasts with Fuller's barn owl livestream. The footage captures everything from awkward courtship rituals—male barn owls frequently "do something wrong," Fuller notes with affection—to fledgling flights and territorial battles. One clip of a young barn owl startled by thunder has drawn nearly 28 million views. Seventy percent of viewers return regularly to follow what one fan called "nature's soap opera," glimpsing moments of wildlife behavior rarely seen otherwise.
+
+This story matters because it reveals how patient observation and genuine passion can create something that resonates across cultures and borders. Fuller works over 100 hours weekly, subsidizing his filming through his art business, driven not by profit but by love of his subject. His concern about AI-generated content on YouTube reflects a deeper question about authenticity in our digital age. In an era of manufactured content, Fuller's painstaking documentation of real barn owls, kestrels, and kingfishers offers something increasingly rare: the unscripted beauty of the natural world, witnessed together.</description>
+      <source url="https://www.theguardian.com/environment/2026/may/30/wildlife-artist-robert-fuller-nestboxes-youtube">The Guardian</source>
+    </item>
     <item>
       <title>Country Life: Teaching trust to the Kaimanawas</title>
       <link>https://www.rnz.co.nz/news/country/596820/country-life-teaching-trust-to-the-kaimanawas</link>
@@ -594,18 +606,6 @@ The numbers are sobering. According to Brazil's Society of Endocrinology and Met
 
 In response to Ganley's death, a Brazilian podcast brought together two cardiologists specializing in sports medicine to explain the various types of steroids, their risks, and their complicated relationship with high-performance athletics. This story matters because it captures a quiet public health crisis hiding in plain sight—one where social media influence, body image pressures, and accessible hormones are converging in dangerous ways, particularly among the young. It's a reminder that the pursuit of physical perfection can exact a devastating cost, and that transparent conversations about these risks have never been more necessary.</description>
       <source url="https://g1.globo.com/podcast/o-assunto/noticia/2026/05/26/a-epidemia-de-anabolizantes-no-brasil-e-seus-riscos-a-saude-o-assunto-1727.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Brazil has protected much of the Amazon. It now has to pay for it.</title>
-      <link>https://news.mongabay.com/2026/05/brazil-has-protected-much-of-the-amazon-it-now-has-to-pay-for-it/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/05/brazil-has-protected-much-of-the-amazon-it-now-has-to-pay-for-it/</guid>
-      <pubDate>Tue, 26 May 2026 02:03:42 GMT</pubDate>
-      <description>Brazil has created one of the world's most extensive protected-area networks, but a comprehensive new study reveals a troubling reality: most of these conservation zones lack the funding needed to function effectively. Researchers examined 300 federal protected areas over a decade and found that in 2023, 72% were underfunded, with a combined shortfall of nearly $958 million. The gap isn't about paperwork—these reserves exist on maps and in international commitments—but about the practical resources needed to manage them: staff salaries, patrol boats, fire response teams, and the capacity to confront illegal logging and mining.
-
-The Amazon bears the heaviest burden. Protected areas there received only about one-fifth of what they needed in 2023, with an average funding deficit approaching 80%. By contrast, Atlantic Forest reserves faced a 27% shortfall. The disparity reflects more than geography: remote Amazonian reserves are expensive to manage, requiring river journeys and flights for basic operations, yet they remain politically invisible compared to protected areas near cities. Size matters too—larger, newer reserves tend to face the steepest shortfalls, while older, more established sites receive relatively better support.
-
-This isn't a story of simple neglect. Federal investment actually rose 30% over the study period, and Brazil's transparency systems allow unusually detailed tracking of conservation spending. The real challenge is that Brazil expanded legal protection faster than it built sustainable funding mechanisms. The study highlights a fundamental tension in global conservation: declaring a place protected is far easier than sustaining the unglamorous, recurring work that makes protection real. For readers interested in how conservation actually functions beyond the headlines, this research offers a clear-eyed look at the gap between environmental ambition and operational reality.</description>
-      <source url="https://news.mongabay.com/2026/05/brazil-has-protected-much-of-the-amazon-it-now-has-to-pay-for-it/">Mongabay</source>
     </item>
   </channel>
 </rss>
