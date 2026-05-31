@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 06:05:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 08:03:44 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How a lost road helped rewild a rare landscape</title>
+      <link>https://www.bbc.com/news/articles/cdepj87pjwxo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cdepj87pjwxo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sun, 31 May 2026 08:03:42 GMT</pubDate>
+      <description>When engineers built the Hindhead Tunnel in 2011 to ease traffic congestion on England's A3 highway, they solved more than a transportation problem. By routing the road underground, they inadvertently created an opportunity for one of southern England's most successful rewilding projects, transforming a landscape that had been fragmented by asphalt for generations.
+
+The original A3 had sliced directly through Hindhead Common and the Devil's Punch Bowl, a protected Site of Special Scientific Interest and one of the region's few remaining lowland heaths. Once the tunnel opened, the National Trust removed the old road entirely and set about restoring the land's natural contours, replanting native species and reconnecting habitats. The response was swift and remarkable: nightjars, ground-nesting birds that had never been recorded in that part of the Punchbowl, were heard calling just one month after the tunnel opened. Woodlarks and other protected species soon followed, successfully breeding on the restored heath. The change wasn't only ecological—air quality in Hindhead village, previously so poor it had been designated a management area due to traffic pollution, improved dramatically, falling below legal limits within two years.
+
+This story offers a quiet reminder that infrastructure decisions ripple far beyond their intended purpose. Sometimes solving one problem—traffic congestion—can unexpectedly heal another, allowing birdsong to replace road noise and wildlife corridors to re-establish where pavement once dominated. It's a testament to what becomes possible when we route our human needs around, rather than through, the landscapes we share with other species.</description>
+      <source url="https://www.bbc.com/news/articles/cdepj87pjwxo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Why tonight's full moon will be a rare occurrence</title>
       <link>https://www.abc.net.au/news/2026-05-31/blue-moon-micromoon-may/106742232</link>
@@ -594,18 +606,6 @@ Researcher Nina Wardleworth began this project after hearing stories from French
 
 This story matters because it quietly corrects a historical blind spot. It reminds us that resistance came in many forms and from many places, and that heroism doesn't always find its way into textbooks or onto street signs. The database offers a chance to honor lives that were lived with extraordinary courage and then, for too long, overlooked—a small but meaningful act of remembrance eighty years later.</description>
       <source url="https://www.france24.com/fr/france/20260527-resistance-colonies-empire-francais-oublies-histoire-seconde-guerre-mondiale-patriotisme">France 24</source>
-    </item>
-    <item>
-      <title>Booming cockroach numbers welcome news on island 'paradise of creatures'</title>
-      <link>https://www.abc.net.au/news/2026-05-27/lord-howe-island-insect-boom-after-rodent-eradication/106723718</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-05-27/lord-howe-island-insect-boom-after-rodent-eradication/106723718</guid>
-      <pubDate>Wed, 27 May 2026 04:01:54 GMT</pubDate>
-      <description>Lord Howe Island, a World Heritage site off the coast of Australia, is experiencing a remarkable ecological resurgence following the removal of invasive rodents in 2019. A recent study published in Biological Invasions documents a 60 percent increase in invertebrate populations across the island—a shift that researchers describe as transformative. The eradication program eliminated more than 300,000 rats and mice, creatures that had suppressed native insects and other small animals for over a century.
-
-Researchers collected specimens from forest sites before and after the rodent removal, finding that the second survey yielded 15,000 invertebrates compared to 9,000 in the first. The most dramatic recoveries occurred among larger invertebrates, particularly native bush cockroaches, woodlice, and slaters—species that play essential roles in breaking down organic matter and serving as food for geckos and native birds. One cockroach species, previously thought extinct, was rediscovered in 2023, a hopeful sign of the island's healing. The findings build on earlier reports of seabird and land bird recoveries, including the Lord Howe Island woodhen.
-
-While the increases are encouraging, researchers acknowledge that the island's ecosystem will likely reach a new equilibrium rather than return to its pre-rodent state, as some species have already been lost forever. Still, the transformation is palpable: endemic geckos now appear frequently in forests where they were once rare, and the island feels more alive. This story offers a quietly powerful reminder that ecological restoration is possible, and that even the humble cockroach can be a herald of hope in a recovering paradise.</description>
-      <source url="https://www.abc.net.au/news/2026-05-27/lord-howe-island-insect-boom-after-rodent-eradication/106723718">ABC Australia</source>
     </item>
   </channel>
 </rss>
