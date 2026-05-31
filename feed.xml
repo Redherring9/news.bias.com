@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 12:04:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 14:03:48 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Daily pill can double survival time for world’s deadliest cancer, trial shows</title>
+      <link>https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial</link>
+      <guid isPermaLink="false">https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial</guid>
+      <pubDate>Sun, 31 May 2026 14:03:47 GMT</pubDate>
+      <description>A new daily pill called daraxonrasib has shown remarkable results in treating pancreatic cancer, one of the most difficult cancers to combat. In a clinical trial involving 500 patients with advanced pancreatic cancer, those taking the drug survived an average of 13.2 months compared to 6.6 to 6.7 months for those receiving chemotherapy—effectively doubling their survival time. The findings, presented at the American Society of Clinical Oncology's annual meeting in Chicago, are being described by experts as a potential revolution in pancreatic cancer treatment.
+
+Pancreatic cancer has long frustrated researchers because it's often diagnosed late, with more than half of patients only learning they have the disease after it has already spread. Treatment options have been limited and largely ineffective. Daraxonrasib represents a breakthrough because it targets Kras, a protein that drives nearly all pancreatic cancers. The drug works by shutting down this protein, which sends constant growth signals to cancer cells. What makes it particularly promising is that it can block Kras activity regardless of which specific mutation is present—a versatility that earlier attempts at targeting this protein lacked.
+
+This development matters because it offers tangible hope where little existed before. Oncologists who have spent years treating this devastating disease responded emotionally to the results, with one veteran doctor saying she wept upon reading the findings. For patients and families facing a diagnosis that has historically meant very limited time, the prospect of gaining months of life with fewer side effects than chemotherapy represents not just a medical advance, but precious additional time together. It's a reminder that persistence in cancer research can yield breakthroughs even against the most stubborn adversaries.</description>
+      <source url="https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial">The Guardian</source>
+    </item>
     <item>
       <title>Nest belonging to 'remarkable' endangered bird found</title>
       <link>https://www.bbc.com/news/articles/ckgpw7rzlz4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ This hardware deployment marks the first phase of a three-part plan. Following t
 
 What makes this story quietly remarkable is its scope and collaborative spirit. NASA envisions a lunar base spanning hundreds of square kilometers, marked by perimeter drones designed to respect the spacecraft and equipment of other nations working nearby. Beyond national achievement, the goal is to foster a lunar economy, conduct scientific research, and lay groundwork for eventual Mars exploration—a vision that transforms the Moon from a destination into a stepping stone for humanity's deeper journey into space.</description>
       <source url="https://www.france24.com/fr/%C3%A9co-tech/20260527-nasa-impressionnant-plan-base-lunaire-d%C3%A9voil%C3%A9-par-agence-spatiale-am%C3%A9ricaine">France 24</source>
-    </item>
-    <item>
-      <title>In New Zealand, a spirited pair of parakeets helps preserve their species</title>
-      <link>https://www.france24.com/fr/asie-pacifique/20260527-nouvelle-zelande-couple-de-perruches-malherbe-contribue-preservation-espece-kakariki-karaka</link>
-      <guid isPermaLink="false">https://www.france24.com/fr/asie-pacifique/20260527-nouvelle-zelande-couple-de-perruches-malherbe-contribue-preservation-espece-kakariki-karaka</guid>
-      <pubDate>Wed, 27 May 2026 10:02:39 GMT</pubDate>
-      <description>In New Zealand, two parakeets named Nacho and Trixie are making an outsized contribution to saving their species from extinction. The pair has produced 55 chicks together, including an remarkable 33 this year alone—accounting for more than 10 percent of the entire population of the critically endangered Kakariki karaka, also known as Malherbe's parakeet. With only around 450 individuals remaining, mostly in sanctuaries and on predator-free islands, every new chick matters.
-
-The Kakariki karaka has twice been declared extinct before being rediscovered, making conservation efforts particularly urgent. Nacho and Trixie, who live at the Isaac Conservation and Wildlife Trust in Christchurch, have become what wildlife manager Leigh Percasky calls "super parents." Trixie continues laying eggs and raising chicks even beyond the normal breeding season, while Nacho tirelessly gathers food for both his mate and their young. Conservation officials emphasize that captive breeding programs like this are essential insurance against the wild populations' vulnerability to predators.
-
-This story offers a touching glimpse into how individual animals can become unlikely heroes in conservation. While wildlife managers would prefer Trixie take a well-deserved rest after her latest clutch of seven chicks, her dedication—and Nacho's tireless support—exemplify nature's resilience when given a chance. It's a reminder that species recovery sometimes depends on the remarkable efforts of just a few committed individuals, whether human or avian.</description>
-      <source url="https://www.france24.com/fr/asie-pacifique/20260527-nouvelle-zelande-couple-de-perruches-malherbe-contribue-preservation-espece-kakariki-karaka">France 24</source>
     </item>
   </channel>
 </rss>
