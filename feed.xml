@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 14:03:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 16:02:46 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Idol Mozart - The Search for Beauty in Times of Crisis</title>
+      <link>https://www.dw.com/de/idol-mozart-die-suche-nach-schönheit-in-krisenzeiten/a-77365415?maca=de-rss-de-all-1119-xml-mrss</link>
+      <guid isPermaLink="false">https://www.dw.com/de/idol-mozart-die-suche-nach-schönheit-in-krisenzeiten/a-77365415?maca=de-rss-de-all-1119-xml-mrss</guid>
+      <pubDate>Sun, 31 May 2026 16:02:44 GMT</pubDate>
+      <description>As the world navigates turbulent times, Germany's largest Mozart festival in Würzburg has chosen a telling theme: "Idol Mozart - Invoked Beauty." The festival's artistic director observes that when global crises and conflicts dominate headlines, people instinctively reach for something that connects rather than divides — and Mozart's music has served that role across centuries.
+
+The festival's opening concert illustrated this pattern beautifully, pairing Mozart's penultimate symphony with works by Maurice Ravel and Sergei Prokofiev, both composers who revered Mozart and turned to his aesthetic during their own dark times. Ravel wrote "Le Tombeau de Couperin" during World War I as a memorial to fallen friends, drawing on Mozart's clarity and elegance. Prokofiev, returning to Stalinist Russia in the 1930s amid mass arrests and atrocities, embraced what he called "new simplicity," composing melodically when his contemporaries pursued the avant-garde. His second violin concerto, performed by Chinese violinist Tianwa Yang to rapturous applause, exemplifies this return to beauty as refuge. What strikes contemporary listeners as effortlessly beautiful in Mozart's music was often provocative in his own time — complex, dissonant, even overwhelming. After his death in 1791, he was reshaped into a symbol: a national genius around whom fractured Europe could unite, later a beacon of order and humanity after the world wars.
+
+This story offers a quietly profound meditation on how art functions during uncertainty. It reminds us that the search for beauty isn't escapism but a deeply human response to chaos — and that the music we turn to for comfort often carried its own era's struggles within it.</description>
+      <source url="https://www.dw.com/de/idol-mozart-die-suche-nach-schönheit-in-krisenzeiten/a-77365415?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
+    </item>
     <item>
       <title>Daily pill can double survival time for world’s deadliest cancer, trial shows</title>
       <link>https://www.theguardian.com/society/2026/may/31/daily-pill-daraxonrasib-double-survival-time-pancreatic-pancreas-cancer-clinical-trial</link>
@@ -594,18 +606,6 @@ The findings highlight a crucial but often overlooked conservation challenge: wh
 
 Experts emphasize that Nepal doesn't face a binary choice between development and conservation. Instead, they advocate for integrating wildlife considerations early in infrastructure planning, including strategic route adjustments and proven mitigation measures like wildlife underpasses, canopy bridges, and bird-safe power line designs. This story matters because it illuminates a challenge facing developing nations worldwide: how to build essential infrastructure for economic growth while preserving the ecological networks that sustain biodiversity. Nepal's experience offers lessons in why conservation planning must extend beyond park boundaries to encompass the less visible but equally vital landscapes where wildlife actually lives and moves.</description>
       <source url="https://news.mongabay.com/2026/05/nepals-infrastructure-risks-wildlife-habitats-beyond-protected-areas-study-warns/">Mongabay</source>
-    </item>
-    <item>
-      <title>NASA: The impressive lunar base plan unveiled by the American space agency</title>
-      <link>https://www.france24.com/fr/%C3%A9co-tech/20260527-nasa-impressionnant-plan-base-lunaire-d%C3%A9voil%C3%A9-par-agence-spatiale-am%C3%A9ricaine</link>
-      <guid isPermaLink="false">https://www.france24.com/fr/%C3%A9co-tech/20260527-nasa-impressionnant-plan-base-lunaire-d%C3%A9voil%C3%A9-par-agence-spatiale-am%C3%A9ricaine</guid>
-      <pubDate>Wed, 27 May 2026 12:03:41 GMT</pubDate>
-      <description>NASA has unveiled an ambitious roadmap for establishing a permanent human presence on the Moon, with plans extending into the 2030s. The agency announced multi-hundred-million-dollar contracts with four American companies to deliver critical infrastructure before astronauts return to the lunar surface. Blue Origin will provide landing modules to transport rovers near the Moon's south pole, while Astrolab and Lunar Outpost will build the all-terrain vehicles themselves. Firefly Aerospace, which successfully completed a lunar landing last year, will deliver the first drones to the Moon.
-
-This hardware deployment marks the first phase of a three-part plan. Following the Artemis II mission in April, which saw four astronauts venture farther into space than the Apollo crews of decades past, NASA aims to land astronauts by 2028 as part of Artemis III. The second phase, spanning 2029 to the early 2030s, will focus on building permanent infrastructure including a power grid. The third phase envisions habitable facilities where astronauts can live for extended periods, establishing what NASA official Carlos Garcia-Galan describes as a permanent presence that won't be abandoned.
-
-What makes this story quietly remarkable is its scope and collaborative spirit. NASA envisions a lunar base spanning hundreds of square kilometers, marked by perimeter drones designed to respect the spacecraft and equipment of other nations working nearby. Beyond national achievement, the goal is to foster a lunar economy, conduct scientific research, and lay groundwork for eventual Mars exploration—a vision that transforms the Moon from a destination into a stepping stone for humanity's deeper journey into space.</description>
-      <source url="https://www.france24.com/fr/%C3%A9co-tech/20260527-nasa-impressionnant-plan-base-lunaire-d%C3%A9voil%C3%A9-par-agence-spatiale-am%C3%A9ricaine">France 24</source>
     </item>
   </channel>
 </rss>
