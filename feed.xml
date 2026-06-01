@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 22:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 00:03:04 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What is the 'Wason selection task' — and why it is one of the most puzzling logic problems in history</title>
+      <link>https://www.bbc.com/portuguese/articles/c0l225we1xwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/c0l225we1xwo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Mon, 01 Jun 2026 00:03:01 GMT</pubDate>
+      <description>A simple puzzle involving four cards has stumped countless people for nearly six decades, revealing something profound about how humans think. Created by British psychologist Peter Wason in 1966, the Wason Selection Task presents four cards showing E, K, 4, and 7, with the instruction that if a card has a vowel on one side, it must have an even number on the other. Participants must determine which cards to flip to verify this rule—yet only about 10% get it right.
+
+The correct answer is E and 7, but most people choose E and 4 instead. The error lies in a peculiar blind spot: while people readily check what confirms the rule (E could confirm it, 4 seems relevant because it's even), they overlook what could disprove it. The card showing 7 is crucial because finding a vowel on its reverse would immediately break the rule. Meanwhile, card 4 is a red herring—the rule doesn't claim all even numbers must have vowels. Wason himself had an unconventional approach to research, preferring to design experiments first and form hypotheses afterward, letting the mind "give itself away" through unexpected results.
+
+This deceptively simple task became one of the most studied problems in the psychology of reasoning because it revealed that human logic doesn't work quite as we assumed. Wason transformed ancient philosophical intuitions about the limits of reason into something that could be experimentally observed and measured, offering a window into the systematic ways our thinking can lead us astray—even when we're certain we're being perfectly logical.</description>
+      <source url="https://www.bbc.com/portuguese/articles/c0l225we1xwo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Tā Hirini Moko Mead: Bridging the divide between tikanga and western law</title>
       <link>https://www.rnz.co.nz/news/te-manu-korihi/596900/ta-hirini-moko-mead-bridging-the-divide-between-tikanga-and-western-law</link>
@@ -594,18 +606,6 @@ The Breast Cancer Foundation's chief executive emphasizes that this isn't about 
 
 This story offers a grounded look at how artificial intelligence is being woven into healthcare—not as a replacement for human judgment, but as a support tool that could improve both access and outcomes. It's a reminder that technological progress in medicine often comes not from dramatic breakthroughs, but from thoughtful enhancements to existing processes that might quietly help catch cancers earlier, when they're most treatable.</description>
       <source url="https://www.rnz.co.nz/news/health/596574/an-additional-set-of-eyes-how-ai-could-help-fight-breast-cancer">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Can farmers become less reliant on synthetic fertiliser? Some are trying</title>
-      <link>https://www.abc.net.au/news/2026-05-28/synthetic-fertiliser-reliance-on-australian-farms/106723890</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-05-28/synthetic-fertiliser-reliance-on-australian-farms/106723890</guid>
-      <pubDate>Wed, 27 May 2026 20:01:42 GMT</pubDate>
-      <description>As conflict in the Middle East disrupts fertiliser supply chains through the Strait of Hormuz, Australian farmers are confronting a challenge that reaches far beyond geopolitics: how to grow food when imported nutrients become scarce and expensive. The timing is particularly acute for Australia, which imports nearly all its nitrogen fertiliser, with about 60 percent of its urea traveling through the now-constrained Middle Eastern routes.
-
-In Tasmania's northwest, some farmers are already charting a different course. Organic dairy farmer Mark Lambert hasn't used synthetic fertiliser for over a decade, instead nurturing soil health through pH balance and diverse plantings of grasses, clovers, and herbs. He describes it as getting off "the drug of nitrogen," returning to methods used for millennia but now informed by science. Nearby, apple and grape grower Marcus Burns has adopted a hybrid approach, treating synthetic nitrogen like sugar—useful in a pinch but not sustainable long-term. He's supplementing with natural products, including silicon made from crushed Australian glass, to help soil organisms do their work more naturally. University of Tasmania researchers are finding that dairy farms may be able to halve their nitrogen use while maintaining productivity, provided other conditions are right.
-
-This story offers a quiet glimpse into agricultural resilience—how disruption can become an opportunity to reconsider practices that have defined farming for only a century. It's a reminder that the choices made on individual farms today, whether driven by necessity or conviction, may shape not just what appears in supermarkets tomorrow, but how land is cared for in the decades ahead.</description>
-      <source url="https://www.abc.net.au/news/2026-05-28/synthetic-fertiliser-reliance-on-australian-farms/106723890">ABC Australia</source>
     </item>
   </channel>
 </rss>
