@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 00:03:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 02:04:13 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Large flock of rare swift parrots seen near Port Macquarie</title>
+      <link>https://www.abc.net.au/news/2026-06-01/critically-endangered-swift-parrots-sighted-in-northern-nsw-surp/106742056</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-01/critically-endangered-swift-parrots-sighted-in-northern-nsw-surp/106742056</guid>
+      <pubDate>Mon, 01 Jun 2026 02:04:11 GMT</pubDate>
+      <description>A flock of about 50 critically endangered swift parrots has been spotted near Port Macquarie on Australia's New South Wales coast, offering a welcome surprise to conservationists after an unusually quiet migration season last year. Birdwatcher James Bennett was scanning the area during heavy rain when he heard the species' distinctive call, prompting him to alert fellow enthusiasts. With only an estimated 750 to 1,500 swift parrots remaining in the wild, the sighting represents a significant portion of the entire population and marks a dramatic change from 2025, when hardly any were recorded in New South Wales.
+
+Swift parrots breed in Tasmania during summer, then migrate to mainland Australia in winter to follow blooming food sources. Their movements are unpredictable, driven by the availability of specific nectar-rich blossoms and lerp—a sugary coating produced by tiny insects on eucalyptus leaves. This year's early and widespread presence across New South Wales, Sydney, and even as far north as Brisbane suggests that food sources in Victoria, where most remained last year, are less abundant. Conservation advisor Mick Roderick emphasized the importance of intact coastal forests as crucial stopover habitats for these fussy, nomadic feeders.
+
+This story offers a quiet reminder of nature's resilience and unpredictability. It highlights how migration patterns can shift year to year based on ecological conditions, and underscores the fragile balance these birds navigate. For conservationists battling habitat loss and predators like sugar gliders, the sighting is both hopeful and sobering—a glimpse of survival against steep odds, and a testament to the importance of protecting the forested corridors these brilliant, scarlet-faced travelers depend upon.</description>
+      <source url="https://www.abc.net.au/news/2026-06-01/critically-endangered-swift-parrots-sighted-in-northern-nsw-surp/106742056">ABC Australia</source>
+    </item>
     <item>
       <title>What is the 'Wason selection task' — and why it is one of the most puzzling logic problems in history</title>
       <link>https://www.bbc.com/portuguese/articles/c0l225we1xwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The journey begins with Hildegard von Bingen, a 12th-century abbess whose 77 cha
 
 This story matters because it recovers voices that have always been there, waiting to be heard. These women didn't just participate in music history—they shaped it, often while navigating family pressure, credit theft, and social constraints. Their rediscovery reminds us how much artistry has been overlooked and how much richer our cultural understanding becomes when we listen more carefully to who has been composing all along.</description>
       <source url="https://www.abc.net.au/news/2026-05-28/the-most-influential-female-composers-in-history-and-today/106704938">ABC Australia</source>
-    </item>
-    <item>
-      <title>'An additional set of eyes' - How AI could help fight breast cancer</title>
-      <link>https://www.rnz.co.nz/news/health/596574/an-additional-set-of-eyes-how-ai-could-help-fight-breast-cancer</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/health/596574/an-additional-set-of-eyes-how-ai-could-help-fight-breast-cancer</guid>
-      <pubDate>Wed, 27 May 2026 22:02:38 GMT</pubDate>
-      <description>New Zealand is preparing to integrate artificial intelligence into its breast cancer screening program as early as next year, a move that health advocates say could save lives through earlier detection. Rather than replacing human expertise, the AI will function as one of two independent readers currently required to assess mammograms, working alongside radiologists to identify areas that need closer examination.
-
-The Breast Cancer Foundation's chief executive emphasizes that this isn't about computers making autonomous medical decisions. Instead, the technology acts as "an additional set of eyes" in a labor-intensive process that traditionally requires two radiologists to independently review each mammogram. International evidence suggests that the combination of AI and human radiologists detects more cancers than two human readers alone, while also addressing workforce shortages affecting health systems worldwide. New Zealand faces its own radiologist shortage amid growing demand for screening services, making the technology particularly timely. However, the AI systems will need to be trained specifically on New Zealand's population data before their effectiveness can be fully measured.
-
-This story offers a grounded look at how artificial intelligence is being woven into healthcare—not as a replacement for human judgment, but as a support tool that could improve both access and outcomes. It's a reminder that technological progress in medicine often comes not from dramatic breakthroughs, but from thoughtful enhancements to existing processes that might quietly help catch cancers earlier, when they're most treatable.</description>
-      <source url="https://www.rnz.co.nz/news/health/596574/an-additional-set-of-eyes-how-ai-could-help-fight-breast-cancer">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
