@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 08:02:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 10:02:43 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dog swept out to sea rescued from island 800 metres off coast</title>
+      <link>https://www.abc.net.au/news/2026-06-01/dog-rescued-off-island-after-being-swept-into-ocean/106746584</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-01/dog-rescued-off-island-after-being-swept-into-ocean/106746584</guid>
+      <pubDate>Mon, 01 Jun 2026 10:02:41 GMT</pubDate>
+      <description>A resourceful dog on Australia's far south coast found itself in quite the predicament after being swept off rocks into the ocean at Batemans Bay, New South Wales. Rather than succumbing to panic, the large brown and white canine swam an impressive 800 metres to reach Snapper Island, demonstrating remarkable stamina during a swim that lasted between 20 and 30 minutes through open water.
+
+The rescue effort brought together volunteers from Marine Rescue NSW, a rescue vessel, a jetski team, and even private boats who kept watch for the stranded animal. When crews arrived at the island, they faced an unexpected challenge: the exhausted but wary dog wasn't ready to trust its rescuers. It took an hour of patient coaxing before volunteers could secure the dog and transport it back to shore via jetski. Rescuers also conducted a precautionary search of the area to ensure no person was in distress, considering the possibility the dog might have been trying to reach an owner in trouble.
+
+This story offers a quiet reminder of animal resilience and the dedication of volunteer rescue services who respond to all creatures in need. The dog, reportedly in fit and healthy condition despite its ordeal, is now with local council rangers who are working to locate its owner through microchip records. For Inspector Glenn Sullivan, who coordinated the rescue, it was a first—proof that even seasoned rescuers can encounter the unexpected, and that sometimes the most remarkable survival stories come with four legs and a wagging tail.</description>
+      <source url="https://www.abc.net.au/news/2026-06-01/dog-rescued-off-island-after-being-swept-into-ocean/106746584">ABC Australia</source>
+    </item>
     <item>
       <title>Historic journey along Overland Telegraph Line captures the imagination</title>
       <link>https://www.abc.net.au/news/2026-06-01/friends-recreate-historic-journey-in-1925-studebaker-cars/106746062</link>
@@ -594,18 +606,6 @@ The innovation is particularly relevant in her region, where cassava processing 
 
 This story is worth attention not for grand proclamations, but for its quiet practicality—a teenager identifying a problem in her community and building a solution from materials others discard. It's a reminder that meaningful innovation often starts locally, combining environmental stewardship with genuine care for people's health and dignity.</description>
       <source url="https://news.mongabay.com/2026/05/a-nigerian-teen-is-turning-agricultural-waste-into-biodegradable-sanitary-pads/">Mongabay</source>
-    </item>
-    <item>
-      <title>What is killing Sumatra’s elephants? The battle to save one of our rarest animals</title>
-      <link>https://www.theguardian.com/environment/2026/may/28/elephants-deaths-spur-move-for-sanctuary-in-indonesia-aoe</link>
-      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/may/28/elephants-deaths-spur-move-for-sanctuary-in-indonesia-aoe</guid>
-      <pubDate>Thu, 28 May 2026 06:02:41 GMT</pubDate>
-      <description>In the forests of southern Sumatra, a mother elephant and her calf were discovered dead alongside each other, their tusks untouched—a mystery that underscores a deepening crisis for one of the world's rarest elephant populations. The Sumatran elephant, critically endangered since 2011, has seen its numbers in Bengkulu province collapse from as many as 150 individuals in 2010 to fewer than 50 today. The deaths, still under investigation, reflect broader pressures: deforestation driven by logging and palm oil plantations has stripped away an estimated 1,585 hectares of elephant habitat in less than two years, forcing the animals into farmland and human settlements.
-
-In response to the April deaths, conservation authorities have deployed thermal-imaging drones to survey the remaining population before dawn, when cooler temperatures make the elephants' heat signatures easier to detect. The technology recently identified a group of seventeen elephants, including four calves—an encouraging sign, though experts caution that monitoring alone cannot reverse the trend. Two logging companies have had their permits revoked, and conservationists are calling for the Seblat landscape to be designated a protected wildlife sanctuary, with corridors established to allow isolated groups to intermingle and maintain genetic diversity.
-
-This story matters because it captures both the fragility and resilience of a species on the brink. The presence of calves offers a glimmer of hope, yet without addressing the root causes—habitat loss and human encroachment—even the most sophisticated monitoring will only document decline. It's a quiet reminder that saving a species requires more than technology; it demands reimagining how we share the land.</description>
-      <source url="https://www.theguardian.com/environment/2026/may/28/elephants-deaths-spur-move-for-sanctuary-in-indonesia-aoe">The Guardian</source>
     </item>
   </channel>
 </rss>
