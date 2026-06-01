@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 16:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 18:02:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘I was getting ready to say goodbye’: cancer patient’s hope after smart drug success</title>
+      <link>https://www.theguardian.com/science/2026/jun/01/cancer-patient-hope-after-smart-drug-trial-success</link>
+      <guid isPermaLink="false">https://www.theguardian.com/science/2026/jun/01/cancer-patient-hope-after-smart-drug-trial-success</guid>
+      <pubDate>Mon, 01 Jun 2026 18:02:39 GMT</pubDate>
+      <description>A new experimental cancer treatment is offering fresh hope to patients whose diseases had stopped responding to conventional therapies. Pat Brogan, a 68-year-old from Scotland with stage four lung cancer, has seen his tumors shrink by nearly a third after joining a clinical trial for GRWD5769, a "smart drug" that works by removing cancer cells' ability to hide from the immune system. This allows immunotherapy to locate and destroy the disease more effectively.
+
+Brogan's journey began in 2021 when he lost his voice and discovered tumors on his vocal chords. Despite a family history of cancer deaths and an initial prognosis that left him "getting ready to say goodbye," he responded well to initial treatments for three years. When his tumors began growing again, he faced a choice between intensive chemotherapy with uncertain outcomes or this experimental approach. The trial results, presented at a major oncology conference in Chicago, show promise for patients in similar situations.
+
+Now, Brogan is looking forward to moments he once thought impossible: walking his daughter down the aisle this month, planning a holiday to Spain with his wife Linda, and taking daily walks with his dog Seamus. His story illustrates both the remarkable potential of targeted cancer therapies and the quiet courage of patients who participate in research trials. For readers navigating their own health challenges or supporting loved ones through illness, Brogan's experience offers a reminder that medical breakthroughs often begin with individuals willing to try something new—and that hope can emerge even when the path forward seems unclear.</description>
+      <source url="https://www.theguardian.com/science/2026/jun/01/cancer-patient-hope-after-smart-drug-trial-success">The Guardian</source>
+    </item>
     <item>
       <title>With the aid of a drone, injured ocelot is rescued in forest area in Minas Gerais</title>
       <link>https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/01/com-auxilio-de-drone-jaguatirica-ferida-e-resgatada-em-area-de-mata-em-mg.ghtml</link>
@@ -594,18 +606,6 @@ The findings challenge the long-held belief that repellents work purely through 
 
 This research matters because it deepens our understanding of how insects interact with the tools we use to protect ourselves from disease-carrying bites. The practical takeaway remains reassuring: Deet continues to work effectively when applied as directed. The study simply reveals another layer of complexity in the ongoing evolutionary dance between humans and the creatures that share our world.</description>
       <source url="https://www.theguardian.com/environment/2026/may/28/deet-mosquito-spray-attract-insects-study-malaria-zika">The Guardian</source>
-    </item>
-    <item>
-      <title>How much suffering do invasive species cause? Researchers are measuring that</title>
-      <link>https://news.mongabay.com/2026/05/how-much-suffering-do-invasive-species-cause-researchers-are-measuring-that/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/05/how-much-suffering-do-invasive-species-cause-researchers-are-measuring-that/</guid>
-      <pubDate>Thu, 28 May 2026 14:03:14 GMT</pubDate>
-      <description>Scientists have created a new tool to measure something often invisible in conservation work: the suffering that invasive species cause to native animals. The framework, called AWICIS, emerged partly from observations like those made by biologist Birgit Fessl in the Galápagos Islands, where she discovered parasitic vampire flies that had been secretly killing and maiming finch chicks for decades. These flies, along with other invasive species like acid-spraying ants in Japan, inflict harm that goes largely unrecorded by existing standards, which focus mainly on environmental or economic damage.
-
-The new framework asks researchers to consider physical, behavioral, and psychological suffering, how it's inflicted, and for how long. When tested across hundreds of case studies involving birds and ants, AWICIS revealed that smaller invasive species—like flies and ants—cause significant suffering that traditional biodiversity assessments often miss. Interestingly, the framework also prompts conservationists to think about the welfare of invasive species themselves during management efforts. One challenge already apparent is that most documented cases come from wealthier countries, leaving a skewed picture of global impacts.
-
-This story matters because it asks us to expand how we understand ecological harm. By adding animal welfare to the conversation alongside biodiversity and economics, scientists hope to illuminate suffering that has long gone unnoticed and unmeasured. It's a quieter dimension of the invasion crisis—one that reveals not just which species are lost, but how much pain persists in the process.</description>
-      <source url="https://news.mongabay.com/2026/05/how-much-suffering-do-invasive-species-cause-researchers-are-measuring-that/">Mongabay</source>
     </item>
   </channel>
 </rss>
