@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 04:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 06:04:44 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The enigmatic summer phenomenon shining from the edge of space</title>
+      <link>https://www.theguardian.com/news/2026/jun/01/enigmatic-summer-phenomenon-noctilucent-clouds</link>
+      <guid isPermaLink="false">https://www.theguardian.com/news/2026/jun/01/enigmatic-summer-phenomenon-noctilucent-clouds</guid>
+      <pubDate>Mon, 01 Jun 2026 06:02:41 GMT</pubDate>
+      <description>High above Earth, at the very edge of space, an ethereal light show unfolds each summer. Noctilucent clouds—meaning "night shining" in Latin—appear about half an hour after sunset, glowing electric blue against the darkening western sky. These mysterious formations exist at roughly 80 kilometers altitude, making them the highest clouds known in our atmosphere, and their beauty is matched only by the puzzle they present to scientists.
+
+What makes these clouds particularly intriguing is their apparent novelty in human history. No recorded sightings exist before 1885, which seems remarkable given how visually striking they are. This timing has sparked several competing theories about their origin. Some researchers suggest they emerged alongside industrial pollution in the late 19th century, with aerosols providing nucleation sites for water ice. Others note the coincidence with Krakatoa's massive 1885 eruption. A third group points to climate change driving water vapor into the upper atmosphere as the enabling factor.
+
+This story offers a gentle reminder that Earth's atmosphere still holds mysteries, and that some of nature's most spectacular displays may be relatively recent arrivals. Whether caused by human activity, volcanic forces, or climate shifts, noctilucent clouds represent a phenomenon we're still working to understand—one that invites patient observers to look westward as twilight deepens, watching for that distinctive electric-blue glow at the frontier of space.</description>
+      <source url="https://www.theguardian.com/news/2026/jun/01/enigmatic-summer-phenomenon-noctilucent-clouds">The Guardian</source>
+    </item>
     <item>
       <title>Thousands of green sea turtle hatchlings swim to sea in a conservation win</title>
       <link>https://www.abc.net.au/news/2026-06-01/green-sea-turtle-babies-hatch-/106739118</link>
@@ -594,18 +606,6 @@ The journey to this official description spanned twenty years. Marine biologist 
 
 This discovery quietly celebrates both patient scientific work and the value of community observation. The hairy ghost pipefish demonstrates how creatures can remain scientifically unnamed despite being regularly seen and photographed, bridging the gap between professional research and public curiosity. It's a delightful example of nature's creativity—and a charming illustration that wonder and discovery remain embedded in the everyday world around us, waiting for the right combination of attention and expertise to bring them into focus.</description>
       <source url="https://news.mongabay.com/short-article/2026/05/new-species-of-ghost-pipefish-named-after-sesame-street-character-found-in-australia/">Mongabay</source>
-    </item>
-    <item>
-      <title>'Remarkable' large funnel cloud spotted in regional Victoria</title>
-      <link>https://www.abc.net.au/news/2026-05-28/avoca-funnel-cloud-spotted-regional-victoria/106730632</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-05-28/avoca-funnel-cloud-spotted-regional-victoria/106730632</guid>
-      <pubDate>Thu, 28 May 2026 02:03:19 GMT</pubDate>
-      <description>A striking funnel cloud captivated observers in regional Victoria this week when it appeared near Avoca, offering a rare glimpse of atmospheric drama in an otherwise quiet farming landscape. Ian Leech and his wife spotted the distinctive column-shaped cloud formation while traveling near Mount Hooghly, about 150 kilometres northwest of Melbourne. What began as a dark cloud with a bulge quickly developed into a funnel that appeared to reach toward the ground, lasting only four to five minutes before slowly dissolving from the bottom up.
-
-Bureau of Meteorology forecaster Jonathan How called the photographs "remarkable," noting that such formations typically appear during major cold fronts in alpine regions rather than during minor showers. The funnel cloud is created by a rotating column of wind at the base of a cloud, and while it resembles a tornado, it can only be classified as one if it actually touches the ground. In this case, the unique topography seemed to create the perfect conditions to capture and draw down the rotating winds. While funnel clouds don't typically cause damage unless they make ground contact, they remain relatively rare sights that often go unrecorded, particularly in less populated areas.
-
-This story offers a gentle reminder of nature's capacity for surprise, even in familiar settings. For Mr. Leech, who remained calm throughout the experience, it was "probably a once-in-a-lifetime thing." The convergence of the right weather conditions, landscape features, and observant eyes makes this brief atmospheric event quietly remarkable—a fleeting moment of natural spectacle in the Victorian countryside that was fortunate enough to be witnessed and documented.</description>
-      <source url="https://www.abc.net.au/news/2026-05-28/avoca-funnel-cloud-spotted-regional-victoria/106730632">ABC Australia</source>
     </item>
   </channel>
 </rss>
