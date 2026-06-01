@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 18:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 20:04:21 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Penguins return after feral cats culled from Little Dog Island</title>
+      <link>https://www.abc.net.au/news/2026-06-02/little-dog-island-cat-eradication/106745136</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-02/little-dog-island-cat-eradication/106745136</guid>
+      <pubDate>Mon, 01 Jun 2026 20:04:19 GMT</pubDate>
+      <description>A remote island in Bass Strait has welcomed back an unexpected visitor after decades of absence. Little Dog Island, part of Tasmania's Furneaux Group, has been declared free of feral cats following a carefully executed eradication program, and penguins have returned to its shores for the first time since the 1980s.
+
+The 83-hectare island serves as crucial habitat for an estimated half million nesting shearwaters each year, but introduced predators had been devastating bird populations for generations. Between 2022 and 2023, invasive species biologist Dr. Sue Robinson and her team trapped and humanely euthanised 21 feral cats—a surprisingly high number for such a small island, suggesting significant predation pressure. The cats, likely introduced decades ago when the island was used for grazing livestock, had been particularly hard on seasonal nesters like shearwaters and penguins. The team also removed over one hundred possums, another introduced predator affecting seabird colonies. Thermal imaging, scent detection dogs, and motion-sensing cameras have confirmed no cats remain.
+
+This success story joins other Australian island restoration efforts, including Western Australia's Dirk Hartog Island, which was declared cat-free in 2018. What makes Little Dog Island's transformation meaningful is its reminder that targeted conservation can create space for nature to recover remarkably quickly. The return of penguins after four decades suggests that when we remove the pressures we've inadvertently created, wildlife can reclaim lost ground—a quiet testament to resilience and the possibility of repair.</description>
+      <source url="https://www.abc.net.au/news/2026-06-02/little-dog-island-cat-eradication/106745136">ABC Australia</source>
+    </item>
     <item>
       <title>‘I was getting ready to say goodbye’: cancer patient’s hope after smart drug success</title>
       <link>https://www.theguardian.com/science/2026/jun/01/cancer-patient-hope-after-smart-drug-trial-success</link>
@@ -594,18 +606,6 @@ The findings raise questions about assumptions that such products are safe for p
 
 This story matters because it reveals how everyday human conveniences might have unintended consequences for the creatures we share our environments with. As the European Commission has just approved prallethrin use through 2036, the research serves as a gentle reminder that "sublethal effects," though harder to measure than outright mortality, deserve careful attention in our increasingly interconnected world.</description>
       <source url="https://news.mongabay.com/short-article/2026/05/household-mosquito-repellents-may-stop-bumblebees-from-finding-their-way-home/">Mongabay</source>
-    </item>
-    <item>
-      <title>Mosquitoes can become attracted to insect repellant, study suggests</title>
-      <link>https://www.theguardian.com/environment/2026/may/28/deet-mosquito-spray-attract-insects-study-malaria-zika</link>
-      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/may/28/deet-mosquito-spray-attract-insects-study-malaria-zika</guid>
-      <pubDate>Thu, 28 May 2026 16:02:22 GMT</pubDate>
-      <description>A surprising discovery about one of the world's most trusted defenses against mosquito bites suggests these insects may be more adaptable than previously thought. Researchers in France found that mosquitoes can learn to associate Deet—the active ingredient in many repellents—with feeding opportunities, much like Pavlov's famous dogs learned to connect a bell with food. In laboratory conditions, about 60% of mosquitoes that successfully fed on blood while exposed to Deet later attempted to bite when presented with the chemical alone, compared to just 17% of untrained insects.
-
-The findings challenge the long-held belief that repellents work purely through their chemical properties by being unpleasant or toxic to mosquitoes. Instead, the study reveals that mosquitoes possess impressive learning abilities that can modify their response to deterrents based on experience. This associative learning occurred specifically when mosquitoes fed while simultaneously exposed to Deet, but not when these experiences happened separately. While experts found the results remarkable, they emphasized that travelers shouldn't abandon their insect repellent. Under normal conditions, mosquitoes encounter different repellents across multiple feeding events, and it remains unclear how long such learned associations would last given that mosquitoes feed only every few days.
-
-This research matters because it deepens our understanding of how insects interact with the tools we use to protect ourselves from disease-carrying bites. The practical takeaway remains reassuring: Deet continues to work effectively when applied as directed. The study simply reveals another layer of complexity in the ongoing evolutionary dance between humans and the creatures that share our world.</description>
-      <source url="https://www.theguardian.com/environment/2026/may/28/deet-mosquito-spray-attract-insects-study-malaria-zika">The Guardian</source>
     </item>
   </channel>
 </rss>
