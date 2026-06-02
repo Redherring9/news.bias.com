@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 08:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 10:01:16 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The all-female fish species forcing scientists to rethink the role of sex in survival</title>
+      <link>https://www.bbc.com/mundo/articles/c0q2klkdwl9o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/c0q2klkdwl9o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Tue, 02 Jun 2026 10:01:15 GMT</pubDate>
+      <description>In the rivers of Mexico and southern Texas swims a fish that challenges fundamental assumptions about evolution and survival. The Amazon molly, named after Greek mythology's all-female warrior tribe, exists in populations made up entirely of females. Through a process called gynogenesis, these fish use sperm from males of closely related species merely to trigger egg development, quickly discarding the male DNA and producing only daughters—each one a clone of the mother.
+
+According to evolutionary theory, asexual species should quickly go extinct. Without sexual reproduction's genetic shuffling, harmful mutations accumulate in their genomes over time through what scientists call "Müller's ratchet"—errors that copy forward generation after generation like notches on a one-way gear. Sexual reproduction, despite its costs in energy and the inefficiency of passing on only half one's genes, dominates life on Earth precisely because it offers protection against this genetic degradation. Yet the Amazon molly has persisted for approximately 100,000 years, defying these expectations.
+
+This story offers a window into one of biology's most intriguing puzzles: how a species that shouldn't exist continues not just to survive, but to thrive. The Amazon molly's persistence is forcing scientists to reconsider their understanding of reproduction's role in species survival, suggesting that the rules governing life may be more flexible than traditional theory suggests. It's a reminder that nature occasionally writes exceptions to its own rules, and those exceptions have much to teach us.</description>
+      <source url="https://www.bbc.com/mundo/articles/c0q2klkdwl9o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Father completes 226 km Ironman alongside son with cerebral palsy in SC: 'He's the one who carries me'</title>
       <link>https://g1.globo.com/sc/santa-catarina/noticia/2026/06/02/pai-completa-ironman-filho-paralisia-cerebral-florianopolis.ghtml</link>
@@ -594,18 +606,6 @@ This pattern—sometimes called "high-functioning depression"—describes indivi
 
 This story matters because it challenges our assumptions about what depression looks like and reminds us that productivity isn't synonymous with wellness. For those who recognize themselves in this description, or who wonder about high-achieving friends and colleagues, it's a gentle reminder that outward competence can coexist with profound inner pain—and that seeking help isn't reserved only for those who've visibly stopped functioning.</description>
       <source url="https://www.dw.com/de/hochfunktionale-depression-wenn-leistung-leiden-verdeckt/a-77226284?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
-    </item>
-    <item>
-      <title>What went right this week: the good news that matters</title>
-      <link>https://www.positive.news/society/good-news-stories-from-week-22-of-2026/</link>
-      <guid isPermaLink="false">https://www.positive.news/society/good-news-stories-from-week-22-of-2026/</guid>
-      <pubDate>Fri, 29 May 2026 06:03:14 GMT</pubDate>
-      <description>A collection of encouraging developments from around the world offers a glimpse into quiet progress on multiple fronts. Among the highlights: twelve inventors have been shortlisted for the European Inventor Award, recognizing innovations that tackle pressing global challenges. Portuguese oncologist Paula Videira developed an antibody that precisely targets cancer cells, while Irish-British scientist Sir Adrian Hill led creation of a highly effective malaria vaccine. A Polish team designed a magnetic levitation system that could move rail freight without locomotives or fossil fuels.
-
-Beyond individual inventions, broader shifts are underway. For the first time ever, wind and solar power generated more of the world's electricity than natural gas in April 2024, accounting for 22 percent of global supply. Analysts attribute this milestone to long-term trends rather than short-term crises, noting that renewables have become economically attractive as cheap, secure energy sources. Meanwhile, transportation is transforming: global sales of new petrol and diesel cars peaked in 2017 and have since fallen by about a quarter, while electric vehicle sales more than doubled between 2022 and 2025. On the home front, research reveals that college-educated fathers in the United States have reduced paid work hours by an average of six per week since the pandemic, redirecting that time toward childcare and housework—a shift driven by men rather than women, marking a departure from historical patterns.
-
-These stories matter because they document real change happening beneath the noise of daily headlines. They remind us that human ingenuity, economic incentives, and evolving social values can align to address complex problems, one modest breakthrough at a time.</description>
-      <source url="https://www.positive.news/society/good-news-stories-from-week-22-of-2026/">Positive News</source>
     </item>
   </channel>
 </rss>
