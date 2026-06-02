@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Jun 2026 02:04:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 04:04:10 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘They take you out of life, out of time’: a journey into Spain’s astonishing cave paintings</title>
+      <link>https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira</link>
+      <guid isPermaLink="false">https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira</guid>
+      <pubDate>Tue, 02 Jun 2026 04:04:08 GMT</pubDate>
+      <description>Deep in the caves of northern Spain, prehistoric art created up to 34,000 years ago still adorns stone walls with images of long-extinct animals like aurochs, mammoths, and steppe bison. Professor Diego Garate Maidagan is among the handful of people permitted to enter Altamira, the most famous of these galleries, which was sealed by rockfall millennia ago and only rediscovered in 1868 when a dog scratched its way inside. The cave's artwork was so sophisticated that French experts initially dismissed it as a hoax—until similar caves appeared in France. After opening to the public in 1917, Altamira eventually had to close permanently in 2002 because visitors' breath was damaging the pigments, though a replica now exists nearby.
+
+Garate specializes in studying the techniques early Homo sapiens used to create these masterpieces, examining how they etched outlines with flint before applying ochre and charcoal. Altamira's colors remain remarkably vivid because the rockfall created near-quarantine conditions. Recent scholarship suggests that Paleolithic people painted across vast swaths of western Europe, and what survives as "cave art" represents only the works created in the deepest recesses where pigments could endure. Most other sites retain only faint chisel marks—ghostly traces of animals once as common as today's cattle.
+
+This story offers a rare glimpse into humanity's earliest artistic achievements and the painstaking work required to understand them. It's a reminder that our ancestors were far more sophisticated than once imagined, and that these fragile traces of their world demand both reverence and protection—a quiet testament to creativity that has outlasted empires and epochs.</description>
+      <source url="https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira">The Guardian</source>
+    </item>
     <item>
       <title>In Java, a women’s collective is helping save gibbons through forest-inspired textiles</title>
       <link>https://news.mongabay.com/2026/06/in-java-a-womens-collective-is-helping-save-gibbons-through-forest-inspired-textiles/</link>
@@ -594,18 +606,6 @@ Escape wasn't simple. It took Firooza and her family fifteen attempts to flee Af
 
 This story offers a quiet testament to resilience and the power of sport to sustain hope through unimaginable circumstances. While FIFA recently recognized displaced Afghan players for international competition, Firooza continues advocating for the International Cricket Council to do the same for cricket, so her team might one day compete in a World Cup. It's a reminder that behind every athlete is a journey, and for these women, the simple act of playing the sport they love represents a hard-won freedom.</description>
       <source url="https://www.abc.net.au/news/2026-05-29/nt-afghan-refugee-women-athletes-cricket-tour-of-darwin/106731180">ABC Australia</source>
-    </item>
-    <item>
-      <title>The Amazon’s path from crisis to durability</title>
-      <link>https://news.mongabay.com/2026/05/the-amazons-path-from-crisis-to-durability/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/05/the-amazons-path-from-crisis-to-durability/</guid>
-      <pubDate>Fri, 29 May 2026 00:02:38 GMT</pubDate>
-      <description>The Amazon rainforest faces a more complex challenge than deforestation statistics alone suggest. A forest can appear intact on satellite maps while quietly losing its ecological health, legal protections, or community support. This disconnect between appearance and reality lies at the heart of why conservation efforts sometimes fall short, even when forests technically remain standing.
-
-Six interconnected gaps complicate Amazon protection: finance and forest economy, governance, enforcement, forest function, Indigenous rights, and narrative. The financial gap is particularly stark. Brazil alone needs roughly $12.8 billion annually to meet forest policy goals but receives only about $408 million in forest-positive funding. Meanwhile, forest-negative finance—loans and subsidies supporting agricultural expansion—flows at eight times the rate of conservation funding. Beyond raw funding, the economic problem runs deeper: in many communities, the most accessible income still comes from cattle ranching, mining, or land speculation rather than forest-compatible activities. Protecting forests becomes more sustainable when standing forests can also support local livelihoods and municipal revenues.
-
-Yet the article strikes a note of cautious optimism. Brazil has successfully reduced deforestation before. Satellite monitoring can strengthen enforcement when paired with consequences. Indigenous land rights have proven effective at protecting forests. The central challenge is alignment—ensuring that finance, governance, enforcement, rights, monitoring, and public narratives all pull in the same direction. This story matters because it reframes Amazon conservation not as an impossible crisis but as a systems problem with identifiable gaps and documented solutions, offering a more grounded path forward than despair or wishful thinking alone.</description>
-      <source url="https://news.mongabay.com/2026/05/the-amazons-path-from-crisis-to-durability/">Mongabay</source>
     </item>
   </channel>
 </rss>
