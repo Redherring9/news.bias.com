@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 12:04:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 14:02:09 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pigeons navigate with help from 'compass' in liver that detects Earth's magnetic field, study says</title>
+      <link>https://g1.globo.com/meio-ambiente/noticia/2026/06/04/pombas-se-orientam-com-ajuda-de-bussola-que-possuem-no-figado.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/meio-ambiente/noticia/2026/06/04/pombas-se-orientam-com-ajuda-de-bussola-que-possuem-no-figado.ghtml</guid>
+      <pubDate>Thu, 04 Jun 2026 14:02:07 GMT</pubDate>
+      <description>For centuries, homing pigeons have amazed humans with their ability to find their way home across distances of nearly a thousand kilometers, navigating reliably regardless of weather or time of day. Scientists have known for about a century that this remarkable feat involves the birds' ability to sense Earth's magnetic field, but the mechanism behind this perception has remained elusive—until now.
+
+A new study published in Science by researchers from the University of Bonn and the Max Planck Institute of Animal Behavior reveals an unexpected answer: the secret may lie in the pigeons' livers. Immune cells called macrophages, which naturally break down aging red blood cells and accumulate iron in the process, appear to function as tiny magnetic sensors. This iron crystallizes into nanoparticles of oxide, giving these cells quantum properties that allow them to detect Earth's magnetism like an internal compass. When researchers experimentally compromised these liver cells in trained pigeons, the birds struggled to navigate home on cloudy days, though they managed slightly better when the sun was visible and could provide additional orientation cues.
+
+This discovery settles a long-standing scientific debate between competing theories about whether birds sense magnetic fields through light-sensitive molecules in their eyes or magnetic particles in their beaks. The finding that immune cells—positioned near nerve fibers that likely relay information to the brain—serve as magnetic sensors represents an entirely new understanding of animal navigation. It's a quietly profound reminder that nature's solutions often hide in unexpected places, revealing how evolution repurposes ordinary biological processes into extraordinary navigational tools.</description>
+      <source url="https://g1.globo.com/meio-ambiente/noticia/2026/06/04/pombas-se-orientam-com-ajuda-de-bussola-que-possuem-no-figado.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>In Malawi, one woman’s farm shows what’s possible with land and support</title>
       <link>https://news.mongabay.com/2026/06/in-malawi-one-womans-farm-shows-whats-possible-with-land-and-support/</link>
@@ -594,18 +606,6 @@ The headstarting program represents an emergency measure to reverse this decline
 
 What makes this discovery so meaningful is the question it begins to answer: can intensive conservation efforts turn the tide for a species in freefall? The young curlew's return to breed suggests the answer might be yes, though conservationists caution there's a long road ahead before the eggs hatch and any chicks learn to fly. For those working tirelessly to protect these wading birds — from firefighters who recently rescued curlew eggs from a wildfire to local landowners and volunteers — this single nest represents more than three eggs. It's a fragile but genuine sign that careful stewardship can bring a remarkable bird back from the brink.</description>
       <source url="https://www.bbc.com/news/articles/ckgpw7rzlz4o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>New tree frog discovered in Minas Gerais cerrado is the size of a spoon and has a high-pitched call; LISTEN</title>
-      <link>https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/05/31/nova-perereca-descoberta-no-cerrado-mineiro-tem-o-tamanho-de-uma-colher-e-o-canto-agudo-ouca.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/05/31/nova-perereca-descoberta-no-cerrado-mineiro-tem-o-tamanho-de-uma-colher-e-o-canto-agudo-ouca.ghtml</guid>
-      <pubDate>Sun, 31 May 2026 10:03:23 GMT</pubDate>
-      <description>Researchers have discovered a new species of tree frog in the Cerrado region of northwest Minas Gerais, Brazil. Named Ololygon paracatu after the Rio Paracatu tributaries where it lives, this tiny amphibian is roughly the size of a soup spoon and produces a high-pitched, delicate call that resembles the sound of crickets or other nocturnal insects. The discovery highlights how sound serves as a crucial identifier in the natural world.
-
-Biologist Daniele Carvalho from Brazil's National Research and Conservation Center for Reptiles and Amphibians explains that each frog species possesses its own unique "sound signature." For Ololygon paracatu, this acoustic fingerprint proved essential to identification—researchers differentiated it from related species primarily through its distinctive call. Males use these calls during the rainy season to attract females and establish territory, and the pitch variations help prevent interbreeding among similar species sharing the same habitat. Males measure between 20.4 and 28.2 millimeters, while females range from 29.3 to 35.2 millimeters, placing this species at an intermediate size among the eight related tree frog species in the region.
-
-This story offers a gentle reminder of the rich biodiversity still being uncovered in threatened ecosystems like the Cerrado. The frog's cricket-like call and spoon-sized stature make it an unexpectedly charming ambassador for the careful scientific work of cataloging life before it disappears—a quiet but meaningful addition to our understanding of the natural world.</description>
-      <source url="https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/05/31/nova-perereca-descoberta-no-cerrado-mineiro-tem-o-tamanho-de-uma-colher-e-o-canto-agudo-ouca.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
