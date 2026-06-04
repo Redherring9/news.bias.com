@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 18:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 20:03:30 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Is this the end of the craft beer revolution?</title>
+      <link>https://www.rnz.co.nz/news/business/597170/tide-going-out-on-the-craft-brewing-industry</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/business/597170/tide-going-out-on-the-craft-brewing-industry</guid>
+      <pubDate>Thu, 04 Jun 2026 20:03:28 GMT</pubDate>
+      <description>New Zealand's craft beer industry, which flourished for nearly a decade, is now navigating a perfect storm of challenges that threaten its vibrancy. What was once a booming sector filled with optimism and growth has encountered a sobering reality: hospitality headwinds, annual excise tax increases, fluctuating delivery costs, CO2 shortages, and a cultural shift among younger drinkers who are less inclined to gather at pubs.
+
+The latest crisis centers on kegs—the vessels that carry beer from breweries to bars. New Zealand had two companies managing keg logistics, but Konvoy has entered liquidation, leaving only Kegstar in the market. When Kegstar attempted to acquire Konvoy's assets, the Commerce Commission blocked the move to prevent a monopoly, creating uncertainty that has prompted some breweries to cut production for fear their beer will go stale. Kegs are expensive—about $230 each—and owning a fleet can cost hundreds of thousands of dollars, making the leasing model essential for smaller operations. Christina Pickwell of Liberty Brewing describes the situation as "terrifying," noting that keg sales represent 30 percent of their business with higher profit margins than packaged beer. Some brewers have begun hoarding kegs, compounding the problem for others.
+
+Despite the difficulties, industry voices remain cautiously hopeful. Brian Watson of Good George acknowledges the tide has gone out but believes it will return. This story offers a window into the fragile economics of small-scale food production and the ripple effects when essential infrastructure falters—a reminder that even beloved local industries operate on surprisingly delicate foundations.</description>
+      <source url="https://www.rnz.co.nz/news/business/597170/tide-going-out-on-the-craft-brewing-industry">Radio New Zealand</source>
+    </item>
     <item>
       <title>‘They surprise me every time’: bees can use tools to solve problems, study finds</title>
       <link>https://www.theguardian.com/environment/2026/jun/04/bees-use-tools-to-solve-problems-study-finds</link>
@@ -594,18 +606,6 @@ Lucas Emanuel, eight years old and hospitalized since November 2025 for lymphoma
 
 What makes this story quietly remarkable is how a child's longing for connection created something meaningful for an entire community of young patients. Lucas didn't just want to collect stickers—he wanted children in hospitals across Brazil to be remembered, to have their own trading spots just like kids everywhere else. Medical professionals note that playful activities like this support emotional wellbeing and ease the difficulty of long hospital stays. In a place defined by illness and treatment, these sticker exchanges offer something precious: the chance to simply be kids together, united by a shared hobby rather than a shared diagnosis.</description>
       <source url="https://g1.globo.com/pb/paraiba/noticia/2026/05/31/troca-de-figurinhas-da-copa-do-mundo-une-criancas-em-tratamento-contra-o-cancer-em-hospital-da-pb.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Idol Mozart - The Search for Beauty in Times of Crisis</title>
-      <link>https://www.dw.com/de/idol-mozart-die-suche-nach-schönheit-in-krisenzeiten/a-77365415?maca=de-rss-de-all-1119-xml-mrss</link>
-      <guid isPermaLink="false">https://www.dw.com/de/idol-mozart-die-suche-nach-schönheit-in-krisenzeiten/a-77365415?maca=de-rss-de-all-1119-xml-mrss</guid>
-      <pubDate>Sun, 31 May 2026 16:02:44 GMT</pubDate>
-      <description>As the world navigates turbulent times, Germany's largest Mozart festival in Würzburg has chosen a telling theme: "Idol Mozart - Invoked Beauty." The festival's artistic director observes that when global crises and conflicts dominate headlines, people instinctively reach for something that connects rather than divides — and Mozart's music has served that role across centuries.
-
-The festival's opening concert illustrated this pattern beautifully, pairing Mozart's penultimate symphony with works by Maurice Ravel and Sergei Prokofiev, both composers who revered Mozart and turned to his aesthetic during their own dark times. Ravel wrote "Le Tombeau de Couperin" during World War I as a memorial to fallen friends, drawing on Mozart's clarity and elegance. Prokofiev, returning to Stalinist Russia in the 1930s amid mass arrests and atrocities, embraced what he called "new simplicity," composing melodically when his contemporaries pursued the avant-garde. His second violin concerto, performed by Chinese violinist Tianwa Yang to rapturous applause, exemplifies this return to beauty as refuge. What strikes contemporary listeners as effortlessly beautiful in Mozart's music was often provocative in his own time — complex, dissonant, even overwhelming. After his death in 1791, he was reshaped into a symbol: a national genius around whom fractured Europe could unite, later a beacon of order and humanity after the world wars.
-
-This story offers a quietly profound meditation on how art functions during uncertainty. It reminds us that the search for beauty isn't escapism but a deeply human response to chaos — and that the music we turn to for comfort often carried its own era's struggles within it.</description>
-      <source url="https://www.dw.com/de/idol-mozart-die-suche-nach-schönheit-in-krisenzeiten/a-77365415?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
     </item>
   </channel>
 </rss>
