@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 02:02:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 04:02:24 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How Dorothy the courageous kitten was reunited with rescuers</title>
+      <link>https://www.abc.net.au/news/2026-06-05/abandoned-melbourne-kitten-finds-new-home-after-injuries/106762910</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-05/abandoned-melbourne-kitten-finds-new-home-after-injuries/106762910</guid>
+      <pubDate>Fri, 05 Jun 2026 04:02:23 GMT</pubDate>
+      <description>On an autumn morning in Melbourne's west, Lynn Dall'Acqua and her daughter-in-law Tahlia Kirkham witnessed an act that stopped them in their tracks: two kittens being thrown from the window of a moving car. The pair immediately halted traffic on both sides of the road and began searching for the injured animals. While one kitten could not be found, they discovered the second—a Russian blue barely six weeks old—hiding beneath a parked car with a fractured pelvis.
+
+The rescuers rushed the kitten to Lort Smith Animal Hospital in North Melbourne, where she underwent emergency surgery and had her tail amputated due to injuries from the fall. Over a 70-day hospital stay, the kitten they named Dorothy endured several surgeries and was fostered between treatments by hospital staff. Dr. Elsa Vartola, one of the veterinarians who cared for her, described the team's shock at such cruelty and their determination to help Dorothy recover. Throughout her long healing process, Lynn and Tahlia visited regularly, building a deepening bond with the resilient young cat.
+
+At three-and-a-half months old, Dorothy found her happy ending when Lynn and Tahlia officially adopted her—the same people who had saved her life. Veterinarians emphasized that while deliberate injury is uncommon, pet abandonment is not, and urged anyone unable to care for an animal to contact shelters or vets rather than resorting to cruelty. Dorothy's story is a quiet testament to compassion in action: two strangers who refused to look away, medical professionals who fought for a tiny life, and a kitten whose courage through adversity earned her a loving forever home.</description>
+      <source url="https://www.abc.net.au/news/2026-06-05/abandoned-melbourne-kitten-finds-new-home-after-injuries/106762910">ABC Australia</source>
+    </item>
     <item>
       <title>Corpus Christi Carpets Maintain Tradition and Faith in Brazil's Streets</title>
       <link>https://g1.globo.com/jornal-nacional/noticia/2026/06/04/tapetes-de-corpus-christi-mantem-tradicao-e-fe-pelas-ruas-do-brasil.ghtml</link>
@@ -594,18 +606,6 @@ Swift parrots breed in Tasmania during summer, then migrate to mainland Australi
 
 This story offers a quiet reminder of nature's resilience and unpredictability. It highlights how migration patterns can shift year to year based on ecological conditions, and underscores the fragile balance these birds navigate. For conservationists battling habitat loss and predators like sugar gliders, the sighting is both hopeful and sobering—a glimpse of survival against steep odds, and a testament to the importance of protecting the forested corridors these brilliant, scarlet-faced travelers depend upon.</description>
       <source url="https://www.abc.net.au/news/2026-06-01/critically-endangered-swift-parrots-sighted-in-northern-nsw-surp/106742056">ABC Australia</source>
-    </item>
-    <item>
-      <title>What is the 'Wason selection task' — and why it is one of the most puzzling logic problems in history</title>
-      <link>https://www.bbc.com/portuguese/articles/c0l225we1xwo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/c0l225we1xwo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Mon, 01 Jun 2026 00:03:01 GMT</pubDate>
-      <description>A simple puzzle involving four cards has stumped countless people for nearly six decades, revealing something profound about how humans think. Created by British psychologist Peter Wason in 1966, the Wason Selection Task presents four cards showing E, K, 4, and 7, with the instruction that if a card has a vowel on one side, it must have an even number on the other. Participants must determine which cards to flip to verify this rule—yet only about 10% get it right.
-
-The correct answer is E and 7, but most people choose E and 4 instead. The error lies in a peculiar blind spot: while people readily check what confirms the rule (E could confirm it, 4 seems relevant because it's even), they overlook what could disprove it. The card showing 7 is crucial because finding a vowel on its reverse would immediately break the rule. Meanwhile, card 4 is a red herring—the rule doesn't claim all even numbers must have vowels. Wason himself had an unconventional approach to research, preferring to design experiments first and form hypotheses afterward, letting the mind "give itself away" through unexpected results.
-
-This deceptively simple task became one of the most studied problems in the psychology of reasoning because it revealed that human logic doesn't work quite as we assumed. Wason transformed ancient philosophical intuitions about the limits of reason into something that could be experimentally observed and measured, offering a window into the systematic ways our thinking can lead us astray—even when we're certain we're being perfectly logical.</description>
-      <source url="https://www.bbc.com/portuguese/articles/c0l225we1xwo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
     </item>
   </channel>
 </rss>
