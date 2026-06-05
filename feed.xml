@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 16:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 18:03:00 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The unprecedented vaccine developed by artificial intelligence</title>
+      <link>https://www.bbc.com/portuguese/articles/ckgpgzpyznno?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/ckgpgzpyznno?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 05 Jun 2026 18:02:59 GMT</pubDate>
+      <description>Researchers at the University of Cambridge have developed what they describe as a fundamentally new type of vaccine, with a key component designed entirely by artificial intelligence and tested in human trials for the first time. The vaccine aims to protect against all coronaviruses—including existing COVID-19 variants and animal viruses that could spark future pandemics—by teaching the immune system to recognize a broad family of threats rather than chasing individual strains.
+
+Traditional vaccines are built around current viral strains, but many viruses mutate quickly, rendering protection outdated and requiring constant updates to flu and COVID vaccines. The Cambridge team took a different approach: they fed genetic codes from a wide variety of coronaviruses into an AI system, which then designed a "super-antigen" capable of training the immune system against the entire viral family, even as it evolves. Early trials with 39 participants confirmed the vaccine's safety, and a larger study with 200 people is underway to assess immune response. Though the immune impact so far has been described as modest, researchers are optimistic about the technology's potential.
+
+The team is already applying the same AI-driven approach to other threats, including universal flu vaccines, H5N1 bird flu, and viral hemorrhagic fevers like Ebola. What makes this story quietly remarkable is the shift it represents: rather than reacting to outbreaks after they emerge, scientists are using AI to anticipate and prepare for diseases that don't yet pose a human threat. It's a glimpse of a future where vaccine development stays ahead of viral evolution, offering a proactive shield against the next pandemic.</description>
+      <source url="https://www.bbc.com/portuguese/articles/ckgpgzpyznno?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Scientists make sourdough bread using yeast found in 5,000-year-old mummy</title>
       <link>https://www.theguardian.com/science/2026/jun/05/scientists-sourdough-bread-yeast-strains-mummy</link>
@@ -594,18 +606,6 @@ The rescue effort brought together the Fire Department, the State Forestry Insti
 
 This story offers a quiet testament to the intersection of wildlife conservation and human infrastructure in Brazil's Zona da Mata region. It highlights how agencies can collaborate effectively when roadways and wild habitats overlap, and how technology like thermal drones has become an essential tool in locating injured animals that might otherwise remain hidden. For readers, it's a reminder that behind every wildlife rescue lies a network of trained professionals working to give vulnerable creatures a second chance—and that when we encounter wild animals in distress, the best response is always to call for help rather than intervene ourselves.</description>
       <source url="https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/01/com-auxilio-de-drone-jaguatirica-ferida-e-resgatada-em-area-de-mata-em-mg.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>'Fishwatching': fish observation combines connection with nature, photography and well-being</title>
-      <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/06/01/fishwatching-observacao-de-peixes-alia-conexao-com-a-natureza-fotografia-e-saude-mental.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/06/01/fishwatching-observacao-de-peixes-alia-conexao-com-a-natureza-fotografia-e-saude-mental.ghtml</guid>
-      <pubDate>Mon, 01 Jun 2026 14:02:28 GMT</pubDate>
-      <description>Beneath the surface of Brazil's rivers lies a vibrant, silent world that's capturing the attention of nature enthusiasts through a practice called fishwatching. This growing activity invites people to observe freshwater fish in their natural habitats, combining environmental awareness with stunning underwater photography and a meditative connection to aquatic ecosystems. Unlike birdwatching in the treetops, fishwatching asks observers to dip below the water's mirror and discover a realm where time moves differently.
-
-Fernando Henriques, an environmental consultant and volunteer with the Projeto Piaba—an initiative promoting sustainable management of ornamental fish in the Rio Negro Basin—has turned his aquarium fascination into active exploration of Brazil's underwater gardens. He describes how the calm and silence of subaquatic landscapes create a uniquely intimate experience. Many fish species are far less skittish than terrestrial wildlife, allowing observers to approach within centimeters and study their behavior in detail. While Bonito is Brazil's most famous destination for crystal-clear waters, Henriques highlights Amazonian streams (igarapés) as extraordinary hidden frontiers, especially during dry season when these small channels reveal translucent waters teeming with colorful species like the cardinal tetra. The practice extends beyond the Amazon to Atlantic Forest streams, Cerrado wetlands, and even northeastern semi-arid regions.
-
-What makes fishwatching particularly appealing is its accessibility. Beginners need only a mask, snorkel, and waterproof phone case to start—even non-swimmers can participate with life vests. The key technique is floating calmly near shallow margins where the richest colors and diversity hide among aquatic plants. This story matters because it reveals how slowing down and looking beneath familiar surfaces can unveil entire worlds we've overlooked, offering both ecological insight and peaceful contemplation in our own backyards.</description>
-      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/06/01/fishwatching-observacao-de-peixes-alia-conexao-com-a-natureza-fotografia-e-saude-mental.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
