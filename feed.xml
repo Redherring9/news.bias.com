@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 00:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 02:03:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meet the Filipinas inspiring a new motorsport generation</title>
+      <link>https://www.abc.net.au/news/2026-06-06/filipina-women-motorsport-julia-de-los-angeles-angie-mead-king/106733452</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-06/filipina-women-motorsport-julia-de-los-angeles-angie-mead-king/106733452</guid>
+      <pubDate>Sat, 06 Jun 2026 02:03:39 GMT</pubDate>
+      <description>In the Philippines, women are transforming motorsport from a spectator experience into a career path, inspired by Netflix's Drive to Survive and pioneering female drivers. Julia de los Angeles and Angie Mead King represent two generations working to break down barriers in this traditionally male-dominated field, each facing unique challenges but sharing a determination to compete at the highest levels.
+
+De los Angeles, one of only four women in the Toyota Gazoo Racing Philippine Cup, describes the subtle but persistent gender dynamics on the grid. She recounts moments when fellow racers joked about being "beaten by a girl," creating an atmosphere where support and rivalry intertwine uncomfortably. Rather than viewing the playing field as equal, she acknowledges that success requires extra effort and mental fortitude, pushing herself to prove that gender doesn't limit capability. King's journey offers a different perspective: after coming out as trans in 2016, she nearly abandoned her motorsport career, uncertain whether the industry would accept her authentic self. Inspired by UK trans racer Charlie Martin, she chose to stay, becoming a trailblazer for trans women in Philippine motorsport.
+
+This story matters because it reveals how inclusion happens gradually, person by person, through the courage of individuals who refuse to leave spaces they love. De los Angeles and King aren't just racing—they're quietly redefining who belongs in the driver's seat, creating pathways for the next generation of women and girls who see motorsport as their calling, not just their entertainment.</description>
+      <source url="https://www.abc.net.au/news/2026-06-06/filipina-women-motorsport-julia-de-los-angeles-angie-mead-king/106733452">ABC Australia</source>
+    </item>
     <item>
       <title>At 1 Hotel Tokyo, luxury is a zero-waste journey</title>
       <link>https://www.japantimes.co.jp/life/2026/06/06/travel/1-hotel-tokyo-sustainability-nature-luxury-akasaka/</link>
@@ -594,18 +606,6 @@ Thomas Pesquet, already a familiar name in spaceflight, will command a mission t
 
 This story quietly captures a transition moment in space exploration, as international partnerships extend beyond government agencies to include commercial ventures. With three astronauts currently active—including Sophie Adenot, who is aboard the ISS now—France stands alone in Europe for its depth of human spaceflight capability. It's a reminder that space, once the domain of superpowers, is becoming a stage where expertise, collaboration, and innovation matter as much as national flags.</description>
       <source url="https://www.france24.com/fr/%C3%A9co-tech/20260601-astronautes-francais-thomas-pesquet-arnaud-prost-partiront-dans-l-espace-2027-vast-spacex-iss">France 24</source>
-    </item>
-    <item>
-      <title>The 'radical' plan to clean up Northland's Lake Ōmāpere</title>
-      <link>https://www.rnz.co.nz/news/regions_northland/596965/the-radical-plan-to-clean-up-northland-s-lake-omapere</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/regions_northland/596965/the-radical-plan-to-clean-up-northland-s-lake-omapere</guid>
-      <pubDate>Mon, 01 Jun 2026 22:04:15 GMT</pubDate>
-      <description>Lake Ōmāpere, Northland's largest lake, was once so clear that 93-year-old Ani Martin remembers drinking from it as a child. The 1200-hectare water body served as a food basket for the Ngāpuhi people, teeming with eels, fish, freshwater mussels, and aquatic plants. But since the 1980s, toxic bacterial blooms fueled by nutrient runoff—a legacy of kauri forest clearance over a century ago—have transformed it into a lurid green dead zone where little can survive.
-
-For decades, restoration efforts have stalled due to politics, funding shortfalls, and impractical proposals. Now, the Lake Ōmāpere Trust, working with international freshwater experts, has developed what they believe is a viable path forward. Project manager Hone Dalton emphasizes the urgency: the lake's ecosystem is in total collapse, and without intervention, recovery may become impossible. The plan unfolds in phases, starting with clearing log jams and invasive weeds at the lake outlet, then constructing filtering islands made from local rocks and plants to absorb nutrients before water flows into Hokianga Harbour. The more ambitious later phase involves dredging the 700mm-deep sediment layer rich in phosphates and nitrogen—the source that keeps feeding the blooms. This sediment could be repurposed as fertilizer for farms and orchards.
-
-This story matters because it captures a community refusing to accept the loss of a treasured place. As Dalton puts it, the lake is seen as a mother whose future is entwined with the people's own. It's a quiet testament to persistence, scientific collaboration, and the possibility that even deeply damaged ecosystems can find their way back to health when care meets commitment.</description>
-      <source url="https://www.rnz.co.nz/news/regions_northland/596965/the-radical-plan-to-clean-up-northland-s-lake-omapere">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
