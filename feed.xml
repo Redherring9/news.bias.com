@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 12:03:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 14:02:44 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The fish species that has lived without males for 100,000 years</title>
+      <link>https://www.bbc.com/portuguese/articles/c8e80k7xxr3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/c8e80k7xxr3o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sat, 06 Jun 2026 14:02:42 GMT</pubDate>
+      <description>In the warm, slow-moving rivers of Mexico and southern Texas swims a fish that shouldn't exist—at least not according to conventional evolutionary theory. The Amazon molly is a species composed entirely of females that has thrived for roughly 100,000 years without males of its own kind. These silvery fish engage in an unusual reproductive strategy called gynogenesis: females mate with males from related species, but the sperm only triggers egg development without contributing any genetic material. Each offspring is a clone of its mother, inheriting none of the father's DNA.
+
+This presents a biological puzzle that has intrigued scientists for nearly a century. Traditional evolutionary theory suggests asexual species should quickly go extinct because they accumulate harmful mutations over time without the genetic shuffling that sexual reproduction provides. Sex, despite being energetically costly and requiring individuals to find mates while passing on only half their genes, dominates the tree of life for good reason. It creates genetic variety through recombination—like shuffling a deck of cards—allowing populations to explore diverse genetic possibilities and purge harmful mutations through a process that prevents what's known as Müller's ratchet.
+
+Yet the Amazon molly, named not for the South American rainforest but for the warrior women of Greek mythology, persists against the odds. New research is beginning to unravel how this unassuming little fish survives when theory says it should have disappeared long ago. The findings suggest that asexual species may be more resilient than previously believed, challenging long-held assumptions about the necessity of sex for long-term survival and offering fresh insights into the remarkable adaptability of life.</description>
+      <source url="https://www.bbc.com/portuguese/articles/c8e80k7xxr3o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Forró, popcorn and little flags: Brazilian professor in the US brings festa junina tradition to American children</title>
       <link>https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/06/forro-pipoca-e-bandeirinhas-professor-brasileiro-nos-eua-leva-tradicao-da-festa-junina-a-criancas-americanas.ghtml</link>
@@ -594,18 +606,6 @@ The Central African Republic has some of the highest maternal mortality rates in
 
 This story matters because it captures a collision of crises—displacement, poverty, and policy shifts—playing out in the lives of some of the world's most vulnerable people. Aid agencies warn that the cost of maintaining basic maternity care is modest compared to the toll of preventable deaths, and they're calling for sustained support. It's a reminder that behind funding decisions lie real bodies, real births, and the question of who gets to survive childbirth in 2025.</description>
       <source url="https://www.aljazeera.com/gallery/2026/6/2/refugee-women-in-car-face-childbirth-risks-amid-us-funding-cuts?traffic_source=rss">Al Jazeera</source>
-    </item>
-    <item>
-      <title>The all-female fish species forcing scientists to rethink the role of sex in survival</title>
-      <link>https://www.bbc.com/mundo/articles/c0q2klkdwl9o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/c0q2klkdwl9o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Tue, 02 Jun 2026 10:01:15 GMT</pubDate>
-      <description>In the rivers of Mexico and southern Texas swims a fish that challenges fundamental assumptions about evolution and survival. The Amazon molly, named after Greek mythology's all-female warrior tribe, exists in populations made up entirely of females. Through a process called gynogenesis, these fish use sperm from males of closely related species merely to trigger egg development, quickly discarding the male DNA and producing only daughters—each one a clone of the mother.
-
-According to evolutionary theory, asexual species should quickly go extinct. Without sexual reproduction's genetic shuffling, harmful mutations accumulate in their genomes over time through what scientists call "Müller's ratchet"—errors that copy forward generation after generation like notches on a one-way gear. Sexual reproduction, despite its costs in energy and the inefficiency of passing on only half one's genes, dominates life on Earth precisely because it offers protection against this genetic degradation. Yet the Amazon molly has persisted for approximately 100,000 years, defying these expectations.
-
-This story offers a window into one of biology's most intriguing puzzles: how a species that shouldn't exist continues not just to survive, but to thrive. The Amazon molly's persistence is forcing scientists to reconsider their understanding of reproduction's role in species survival, suggesting that the rules governing life may be more flexible than traditional theory suggests. It's a reminder that nature occasionally writes exceptions to its own rules, and those exceptions have much to teach us.</description>
-      <source url="https://www.bbc.com/mundo/articles/c0q2klkdwl9o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
