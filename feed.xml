@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 16:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 18:03:22 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Our Changing World: Building New Zealand’s RNA capabilities</title>
+      <link>https://www.rnz.co.nz/news/science-and-technology/597603/our-changing-world-building-new-zealand-s-rna-capabilities</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/science-and-technology/597603/our-changing-world-building-new-zealand-s-rna-capabilities</guid>
+      <pubDate>Mon, 08 Jun 2026 18:03:21 GMT</pubDate>
+      <description>Two and a half years after New Zealand committed $69.5 million to building its own RNA vaccine capabilities, the country's RNA platform is hitting its stride. The initiative, born from lessons learned during the Covid-19 pandemic, aims to develop the full pipeline needed to create mRNA vaccines and therapies domestically—from initial research all the way through to clinical use.
+
+The platform focuses on seven different technical pillars, each addressing a crucial step in vaccine development. At its heart is a specialized laboratory at the Malaghan Institute of Medical Research, where researchers can now produce custom RNA molecules on demand—something previously requiring expensive overseas orders. Since beginning production in late December 2023, the facility has already manufactured over 600 research-grade RNA products. As production lead Dr. Rebecca McKenzie notes, the pace is accelerating now that methods and teams are established. The platform is currently testing its capabilities through three flagship projects, including work on a bacterial vaccine.
+
+What makes mRNA technology particularly promising is its speed. While traditional vaccines using deactivated viruses or viral proteins can take years or decades to develop, mRNA vaccines carry genetic instructions directly to cells, which then produce the target proteins themselves. This approach, combined with artificial intelligence advances in understanding protein structures, dramatically shortens the research timeline. As future pandemics remain unpredictable, this story matters because it represents a small nation investing in the scientific infrastructure to respond quickly to emerging health threats—a quiet but significant step toward greater resilience and self-sufficiency in public health.</description>
+      <source url="https://www.rnz.co.nz/news/science-and-technology/597603/our-changing-world-building-new-zealand-s-rna-capabilities">Radio New Zealand</source>
+    </item>
     <item>
       <title>‘Slumping’ afflicted soft corals around a South Korean island in 2024. Will it return this year?</title>
       <link>https://news.mongabay.com/2026/06/slumping-afflicted-soft-corals-around-a-south-korean-island-in-2024-will-it-return-this-year/</link>
@@ -594,18 +606,6 @@ These temporary tapestries are crafted from humble, everyday materials: sawdust,
 
 What makes this story quietly remarkable is how it illustrates the persistence of folk art traditions within religious observance. The ephemeral nature of these carpets—destined to be walked upon and scattered during processions—speaks to an act of devotion that values the process and gesture over permanence. It's a reminder that some of the most meaningful cultural expressions are fleeting, created not for museums but for moments, binding communities together through shared creativity and faith.</description>
       <source url="https://g1.globo.com/se/sergipe/noticia/2026/06/04/tradicionais-tapetes-de-corpus-christi-sao-montados-por-catolicos-em-sergipe.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Pigeons navigate with help from 'compass' in liver that detects Earth's magnetic field, study says</title>
-      <link>https://g1.globo.com/meio-ambiente/noticia/2026/06/04/pombas-se-orientam-com-ajuda-de-bussola-que-possuem-no-figado.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/meio-ambiente/noticia/2026/06/04/pombas-se-orientam-com-ajuda-de-bussola-que-possuem-no-figado.ghtml</guid>
-      <pubDate>Thu, 04 Jun 2026 14:02:07 GMT</pubDate>
-      <description>For centuries, homing pigeons have amazed humans with their ability to find their way home across distances of nearly a thousand kilometers, navigating reliably regardless of weather or time of day. Scientists have known for about a century that this remarkable feat involves the birds' ability to sense Earth's magnetic field, but the mechanism behind this perception has remained elusive—until now.
-
-A new study published in Science by researchers from the University of Bonn and the Max Planck Institute of Animal Behavior reveals an unexpected answer: the secret may lie in the pigeons' livers. Immune cells called macrophages, which naturally break down aging red blood cells and accumulate iron in the process, appear to function as tiny magnetic sensors. This iron crystallizes into nanoparticles of oxide, giving these cells quantum properties that allow them to detect Earth's magnetism like an internal compass. When researchers experimentally compromised these liver cells in trained pigeons, the birds struggled to navigate home on cloudy days, though they managed slightly better when the sun was visible and could provide additional orientation cues.
-
-This discovery settles a long-standing scientific debate between competing theories about whether birds sense magnetic fields through light-sensitive molecules in their eyes or magnetic particles in their beaks. The finding that immune cells—positioned near nerve fibers that likely relay information to the brain—serve as magnetic sensors represents an entirely new understanding of animal navigation. It's a quietly profound reminder that nature's solutions often hide in unexpected places, revealing how evolution repurposes ordinary biological processes into extraordinary navigational tools.</description>
-      <source url="https://g1.globo.com/meio-ambiente/noticia/2026/06/04/pombas-se-orientam-com-ajuda-de-bussola-que-possuem-no-figado.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
