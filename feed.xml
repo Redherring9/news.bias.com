@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jun 2026 18:03:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 20:02:56 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How the pill that brings hope against one of the deadliest cancers works</title>
+      <link>https://www.bbc.com/portuguese/articles/c9v2pek18zjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/c9v2pek18zjo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Mon, 08 Jun 2026 20:02:54 GMT</pubDate>
+      <description>Pancreatic cancer has long been one of the deadliest malignancies, with a 97% mortality rate within five years for patients diagnosed with metastatic disease between 2015 and 2021. The disease is particularly lethal because it lacks effective early detection methods and rarely causes noticeable symptoms until it has already spread to other organs. For decades, scientists believed the main genetic driver behind most pancreatic cancers—a mutation in the KRAS gene—was impossible to target with medication.
+
+The KRAS gene normally acts as a cellular on-off switch for growth, but when mutated, it becomes permanently "on," causing cancer cells to multiply uncontrollably. Because the KRAS protein's surface is unusually smooth, traditional drugs couldn't latch onto it, forcing doctors to rely on toxic chemotherapy that damages healthy tissue alongside cancerous cells. A new oral medication called daraxonrasib takes a different approach: instead of binding directly to KRAS, it connects to another molecule called cyclophilin A, which then blocks the signals that drive cancer cell multiplication.
+
+In a phase 3 clinical trial involving 500 patients with previously treated metastatic pancreatic cancer, daraxonrasib nearly doubled overall survival from 6.7 to 13.2 months and reduced the risk of death by 60% compared to standard chemotherapy. While side effects including severe skin rash, mouth sores, and gastrointestinal issues were common, the results represent a meaningful shift in treating a cancer that has resisted effective intervention for so long. This story matters because it shows how persistence in scientific problem-solving can finally unlock solutions to challenges once considered insurmountable.</description>
+      <source url="https://www.bbc.com/portuguese/articles/c9v2pek18zjo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Our Changing World: Building New Zealand’s RNA capabilities</title>
       <link>https://www.rnz.co.nz/news/science-and-technology/597603/our-changing-world-building-new-zealand-s-rna-capabilities</link>
@@ -594,18 +606,6 @@ The bees faced a deceptively simple challenge: reach an artificial flower mounte
 
 This research invites us to reconsider what we think we know about intelligence and consciousness in the natural world. As one researcher noted, many people still view insects as "reflex-based machines" without awareness or emotional capacity. Yet these tiny creatures, with brains no larger than a sesame seed, are demonstrating flexible thinking once thought exclusive to large-brained animals like primates, elephants, and crows. The story offers a quiet but profound reminder: intelligence comes in forms far smaller and stranger than we often imagine, and perhaps every buzzing visitor to our garden deserves a bit more respect than we've been giving it.</description>
       <source url="https://www.theguardian.com/environment/2026/jun/04/bees-use-tools-to-solve-problems-study-finds">The Guardian</source>
-    </item>
-    <item>
-      <title>Traditional Corpus Christi carpets are assembled by Catholics in Sergipe</title>
-      <link>https://g1.globo.com/se/sergipe/noticia/2026/06/04/tradicionais-tapetes-de-corpus-christi-sao-montados-por-catolicos-em-sergipe.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/se/sergipe/noticia/2026/06/04/tradicionais-tapetes-de-corpus-christi-sao-montados-por-catolicos-em-sergipe.ghtml</guid>
-      <pubDate>Thu, 04 Jun 2026 16:02:19 GMT</pubDate>
-      <description>In the Brazilian state of Sergipe, Catholic communities are keeping alive a vibrant tradition that transforms streets and church grounds into works of devotional art. On Corpus Christi, one of the most important dates in the Catholic calendar, faithful residents gather to create elaborate carpets that honor the feast day celebrating the presence of Christ in the Eucharist. The practice unfolds both in the capital city of Aracaju and throughout smaller towns in the interior.
-
-These temporary tapestries are crafted from humble, everyday materials: sawdust, coffee grounds, salt, leaves, eggshells, and other natural items. Arranged carefully by hand, these ingredients become intricate patterns and religious imagery that line processional routes. The artistry requires both planning and community cooperation, as groups work together to complete the designs before celebrations begin. Corpus Christi itself is observed sixty days after Easter Sunday, and marks the day Catholics believe Jesus instituted the sacrament of the Eucharist during the Last Supper.
-
-What makes this story quietly remarkable is how it illustrates the persistence of folk art traditions within religious observance. The ephemeral nature of these carpets—destined to be walked upon and scattered during processions—speaks to an act of devotion that values the process and gesture over permanence. It's a reminder that some of the most meaningful cultural expressions are fleeting, created not for museums but for moments, binding communities together through shared creativity and faith.</description>
-      <source url="https://g1.globo.com/se/sergipe/noticia/2026/06/04/tradicionais-tapetes-de-corpus-christi-sao-montados-por-catolicos-em-sergipe.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
