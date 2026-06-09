@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 00:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 02:02:59 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why conservation urgently needs acoustic baselines</title>
+      <link>https://news.mongabay.com/2026/06/how-sound-can-reveal-what-satellite-images-miss/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/06/how-sound-can-reveal-what-satellite-images-miss/</guid>
+      <pubDate>Tue, 09 Jun 2026 02:02:57 GMT</pubDate>
+      <description>A forest may look healthy from a satellite image — canopy intact, carbon counted — yet quietly lose much of its animal life beneath the trees. Birds, frogs, insects, and primates arrange themselves in time and frequency, creating a daily acoustic structure that visual measures and aggregate data can miss. The Soundscape Baselines Project, detailed in a new study by Zuzana Buřivalová and colleagues, is racing to record what intact forests actually sound like before those reference points vanish.
+
+The effort spans pilot sites in Brunei, Ecuador, Gabon, Germany, Peru, and the United States, using continuous passive recorders managed with local teams. The goal is practical and urgent: to establish acoustic reference points while truly intact forests still exist. Without baselines, conservation faces what fisheries scientist Daniel Pauly called shifting baseline syndrome — each generation accepts a degraded state as normal because no one remembers what came before. In Gabon, for example, logged forests looked acoustically similar to intact ones in daily averages, but the timing and shape of dawn and dusk choruses revealed meaningful differences that coarser measures would have missed.
+
+Bioacoustics is not a replacement for fieldwork or camera traps, and the paper acknowledges its limits. Tools like acoustic indices and automated classifiers such as BirdNET show promise but require careful calibration, local knowledge, and honest treatment of uncertainty. Still, the approach offers something valuable: a way to detect ecological change that neither satellites nor carbon accounting can see. As Intact Forest Landscapes shrink — down 12% between 2000 and 2020 — the window for capturing acoustic baselines is closing. This project is an attempt to listen closely, while there is still something left to hear.</description>
+      <source url="https://news.mongabay.com/2026/06/how-sound-can-reveal-what-satellite-images-miss/">Mongabay</source>
+    </item>
     <item>
       <title>Enormous tower means Sagrada Familia has reached final height</title>
       <link>https://www.rnz.co.nz/life/culture/enormous-tower-means-sagrada-familia-has-reached-final-height</link>
@@ -594,18 +606,6 @@ Mangroves are environmental powerhouses. Their tangled roots slow waves and shie
 
 This story is a quiet reminder that ecosystems can bounce back when given the chance, and that human awareness—often sparked by tragedy—can drive meaningful change. Yet the picture is complex: some mangrove expansion may be fueled by nutrients from upstream deforestation and mining, a bittersweet trade-off that underscores the interconnectedness of environmental health.</description>
       <source url="https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Local indigenous people get more land in a DRC community forest</title>
-      <link>https://news.mongabay.com/short-article/2026/06/local-indigenous-people-get-more-land-in-a-drc-community-forest/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/06/local-indigenous-people-get-more-land-in-a-drc-community-forest/</guid>
-      <pubDate>Thu, 04 Jun 2026 22:02:42 GMT</pubDate>
-      <description>In the Democratic Republic of the Congo's Tshopo province, 31 new community forest land titles were granted in May to local farmers, adding to a groundbreaking effort that now places more than a million hectares of forest under the legal stewardship of Indigenous peoples. For generations, Bantu and Indigenous Mbuti communities have lived in these forests without official land rights, vulnerable to logging, mining, and development projects imposed without their consent. These Community Forestry Lands come with environmental management plans and legal protections requiring that any future development can only proceed with the free and informed consent of the communities themselves.
-
-The stakes are high in Tshopo, where nearly half of the tree cover has disappeared since 2002 due to timber harvesting, charcoal production, and mining—activities that have degraded ecosystems and undermined local livelihoods. Alphonse Maindo of the NGO Tropenbos DRC, which supported the communities in obtaining these titles, notes that extreme poverty has been spreading among people for whom the forest is not merely a resource but a home. With these new protections in place, some residents are already planning beekeeping and cocoa farming, freed from the threat of unwanted industrial encroachment. Notably, despite historical tensions, Bantu and Mbuti peoples have agreed to jointly manage their lands with guidelines emphasizing fairness and equal participation.
-
-This story matters because it demonstrates how empowering Indigenous communities to manage their own land can simultaneously protect forests and reduce poverty—addressing what Maindo calls the "vicious cycle" that other conservation models often fail to break. With nearly 6.3 million hectares now under community management across the DRC, this approach offers a promising path toward both ecological preservation and human dignity.</description>
-      <source url="https://news.mongabay.com/short-article/2026/06/local-indigenous-people-get-more-land-in-a-drc-community-forest/">Mongabay</source>
     </item>
   </channel>
 </rss>
