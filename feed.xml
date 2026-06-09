@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 20:02:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 22:04:10 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Croquet player attempts to break world record at 101</title>
+      <link>https://www.abc.net.au/news/2026-06-10/may-beveridge-croquet-oldest-player-record-attempt-101/106268908</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-10/may-beveridge-croquet-oldest-player-record-attempt-101/106268908</guid>
+      <pubDate>Tue, 09 Jun 2026 22:04:09 GMT</pubDate>
+      <description>May Beveridge of Gippsland, Australia, is waiting to hear whether she's officially become the world's oldest competitive female croquet player. At 101 years old, she recently took to the court in Lakes Entrance for a filmed and documented match, aiming to surpass the current record held by 98-year-old Jean Farguson from the UK. World record officials are now reviewing the video and paperwork from her attempt.
+
+Mrs. Beveridge is something of a late bloomer in the sport, having only picked up a mallet in her 80s as a way to stay active and connected to her community. She plays three times a week at the club she helped found, bringing the same competitive spirit she once applied to decades of tennis. Living independently on the farm she shared with her late husband for 68 years, she credits croquet with keeping both body and mind sharp. "People think you just have to hit a ball through a hoop," she said. "It's nothing like that. You have to think ahead."
+
+This story is a quiet celebration of vitality, community, and the refusal to slow down. Mrs. Beveridge's world record attempt wasn't really about the title—it was about supporting her club and family, and proving that age is no barrier to showing up, trying hard, and staying engaged. Her muttered "terrible shot" and gracious acceptance of a loss reveal someone who's still fully in the game, both literally and in life. It's a reminder that keeping going, as she puts it, beats sitting at home in slippers every time.</description>
+      <source url="https://www.abc.net.au/news/2026-06-10/may-beveridge-croquet-oldest-player-record-attempt-101/106268908">ABC Australia</source>
+    </item>
     <item>
       <title>From family business on the sidewalk to award-winning chef: Acre native named 2nd best cook in the North</title>
       <link>https://g1.globo.com/ac/acre/noticia/2026/06/09/de-negocio-familiar-na-calcada-a-chef-premiado-acreano-e-eleito-o-2o-melhor-cozinheiro-do-norte.ghtml</link>
@@ -594,18 +606,6 @@ Researchers working across Bolivia documented the short-eared dog in lowland Ama
 
 This story is a quiet reminder of why long-term ecological monitoring matters. Rare species vanish easily from short surveys; a camera might wait months for a single sighting. But patience across years and landscapes can reveal patterns invisible to brief studies. The short-eared dog may never achieve the iconic status of jaguars or macaws, yet its presence tells researchers and policymakers something important: these forests are still connected, still whole, and still worth protecting. Sometimes the creatures we notice least have the most to teach us about what remains.</description>
       <source url="https://news.mongabay.com/short-article/2026/06/the-ghost-dog-of-the-amazon-reveals-the-value-of-intact-forests/">Mongabay</source>
-    </item>
-    <item>
-      <title>The unprecedented vaccine developed by artificial intelligence</title>
-      <link>https://www.bbc.com/portuguese/articles/ckgpgzpyznno?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/ckgpgzpyznno?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Fri, 05 Jun 2026 18:02:59 GMT</pubDate>
-      <description>Researchers at the University of Cambridge have developed what they describe as a fundamentally new type of vaccine, with a key component designed entirely by artificial intelligence and tested in human trials for the first time. The vaccine aims to protect against all coronaviruses—including existing COVID-19 variants and animal viruses that could spark future pandemics—by teaching the immune system to recognize a broad family of threats rather than chasing individual strains.
-
-Traditional vaccines are built around current viral strains, but many viruses mutate quickly, rendering protection outdated and requiring constant updates to flu and COVID vaccines. The Cambridge team took a different approach: they fed genetic codes from a wide variety of coronaviruses into an AI system, which then designed a "super-antigen" capable of training the immune system against the entire viral family, even as it evolves. Early trials with 39 participants confirmed the vaccine's safety, and a larger study with 200 people is underway to assess immune response. Though the immune impact so far has been described as modest, researchers are optimistic about the technology's potential.
-
-The team is already applying the same AI-driven approach to other threats, including universal flu vaccines, H5N1 bird flu, and viral hemorrhagic fevers like Ebola. What makes this story quietly remarkable is the shift it represents: rather than reacting to outbreaks after they emerge, scientists are using AI to anticipate and prepare for diseases that don't yet pose a human threat. It's a glimpse of a future where vaccine development stays ahead of viral evolution, offering a proactive shield against the next pandemic.</description>
-      <source url="https://www.bbc.com/portuguese/articles/ckgpgzpyznno?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
     </item>
   </channel>
 </rss>
