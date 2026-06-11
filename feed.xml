@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 18:03:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 20:01:42 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lauren can play like a 'normal kid' thanks to 600,000 strangers</title>
+      <link>https://www.abc.net.au/news/2026-06-12/blood-donations-help-child-with-rare-bleeding-disorder/106781194</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-12/blood-donations-help-child-with-rare-bleeding-disorder/106781194</guid>
+      <pubDate>Thu, 11 Jun 2026 20:01:41 GMT</pubDate>
+      <description>Three-year-old Lauren Zeller lives with an extraordinarily rare bleeding disorder—type 2B von Willebrand's disease, which affects roughly one in a million people and severely impairs her blood's ability to clot. As a baby, she bruised easily and bled for hours during teething, requiring frequent emergency hospital visits. Every bump or tumble that other toddlers shake off could become dangerous for Lauren, turning ordinary childhood into a source of constant vigilance for her parents.
+
+This year brought a significant shift in Lauren's care. Surgeons inserted a port-a-catheter into her chest, allowing her parents Clare and Rob—both medical professionals themselves—to administer a blood product called Biostate at home three times a week. Each dose contains clotting proteins collected from the plasma of up to 50 blood donors, meaning Lauren's treatment relies on contributions from roughly 600,000 strangers over time. The regular infusions have transformed daily life for the family, releasing them from what Clare calls their "helicopter parent" mode and allowing Lauren the freedom to jump on trampolines, roughhouse with her older brothers, and explore the world without hands perpetually hovering to catch her.
+
+The story quietly illustrates how medical advances and community generosity intersect to change lives. Dr. Sally Campbell, Lauren's haematologist, notes that the approach to bleeding disorders is evolving—from telling children what they cannot do toward asking how they can live fully and safely. For Lauren, that means the simple, profound gift of playing like any other child, supported by an invisible network of donors who will never know the little girl whose freedom depends on their kindness.</description>
+      <source url="https://www.abc.net.au/news/2026-06-12/blood-donations-help-child-with-rare-bleeding-disorder/106781194">ABC Australia</source>
+    </item>
     <item>
       <title>Craftsman transforms wood into birds and celebrates wildlife through sculpture</title>
       <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/06/11/artesao-transforma-madeira-em-aves-e-celebra-a-fauna-por-meio-da-escultura.ghtml</link>
@@ -594,18 +606,6 @@ Pancreatic cancer is particularly lethal, with only about one in twenty UK patie
 
 This story matters because it illustrates how scientific progress actually unfolds: through generations of seemingly minor advances building upon one another, combined with routine genetic screening that now allows doctors to identify which patients will benefit from specific treatments. Cancer survival rates have doubled in the UK since the 1970s, not through any single magic bullet, but through the steady accumulation of new detection methods, drugs, and therapies. It's a quieter kind of triumph than the "wars on cancer" politicians often declare, but one that translates into real remissions, real time, and real lives extended.</description>
       <source url="https://www.theguardian.com/commentisfree/2026/jun/07/the-guardian-view-on-cancer-treatments-new-hope-for-patients-now-and-in-the-future">The Guardian</source>
-    </item>
-    <item>
-      <title>The Taiz transplant team looking to begin a medical revolution in Yemen</title>
-      <link>https://www.aljazeera.com/features/2026/6/7/a-cardiovascular-team-in-taiz-offers-yemen-hope-for-a-better-future?traffic_source=rss</link>
-      <guid isPermaLink="false">https://www.aljazeera.com/features/2026/6/7/a-cardiovascular-team-in-taiz-offers-yemen-hope-for-a-better-future?traffic_source=rss</guid>
-      <pubDate>Sun, 07 Jun 2026 16:03:19 GMT</pubDate>
-      <description>In the war-torn city of Taiz, Yemen, a remarkable medical center is offering hope to patients who once had nowhere to turn. The Cardiac and Vascular Diseases and Kidney Transplant Center, founded in 2021, has become a lifeline for hundreds of Yemenis who cannot afford treatment abroad. Among them is ten-year-old Noor Majid, born with a hole in her heart, who was one of 110 children treated for free during a May medical camp supported by international teams from Qatar, France, and beyond.
-
-Since opening just five years ago amid Yemen's ongoing conflict, the facility has achieved what many considered impossible: performing 164 kidney transplants, 1,450 open-heart surgeries, and thousands of other complex procedures. The center has dramatically reduced costs for patients—a heart surgery that might cost $20,000 abroad can be done here for $5,000, with patients paying only $2,000 out of pocket thanks to charitable support. Last month, the team quietly completed Yemen's first three liver transplants, a milestone that could establish a sustainable treatment program for liver disease in the country. Professor Abudar al-Ganadi, who heads the center, approaches expansion cautiously, waiting to assess results before announcing success.
-
-This story matters because it represents resilience and innovation emerging from one of the world's most difficult humanitarian crises. Taiz, a city that has endured siege and bombardment, saw its health system collapse early in the war. The fact that cutting-edge medical care is now available there—performed by local doctors working alongside international colleagues—offers not just physical healing but a quiet testament to what's possible even in the darkest circumstances. It's a reminder that progress sometimes happens in the most unexpected places.</description>
-      <source url="https://www.aljazeera.com/features/2026/6/7/a-cardiovascular-team-in-taiz-offers-yemen-hope-for-a-better-future?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
