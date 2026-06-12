@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 20:03:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 22:03:39 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'A footballer's dream': From humble beginings to the world stage</title>
+      <link>https://www.abc.net.au/news/2026-06-13/brothers-cheer-on-socceroos-rising-stars-in-world-cup/106789868</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-13/brothers-cheer-on-socceroos-rising-stars-in-world-cup/106789868</guid>
+      <pubDate>Fri, 12 Jun 2026 22:03:38 GMT</pubDate>
+      <description>Two brothers from Adelaide are living out dreams forged in childhood—one on the world's biggest sporting stage, the other cheering from the stands. Mo Touré, a Socceroos rising star, has been selected for the World Cup squad, a milestone that traces back to his family's journey as Liberian refugees who resettled in South Australia in 2004. For the Touré brothers—Al Hassan, Mohamed, and Musa—football became both a passion inherited from their father and a path he never got to walk himself. Their story began at the Croydon Kings, where they'd famously cut a hole in the fence to sneak onto the field and play on Sundays, quickly capturing the attention of coaches with their raw talent and infectious enthusiasm.
+
+Mo's selection is a proud moment not just for his family, but for Adelaide's football community, which watched the brothers rise through the ranks with a combination of skill, determination, and warmth. Coaches remember Mo as calm, mature beyond his years, and always smiling. Meanwhile, fellow Adelaidean Tete Yengi has also broken into the Socceroos, scoring on debut against Switzerland. Like the Tourés, the Yengi brothers—Tete and Kusini—grew up with the World Cup in their sights, driven by hard work and sibling support.
+
+This story is worth a reader's time because it quietly celebrates the power of opportunity, family, and community. It's a reminder that behind every athlete on the world stage is often a refugee story, a parent's deferred dream, or a hole cut in a fence by kids who just wanted to play. The Touré and Yengi families show how determination paired with welcome can turn humble beginnings into something remarkable.</description>
+      <source url="https://www.abc.net.au/news/2026-06-13/brothers-cheer-on-socceroos-rising-stars-in-world-cup/106789868">ABC Australia</source>
+    </item>
     <item>
       <title>11-year-old boy discovers grandfather's accordion and learns to play on his own: 'forró will never die'</title>
       <link>https://g1.globo.com/al/saojoao/2026/noticia/2026/06/12/menino-de-11-anos-descobre-sanfona-de-do-avo-e-aprende-a-tocar-sozinho-o-forro-nunca-vai-morrer.ghtml</link>
@@ -594,18 +606,6 @@ The KRAS gene normally acts as a cellular on-off switch for growth, but when mut
 
 In a phase 3 clinical trial involving 500 patients with previously treated metastatic pancreatic cancer, daraxonrasib nearly doubled overall survival from 6.7 to 13.2 months and reduced the risk of death by 60% compared to standard chemotherapy. While side effects including severe skin rash, mouth sores, and gastrointestinal issues were common, the results represent a meaningful shift in treating a cancer that has resisted effective intervention for so long. This story matters because it shows how persistence in scientific problem-solving can finally unlock solutions to challenges once considered insurmountable.</description>
       <source url="https://www.bbc.com/portuguese/articles/c9v2pek18zjo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
-    </item>
-    <item>
-      <title>Our Changing World: Building New Zealand’s RNA capabilities</title>
-      <link>https://www.rnz.co.nz/news/science-and-technology/597603/our-changing-world-building-new-zealand-s-rna-capabilities</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/science-and-technology/597603/our-changing-world-building-new-zealand-s-rna-capabilities</guid>
-      <pubDate>Mon, 08 Jun 2026 18:03:21 GMT</pubDate>
-      <description>Two and a half years after New Zealand committed $69.5 million to building its own RNA vaccine capabilities, the country's RNA platform is hitting its stride. The initiative, born from lessons learned during the Covid-19 pandemic, aims to develop the full pipeline needed to create mRNA vaccines and therapies domestically—from initial research all the way through to clinical use.
-
-The platform focuses on seven different technical pillars, each addressing a crucial step in vaccine development. At its heart is a specialized laboratory at the Malaghan Institute of Medical Research, where researchers can now produce custom RNA molecules on demand—something previously requiring expensive overseas orders. Since beginning production in late December 2023, the facility has already manufactured over 600 research-grade RNA products. As production lead Dr. Rebecca McKenzie notes, the pace is accelerating now that methods and teams are established. The platform is currently testing its capabilities through three flagship projects, including work on a bacterial vaccine.
-
-What makes mRNA technology particularly promising is its speed. While traditional vaccines using deactivated viruses or viral proteins can take years or decades to develop, mRNA vaccines carry genetic instructions directly to cells, which then produce the target proteins themselves. This approach, combined with artificial intelligence advances in understanding protein structures, dramatically shortens the research timeline. As future pandemics remain unpredictable, this story matters because it represents a small nation investing in the scientific infrastructure to respond quickly to emerging health threats—a quiet but significant step toward greater resilience and self-sufficiency in public health.</description>
-      <source url="https://www.rnz.co.nz/news/science-and-technology/597603/our-changing-world-building-new-zealand-s-rna-capabilities">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
