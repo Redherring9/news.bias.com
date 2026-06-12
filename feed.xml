@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 10:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 12:03:09 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Have you ever heard of Earthshine?</title>
+      <link>https://www.bbc.com/news/videos/cddl6n2plzpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/videos/cddl6n2plzpo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 12 Jun 2026 12:03:07 GMT</pubDate>
+      <description>Earthshine is a subtle astronomical phenomenon that transforms the Moon into a gentle mirror of our own planet. When a thin crescent Moon appears in the sky, careful observers may notice the darkened portion of the lunar disk glowing faintly with a ghostly, blue-grey light. This ethereal glow isn't coming from the Moon itself, but from sunlight that has bounced off Earth, traveled to the Moon, and reflected back to us—light that has made a remarkable round trip through space.
+
+The effect is most visible during the days just before and after a new Moon, when the lunar crescent is slimmest and the contrast most striking. What makes Earthshine particularly poetic is its dependence on our planet's reflectivity: clouds, ice, and oceans all play a role in how brightly Earth shines on its satellite. In essence, when you see Earthshine, you're witnessing Earth's own reflected glory illuminating the night. Scientists have even used measurements of Earthshine to study changes in Earth's cloud cover and climate, turning this delicate visual phenomenon into a tool for understanding our home planet from afar.
+
+This story offers a quiet invitation to look up and notice something that has always been there, waiting to be seen. Earthshine reminds us that even familiar celestial objects hold surprises, and that the relationship between Earth and Moon is more reciprocal than we might imagine—each body illuminating the other in an ancient dance of light.</description>
+      <source url="https://www.bbc.com/news/videos/cddl6n2plzpo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Peace Is Our Future: A Palestinian and an Israeli's Plea for Reconciliation</title>
       <link>https://www.france24.com/fr/moyen-orient/20260612-israel-palestine-aziz-abu-sarah-maoz-inon</link>
@@ -594,18 +606,6 @@ The pressures facing platypuses are mounting and diverse. Drought shrinks the ri
 
 There are reasons for hope. Scientists have developed frameworks to determine when platypuses need help in place and when relocation becomes necessary. Zoos are preparing for emergency care roles, ready to shelter animals displaced by drought or fire. Citizen science projects that map sightings and environmental DNA sampling—which detects platypus presence from water samples without direct observation—are making monitoring more accessible to local communities and land managers. The broader message is clear: protecting a hard-to-detect species requires maps, baselines, and proactive planning. For the platypus, conservation and river health are inseparable, requiring protection of vegetation, maintenance of diverse water features, pollution reduction, and connected waterways. This unusual animal's plight calls for a refreshingly straightforward response.</description>
       <source url="https://news.mongabay.com/short-article/2026/06/what-the-platypus-can-teach-us-about-smarter-conservation/">Mongabay</source>
-    </item>
-    <item>
-      <title>Octopus surge spreads up UK coast as far as Scotland, study finds</title>
-      <link>https://www.theguardian.com/environment/2026/jun/08/octopus-invasion-spreads-up-uk-coast-as-far-scotland-study</link>
-      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/jun/08/octopus-invasion-spreads-up-uk-coast-as-far-scotland-study</guid>
-      <pubDate>Mon, 08 Jun 2026 08:02:40 GMT</pubDate>
-      <description>A remarkable population surge of common octopuses is spreading along Britain's coastline, transforming both the fishing industry and the marine ecosystem in unexpected ways. What began as record numbers off Devon and Cornwall in 2025 has now extended to Wales, Scotland, and England's eastern shores, creating what researchers describe as the largest octopus bloom ever documented in UK waters.
-
-The common octopus, typically rare in British seas, has proliferated due to a combination of mild winters and warm breeding seasons—conditions researchers link to warming ocean temperatures and broader environmental shifts. The boom has captured public imagination, with hundreds of recreational divers and snorkelers joining scientists to track the expanding population. At Brixham market in Devon, octopus catches soared by an astonishing 7,700% in 2025, culminating in a single-day record sale of 100 tonnes just last week.
-
-Yet the bloom tells a complex story. As highly effective predators, octopuses have devastated traditional shellfish stocks, raiding fishers' crab and lobster pots and forcing some to sell their boats. Meanwhile, others have thrived by pivoting to octopus fishing. Beyond the industry, the influx is reshaping marine life itself—octopuses now provide crucial food for seals, conger eels, and rare Risso's dolphins. This story matters because it offers a vivid, real-time glimpse of how climate change ripples through an entire ecosystem, creating winners and losers in ways both surprising and profound. It's a reminder that nature's responses to environmental shifts are rarely simple, and one of the ocean's most intelligent creatures is rewriting the rules along Britain's changing coasts.</description>
-      <source url="https://www.theguardian.com/environment/2026/jun/08/octopus-invasion-spreads-up-uk-coast-as-far-scotland-study">The Guardian</source>
     </item>
   </channel>
 </rss>
