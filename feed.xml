@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 22:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:02:56 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Parents create 'university of life' for non-verbal daughter</title>
+      <link>https://www.abc.net.au/news/2026-06-13/family-builds-university-of-life-for-daughter-on-ndis/106719662</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-13/family-builds-university-of-life-for-daughter-on-ndis/106719662</guid>
+      <pubDate>Sat, 13 Jun 2026 00:02:54 GMT</pubDate>
+      <description>When Lillian Rowsell finished high school in 2020, her family faced a challenge familiar to many parents of children with complex disabilities: nowhere for her to go. With her friends heading off to university, Lillian's parents created their own solution—a personalized "University of Life" in her grandfather's unused flat in Old Bar, New South Wales. The setup gave Lillian, who is non-verbal and has limited mobility and vision after having half her brain removed as an infant due to a rare condition, a daily purpose and routine beyond the family home.
+
+The campus operates with support from the National Disability Insurance Scheme, which funds six hours of daily care, allowing Lillian's longtime education aides to continue working with her through Uniting. Her days include activities she selects using visual cards—computer-based learning, games, or outings like bowling. Researchers note that this individualized approach addresses a common problem: for young people with disabilities, the transition out of school often feels like "falling off a cliff," with structured support, relationships, and routine suddenly disappearing. The family's resourcefulness, combined with NDIS funding flexibility, has allowed Lillian to maintain connection, growth, and autonomy.
+
+Seven years on, the University of Life continues to be a daily part of Lillian's routine, and her mother reports small but meaningful improvements in her communication and responses. This story is a quietly powerful example of what's possible when families, support systems, and funding align—transforming what could have been isolation into an ongoing, dignified chapter of learning and belonging.</description>
+      <source url="https://www.abc.net.au/news/2026-06-13/family-builds-university-of-life-for-daughter-on-ndis/106719662">ABC Australia</source>
+    </item>
     <item>
       <title>'A footballer's dream': From humble beginings to the world stage</title>
       <link>https://www.abc.net.au/news/2026-06-13/brothers-cheer-on-socceroos-rising-stars-in-world-cup/106789868</link>
@@ -594,18 +606,6 @@ Sarah made a simple request on Facebook: could anyone with a truck or motorbike 
 
 The story is meaningful not because it's extraordinary, but because it's quietly, persistently ordinary in the best possible way. It's about neighbors showing up for a child they barely knew, transforming a mother's worry into tears of gratitude, and giving a boy not just the birthday celebration of a lifetime—complete with a donated aerial tour still to come—but something even more valuable: the beginning of belonging, and a play date scheduled for next week.</description>
       <source url="https://www.abc.net.au/news/2026-06-09/cootamundra-community-helps-boy-celebrate-10th-birthday/106772972">ABC Australia</source>
-    </item>
-    <item>
-      <title>How the pill that brings hope against one of the deadliest cancers works</title>
-      <link>https://www.bbc.com/portuguese/articles/c9v2pek18zjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/c9v2pek18zjo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Mon, 08 Jun 2026 20:02:54 GMT</pubDate>
-      <description>Pancreatic cancer has long been one of the deadliest malignancies, with a 97% mortality rate within five years for patients diagnosed with metastatic disease between 2015 and 2021. The disease is particularly lethal because it lacks effective early detection methods and rarely causes noticeable symptoms until it has already spread to other organs. For decades, scientists believed the main genetic driver behind most pancreatic cancers—a mutation in the KRAS gene—was impossible to target with medication.
-
-The KRAS gene normally acts as a cellular on-off switch for growth, but when mutated, it becomes permanently "on," causing cancer cells to multiply uncontrollably. Because the KRAS protein's surface is unusually smooth, traditional drugs couldn't latch onto it, forcing doctors to rely on toxic chemotherapy that damages healthy tissue alongside cancerous cells. A new oral medication called daraxonrasib takes a different approach: instead of binding directly to KRAS, it connects to another molecule called cyclophilin A, which then blocks the signals that drive cancer cell multiplication.
-
-In a phase 3 clinical trial involving 500 patients with previously treated metastatic pancreatic cancer, daraxonrasib nearly doubled overall survival from 6.7 to 13.2 months and reduced the risk of death by 60% compared to standard chemotherapy. While side effects including severe skin rash, mouth sores, and gastrointestinal issues were common, the results represent a meaningful shift in treating a cancer that has resisted effective intervention for so long. This story matters because it shows how persistence in scientific problem-solving can finally unlock solutions to challenges once considered insurmountable.</description>
-      <source url="https://www.bbc.com/portuguese/articles/c9v2pek18zjo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
     </item>
   </channel>
 </rss>
