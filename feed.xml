@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 02:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 04:04:31 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>EXTRA: Natuza Nery interviews Lázaro Ramos about AI and art - O Assunto</title>
+      <link>https://g1.globo.com/podcast/o-assunto/noticia/2026/06/13/extra-natuza-nery-entrevista-lazaro-ramos-sobre-ia-e-arte-o-assunto.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/podcast/o-assunto/noticia/2026/06/13/extra-natuza-nery-entrevista-lazaro-ramos-sobre-ia-e-arte-o-assunto.ghtml</guid>
+      <pubDate>Sat, 13 Jun 2026 04:04:30 GMT</pubDate>
+      <description>At the opening night of WebSummit Rio 2025, journalist Natuza Nery sat down with acclaimed Brazilian actor Lázaro Ramos for a thought-provoking conversation about artificial intelligence and its intersection with the arts. The panel, titled "Who Owns My Face?", explored questions that artists worldwide are grappling with as technology reshapes creative industries.
+
+The discussion ranged from practical concerns about AI's impact on film and television production to deeper ethical questions about identity and representation in the digital age. Ramos and Nery examined what they termed "algorithmic racism"—the ways bias can become embedded in artificial intelligence systems and ripple outward, affecting both digital platforms and real-world experiences. For an actor whose face and voice are essential tools of his craft, these questions carry particular weight as AI gains the ability to replicate human likenesses.
+
+This conversation matters because it brings together artistic, technological, and social justice perspectives on one of the defining challenges of our time. Rather than treating AI as purely a technical issue or simply celebrating innovation, Ramos and Nery asked who benefits, who decides, and what gets lost when machines learn to mimic human creativity. For anyone curious about how artists are thinking through the promises and perils of this technological moment, this dialogue offers a measured, human-centered entry point into questions that will only grow more pressing.</description>
+      <source url="https://g1.globo.com/podcast/o-assunto/noticia/2026/06/13/extra-natuza-nery-entrevista-lazaro-ramos-sobre-ia-e-arte-o-assunto.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Robert Ricklefs, ecologist who helped generations understand nature, has died at 83</title>
       <link>https://news.mongabay.com/2026/06/robert-ricklefs-ecologist-who-helped-generations-understand-nature-has-died-at-83/</link>
@@ -594,18 +606,6 @@ The effort spans pilot sites in Brunei, Ecuador, Gabon, Germany, Peru, and the U
 
 Bioacoustics is not a replacement for fieldwork or camera traps, and the paper acknowledges its limits. Tools like acoustic indices and automated classifiers such as BirdNET show promise but require careful calibration, local knowledge, and honest treatment of uncertainty. Still, the approach offers something valuable: a way to detect ecological change that neither satellites nor carbon accounting can see. As Intact Forest Landscapes shrink — down 12% between 2000 and 2020 — the window for capturing acoustic baselines is closing. This project is an attempt to listen closely, while there is still something left to hear.</description>
       <source url="https://news.mongabay.com/2026/06/how-sound-can-reveal-what-satellite-images-miss/">Mongabay</source>
-    </item>
-    <item>
-      <title>Enormous tower means Sagrada Familia has reached final height</title>
-      <link>https://www.rnz.co.nz/life/culture/enormous-tower-means-sagrada-familia-has-reached-final-height</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/life/culture/enormous-tower-means-sagrada-familia-has-reached-final-height</guid>
-      <pubDate>Tue, 09 Jun 2026 00:02:32 GMT</pubDate>
-      <description>After 144 years of construction marked by wars, funding struggles, and the monumental challenge of interpreting plans largely destroyed in the 1930s, Barcelona's Sagrada Família has reached its final height. The installation of a massive cross atop the central Tower of Jesus Christ this February brought the world's tallest church to 172.5 meters. On Wednesday, Pope Leo XIV will preside over the tower's inauguration — precisely 100 years after the death of visionary architect Antoni Gaudí, making 2026 the project's symbolic completion date even as non-structural work continues.
-
-The final tower presented extraordinary engineering puzzles that encapsulate the entire project's delicate balance between historical vision and modern reality. The crowning cross alone stands as tall as a five-story building and weighs 100 tonnes. It was manufactured in Germany in 14 prefabricated sections using stainless steel — a material unavailable in Gaudí's era — to achieve the necessary strength while keeping weight manageable. Workers assembled the pieces in a workshop perched 70 meters above ground atop the basilica's nave, finishing them with stone interiors, white ceramic cladding, and locally sourced glass before hoisting the structure into place.
-
-This story captures something quietly extraordinary about human ambition and patience: a monument to faith, nature, and complex geometry that has outlasted 11 popes and required generations of architects to decode and honor one man's vision. The Sagrada Família stands as both a triumph of Gaudí's imagination and a testament to the countless craftspeople who refused to let his dream remain unfinished, proving that some works of beauty are worth the wait of more than a century.</description>
-      <source url="https://www.rnz.co.nz/life/culture/enormous-tower-means-sagrada-familia-has-reached-final-height">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
