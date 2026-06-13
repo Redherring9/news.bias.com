@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 04:04:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 06:02:17 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sydney runners honour Richard Scolyer at his 'special place'</title>
+      <link>https://www.abc.net.au/news/2026-06-13/nsw-sydney-richard-scolyer-greenway-parkrun-tribute/106794044</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-13/nsw-sydney-richard-scolyer-greenway-parkrun-tribute/106794044</guid>
+      <pubDate>Sat, 13 Jun 2026 06:01:03 GMT</pubDate>
+      <description>Nearly 500 runners gathered at Sydney's Greenway Parkrun to celebrate the life of Professor Richard Scolyer, who died on June 8 at age 59 after a three-year battle with glioblastoma, an aggressive brain cancer. Posters adorned Richard Murdern Reserve in Haberfield, and speeches honored a man who was not only a renowned melanoma researcher and former Australian of the Year, but also a beloved member of the local running community who completed 250 parkruns over eight years.
+
+Scolyer's brother Mark described him as "a daggy guy" who would run alongside strangers and strike up conversations, embodying the friendly, inclusive spirit of parkrun. Even as his cancer returned, Scolyer remained committed to his goal of reaching 250 parkruns, achieving the milestone in June 2025—almost exactly a year before Saturday's memorial run. Fellow runners remembered him as someone who encouraged others to "give it a crack and have a go," making the weekly five-kilometer loop around inner-west Sydney feel like a warm community gathering rather than just exercise.
+
+Beyond his local impact, Scolyer became a pioneer in brain cancer research by volunteering as "patient zero" for experimental immunotherapy treatment, extending his life nearly two years while providing invaluable data for future patients. His dual legacy—as a groundbreaking scientist who shared the 2024 Australian of the Year award with Professor Georgina Long, and as a humble community member who showed up every Saturday to run and connect—offers a quiet reminder that extraordinary contributions often live alongside the most ordinary joys.</description>
+      <source url="https://www.abc.net.au/news/2026-06-13/nsw-sydney-richard-scolyer-greenway-parkrun-tribute/106794044">ABC Australia</source>
+    </item>
     <item>
       <title>EXTRA: Natuza Nery interviews Lázaro Ramos about AI and art - O Assunto</title>
       <link>https://g1.globo.com/podcast/o-assunto/noticia/2026/06/13/extra-natuza-nery-entrevista-lazaro-ramos-sobre-ia-e-arte-o-assunto.ghtml</link>
@@ -594,18 +606,6 @@ This vast ignorance matters more than we might think. The deep ocean, covering 6
 
 This story is worth your time because it reframes exploration itself. While we dream of Mars and the moon, Earth's most alien ecosystem remains largely unmapped beneath our feet. The deep-sea hydrothermal vents—spewing toxic, superheated water—may hold clues to life's origins more promising than any extraterrestrial discovery. Yet these rare oases face potential destruction before we fully understand them, making deep-sea exploration not just an adventure in curiosity, but an urgent act of preservation.</description>
       <source url="https://www.theguardian.com/news/2026/jun/09/ping-pong-sponges-black-smokers-and-floating-somethings-the-secrets-of-the-deep-sea">The Guardian</source>
-    </item>
-    <item>
-      <title>Why conservation urgently needs acoustic baselines</title>
-      <link>https://news.mongabay.com/2026/06/how-sound-can-reveal-what-satellite-images-miss/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/06/how-sound-can-reveal-what-satellite-images-miss/</guid>
-      <pubDate>Tue, 09 Jun 2026 02:02:57 GMT</pubDate>
-      <description>A forest may look healthy from a satellite image — canopy intact, carbon counted — yet quietly lose much of its animal life beneath the trees. Birds, frogs, insects, and primates arrange themselves in time and frequency, creating a daily acoustic structure that visual measures and aggregate data can miss. The Soundscape Baselines Project, detailed in a new study by Zuzana Buřivalová and colleagues, is racing to record what intact forests actually sound like before those reference points vanish.
-
-The effort spans pilot sites in Brunei, Ecuador, Gabon, Germany, Peru, and the United States, using continuous passive recorders managed with local teams. The goal is practical and urgent: to establish acoustic reference points while truly intact forests still exist. Without baselines, conservation faces what fisheries scientist Daniel Pauly called shifting baseline syndrome — each generation accepts a degraded state as normal because no one remembers what came before. In Gabon, for example, logged forests looked acoustically similar to intact ones in daily averages, but the timing and shape of dawn and dusk choruses revealed meaningful differences that coarser measures would have missed.
-
-Bioacoustics is not a replacement for fieldwork or camera traps, and the paper acknowledges its limits. Tools like acoustic indices and automated classifiers such as BirdNET show promise but require careful calibration, local knowledge, and honest treatment of uncertainty. Still, the approach offers something valuable: a way to detect ecological change that neither satellites nor carbon accounting can see. As Intact Forest Landscapes shrink — down 12% between 2000 and 2020 — the window for capturing acoustic baselines is closing. This project is an attempt to listen closely, while there is still something left to hear.</description>
-      <source url="https://news.mongabay.com/2026/06/how-sound-can-reveal-what-satellite-images-miss/">Mongabay</source>
     </item>
   </channel>
 </rss>
