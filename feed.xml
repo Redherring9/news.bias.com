@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 04:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 06:04:57 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fox paddles back to top of World Cup podium after rare miss</title>
+      <link>https://www.abc.net.au/news/2026-06-14/jessica-fox-wins-gold-icf-canoe-slalom-world-cup-germany/106796430</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-14/jessica-fox-wins-gold-icf-canoe-slalom-world-cup-germany/106796430</guid>
+      <pubDate>Sun, 14 Jun 2026 06:01:50 GMT</pubDate>
+      <description>Jessica Fox, one of Australia's most decorated canoe slalom athletes, returned to winning form at a World Cup event in Augsburg, Germany, demonstrating the mental toughness that has defined her career. The 32-year-old's gold medal in the C1 (canoe single) came just a day after an uncharacteristic stumble in the K1 (kayak single), where gate penalties knocked her out of the final despite posting a competitive time. It was a rare misstep for an athlete who arrived in Germany fresh off double gold medals from the previous round in Prague.
+
+The victory carries added significance given Fox's recent health challenges. She's navigating her competitive return less than a year after surgery to remove a kidney tumour, making her dominant performance all the more impressive. In the C1 final—an event in which she's claimed two Olympic golds—Fox qualified second and then surged ahead of the 12-woman field, finishing more than two seconds clear of Spain's Núria Vilarrubla. Her younger sister Noémie placed fifth in the same final. Fox acknowledged the difficulty of the Augsburg course, noting it constantly challenged her tactical decisions, though a touch on the second-to-last gate was her only blemish.
+
+This story offers a window into elite athleticism at its most human: the capacity to absorb disappointment, recalibrate overnight, and deliver when it matters. Fox's combination of technical mastery and psychological resilience, especially while recovering from serious surgery, reminds us that champions aren't defined by never falling short—but by how they respond when they do.</description>
+      <source url="https://www.abc.net.au/news/2026-06-14/jessica-fox-wins-gold-icf-canoe-slalom-world-cup-germany/106796430">ABC Australia</source>
+    </item>
     <item>
       <title>Harry Potter and the prisoner of war: the Ukrainian soldier who recited the saga from memory to help his companions survive</title>
       <link>https://www.bbc.com/mundo/articles/cy06l34w7n8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The analysis drew on existing data to estimate deaths across species ranging fro
 
 What makes this story quietly significant is the gap between what's happening beneath the waves and what's being measured—or acted upon. Solutions exist and have already worked: small-scale fishers in Yorkshire reduced seabird bycatch from 700 annually to just four or five by adopting heavier nets. The report calls for mandatory monitoring, stronger enforcement, and support to help fishers transition to methods that protect both livelihoods and the ocean's most vulnerable residents.</description>
       <source url="https://www.theguardian.com/environment/2026/jun/10/bycatch-toll-british-marine-life-analysis">The Guardian</source>
-    </item>
-    <item>
-      <title>Government earmarks $51m for new methane-busting technology</title>
-      <link>https://www.rnz.co.nz/news/country/597768/government-earmarks-51m-for-new-methane-busting-technology</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/country/597768/government-earmarks-51m-for-new-methane-busting-technology</guid>
-      <pubDate>Wed, 10 Jun 2026 02:01:21 GMT</pubDate>
-      <description>New Zealand is investing up to $51 million to help farmers adopt technologies designed to reduce methane emissions, which account for half the country's total greenhouse gas output. The Early Adoption Accelerator program will match private investment dollar-for-dollar, directing funds to companies and industry groups that can help scale up implementation of methane-reducing innovations across the agricultural sector.
-
-The initiative comes at a critical juncture. After scrapping plans for a methane tax last year, the government left farmers with little financial incentive to embrace these new technologies, some of which offer minimal productivity benefits. The country's climate targets depend heavily on cutting agricultural emissions, yet experts have questioned whether the government's technology rollout assumptions are realistic. Parliamentary Commissioner for the Environment Simon Upton called projections "heroic," noting they rely on more than a third of dairy cattle receiving methane vaccines—still in early development stages—by 2030. Industry groups have similarly urged caution about expectations for how quickly and widely farmers will adopt unproven innovations.
-
-What makes this story quietly significant is the tension it reveals between climate ambition and agricultural economics. New Zealand is betting that collaboration and technology sharing—"farmers learning from the farmer across the fence," as one official put it—can achieve what regulation could not. Whether subsidizing adoption can overcome the practical and financial barriers that have slowed uptake remains an open question, one with implications for how agricultural nations worldwide might balance food production with environmental responsibility.</description>
-      <source url="https://www.rnz.co.nz/news/country/597768/government-earmarks-51m-for-new-methane-busting-technology">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
