@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 18:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 20:02:41 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Researchers use tiny radio backpacks to track elusive gecko species</title>
+      <link>https://www.rnz.co.nz/news/environment/598179/researchers-use-tiny-radio-backpacks-to-track-elusive-gecko-species</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/environment/598179/researchers-use-tiny-radio-backpacks-to-track-elusive-gecko-species</guid>
+      <pubDate>Sun, 14 Jun 2026 20:02:39 GMT</pubDate>
+      <description>On New Zealand's Coromandel Peninsula, researchers have found an inventive way to study one of the country's most secretive residents. The northern striped gecko, a species so adept at blending into its surroundings that it wasn't even discovered until 1997, is now being tracked using miniature radio transmitters fashioned into tiny backpacks. University of Otago zoologist Dr. Jo Monks and master's student Harriet Wills wrapped the small devices in self-adhesive tape to create harnesses that sit comfortably on the geckos' backs, allowing the team to follow their daily movements through the forest.
+
+The tracking project has already revealed surprising insights into how these camouflage experts navigate their environment. When near forest edges during the day, the geckos hide beneath leaf litter—a behavior researchers could never observe before. Deeper in the forest, however, they venture up into the canopy, likely seeking the warmth of sunlight. These discoveries are helping scientists piece together a more complete picture of the species' ecology and habitat preferences, knowledge that had remained largely mysterious despite decades passing since their initial discovery.
+
+This research matters because it suggests the northern striped gecko may be far more widely distributed across the Coromandel than previously documented sightings indicated. By understanding where and how these elusive creatures live, conservationists can make better-informed decisions about protecting their habitat. It's a reminder that even in well-studied places, nature still holds secrets—and sometimes all it takes is a tiny backpack to unlock them.</description>
+      <source url="https://www.rnz.co.nz/news/environment/598179/researchers-use-tiny-radio-backpacks-to-track-elusive-gecko-species">Radio New Zealand</source>
+    </item>
     <item>
       <title>New OCD therapy a 'gamechanger' for 17-year-old</title>
       <link>https://www.rnz.co.nz/news/health/598167/new-ocd-therapy-a-gamechanger-for-17-year-old</link>
@@ -594,18 +606,6 @@ The service specializes in paediatric dentistry, minor surgeries, and endoscopy 
 
 This story quietly illuminates how thoughtful innovation can bridge gaps in healthcare access. By bringing the hospital to the patients rather than the reverse, this rolling theatre addresses not just medical needs but the practical realities of rural and regional life—a reminder that sometimes the most meaningful solutions are the ones that meet people exactly where they are.</description>
       <source url="https://www.rnz.co.nz/news/health/597843/mobile-surgical-unit-in-taranaki-treats-2000th-patient">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>The myth of white Argentina still shapes the nation</title>
-      <link>https://www.aljazeera.com/opinions/2026/6/10/the-myth-of-white-argentina-still-shapes-the-nation?traffic_source=rss</link>
-      <guid isPermaLink="false">https://www.aljazeera.com/opinions/2026/6/10/the-myth-of-white-argentina-still-shapes-the-nation?traffic_source=rss</guid>
-      <pubDate>Wed, 10 Jun 2026 16:02:44 GMT</pubDate>
-      <description>When the United Nations passed a landmark resolution in March calling for reparations for the transatlantic slave trade, 123 countries voted in favor. Only three voted against: the United States, Israel, and Argentina. For Argentina under President Javier Milei, this vote wasn't an anomaly—it reflected a centuries-old pattern of racial ideology built into the nation's identity.
-
-Since its founding, Argentina's elites have promoted a vision of the country as distinctly white and European. The 1853 Constitution explicitly encouraged European immigration as a vehicle for "civilization and progress," a clause that remains in place through every subsequent reform. This institutional framework fostered what the article describes as one of Latin America's most enduring myths: that Argentinians "descended from the ships" and form a homogeneous European society. In reality, the nation has always been far more diverse. In the early 19th century, people of African descent made up roughly a third of the population and contributed significantly to the country's economy, culture, and military. Indigenous communities maintained substantial demographic and territorial presence. Yet official narratives, school curricula, and even census records systematically minimized or erased these groups, transforming exclusion into what was portrayed as demographic inevitability.
-
-Milei's administration has continued this tradition by dismantling institutions designed to combat discrimination, including the National Institute Against Discrimination and its Commission for the Historical Recognition of the Afro-Argentine Community. This story matters because it reveals how national myths aren't just historical curiosities—they're active forces that shape policy, identity, and a country's place in the world. Argentina's UN vote made visible on the global stage what has long been embedded in its domestic structures: a choice about which histories count, and who gets to belong.</description>
-      <source url="https://www.aljazeera.com/opinions/2026/6/10/the-myth-of-white-argentina-still-shapes-the-nation?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
