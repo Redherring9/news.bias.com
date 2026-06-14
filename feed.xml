@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 06:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 08:04:11 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How forgotten voyages helped track El Nino</title>
+      <link>https://www.bbc.com/news/articles/cnv9dlppmr7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/news/articles/cnv9dlppmr7o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sun, 14 Jun 2026 08:04:09 GMT</pubDate>
+      <description>A century ago, a research vessel built in a small English shipyard embarked on expeditions that would help lay the groundwork for understanding one of Earth's most influential weather patterns. The Royal Research Ship William Scoresby, launched from Hull in the 1920s, was originally designed to study whale populations near Antarctica. But over the course of multiple voyages, it became an unlikely pioneer in oceanography and marine biology, gathering data that would prove essential to scientists trying to make sense of El Niño and the complementary Humboldt current in the Pacific Ocean.
+
+Named after a Whitby whaler and scientist, the Scoresby was purpose-built for exploration in harsh southern waters. During a particularly ambitious voyage in the 1930s that kept the crew away from Britain for 19 months, researchers aboard examined the Pacific currents in detail, collecting samples and conducting tests that formed early building blocks of modern oceanographic science. The ship even saw service during World War Two in a covert South Atlantic operation before being laid up in the 1950s and eventually scrapped.
+
+As meteorologists today warn of a potentially record-breaking El Niño event forming in the Pacific, the story of the Scoresby offers a quiet reminder of how scientific understanding accumulates across generations. The data gathered by this modest research vessel a century ago helped establish patterns that scientists still reference when predicting how these vast ocean currents influence weather systems worldwide—a legacy of patient observation that continues to inform our responses to climate challenges today.</description>
+      <source url="https://www.bbc.com/news/articles/cnv9dlppmr7o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Fox paddles back to top of World Cup podium after rare miss</title>
       <link>https://www.abc.net.au/news/2026-06-14/jessica-fox-wins-gold-icf-canoe-slalom-world-cup-germany/106796430</link>
@@ -594,18 +606,6 @@ Nine days into her recovery at Hospital da Restauração, Marcela's determinatio
 
 What makes this story quietly remarkable is the portrait it paints of resilience meeting community care. Marcela, described by classmates as gentle, quiet, and perpetually smiling, has inspired those around her not through grand gestures but through her simple insistence on moving forward. In returning to her studies so soon after a life-altering trauma, and in the spontaneous mobilization of her peers to support that choice, the story captures something fundamental about human determination and the power of being held by community during the hardest moments.</description>
       <source url="https://g1.globo.com/pe/pernambuco/noticia/2026/06/10/no-hospital-jovem-atacada-por-tubarao-retoma-estudos-da-faculdade-e-recebe-apoio-dos-colegas-merece-toda-ajuda.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Bycatch has ‘shocking’ toll on British marine life, first-ever analysis reveals</title>
-      <link>https://www.theguardian.com/environment/2026/jun/10/bycatch-toll-british-marine-life-analysis</link>
-      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/jun/10/bycatch-toll-british-marine-life-analysis</guid>
-      <pubDate>Wed, 10 Jun 2026 04:04:22 GMT</pubDate>
-      <description>A first-of-its-kind analysis of Britain's fishing bycatch has revealed the hidden cost of commercial fishing on marine life. Each year, thousands of protected animals—including more than 1,000 porpoises and dolphins, 10,000 seabirds, 500 seals, and dozens of whales—are accidentally killed by fishing vessels in UK waters. The report by Wildlife and Countryside Link calls the toll "shocking," though likely just "the tip of the iceberg," since only a tiny fraction of the fishing fleet monitors bycatch at all.
-
-The analysis drew on existing data to estimate deaths across species ranging from puffins and razorbills to endangered Atlantic salmon and protected sharks. Gillnets, which hang like curtains in the water, pose the greatest risk to seabirds that dive for food and drown when caught. Bottom trawlers and dredgers, recently highlighted in David Attenborough's documentary Oceans, damage sea life along the ocean floor. Conservation groups emphasize that most of these deaths are preventable through known mitigation measures, and that some fishers are already distressed by the unintended harm. The report notes that cetacean bycatch is one reason the UK fails to meet legal obligations for healthy marine ecosystems.
-
-What makes this story quietly significant is the gap between what's happening beneath the waves and what's being measured—or acted upon. Solutions exist and have already worked: small-scale fishers in Yorkshire reduced seabird bycatch from 700 annually to just four or five by adopting heavier nets. The report calls for mandatory monitoring, stronger enforcement, and support to help fishers transition to methods that protect both livelihoods and the ocean's most vulnerable residents.</description>
-      <source url="https://www.theguardian.com/environment/2026/jun/10/bycatch-toll-british-marine-life-analysis">The Guardian</source>
     </item>
   </channel>
 </rss>
