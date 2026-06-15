@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 02:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 04:01:35 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Good News from Science in the Fight Against Cancer - The Subject #1739</title>
+      <link>https://g1.globo.com/podcast/o-assunto/noticia/2026/06/15/as-boas-noticias-da-ciencia-no-combate-ao-cancer-o-assunto-1739.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/podcast/o-assunto/noticia/2026/06/15/as-boas-noticias-da-ciencia-no-combate-ao-cancer-o-assunto-1739.ghtml</guid>
+      <pubDate>Mon, 15 Jun 2026 04:01:34 GMT</pubDate>
+      <description>Two recent breakthroughs in cancer treatment are offering fresh hope to patients and researchers worldwide. At a major oncology conference in Chicago this June, over 50,000 doctors and scientists gave a standing ovation—some with tears in their eyes—to the results of a clinical trial for daraxonrasib, an oral medication that doubled the survival rate for pancreatic cancer patients. Pancreatic cancer is considered one of the most lethal forms of the disease, making this advancement particularly significant. The emotional response from the scientific community underscored just how meaningful this progress represents.
+
+Meanwhile, researchers at the University of São Paulo in Ribeirão Preto announced equally promising results for a therapy developed entirely in Brazil. The CAR-T Cell treatment, which modifies a patient's own immune cells to fight cancer, showed nearly 90% efficacy in patients with lymphoma, a type of blood cancer. Brazil's Minister of Health has pledged to incorporate this innovative treatment into the country's public health system, potentially making cutting-edge cancer care accessible to a broader population. One patient who participated in the experimental treatment shared his personal journey toward cancer remission, illustrating the human impact behind the statistics.
+
+These parallel developments—one from international research, another homegrown—represent more than incremental progress. They signal a shift toward more effective, targeted cancer therapies that could transform outcomes for diseases once considered nearly untreatable. The story is worth attention not just for the science itself, but for what it reveals about the accelerating pace of medical innovation and the possibility of making advanced treatments available beyond elite medical centers.</description>
+      <source url="https://g1.globo.com/podcast/o-assunto/noticia/2026/06/15/as-boas-noticias-da-ciencia-no-combate-ao-cancer-o-assunto-1739.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>NZDF engineer honoured for response work in Vanuatu</title>
       <link>https://www.rnz.co.nz/news/pacific/598205/nzdf-engineer-honoured-for-response-work-in-vanuatu</link>
@@ -594,18 +606,6 @@ Over 32 dives, explorers collected samples from 485 fossil-rich sites, uncoverin
 
 This discovery offers a rare window into ancient ocean ecosystems and how they sustained life over millions of years. Stephen J. Godfrey of the Calvert Marine Museum described it as "a truly unique discovery," comparing the published study to the trailer of an epic film saga and expressing hope for many more revelations to come. For anyone fascinated by the ocean's hidden history, this underwater necropolis is a reminder of how much remains to be explored in the planet's least accessible places.</description>
       <source url="https://www.bbc.com/mundo/articles/c33ye2y8l5do?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>New species found in Australia's most 'pristine' marine parks</title>
-      <link>https://www.abc.net.au/news/2026-06-11/scientists-discover-new-species-christmas-cocos-islands/106779294</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-11/scientists-discover-new-species-christmas-cocos-islands/106779294</guid>
-      <pubDate>Thu, 11 Jun 2026 00:02:39 GMT</pubDate>
-      <description>In the deep waters surrounding Australia's remote Christmas and Cocos (Keeling) Islands, scientists have catalogued at least 149 marine species never before known to science. The discoveries emerged from two research voyages in 2021 and 2022, when teams from Museums Victoria, CSIRO, and the Australian Museum explored 22 seamounts—massive underwater mountains rising from the ocean floor nearly 3,000 kilometres northwest of Perth. Among the thousand specimens collected, researchers found an array of bizarre benthic creatures, from sea stars to worms to sea cucumbers, living in one of Earth's least understood environments.
-
-One standout discovery is a tiny annelid worm, just millimetres long, found at nearly 5,000 metres depth—among the deepest species ever recorded by the research vessel Investigator. Named Bathyvermilioides juliebrocka, the worm lives inside a hard calcium carbonate tube and extends feather-like tentacles that resemble a delicate flower. What surprises researchers is how such creatures maintain rigid structures under crushing pressures equivalent to 500 atmospheres, where most life has evolved to be gelatinous. The findings also challenge older theories about seamount isolation, suggesting these underwater mountains function more like "stepping stones" that allow deep-sea organisms to migrate and connect ecosystems across vast distances.
-
-This story matters because it offers a crucial baseline snapshot of pristine marine environments at a time of accelerating change. With more than 400 collected specimens still awaiting description, the work reminds us how much of our own planet remains mysterious—and how understanding these hidden worlds can help us respond to threats like climate change and overfishing with greater wisdom and care.</description>
-      <source url="https://www.abc.net.au/news/2026-06-11/scientists-discover-new-species-christmas-cocos-islands/106779294">ABC Australia</source>
     </item>
   </channel>
 </rss>
