@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 08:03:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 10:02:47 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Crato turns 262: the struggle to save the architectural memory of one of the first cities in Cariri</title>
+      <link>https://g1.globo.com/ce/ceara/cariri/noticia/2026/06/20/crato-262-anos-a-luta-para-salvar-a-memoria-arquitetonica-de-uma-das-primeiras-cidades-do-cariri.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/ce/ceara/cariri/noticia/2026/06/20/crato-262-anos-a-luta-para-salvar-a-memoria-arquitetonica-de-uma-das-primeiras-cidades-do-cariri.ghtml</guid>
+      <pubDate>Sat, 20 Jun 2026 10:02:46 GMT</pubDate>
+      <description>In the Cariri region of northeastern Brazil, the city of Crato recently celebrated its 262nd anniversary, offering a rare window into colonial architecture that has largely vanished across the country. Before Portuguese colonizers arrived in 1714, the area was home to the Cariri indigenous peoples. The settlement grew under the guidance of Franciscan friars and eventually transformed into a formal Portuguese vila, following strict crown regulations that dictated everything from street layout to the mandatory presence of a church, town hall, jail, and pillory.
+
+Two buildings anchor Crato's architectural heritage today. The Casa de Câmara e Cadeia, built in 1877 in neoclassical style, once housed the town's administrative and judicial functions—from the mayor's office to the police station. Now it serves as home to two museums. Nearby stands the Sé Catedral Nossa Senhora da Penha, which began as a modest chapel for indigenous catechism and evolved into an imposing cathedral. Both structures frame the Praça da Sé, the city's historic heart, though much of the original colonial fabric has been lost to demolition and transformation over the centuries.
+
+Researchers like architect Waldemar Arraes and historian Iaré Lucas Andrade emphasize that these buildings represent more than aesthetics—they embody a way of thinking, a colonial identity shaped by European models imposed on Brazilian soil. For a city entering its third century, Crato's struggle to preserve what remains is a quiet testament to the layers of history—indigenous, colonial, and independent—that continue to shape regional identity in modern Brazil.</description>
+      <source url="https://g1.globo.com/ce/ceara/cariri/noticia/2026/06/20/crato-262-anos-a-luta-para-salvar-a-memoria-arquitetonica-de-uma-das-primeiras-cidades-do-cariri.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Manifesta 16 Ruhr: The Legacy of Post-War Churches</title>
       <link>https://www.dw.com/de/manifesta-16-ruhr-das-erbe-der-nachkriegskirchen/a-77579526?maca=de-rss-de-all-1119-xml-mrss</link>
@@ -594,18 +606,6 @@ When new cancer cells developed during his first trial at the Peter MacCallum Ca
 
 This story is worth a reader's time because it illustrates both the cutting edge of personalized cancer treatment and the very human experience of facing mortality with courage and humor. Whitehead's journey—from death sentence to remission through genetic sequencing and tailored drugs—offers a glimpse into medicine's evolving capacity to treat even the rarest cancers, while his determination to share his story and advocate for second opinions reminds us of the quiet heroism found in patients who become pioneers.</description>
       <source url="https://www.abc.net.au/news/2026-06-16/lymphoma-remission-targeted-cancer-trial/106790174">ABC Australia</source>
-    </item>
-    <item>
-      <title>Global map of Earth’s mycorrhizal fungal networks could help protect them</title>
-      <link>https://news.mongabay.com/short-article/2026/06/global-map-of-earths-mycorrhizal-fungal-networks-could-help-protect-them/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/06/global-map-of-earths-mycorrhizal-fungal-networks-could-help-protect-them/</guid>
-      <pubDate>Mon, 15 Jun 2026 22:01:31 GMT</pubDate>
-      <description>Beneath our feet lies an invisible world of staggering scale: roughly 110 quadrillion kilometers of fungal threads woven through Earth's soils. Scientists have now mapped these mycorrhizal networks for the first time, revealing where they thrive, how dense they are, and what puts them at risk. The effort offers a new lens on one of the planet's most essential—yet overlooked—living systems.
-
-Nearly all land plants depend on arbuscular mycorrhizal fungi, which trade water and nutrients for carbon captured through photosynthesis. These underground networks function as a circulatory system for the planet, moving an estimated 4 billion tons of CO2 equivalent into soils each year—roughly 11 percent of global human-related emissions. To create their maps, researchers analyzed data from over 16,000 soil samples spanning nine biomes and used machine learning combined with robotic imaging of hundreds of thousands of individual fungal cells. The result is an interactive tool that estimates fungal density for every square kilometer of land on Earth. Grasslands emerged as particularly rich habitats, holding about 40 percent of all fungal biomass, with hotspots in South Sudan's flooded plains, Florida's Everglades, and the Tibetan Plateau. Croplands, by contrast, showed roughly half the density of wild ecosystems, raising questions about how farming practices affect these networks and their ability to store carbon.
-
-This story matters because it makes visible what has long been ignored. With 90 percent of fungal biodiversity hotspots lying outside protected areas, the research underscores an urgent need to rethink conservation and climate strategy—not just for what grows above ground, but for the living infrastructure that sustains it all.</description>
-      <source url="https://news.mongabay.com/short-article/2026/06/global-map-of-earths-mycorrhizal-fungal-networks-could-help-protect-them/">Mongabay</source>
     </item>
   </channel>
 </rss>
