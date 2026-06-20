@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 14:03:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 16:04:11 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ebola and the Global Injustice of Healthcare</title>
+      <link>https://www.dw.com/de/ebola-und-die-globale-ungerechtigkeit-des-gesundheitswesens/a-77630484?maca=de-rss-de-all-1119-xml-mrss</link>
+      <guid isPermaLink="false">https://www.dw.com/de/ebola-und-die-globale-ungerechtigkeit-des-gesundheitswesens/a-77630484?maca=de-rss-de-all-1119-xml-mrss</guid>
+      <pubDate>Sat, 20 Jun 2026 16:04:09 GMT</pubDate>
+      <description>A recent Ebola outbreak in the Democratic Republic of Congo has brought into sharp focus the disparities in global healthcare access. When American missionary doctor Peter Stafford contracted Ebola while treating patients in the DRC, he was airlifted to Berlin's Charité hospital for experimental treatment—a stark contrast to the resources available to local patients. The episode prompted German infectious disease specialist Thomas Cronen to reflect on the heartbreak of witnessing such inequality: enormous resources mobilized for one patient while the outbreak raged on with limited support.
+
+The experimental treatment Stafford received centered on MBP-134, a combination of monoclonal antibodies derived from a survivor of West Africa's 2013 Ebola outbreak. Despite assumptions that such treatments were unavailable in Africa, both the WHO and Africa CDC had actually prioritized MBP-134 for use during the DRC outbreak. Monoclonal antibodies have expanded dramatically as medical tools—from 30 approved treatments in 2014 to 144 by 2025—offering hope for diseases from Ebola to Alzheimer's. Yet access in Africa remains severely limited, not just due to the cost of the medicines themselves, but because of the clinical infrastructure required: proper storage, trained staff for administration, and facilities for monitoring patients.
+
+This story matters because it illuminates a troubling gap between medical capability and global equity. The same promising treatments exist on paper for patients everywhere, but the infrastructure to deliver them does not. As health experts gathered in Nairobi to share knowledge about Ebola care, the question lingered: why can life-saving innovation travel thousands of miles for one patient while remaining out of reach for communities at the outbreak's center?</description>
+      <source url="https://www.dw.com/de/ebola-und-die-globale-ungerechtigkeit-des-gesundheitswesens/a-77630484?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
+    </item>
     <item>
       <title>In Nepal’s highlands, climate change threatens Tibet’s Bon faith</title>
       <link>https://www.aljazeera.com/features/longform/2026/6/20/in-nepals-highlands-climate-change-threatens-tibets-bon-faith?traffic_source=rss</link>
@@ -594,18 +606,6 @@ Yet rediscovering the species was only the beginning. Tanshi observed that while
 
 This story matters because it illuminates the quiet heroes working to protect species that rarely capture headlines. It's a reminder that conservation isn't only about charismatic megafauna—sometimes the most vulnerable lives fit between your fingers, and the most meaningful victories are measured in grams.</description>
       <source url="https://www.theguardian.com/environment/2026/jun/16/iroro-tanshi-biologist-rediscovered-short-tailed-roundleaf-bat-teaspoon-salt-aoe">The Guardian</source>
-    </item>
-    <item>
-      <title>‘Lost’ parrot rediscovered on remote Indonesian peak</title>
-      <link>https://news.mongabay.com/short-article/2026/06/lost-parrot-rediscovered-on-remote-indonesian-peak/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/06/lost-parrot-rediscovered-on-remote-indonesian-peak/</guid>
-      <pubDate>Tue, 16 Jun 2026 06:02:11 GMT</pubDate>
-      <description>After a demanding 14-day expedition through the rugged highlands of Indonesia's Buru Island, a team of mountaineers and conservationists has captured only the second photographic record of the blue-fronted lorikeet in more than a century. The small parrot, with its lime-green plumage, orange beak, and pointed tail, exists nowhere else on Earth and had largely vanished from scientific view since museum specimens were collected in the 1920s. Though photographed once in 2014, the species remained shrouded in mystery until this April expedition reached the cloud forests atop Mount Kapalatmada's 2,700-meter limestone peak.
-
-The moment of rediscovery carried profound emotional weight for the team. When expedition member John C. Mittermeier spotted the lorikeet through his binoculars, he described "short-circuiting with excitement." For local guide Sumaraja, the sighting brought tears of joy at confirming these birds still survive. The team also recorded the parrot's high-pitched calls for the first time, adding crucial data to an almost empty scientific record. Currently listed as "Data Deficient" by the IUCN, the lorikeet's rarity and restricted habitat make it highly vulnerable, though the mountain's inaccessibility has inadvertently served as protection.
-
-This story reminds us that even in our mapped and monitored world, some creatures still guard their secrets in remote corners. The rediscovery offers not just scientific validation but hope—hope that conservation efforts on Buru can now be focused and informed, and hope that what seems lost might simply be waiting, high in the clouds, to be found again.</description>
-      <source url="https://news.mongabay.com/short-article/2026/06/lost-parrot-rediscovered-on-remote-indonesian-peak/">Mongabay</source>
     </item>
   </channel>
 </rss>
