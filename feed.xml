@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 22:03:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 00:03:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vet chanced upon first H5 bird flu case</title>
+      <link>https://www.abc.net.au/news/2026-06-21/bird-flu-h5-first-case-australia-vet-found-esperance-beach/106823550</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-21/bird-flu-h5-first-case-australia-vet-found-esperance-beach/106823550</guid>
+      <pubDate>Sun, 21 Jun 2026 00:03:01 GMT</pubDate>
+      <description>A routine beach walk near Esperance, Western Australia, led to the discovery of Australia's first confirmed case of H5 bird flu. Veterinarian Toni Howlett encountered a sick brown skua—a subantarctic seabird—resting in seaweed and initially suspected botulism, a common ailment among coastal wildlife in the region. She transported the bird to a local wildlife carer, who contacted authorities for testing. Days later, the bird tested positive for the highly infectious H5 variant, marking a significant moment in the country's biosecurity timeline.
+
+The find wasn't isolated. Dr. Howlett's colleague, Alex Hockton, identified a second infected bird—a Giant Northern Petrel—shortly afterward. Both veterinarians work at Swans Vets in Esperance, a clinic that had been preparing for this possibility for two years. The south coast location made it a likely entry point for the virus, and the team had received specialized training from the state's Department of Primary Industries and Regional Development. Their swift action, combined with the vigilance of wildlife carers, enabled rapid identification and public health response.
+
+This story quietly underscores the value of preparation, local knowledge, and collaboration. It illustrates how a chance encounter, guided by professional instinct and community networks, can become a critical early warning system. The vets emphasize that members of the public should avoid handling sick or dead birds and instead contact emergency hotlines. As Australia braces for potential further cases, the Esperance discovery serves as a reminder that frontline biosecurity often begins not in laboratories, but on windswept beaches—with people paying attention.</description>
+      <source url="https://www.abc.net.au/news/2026-06-21/bird-flu-h5-first-case-australia-vet-found-esperance-beach/106823550">ABC Australia</source>
+    </item>
     <item>
       <title>The Invercargill father writing children's books with his eyes</title>
       <link>https://www.rnz.co.nz/news/health/609462/the-invercargill-father-writing-children-s-books-with-his-eyes</link>
@@ -594,18 +606,6 @@ The Amazon as a whole saw its water surface rise 2.6% above the historical avera
 
 This story matters because it illustrates the complexity of environmental monitoring—a single year's improvement doesn't reverse long-term decline. As MapBiomas technical coordinator Juliano Schirmbeck notes, the data reveals a "continuous movement of loss" influenced by both climate change and land use alterations. It's a reminder that understanding our planet's health requires patient attention to patterns that unfold across decades, not just the welcome relief of one season's rain.</description>
       <source url="https://g1.globo.com/pa/para/noticia/2026/06/16/para-lidera-recuperacao-de-area-de-agua-apos-seca-na-amazonia-aponta-mapbiomas.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Smashing Yesterday’s Croissants for a Better Tomorrow</title>
-      <link>https://reasonstobecheerful.world/demain-bakery-upcycling-food/</link>
-      <guid isPermaLink="false">https://reasonstobecheerful.world/demain-bakery-upcycling-food/</guid>
-      <pubDate>Tue, 16 Jun 2026 14:02:21 GMT</pubDate>
-      <description>In Paris, a bakery called Demain is tackling food waste with a simple but effective idea: rescuing yesterday's unsold bread and pastries from artisan bakeries and selling them at half price. Founded in 2023 by Martin Herbelin and Adrien de Dumast, the company collects goods from more than 20 partner bakeries across the French capital, saving around 50,000 items from the trash each month. Customers can find almond croissants for 50 cents, sourdough loaves for €4 instead of €8, and traditional baguettes for less than a euro—all perfectly edible, just a day old.
-
-The scale of the problem Demain addresses is staggering. Globally, about a third of all food produced for human consumption goes to waste. In Europe, that amounts to 58 million metric tons annually, while Americans discard nearly 60 million tons each year. French bakeries alone waste approximately 345,000 metric tons of bread and pastries annually, worth over a billion euros. The challenge isn't lack of care—most people say they don't want to waste food—but practical hurdles like the cost of redistribution, unpredictable leftover quantities, and the fragility of baked goods.
-
-What makes Demain's approach quietly remarkable is how it turns a logistical problem into an opportunity. By creating a reliable system that benefits bakers, customers, and the environment, the initiative shows that changing mindsets around food waste doesn't require grand gestures—just thoughtful organization and a willingness to see value in what might otherwise be discarded. It's a small-scale solution with the potential for large-scale impact, proving that yesterday's croissant can indeed help build a better tomorrow.</description>
-      <source url="https://reasonstobecheerful.world/demain-bakery-upcycling-food/">Reasons to be Cheerful</source>
     </item>
   </channel>
 </rss>
