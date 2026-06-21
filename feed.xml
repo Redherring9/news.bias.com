@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 00:03:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 02:02:27 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rescuers cry as baby turtles embark on 1,400km journey</title>
+      <link>https://www.abc.net.au/news/2026-06-21/rescued-baby-turtle-release-ningaloo-reef/106820658</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-21/rescued-baby-turtle-release-ningaloo-reef/106820658</guid>
+      <pubDate>Sun, 21 Jun 2026 02:02:26 GMT</pubDate>
+      <description>Two loggerhead turtles named Squirdle and Treasure are beginning an extraordinary journey home after spending two years recovering at a marine rescue sanctuary in Bunbury, Western Australia. The pair arrived exhausted and dehydrated in 2024, having washed ashore during fierce winter storms. Now healthy and cleared by veterinarians, they're being flown 1,400 kilometers north to Exmouth, where they'll be released into the warm waters near Ningaloo Reef before embarking on a westward migration toward Madagascar.
+
+The turtles each faced unique challenges during rehabilitation. Squirdle, missing a front flipper, required careful monitoring to ensure he could navigate ocean currents without buoyancy problems. Treasure needed extra time to recover from shock. Staff and volunteers at Bunbury's Dolphin Discovery Centre became deeply attached to the pair, with some tearfully acknowledging the bittersweet nature of the farewell. Aquarist Chantelle Dixon reflected on watching them grow from palm-sized hatchlings to juveniles she could barely lift.
+
+This release carries significance beyond two individual turtles. With only one in every 1,000 loggerhead hatchlings surviving to maturity, returning two juveniles to the wild represents meaningful progress for a species facing daunting odds. The story also highlights the importance of community intervention: when young turtles wash ashore during storms, they're typically too cold and exhausted to survive if simply returned to the ocean. This quiet tale of patient care, scientific diligence, and human compassion reminds us that small acts of rescue can ripple outward in ways that matter profoundly for species struggling to endure.</description>
+      <source url="https://www.abc.net.au/news/2026-06-21/rescued-baby-turtle-release-ningaloo-reef/106820658">ABC Australia</source>
+    </item>
     <item>
       <title>Vet chanced upon first H5 bird flu case</title>
       <link>https://www.abc.net.au/news/2026-06-21/bird-flu-h5-first-case-australia-vet-found-esperance-beach/106823550</link>
@@ -594,18 +606,6 @@ The anniversary arrives at a complicated moment for South Africa. While the nati
 
 This story matters because it holds up a mirror to both how far South Africa has come and how far it still has to go. The students of 1976 risked everything for dignity and opportunity; fifty years later, their successors are still fighting for economic inclusion and justice. It's a reminder that historical victories, however hard-won, require constant tending to bear lasting fruit.</description>
       <source url="https://www.aljazeera.com/news/2026/6/16/post-apartheid-south-africa-50-years-after-soweto-riots-what-has-changed?traffic_source=rss">Al Jazeera</source>
-    </item>
-    <item>
-      <title>Pará leads water area recovery after drought in the Amazon, MapBiomas reports</title>
-      <link>https://g1.globo.com/pa/para/noticia/2026/06/16/para-lidera-recuperacao-de-area-de-agua-apos-seca-na-amazonia-aponta-mapbiomas.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/pa/para/noticia/2026/06/16/para-lidera-recuperacao-de-area-de-agua-apos-seca-na-amazonia-aponta-mapbiomas.ghtml</guid>
-      <pubDate>Tue, 16 Jun 2026 16:03:46 GMT</pubDate>
-      <description>After two consecutive years of severe drought, the Amazon has begun to regain water surface area in 2025, with the state of Pará leading the recovery. According to MapBiomas Água, an initiative that uses satellite imagery and artificial intelligence to track water coverage across Brazil since 1985, Pará recorded an increase of 142,000 hectares above its historical average. The recovery has been attributed to increased rainfall compared to the previous year, though researchers caution that the situation remains concerning, as extreme weather events continue and twenty sub-basins in the region still show below-average water levels.
-
-The Amazon as a whole saw its water surface rise 2.6% above the historical average in 2025, with natural water bodies—rivers, lakes, and floodplains—comprising 92.7% of the mapped water. This underscores the vital role these ecosystems play for riverside communities living in the forest. However, the broader national trend tells a more sobering story: between 1985 and 2025, Brazil's average water surface has declined from 19.86 million hectares to 17.28 million hectares, a loss of 2.6 million hectares over four decades.
-
-This story matters because it illustrates the complexity of environmental monitoring—a single year's improvement doesn't reverse long-term decline. As MapBiomas technical coordinator Juliano Schirmbeck notes, the data reveals a "continuous movement of loss" influenced by both climate change and land use alterations. It's a reminder that understanding our planet's health requires patient attention to patterns that unfold across decades, not just the welcome relief of one season's rain.</description>
-      <source url="https://g1.globo.com/pa/para/noticia/2026/06/16/para-lidera-recuperacao-de-area-de-agua-apos-seca-na-amazonia-aponta-mapbiomas.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
