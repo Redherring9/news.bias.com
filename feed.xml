@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 04:03:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:05:03 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Country diary: Birds of a feather in a noisy argument | Mary Montague</title>
+      <link>https://www.theguardian.com/environment/2026/jun/23/country-diary-birds-of-a-feather-in-a-noisy-argument</link>
+      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/jun/23/country-diary-birds-of-a-feather-in-a-noisy-argument</guid>
+      <pubDate>Tue, 23 Jun 2026 06:02:52 GMT</pubDate>
+      <description>A chance encounter during a rainstorm reveals an unexpected visitor among Ireland's resident crows. Sheltering beneath a sycamore tree, nature writer Mary Montague witnesses a heated dispute between several hooded crows—the common grey-and-black corvids of Ireland—and one conspicuous outlier: an all-black carrion crow, a species typically found across most of Britain but rare in Irish skies.
+
+The observation becomes a gateway into the fascinating taxonomy of these closely related birds. Hooded crows, with their distinctive grey bodies and black wings, dominate Ireland and northern Scotland, while carrion crows are widespread throughout the rest of Britain. The two can interbreed in overlap zones, particularly in Scotland, leading to centuries of scientific debate about whether they constitute separate species or merely regional variants. Since Carl Linnaeus first classified them as distinct species in 1758, ornithologists have alternately lumped them together and split them apart as understanding of speciation has evolved.
+
+What makes this story quietly remarkable is what recent genetic studies reveal: these visually distinct birds differ by a mere 0.28% genetically, yet remain separate populations. The key lies in the crows' own preferences—they choose mates based on plumage, meaning that this tiny genetic difference governing appearance has been enough to maintain distinct populations despite nearly identical ecology and behavior. It's a elegant reminder that nature's boundaries are often more nuanced than they first appear, and that even our most familiar neighbors—argumentative, rain-soaked crows sheltering in the same trees—carry stories of evolution, preference, and the surprisingly subjective nature of what makes a species a species.</description>
+      <source url="https://www.theguardian.com/environment/2026/jun/23/country-diary-birds-of-a-feather-in-a-noisy-argument">The Guardian</source>
+    </item>
     <item>
       <title>Nagasaki hibakusha recalls wartime conversations with Dutch prisoner of war</title>
       <link>https://www.japantimes.co.jp/news/2026/06/23/japan/hibakusha-nagasaki-recall-encounters-dutch/</link>
@@ -594,18 +606,6 @@ The Japanese golden eagle, designated both as endangered and a national natural 
 
 This story captures a community's determination to restore what was lost and the delicate balance required in conservation work. It's a reminder that bringing species back from the brink requires not just scientific expertise but also patience, public support, and a willingness to try approaches never before attempted—all in service of seeing a golden eagle soar over familiar mountains once again.</description>
       <source url="https://www.japantimes.co.jp/news/2026/06/19/japan/zoo-golden-eagle-release-wild/">The Japan Times</source>
-    </item>
-    <item>
-      <title>Saudi parrotfish festival stretches scientific &amp; traditional ecological knowledge (commentary)</title>
-      <link>https://news.mongabay.com/2026/06/saudi-parrotfish-festival-stretches-scientific-traditional-ecological-knowledge-commentary/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/06/saudi-parrotfish-festival-stretches-scientific-traditional-ecological-knowledge-commentary/</guid>
-      <pubDate>Thu, 18 Jun 2026 22:02:20 GMT</pubDate>
-      <description>Each spring on Saudi Arabia's Farasan Islands, hundreds of people rush into the Red Sea to catch parrotfish during the hareed festival — a tradition stretching back centuries. The fish arrive in such abundance and seem so willing to be caught that locals describe them as swimming to their deaths. What makes this phenomenon especially intriguing is that it sits at the intersection of mystery and meaning: science cannot yet fully explain why these fish aggregate here annually, while traditional knowledge offers its own confident answer.
-
-Local residents believe the parrotfish travel vast distances, perhaps from as far as India. Marine scientists, however, note that parrotfish aren't known to migrate anywhere near that scale — most reef fish stay close to home as adults. When researchers dissected fish from the festival, they found no physical signs of migration stress. This gap between traditional understanding and scientific observation creates a puzzle. The aggregation follows the lunar calendar precisely, beginning the day after the full moon and lasting five days. While the event has ancient roots, formal management only began two decades ago, raising questions about sustainability as catches can reach over 170 pounds per person.
-
-This story is worth attention because it demonstrates how much remains unknown about our oceans, even in well-populated regions. It's a reminder that the most complete understanding often comes from weaving together different ways of knowing — scientific data and generations of lived observation. In the Red Sea's uncharted waters, the annual arrival of the hareed offers both a cultural celebration and an invitation to deeper inquiry.</description>
-      <source url="https://news.mongabay.com/2026/06/saudi-parrotfish-festival-stretches-scientific-traditional-ecological-knowledge-commentary/">Mongabay</source>
     </item>
   </channel>
 </rss>
