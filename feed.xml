@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 14:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:03:12 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI helps read papyrus scroll burnt to crisp during Vesuvius eruption</title>
+      <link>https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption</link>
+      <guid isPermaLink="false">https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption</guid>
+      <pubDate>Wed, 24 Jun 2026 16:03:11 GMT</pubDate>
+      <description>Researchers have successfully read more than a metre of text from an ancient papyrus scroll that was carbonized during the eruption of Mount Vesuvius in AD 79, without physically unwrapping it. Using artificial intelligence and high-resolution X-ray imaging, they virtually unrolled a scroll known as PHerc 1667, revealing 20 columns of previously hidden text discussing stoic philosophy — a remarkable achievement considering the scroll is now only 8 centimeters tall after centuries of damage and past handling attempts.
+
+The scroll, dating to the second or late-third century BC, is one of hundreds recovered from a luxury villa library in Herculaneum and among the oldest in the collection. The text discusses concepts like hormē (impulse) and phronēsis (practical wisdom), and may have been written by the Greek philosopher Chrysippus, the third head of the stoic school. This discovery is particularly significant because the Herculaneum library was previously thought to contain primarily Epicurean works by Philodemus of Gadara. The breakthrough came through the Vesuvius Challenge, a global contest launched in 2023 that encouraged teams to develop AI techniques for reading the carbonized scrolls, awarding hundreds of thousands of dollars in prizes.
+
+This story offers a quiet marvel at the intersection of ancient history and modern technology. What once seemed permanently lost — thoughts written more than two millennia ago, then turned to charcoal in a catastrophic eruption — is now speaking again. The work demonstrates how patient scholarship and innovative tools can recover voices from the past, expanding our understanding of ancient philosophy and proving that even "dead books" may yet have more to tell us.</description>
+      <source url="https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption">The Guardian</source>
+    </item>
     <item>
       <title>Fire surge threatens Indigenous livelihoods and isolated peoples in Brazil</title>
       <link>https://news.mongabay.com/2026/06/fire-surge-threatens-indigenous-livelihoods-and-isolated-peoples-in-brazil/</link>
@@ -594,18 +606,6 @@ But the village that has endured centuries of upheaval now faces a threat withou
 
 This story matters because it reveals how global environmental shifts are quietly erasing not just homes and farmland, but entire ways of life. Lubra's struggle is a reminder that climate change doesn't merely alter landscapes—it threatens the cultural and spiritual threads that connect communities to place, memory, and centuries of accumulated wisdom. What hangs in the balance is something far more difficult to rebuild than a house.</description>
       <source url="https://www.aljazeera.com/features/longform/2026/6/20/in-nepals-highlands-climate-change-threatens-tibets-bon-faith?traffic_source=rss">Al Jazeera</source>
-    </item>
-    <item>
-      <title>Israeli attack kills famed turtle sanctuary ecologist in Lebanon</title>
-      <link>https://www.theguardian.com/world/2026/jun/20/mona-khalil-turtle-ecologist-lebanon-killed-israeli-attack</link>
-      <guid isPermaLink="false">https://www.theguardian.com/world/2026/jun/20/mona-khalil-turtle-ecologist-lebanon-killed-israeli-attack</guid>
-      <pubDate>Sat, 20 Jun 2026 12:03:03 GMT</pubDate>
-      <description>Mona Khalil spent more than two decades protecting sea turtles along Lebanon's southern coast, transforming her family home into a sanctuary that welcomed both endangered loggerheads and green turtles, and the volunteers who came to help them. The 76-year-old conservationist died from injuries sustained when an Israeli airstrike hit her orange-painted house, the Orange House Project, earlier this month near the Mediterranean city of Tyre.
-
-Khalil's journey began with a chance encounter in 1999, when she returned from exile in the Netherlands after Lebanon's civil war and spotted a turtle nesting on the beach by her family's land. She painted her house orange to honor the country that had sheltered her during the war, then opened it to ecotourists and conservation volunteers. Guests would stay in her flower-filled courtyard surrounded by rescued animals, walk through banana groves to monitor the beach, and witness the remarkable sight of hatchlings making their way to the sea. Her work wasn't always welcomed—she faced opposition from developers and fishers, and her home had been struck once before during the 2006 conflict—but she persisted, successfully campaigning against destructive practices like dynamite fishing.
-
-This story matters because it illuminates the quiet courage required to protect fragile ecosystems in places where human conflict makes such work extraordinarily difficult. Khalil's decades of dedication inspired generations of Lebanese conservationists and created a rare refuge where nature and people could thrive together, even in a landscape marked by repeated invasion and occupation. Her legacy lives on in the turtles that still nest along that mile-long stretch of sand.</description>
-      <source url="https://www.theguardian.com/world/2026/jun/20/mona-khalil-turtle-ecologist-lebanon-killed-israeli-attack">The Guardian</source>
     </item>
   </channel>
 </rss>
