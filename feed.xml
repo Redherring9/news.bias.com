@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 18:03:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 20:03:13 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How Kiwi generosity is helping fund life-changing eye surgeries in the Pacific</title>
+      <link>https://www.rnz.co.nz/news/pacific/620490/how-kiwi-generosity-is-helping-fund-life-changing-eye-surgeries-in-the-pacific</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/pacific/620490/how-kiwi-generosity-is-helping-fund-life-changing-eye-surgeries-in-the-pacific</guid>
+      <pubDate>Wed, 24 Jun 2026 20:03:12 GMT</pubDate>
+      <description>The Fred Hollows Foundation New Zealand has reached a remarkable milestone: more than 100,000 sight-restoring surgeries delivered across the Pacific islands over roughly two decades. The charity's work addresses avoidable blindness in communities where access to specialist eye care is often scarce or nonexistent. CEO Dr. Audrey Aumua describes the profound moments when bandages come off and people see loved ones clearly for the first time in years—grandparents meeting grandchildren's faces, spouses reconnecting after a decade of blindness.
+
+In 2025 alone, the Foundation conducted 114 outreach clinics across nations including Fiji, Samoa, Nauru, and Papua New Guinea, providing over 64,000 consultations and nearly 5,000 surgeries. Funded largely by New Zealand public donations, the organization goes beyond immediate treatment by investing in local capacity. This year saw 21 new eye-nurses graduate and four trainee doctors complete their studies, with eleven more ophthalmologists currently in training. By educating Pacific healthcare workers within their own regions, the Foundation ensures practitioners understand local systems and communities intimately. A major project underway is Papua New Guinea's first purpose-built eye health center in Port Moresby, addressing what may be the world's highest burden of avoidable blindness in a country of 11-12 million people with limited healthcare access.
+
+This story offers a quiet reminder that preventable suffering persists in our neighborhood, and that sustained generosity paired with respectful partnership can create transformative change. It's a testament to what communities can accomplish when resources meet local expertise and long-term commitment.</description>
+      <source url="https://www.rnz.co.nz/news/pacific/620490/how-kiwi-generosity-is-helping-fund-life-changing-eye-surgeries-in-the-pacific">Radio New Zealand</source>
+    </item>
     <item>
       <title>Community plants wetlands a decade after country's worst waterborne illness outbreak</title>
       <link>https://www.rnz.co.nz/news/regions_hawkes-bay/620438/community-plants-wetlands-a-decade-after-country-s-worst-waterborne-illness-outbreak</link>
@@ -594,18 +606,6 @@ The story begins in 1824, when Mexico's mining industry lay in ruins after a dec
 
 This story offers a quietly remarkable glimpse into how global migration shapes culture in unexpected ways. The Cornish miners didn't just extract silver; they planted the seeds of what became a national passion in one of the world's most football-obsessed countries and a co-host of this year's World Cup. It's a reminder that sport often travels in the pockets of working people, carrying traditions across oceans to take root in entirely new soil.</description>
       <source url="https://www.bbc.com/mundo/articles/c20yn28ryr7o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>Ebola and the Global Injustice of Healthcare</title>
-      <link>https://www.dw.com/de/ebola-und-die-globale-ungerechtigkeit-des-gesundheitswesens/a-77630484?maca=de-rss-de-all-1119-xml-mrss</link>
-      <guid isPermaLink="false">https://www.dw.com/de/ebola-und-die-globale-ungerechtigkeit-des-gesundheitswesens/a-77630484?maca=de-rss-de-all-1119-xml-mrss</guid>
-      <pubDate>Sat, 20 Jun 2026 16:04:09 GMT</pubDate>
-      <description>A recent Ebola outbreak in the Democratic Republic of Congo has brought into sharp focus the disparities in global healthcare access. When American missionary doctor Peter Stafford contracted Ebola while treating patients in the DRC, he was airlifted to Berlin's Charité hospital for experimental treatment—a stark contrast to the resources available to local patients. The episode prompted German infectious disease specialist Thomas Cronen to reflect on the heartbreak of witnessing such inequality: enormous resources mobilized for one patient while the outbreak raged on with limited support.
-
-The experimental treatment Stafford received centered on MBP-134, a combination of monoclonal antibodies derived from a survivor of West Africa's 2013 Ebola outbreak. Despite assumptions that such treatments were unavailable in Africa, both the WHO and Africa CDC had actually prioritized MBP-134 for use during the DRC outbreak. Monoclonal antibodies have expanded dramatically as medical tools—from 30 approved treatments in 2014 to 144 by 2025—offering hope for diseases from Ebola to Alzheimer's. Yet access in Africa remains severely limited, not just due to the cost of the medicines themselves, but because of the clinical infrastructure required: proper storage, trained staff for administration, and facilities for monitoring patients.
-
-This story matters because it illuminates a troubling gap between medical capability and global equity. The same promising treatments exist on paper for patients everywhere, but the infrastructure to deliver them does not. As health experts gathered in Nairobi to share knowledge about Ebola care, the question lingered: why can life-saving innovation travel thousands of miles for one patient while remaining out of reach for communities at the outbreak's center?</description>
-      <source url="https://www.dw.com/de/ebola-und-die-globale-ungerechtigkeit-des-gesundheitswesens/a-77630484?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
     </item>
   </channel>
 </rss>
