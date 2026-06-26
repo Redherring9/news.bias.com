@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 08:01:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:03:14 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why Brazil doesn't suffer from major earthquakes, unlike neighboring countries</title>
+      <link>https://www.bbc.com/portuguese/articles/cgjxdy1lnn7o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/cgjxdy1lnn7o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 26 Jun 2026 10:03:11 GMT</pubDate>
+      <description>When powerful earthquakes struck Venezuela, killing over 235 people, neighboring Brazil felt only minor tremors. This pattern isn't luck—it's geology. The article explores why Brazil remains relatively shielded from the devastating seismic events that regularly shake its South American neighbors.
+
+The answer lies in the country's position on Earth's crust. Brazil sits squarely in the middle of the South American tectonic plate, a massive rocky formation up to 200 kilometers thick in places. Geographers compare Earth's crust to a fragmented eggshell, with enormous plates constantly shifting atop the churning mantle below. Where plates meet—at convergent boundaries—they push, scrape, and collide. When accumulated tension becomes too great, rocks fracture and release tremendous energy, creating earthquakes. Countries along the Andes mountain range sit directly on these volatile boundaries where the South American plate meets others, making them far more susceptible to major seismic activity.
+
+This geological explanation offers a reassuring perspective on natural disasters, reminding us how profoundly our experience of Earth's dynamic forces depends on location. For readers curious about why some regions face catastrophic earthquakes while others don't, this story provides an accessible window into plate tectonics—a fundamental process shaping both our planet's geography and the unequal distribution of natural hazards across its surface.</description>
+      <source url="https://www.bbc.com/portuguese/articles/cgjxdy1lnn7o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>A little bird told her: scientist wins $100,000 prize for decoding birdsong</title>
       <link>https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong</link>
@@ -594,18 +606,6 @@ Researchers consulted herbarium collections from past expeditions to map the mos
 
 The finding highlights a larger gap in conservation efforts. None of Antarctica's 74 Specially Protected Areas were designated primarily to protect plant habitats; most focus on marine bird and mammal colonies. Yet mosses form the bulk of Antarctic vegetation and face real threats from research stations, tourism, trampling, and vehicle damage. Once disturbed, these slow-growing plants can take decades to recover in the harsh climate. This first-ever plant risk assessment offers a quiet reminder that even in Earth's most extreme environment, small communities of life deserve attention and protection, and provides a foundation for future conservation areas that recognize the value of Antarctica's understated botanical residents.</description>
       <source url="https://news.mongabay.com/short-article/2026/06/antarcticas-first-plant-risk-assessment-raises-concerns-for-a-rare-moss/">Mongabay</source>
-    </item>
-    <item>
-      <title>Portal of Enchantment: Garantido's open rehearsal energizes red supporters at Parintins Bumbódromo</title>
-      <link>https://g1.globo.com/am/amazonas/festival-de-parintins/2026/noticia/2026/06/22/portal-do-encantamento-ensaio-aberto-do-garantido-agita-glera-encarnada-no-bumbodromo-de-parintins.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/am/amazonas/festival-de-parintins/2026/noticia/2026/06/22/portal-do-encantamento-ensaio-aberto-do-garantido-agita-glera-encarnada-no-bumbodromo-de-parintins.ghtml</guid>
-      <pubDate>Mon, 22 Jun 2026 06:02:28 GMT</pubDate>
-      <description>In the heart of Brazil's Amazon, the city of Parintins is preparing for one of the country's most vibrant cultural celebrations. The Boi Garantido, one of two rival teams in the annual Bumbá Festival, held its open technical rehearsal at the Bumbódromo arena, drawing enthusiastic crowds dressed in the team's signature red and white colors. The rehearsal offered supporters their first glimpse of what's to come at the 59th Folk Festival, with the 2025 theme "Portal of Enchantment" guiding this year's creative vision.
-
-The evening showcased the intricate preparations behind this beloved tradition. The Batucada percussion ensemble set the pace while song leader David Assayag led familiar toadas—traditional songs that supporters sang along to with obvious devotion. Dancers, ceremonial characters like the Pajé (shaman) and Cunhã Poranga (indigenous maiden), and other official festival elements rehearsed their choreography and scenic evolutions, testing timing and spatial arrangements in the actual performance arena. The technical rehearsal serves a practical purpose, allowing organizers to fine-tune every detail before the official competition nights.
-
-What makes this story quietly remarkable is how it illuminates a living cultural tradition that transforms an entire Amazonian city each year. The Boi Bumbá Festival, a folkloric competition rooted in indigenous and regional legends, inspires year-round devotion from supporters who treat it with the passion typically reserved for major sporting events. As Garantido's president expressed confidence in winning their 34th title, the rehearsal revealed not just entertainment, but a deep community identity woven through music, dance, and shared storytelling—a reminder of how cultural celebration can unite and energize entire populations.</description>
-      <source url="https://g1.globo.com/am/amazonas/festival-de-parintins/2026/noticia/2026/06/22/portal-do-encantamento-ensaio-aberto-do-garantido-agita-glera-encarnada-no-bumbodromo-de-parintins.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
