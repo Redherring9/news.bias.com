@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 10:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 12:01:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Telling one guiña from another: It’s all about the angle</title>
+      <link>https://news.mongabay.com/2026/06/telling-one-guina-from-another-its-all-about-the-angle/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/06/telling-one-guina-from-another-its-all-about-the-angle/</guid>
+      <pubDate>Mon, 29 Jun 2026 12:01:17 GMT</pubDate>
+      <description>In the temperate forests of Chile and Argentina lives the guiña, a small wildcat so subtly marked that researchers have long struggled to tell one individual from another. This identification challenge has left conservationists with a critical blind spot: without knowing how many guiña exist in threatened populations, it's nearly impossible to protect them effectively. Now, a simple shift in perspective—literally—may offer a solution.
+
+Researchers led by Nicholas Galvez at the Pontifical Catholic University of Chile repositioned their camera traps to point downward from tree branches, capturing images of the cats from above rather than at ground level. This "zenith" angle revealed what side views could not: the unique constellation of black spots on each guiña's back, allowing the team to identify twelve individual cats in Chile's Reñihué Valley. The technique addresses a longstanding problem in studying these cryptic felines, which were only recently downlisted from vulnerable to least concern by the IUCN—a decision that sparked debate given that several subpopulations remain under serious threat from habitat loss, persecution, and forest fires.
+
+While the method shows promise, it's not without complications. More than half the images captured were unusable, either because they featured melanistic black-furred individuals whose spots are invisible, or because image quality was too poor. Still, conservation scientists see the approach as potentially transformative for filling crucial data gaps, not just for guiña but possibly for other elusive small cat species. In a field where even the simplest question—how many are there?—can be maddeningly difficult to answer, sometimes all it takes is looking at the problem from a different angle.</description>
+      <source url="https://news.mongabay.com/2026/06/telling-one-guina-from-another-its-all-about-the-angle/">Mongabay</source>
+    </item>
     <item>
       <title>Why Ukraine is rewilding in the heat of war</title>
       <link>https://www.positive.news/environment/why-ukraine-is-rewilding-in-the-heat-of-war/</link>
@@ -594,18 +606,6 @@ Philip Baya, who has fished these waters for more than thirty years, remembers w
 
 Yet amid the worry, there are glimmers of hope. Local communities are working to restore mangroves, protect fish breeding grounds, and clean beaches—small but meaningful efforts to heal the creek that has sustained them for generations. This story matters because it puts a human face on ocean warming, showing how global environmental changes ripple through the daily lives of coastal communities, and how those same communities are responding not with despair but with determination and care for the waters they call home.</description>
       <source url="https://news.mongabay.com/2026/06/in-kenyas-mida-creek-fishers-confront-a-changing-ocean-with-hope/">Mongabay</source>
-    </item>
-    <item>
-      <title>Traditional navigators encourage more people to 'look up' at Matariki</title>
-      <link>https://www.rnz.co.nz/news/te-manu-korihi/621510/traditional-navigators-encourage-more-people-to-look-up-at-matariki</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/te-manu-korihi/621510/traditional-navigators-encourage-more-people-to-look-up-at-matariki</guid>
-      <pubDate>Thu, 25 Jun 2026 08:01:17 GMT</pubDate>
-      <description>Three traditional waka navigators gathered at Te Papa in Wellington to share their experiences of crossing the ocean between Aotearoa and Samoa using only ancient wayfinding techniques—no GPS, no modern instruments, not even watches. Manihera Forbes, Tamahau Tangitu, and Hinerapa Rupuha belong to a third generation of navigators tracing their knowledge back through Pacific masters to the legendary Micronesian navigator Mau Piailug. Their voyage aboard the waka hourua Ngahiraka Mai Tawhiti represents a living continuation of ancestral maritime traditions.
-
-Forbes now runs his own navigation school in Whaingaroa and teaches wānanga across the country, though he's candid about the realities of the role. Navigation training has a notoriously low success rate—his teacher graduated only three navigators from 300 students—and the work itself demands sleeping just 30 minutes per night at sea. Yet Forbes emphasizes that waka voyaging offers many roles beyond navigation: crew members, captains, cooks, and fishers are all essential. While Matariki itself is too faint for practical navigation, the star cluster holds deep cultural significance in Māori storytelling and seasonal knowledge. Forbes describes time on the ocean as "a portal" into te ao tāwhito, the ancient world, where meteors and celestial signs become transformative experiences.
-
-This story quietly reminds us that some of humanity's oldest technologies—reading stars, wind, and waves—are still practiced and passed down today. Rupuha's observation is particularly striking: the stars are there every night, free to observe, yet most of us need a public holiday to remember to look up. It's a gentle invitation to reconnect with knowledge that predates satellites, and with the night sky that has guided travelers for millennia.</description>
-      <source url="https://www.rnz.co.nz/news/te-manu-korihi/621510/traditional-navigators-encourage-more-people-to-look-up-at-matariki">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
