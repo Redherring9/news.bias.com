@@ -134,6 +134,15 @@
 
 <script src="/js/filter.js"></script>
 <script src="/js/search.js"></script>
+<script>
+// Click-tracking: intercept [data-go] links and route through /go/ for analytics
+document.addEventListener("click", function(e) {
+  var link = e.target.closest("a[data-go]");
+  if (!link) return;
+  e.preventDefault();
+  window.open(link.dataset.go, link.target || "_blank");
+});
+</script>
 
 </body>
 </html>
