@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 08:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:02:45 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>"So crazy": NASA to the rescue of the Swift telescope, in space since 2004</title>
+      <link>https://www.france24.com/fr/am%C3%A9riques/20260630-tellement-fou-la-nasa-%C3%A0-la-rescousse-du-t%C3%A9lescope-swift-dans-l-espace-depuis-2004</link>
+      <guid isPermaLink="false">https://www.france24.com/fr/am%C3%A9riques/20260630-tellement-fou-la-nasa-%C3%A0-la-rescousse-du-t%C3%A9lescope-swift-dans-l-espace-depuis-2004</guid>
+      <pubDate>Tue, 30 Jun 2026 10:02:44 GMT</pubDate>
+      <description>NASA is attempting something unprecedented: a robotic rescue mission to save a telescope that's been quietly working in space for over two decades. The Neil Gehrels Swift Observatory, launched in 2004 for what was supposed to be a two-year mission, has continued observing some of the universe's most energetic phenomena—gamma-ray bursts that outshine even supernovas. But now, twenty years later, Swift is falling toward Earth, destined to burn up in the atmosphere without intervention.
+
+The rescue plan reads like science fiction. A robot built by startup Katalyst will launch aboard a small rocket dropped from an airplane over the Pacific. Once in orbit, it must locate Swift in the vastness of space, maneuver around it, grab hold with three mechanical arms, and then spend about a month pushing the telescope roughly 300 kilometers higher—back near its original orbit. "Everything about this mission is so crazy," laughs Regina Caputo, a NASA astrophysicist involved in the effort. The challenge intensified because increased solar activity has expanded Earth's atmosphere, accelerating Swift's orbital decay faster than expected.
+
+What makes this $30 million gamble worth it? Swift remains uniquely valuable to researchers despite its age, offering rapid response capabilities that can't easily be replaced. But beyond saving one beloved telescope, this mission could pioneer techniques for extending the lives of other satellites, turning what seems like an audacious rescue into a potential blueprint for the future of space operations. It's a story about ingenuity, the unexpected longevity of scientific instruments, and our growing ability to actively manage the crowded environment of near-Earth space.</description>
+      <source url="https://www.france24.com/fr/am%C3%A9riques/20260630-tellement-fou-la-nasa-%C3%A0-la-rescousse-du-t%C3%A9lescope-swift-dans-l-espace-depuis-2004">France 24</source>
+    </item>
     <item>
       <title>How eletrofunk 'dribbled past' sertanejo prejudice and invaded parties across Brazil's interior</title>
       <link>https://g1.globo.com/pop-arte/musica/noticia/2026/06/30/como-eletrofunk-driblou-preconceito-do-sertanejo-e-invadiu-festas-pelo-interior-do-pais.ghtml</link>
@@ -594,18 +606,6 @@ What makes Elie's research particularly compelling is her method of checking her
 
 This achievement is part of a broader movement to bridge the communication gap between species, fueled by advances in artificial intelligence and machine learning. The prize itself sits within a larger initiative, including a $10 million grand prize for cracking two-way human-animal communication. While some experts caution there's still a long road ahead, this work represents something quietly remarkable: rigorous proof that other species don't just make noise—they have things to say, and with patience and ingenuity, we're learning to listen.</description>
       <source url="https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong">The Guardian</source>
-    </item>
-    <item>
-      <title>Migrating swifts loyally return every year to nests in buildings, study finds</title>
-      <link>https://www.theguardian.com/environment/2026/jun/26/migrating-swifts-loyally-return-every-year-nests-buildings-study-finds</link>
-      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/jun/26/migrating-swifts-loyally-return-every-year-nests-buildings-study-finds</guid>
-      <pubDate>Fri, 26 Jun 2026 06:03:16 GMT</pubDate>
-      <description>A 15-year study in a Devon village has revealed just how devoted swifts are to their homes. Researchers tracking 190 birds found that 94% returned to the exact same nesting site each year—a loyalty stronger than their attachment to mates, with only 59% reuniting with the same partner. The findings underscore a pressing conservation challenge: swifts, now on Britain's red list, have declined by 70% since 1995, primarily due to lost nesting sites when old buildings are renovated or insulated.
-
-The solution is surprisingly simple. Swift bricks—hollow blocks that cost around £35—can replace lost nesting cavities in new construction. Scotland made these bricks legally required in new buildings this year, but England's government has repeatedly declined to follow suit, despite growing pressure from conservationists. Meanwhile, the birds face mixed fortunes: some nesting sites in a Derbyshire viaduct were reopened after local outcry, while ancestral homes in Surrey were demolished during nesting season. This year's heatwave presents a new crisis, as overheated chicks may tumble from nests, unable to take flight again without human intervention.
-
-Yet there's quiet hope in the story. As UK Swift Awareness Week approaches, more than 150 local groups are organizing events and volunteer networks to rescue grounded swiftlets and raise awareness. While governmental support remains inconsistent, community enthusiasm is growing exponentially. This story matters because it shows how a modest architectural tweak and grassroots care can help reverse the decline of a beloved species whose screaming summer parties have delighted generations—a reminder that conservation sometimes starts with a single brick.</description>
-      <source url="https://www.theguardian.com/environment/2026/jun/26/migrating-swifts-loyally-return-every-year-nests-buildings-study-finds">The Guardian</source>
     </item>
   </channel>
 </rss>
