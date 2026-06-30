@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 10:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 12:03:43 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Is space Earth's best laboratory? A discussion with C. Haigneré, S. Rousseau and O. Sanguy</title>
+      <link>https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260630-l-espace-le-meilleur-labo-de-la-terre-parlons-en-avec-c-haigner%C3%A9-s-rousseau-et-o-sanguy</link>
+      <guid isPermaLink="false">https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260630-l-espace-le-meilleur-labo-de-la-terre-parlons-en-avec-c-haigner%C3%A9-s-rousseau-et-o-sanguy</guid>
+      <pubDate>Tue, 30 Jun 2026 12:03:41 GMT</pubDate>
+      <description>High above Earth, French astronaut Sophie Adenot is marking her 137th day aboard the International Space Station, working 400 kilometers above our planet. At 43, she's only the second French woman to travel to space, and her time there is filled with intensive scientific work. France 24 recently gained exclusive access to one of the experiments being conducted between Earth and the orbiting laboratory, offering a rare glimpse into the daily research happening in microgravity.
+
+The question at the heart of the discussion is whether space truly serves as Earth's best laboratory. Space offers unique conditions that simply cannot be replicated on our planet—weightlessness, extreme temperatures, and cosmic radiation create opportunities for experiments in physics, biology, medicine, and materials science that would be impossible in terrestrial labs. The conversation brings together voices who understand this frontier from multiple angles: Claudie Haigneré, herself a pioneering astronaut and now an advisor to the European Space Agency; journalist Sylvain Rousseau; and Olivier Sanguy, who tracks space developments from the Cité de l'Espace in Toulouse.
+
+This story matters because it highlights how orbital research continues to push the boundaries of human knowledge. The work astronauts like Adenot perform isn't just about breaking records or national pride—it's about conducting experiments that could lead to medical breakthroughs, new materials, and deeper understanding of fundamental science. The exclusive look at ongoing experiments reminds us that space stations are working laboratories where patient, methodical science unfolds far from Earth's pull, revealing answers to questions we can only ask when we leave the planet behind.</description>
+      <source url="https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260630-l-espace-le-meilleur-labo-de-la-terre-parlons-en-avec-c-haigner%C3%A9-s-rousseau-et-o-sanguy">France 24</source>
+    </item>
     <item>
       <title>"So crazy": NASA to the rescue of the Swift telescope, in space since 2004</title>
       <link>https://www.france24.com/fr/am%C3%A9riques/20260630-tellement-fou-la-nasa-%C3%A0-la-rescousse-du-t%C3%A9lescope-swift-dans-l-espace-depuis-2004</link>
@@ -594,18 +606,6 @@ The answer lies in the country's position on Earth's crust. Brazil sits squarely
 
 This geological explanation offers a reassuring perspective on natural disasters, reminding us how profoundly our experience of Earth's dynamic forces depends on location. For readers curious about why some regions face catastrophic earthquakes while others don't, this story provides an accessible window into plate tectonics—a fundamental process shaping both our planet's geography and the unequal distribution of natural hazards across its surface.</description>
       <source url="https://www.bbc.com/portuguese/articles/cgjxdy1lnn7o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
-    </item>
-    <item>
-      <title>A little bird told her: scientist wins $100,000 prize for decoding birdsong</title>
-      <link>https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong</link>
-      <guid isPermaLink="false">https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong</guid>
-      <pubDate>Fri, 26 Jun 2026 08:01:21 GMT</pubDate>
-      <description>A decade-long effort to understand what birds are actually saying to each other has earned a Berkeley scientist a major recognition—and brought us closer to a world where humans might genuinely converse with animals. Dr. Julie Elie has won the $100,000 Coller-Dolittle Prize for decoding the vocabulary of zebra finches, identifying eleven core calls and their specific meanings. Her work reveals not just what the birds communicate, but how they recognize each other through individual vocal signatures, much like we might recognize a friend's voice regardless of what they're saying.
-
-What makes Elie's research particularly compelling is her method of checking her own understanding. Rather than simply cataloging sounds, she designed experiments where the birds themselves confirmed whether she'd interpreted their calls correctly. In one clever test, finches learned to skip past calls that weren't rewarding—similar to scrolling past uninteresting videos. When they made mistakes, they typically confused calls with similar meanings rather than similar sounds, suggesting the birds truly comprehend what they're communicating, not just mimicking patterns. As one judge noted, this demonstrates "a mental imagery of the meaning of their vocalisations."
-
-This achievement is part of a broader movement to bridge the communication gap between species, fueled by advances in artificial intelligence and machine learning. The prize itself sits within a larger initiative, including a $10 million grand prize for cracking two-way human-animal communication. While some experts caution there's still a long road ahead, this work represents something quietly remarkable: rigorous proof that other species don't just make noise—they have things to say, and with patience and ingenuity, we're learning to listen.</description>
-      <source url="https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong">The Guardian</source>
     </item>
   </channel>
 </rss>
