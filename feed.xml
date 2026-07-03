@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 14:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 16:04:20 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Australia’s seagrass meadows under pressure as climate change turns up the heat</title>
+      <link>https://news.mongabay.com/2026/07/australias-seagrass-meadows-under-pressure-as-climate-change-turns-up-the-heat/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/07/australias-seagrass-meadows-under-pressure-as-climate-change-turns-up-the-heat/</guid>
+      <pubDate>Fri, 03 Jul 2026 16:04:19 GMT</pubDate>
+      <description>Australia harbors some of the planet's most extensive seagrass meadows, including around 3.5 million hectares in the Great Barrier Reef alone—an area larger than Belgium. These underwater flowering plants may lack the visual drama of coral reefs, earning them the nickname "ugly cousins," but they perform essential work: stabilizing sediments, filtering pollutants, providing habitat for commercial fish species, and sequestering vast amounts of carbon dioxide. Australia hosts roughly half of the world's 60 seagrass species, making it a global biodiversity hotspot for these unsung ecosystem engineers.
+
+Yet these vital meadows face mounting pressures. Since the 1950s, Australia has lost 1.6 million hectares of seagrass to coastal development, pollution, and dredging. Climate change now intensifies the threat, bringing marine heat waves, severe storms, and algal blooms that block crucial sunlight. The 2010-2011 heat wave at Shark Bay—a UNESCO World Heritage Site—offers a sobering case study: more than 100,000 hectares died off, releasing 9 million metric tons of CO₂ in what researchers called a "carbon bomb." The event cost billions, closed fisheries for years, and devastated populations of fish, dolphins, and dugongs.
+
+Conservationists are responding with restoration efforts and strategies to build resilience in remaining meadows. As one researcher notes, the era of stable coastal conditions is over, but healthy, well-protected systems stand the best chance of surviving future changes. This story matters because it reveals how invisible ecosystems underpin ocean health—and reminds us that protecting what we overlook may be as critical as saving what dazzles us.</description>
+      <source url="https://news.mongabay.com/2026/07/australias-seagrass-meadows-under-pressure-as-climate-change-turns-up-the-heat/">Mongabay</source>
+    </item>
     <item>
       <title>Lava Bois of São José de Ribamar takes place this weekend; see schedule</title>
       <link>https://g1.globo.com/ma/maranhao/saojoao/noticia/2026/07/03/lava-bois-de-sao-jose-de-ribamar-ocorre-neste-fim-de-semana-veja-programacao.ghtml</link>
@@ -594,18 +606,6 @@ The aircraft disappeared from radar on March 8, 2014, during a routine flight fr
 
 This story captures both the scale of human persistence and the humbling vastness of our oceans. As Ocean Infinity's CEO notes, the geographic and technological challenges are almost incomprehensible, yet the search continues—a quiet testament to the enduring need for answers and the remarkable capabilities of modern deep-sea technology.</description>
       <source url="https://www.dw.com/de/flug-mh370-suche-nach-wrack-wird-verlängert/a-77755602?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
-    </item>
-    <item>
-      <title>Telling one guiña from another: It’s all about the angle</title>
-      <link>https://news.mongabay.com/2026/06/telling-one-guina-from-another-its-all-about-the-angle/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/06/telling-one-guina-from-another-its-all-about-the-angle/</guid>
-      <pubDate>Mon, 29 Jun 2026 12:01:17 GMT</pubDate>
-      <description>In the temperate forests of Chile and Argentina lives the guiña, a small wildcat so subtly marked that researchers have long struggled to tell one individual from another. This identification challenge has left conservationists with a critical blind spot: without knowing how many guiña exist in threatened populations, it's nearly impossible to protect them effectively. Now, a simple shift in perspective—literally—may offer a solution.
-
-Researchers led by Nicholas Galvez at the Pontifical Catholic University of Chile repositioned their camera traps to point downward from tree branches, capturing images of the cats from above rather than at ground level. This "zenith" angle revealed what side views could not: the unique constellation of black spots on each guiña's back, allowing the team to identify twelve individual cats in Chile's Reñihué Valley. The technique addresses a longstanding problem in studying these cryptic felines, which were only recently downlisted from vulnerable to least concern by the IUCN—a decision that sparked debate given that several subpopulations remain under serious threat from habitat loss, persecution, and forest fires.
-
-While the method shows promise, it's not without complications. More than half the images captured were unusable, either because they featured melanistic black-furred individuals whose spots are invisible, or because image quality was too poor. Still, conservation scientists see the approach as potentially transformative for filling crucial data gaps, not just for guiña but possibly for other elusive small cat species. In a field where even the simplest question—how many are there?—can be maddeningly difficult to answer, sometimes all it takes is looking at the problem from a different angle.</description>
-      <source url="https://news.mongabay.com/2026/06/telling-one-guina-from-another-its-all-about-the-angle/">Mongabay</source>
     </item>
   </channel>
 </rss>
