@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 22:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:04:07 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Can selective logging help the Congo Basin store more carbon?</title>
+      <link>https://news.mongabay.com/2026/07/can-selective-logging-help-the-congo-basin-store-more-carbon/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/07/can-selective-logging-help-the-congo-basin-store-more-carbon/</guid>
+      <pubDate>Fri, 03 Jul 2026 00:04:06 GMT</pubDate>
+      <description>A new study using machine learning has mapped carbon storage across Central Africa's Congo Basin—the world's largest forested carbon sink—and arrived at a counterintuitive finding. Managed logging concessions, where only one or two trees per hectare are selectively harvested each year under strict regulations, account for nearly 57% of the net carbon removals in these vital rainforests. The research, published in Nature Communications, suggests that carefully controlled logging might actually help the Congo Basin capture more atmospheric carbon while providing income for local communities.
+
+Lead researcher Le Bienfaiteur Sagang and his team created a detailed carbon map spanning three decades of data across six countries. Their model revealed that nearly all annual carbon removal—98.7%—happens in managed areas, whether protected reserves or logging concessions. Old-growth forests store the vast majority of carbon regardless of logging status. Meanwhile, unmanaged forests emit nearly as much carbon as they store, largely due to illegal logging and slash-and-burn agriculture. The study suggests that selective logging's careful practices—minimum tree sizes, decades-long recovery periods, and closed logging roads—allow young trees to rapidly fill canopy gaps and absorb more carbon than the mature trees removed.
+
+This story matters because it challenges simple narratives about forest conservation. While some experts argue that addressing the root causes of illegal clearing would be more effective, the research opens a nuanced conversation about how communities might benefit economically from forests while strengthening their role in climate stability. It's a reminder that environmental solutions sometimes emerge from unexpected places—and that the relationship between human activity and nature can be more complex than it first appears.</description>
+      <source url="https://news.mongabay.com/2026/07/can-selective-logging-help-the-congo-basin-store-more-carbon/">Mongabay</source>
+    </item>
     <item>
       <title>Blind kids with 'perfect pitch' find friendship and harmony through song</title>
       <link>https://www.abc.net.au/news/2026-07-03/braille-choir-music-camp-mittagong-nsw/106864160</link>
@@ -594,18 +606,6 @@ Dr. Carter's work in the 1940s and 1950s was foundational to understanding how s
 
 Farmers across Australia crowdfunded the $14,000 shipping cost to repatriate the collection, now housed at the Rural Industries Skill Training Centre in Hamilton. Textile scientist Paul Swan, who helped catalogue the crates, describes each box as "extraordinary," filled with textbooks, meeting transcripts with French and Russian colleagues, and early skin graft experiments. This story reminds us that scientific knowledge can be as fragile as it is valuable—and that sometimes the most important discoveries are the ones we almost lost forever.</description>
       <source url="https://www.abc.net.au/news/2026-06-29/csiro-merino-sheep-archives-returned-australia/106840580">ABC Australia</source>
-    </item>
-    <item>
-      <title>Biodiversity gains from multi-million philanthropic investment in Abel Tasman to be handed over to DOC</title>
-      <link>https://www.rnz.co.nz/news/environment/639762/biodiversity-gains-from-multi-million-philanthropic-investment-in-abel-tasman-to-be-handed-over-to-doc</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/environment/639762/biodiversity-gains-from-multi-million-philanthropic-investment-in-abel-tasman-to-be-handed-over-to-doc</guid>
-      <pubDate>Sun, 28 Jun 2026 20:02:25 GMT</pubDate>
-      <description>After fourteen years and more than $21 million in philanthropic investment, New Zealand's Abel Tasman National Park is being returned to the Department of Conservation with a dramatically restored ecosystem. Project Janszoon, the country's first large-scale conservation partnership, has reintroduced native birds including whio, pateke, and kaka to the park, removed invasive gorse and wilding pines, and established a trapping network across ninety percent of the landscape. What was once a coastline walled by spiky shrubs and marked by silence is now alive with birdsong and thriving native species.
-
-The project was made possible by Auckland couple Neal and Annette Plowman, who built their fortune from a family laundry business and established the NEXT Foundation to support environmental initiatives. Working alongside the Department of Conservation, the Abel Tasman Birdsong Trust, iwi, and hundreds of volunteers, the trust tackled a park that had been on a deteriorating path. Longtime volunteers Marion and Bill Gilbertson describe the transformation as "mind-blowing," watching an entire park ecosystem turn around through sustained effort and resources. The success of Abel Tasman inspired similar landscape-scale restoration projects across New Zealand, from Taranaki Mounga to Predator Free Wellington.
-
-This story matters because it demonstrates what's possible when philanthropy, government agencies, indigenous partners, and community volunteers align around a shared vision. It's a quiet reminder that even landscapes we've grown accustomed to seeing degraded can be brought back to life—and that the return of birdsong to a silent forest is something worth investing in for generations to come.</description>
-      <source url="https://www.rnz.co.nz/news/environment/639762/biodiversity-gains-from-multi-million-philanthropic-investment-in-abel-tasman-to-be-handed-over-to-doc">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
