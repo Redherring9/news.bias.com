@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 06:03:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:04:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Scientist dubbed The Bogfather is restoring peatland to fight climate change</title>
+      <link>https://www.bbc.co.uk/news/articles/cy498d400pro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy498d400pro?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sat, 04 Jul 2026 08:04:01 GMT</pubDate>
+      <description>For three decades, Dr. Peter Jones has devoted himself to the often-overlooked world of peatlands—earning the affectionate nickname "The Bogfather" from younger colleagues along the way. His mission centers on restoring bogs, fens, and wetlands that play an outsized role in climate regulation. In Wales, peatlands cover just 4% of the land but store 30% of its land-based carbon. The problem is that roughly 90% of these vital ecosystems are degraded, leaking greenhouse gases instead of locking them away. Jones champions peatland restoration as a multi-benefit solution: healthy bogs slow water flow to reduce flooding, act as natural firebreaks against wildfires, and support rare biodiversity.
+
+Jones's fascination began at age eight during a rainy visit to a nature reserve, and it has deepened ever since. He describes peatlands as among the UK's last truly wild places, endlessly interesting both for their living ecosystems and for what lies beneath. Peat soil is built from partially decomposed plants that trap pollen, dust, volcanic ash, and even larger objects over centuries—a living archive of history. Much of Wales' peatland was drained or planted over because it was once seen as low-value land, and peat was harvested as fuel by rural communities. Today, damaged bogs erode into "peat cliffs," stripped down to bedrock by wind and rain.
+
+Restoration involves blocking drains, reintroducing sphagnum moss—which holds twenty times its weight in water—and nurturing native plants like the fly orchid, a flower that tricks male wasps with fake pheromones. Jones's work is a quiet reminder that protecting these humble, soggy landscapes can address some of our most pressing environmental challenges all at once.</description>
+      <source url="https://www.bbc.co.uk/news/articles/cy498d400pro?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Hunting the tardigrade: one small step in sequencing DNA of all life on Earth</title>
       <link>https://www.theguardian.com/environment/2026/jul/04/hunting-tardigrade-sequencing-dna-life-earth-invertebrate-year</link>
@@ -594,18 +606,6 @@ The water vole's story is one of dramatic decline and cautious hope. Since the 1
 
 This story offers a quiet reminder that patient conservation work can yield tangible results. It's a tale told through the enthusiasm of volunteers who've learned to read a landscape through the smallest clues — a testament to both the fragility of wildlife and the possibility of recovery when communities commit to restoration.</description>
       <source url="https://www.bbc.co.uk/news/articles/cly7wxqd4jvo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Antarctica's first dinosaur fossil found in drawer after 40 years</title>
-      <link>https://www.abc.net.au/news/2026-06-30/first-antarctic-dinosaur-bone-discovered/106860130</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-06-30/first-antarctic-dinosaur-bone-discovered/106860130</guid>
-      <pubDate>Tue, 30 Jun 2026 04:02:47 GMT</pubDate>
-      <description>Sometimes the most remarkable discoveries happen not in the field, but in the quiet corners of museum storage. A bone collected from Antarctica's James Ross Island in 1985 sat unidentified in a drawer for nearly four decades before being confirmed as the continent's first discovered dinosaur fossil. Geologist Dr. Mike Thomson had recorded it in his field notes as a "vertebra of large reptile," sketching the 10-centimeter bone with characteristic scientific precision before sending it to the British Antarctic Survey's collection in England.
-
-The fossil's true identity came to light when collections manager Dr. Mark Evans, trained in vertebrate paleontology, recognized its distinctive shape as belonging to a titanosaur—the largest land-dwelling dinosaurs, some reaching over 35 meters in length. This particular bone likely came from a relatively modest specimen, perhaps 6 or 7 meters long, living in an Antarctica unrecognizable from today's frozen landscape. About 82 million years ago, the continent was warm, heavily forested, and temperate. Scientists believe this dinosaur floated out to sea after death, eventually settling and fossilizing on the seabed.
-
-Beyond validating Dr. Thomson's careful fieldwork from 40 years prior, the discovery offers clues about how titanosaurs dispersed across Earth's southern continents. With no titanosaur fossils yet found in Australia and only limited evidence in New Zealand, this Antarctic specimen suggests these giants traveled between landmasses that were once connected. As ice continues to retreat, researchers suspect more dinosaur evidence may emerge from beneath Antarctica's frozen archive, rewriting our understanding of prehistoric life at the bottom of the world—one patient discovery at a time.</description>
-      <source url="https://www.abc.net.au/news/2026-06-30/first-antarctic-dinosaur-bone-discovered/106860130">ABC Australia</source>
     </item>
   </channel>
 </rss>
