@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 08:04:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 10:03:17 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Extreme heat makes football players commit fewer fouls, study of 1 million matches shows</title>
+      <link>https://g1.globo.com/ciencia/noticia/2026/07/04/calor-extremo-faz-jogadores-de-futebol-cometerem-menos-faltas-mostra-estudo-com-1-milhao-de-partidas.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/ciencia/noticia/2026/07/04/calor-extremo-faz-jogadores-de-futebol-cometerem-menos-faltas-mostra-estudo-com-1-milhao-de-partidas.ghtml</guid>
+      <pubDate>Sat, 04 Jul 2026 10:03:16 GMT</pubDate>
+      <description>A large-scale study of nearly one million amateur football matches in Germany has revealed a surprising pattern: extreme heat doesn't make players more aggressive—it actually makes them commit fewer fouls. Published in the journal PNAS Nexus, the research found that yellow and red cards increase as temperatures rise, but only up to a point. After that threshold, the trend reverses, with games played on very hot days recording about 15 percent fewer cards than usual.
+
+This finding challenges decades of research linking heat to increased violence, from street fights to domestic crimes. Previous studies often relied on lab experiments or crime statistics, which have known limitations—heat changes not just aggressor behavior but also victim responses and public routines. To isolate temperature's pure effect, researchers turned to amateur football, where rules are consistent, matches are scheduled weeks in advance regardless of weather forecasts, and players can't simply leave the field when it gets hot. They analyzed matches from July 2022 to September 2025, tracking cards as a measure of on-field aggression while controlling for location, league, and season. The pattern emerged clearly: aggression peaked around 13°C, then declined, becoming notably lower above 32°C.
+
+The explanation appears to be physical rather than psychological. Most card-worthy fouls arise from high-intensity plays—mistimed tackles, late challenges, aerial duels. In extreme heat, players seem to pace themselves like marathon runners, reducing physical effort and thus creating fewer situations where fouls occur. This research offers a quietly remarkable insight: sometimes our bodies' survival instincts override our competitive impulses, and understanding these limits might reshape how we think about human behavior under climate stress.</description>
+      <source url="https://g1.globo.com/ciencia/noticia/2026/07/04/calor-extremo-faz-jogadores-de-futebol-cometerem-menos-faltas-mostra-estudo-com-1-milhao-de-partidas.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Scientist dubbed The Bogfather is restoring peatland to fight climate change</title>
       <link>https://www.bbc.co.uk/news/articles/cy498d400pro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The genre's rise wasn't without resistance. For years, traditionalist sertanejo 
 
 What makes this story quietly remarkable is how eletrofunk found its audience through decidedly analog means in a digital age. Artists distribute their music via USB drives rather than relying solely on streaming platforms—a practical solution for the "som automotivo" (car sound system) culture prevalent in rural Brazil, where modified trucks and cars become mobile dance floors. These drives work offline and deliver better sound quality for the massive speaker systems that dominate street parties. It's a reminder that musical movements don't always follow predictable paths, and that cultural acceptance can happen when communities recognize shared roots beneath unfamiliar sounds.</description>
       <source url="https://g1.globo.com/pop-arte/musica/noticia/2026/06/30/como-eletrofunk-driblou-preconceito-do-sertanejo-e-invadiu-festas-pelo-interior-do-pais.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Water vole volunteers 'get very excited by flattened poo'</title>
-      <link>https://www.bbc.co.uk/news/articles/cly7wxqd4jvo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cly7wxqd4jvo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Tue, 30 Jun 2026 06:02:30 GMT</pubDate>
-      <description>Along a chalk stream in Hampshire, England, volunteers are finding reasons to celebrate — in the form of flattened droppings. These telltale signs indicate that water voles, once abundant along British waterways, are breeding successfully after a decade-long reintroduction effort. The volunteers wade through the River Meon searching not just for stamped-down poo, which marks territorial claims, but also for precisely angled plant cuttings and small food caches that reveal the presence of these industrious rodents.
-
-The water vole's story is one of dramatic decline and cautious hope. Since the 1970s, an estimated 90 percent of Britain's water voles have disappeared, largely due to predation by non-native American mink and habitat loss, earning them the distinction of being the country's fastest-declining mammal. But the Meon Valley Partnership has been working to reverse this trend since 2013, releasing more than 2,800 water voles into the river. Regular monitoring now shows they're thriving, with no mink detected in the area. The voles' return brings wider benefits too: their constant nibbling of over 200 plant species keeps riverbanks healthy, while their burrows improve soil quality and create micro-ecosystems.
-
-This story offers a quiet reminder that patient conservation work can yield tangible results. It's a tale told through the enthusiasm of volunteers who've learned to read a landscape through the smallest clues — a testament to both the fragility of wildlife and the possibility of recovery when communities commit to restoration.</description>
-      <source url="https://www.bbc.co.uk/news/articles/cly7wxqd4jvo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
