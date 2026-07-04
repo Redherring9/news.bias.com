@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 14:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 16:02:53 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nuclear Fusion: First Fusion Power Plant from German Startups?</title>
+      <link>https://www.dw.com/de/kernfusion-erstes-fusionskraftwerk-von-deutschen-startups/a-77661056?maca=de-rss-de-all-1119-xml-mrss</link>
+      <guid isPermaLink="false">https://www.dw.com/de/kernfusion-erstes-fusionskraftwerk-von-deutschen-startups/a-77661056?maca=de-rss-de-all-1119-xml-mrss</guid>
+      <pubDate>Sat, 04 Jul 2026 16:02:51 GMT</pubDate>
+      <description>The dream of nuclear fusion—abundant clean energy without greenhouse gases or radioactive waste—is drawing unprecedented global investment as startups and nations race to make it commercially viable. Germany has emerged as an unexpected contender in this field, with four domestic startups now competing to build the world's first fusion power plant. The stakes are considerable: the International Atomic Energy Agency estimates the fusion energy sector could reach a market value exceeding $350 billion by 2050, driven by surging electricity demand from economic electrification and the energy-hungry data centers powering artificial intelligence.
+
+While massive state-backed projects like ITER in southern France have faced cost overruns and delays—now targeting operation between 2034 and 2036—approximately 77 private companies worldwide are pursuing their own fusion reactor designs. The United States leads with 42 companies, followed by China with eight and the United Kingdom with six. Germany's four players—Focused Energy, Marvel Fusion, Proxima Fusion, and Gauss Fusion—are vying for position in an intensely competitive field. Private investment has surged dramatically, growing 30 percent since June 2025 alone to reach roughly €13 billion, though the distribution is uneven: 53 percent flows to American firms and about a third to Chinese companies, while European ventures receive just over €700 million.
+
+This story matters because it captures a pivotal moment when fusion energy is transitioning from distant scientific curiosity to serious commercial pursuit, with Germany attempting to claim technological leadership in a field historically dominated by larger powers. Whether these startups can deliver on fusion's promise remains uncertain, but the investment frenzy suggests the world is betting that clean, weather-independent power may finally be within reach.</description>
+      <source url="https://www.dw.com/de/kernfusion-erstes-fusionskraftwerk-von-deutschen-startups/a-77661056?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
+    </item>
     <item>
       <title>Why closure matters at the end of life</title>
       <link>https://www.aljazeera.com/features/longform/2026/7/4/why-closure-matters-at-the-end-of-life?traffic_source=rss</link>
@@ -594,18 +606,6 @@ The earthquakes—measuring 7.5 and 7.2 in magnitude—have devastated Venezuela
 
 This story offers a rare moment of hope amid overwhelming tragedy. The successful rescue reminds us of the extraordinary dedication of international relief workers and the resilience of the human spirit. It also quietly underscores how natural disasters transcend borders, bringing together specialists from around the world in service of a single life—a three-year-old who spent nearly a week beneath concrete and steel, waiting to be found.</description>
       <source url="https://g1.globo.com/mundo/noticia/2026/06/30/video-crianca-resgatada-com-vida-seis-dias-apos-terremotos-venezuela.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Is space Earth's best laboratory? A discussion with C. Haigneré, S. Rousseau and O. Sanguy</title>
-      <link>https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260630-l-espace-le-meilleur-labo-de-la-terre-parlons-en-avec-c-haigner%C3%A9-s-rousseau-et-o-sanguy</link>
-      <guid isPermaLink="false">https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260630-l-espace-le-meilleur-labo-de-la-terre-parlons-en-avec-c-haigner%C3%A9-s-rousseau-et-o-sanguy</guid>
-      <pubDate>Tue, 30 Jun 2026 12:03:41 GMT</pubDate>
-      <description>High above Earth, French astronaut Sophie Adenot is marking her 137th day aboard the International Space Station, working 400 kilometers above our planet. At 43, she's only the second French woman to travel to space, and her time there is filled with intensive scientific work. France 24 recently gained exclusive access to one of the experiments being conducted between Earth and the orbiting laboratory, offering a rare glimpse into the daily research happening in microgravity.
-
-The question at the heart of the discussion is whether space truly serves as Earth's best laboratory. Space offers unique conditions that simply cannot be replicated on our planet—weightlessness, extreme temperatures, and cosmic radiation create opportunities for experiments in physics, biology, medicine, and materials science that would be impossible in terrestrial labs. The conversation brings together voices who understand this frontier from multiple angles: Claudie Haigneré, herself a pioneering astronaut and now an advisor to the European Space Agency; journalist Sylvain Rousseau; and Olivier Sanguy, who tracks space developments from the Cité de l'Espace in Toulouse.
-
-This story matters because it highlights how orbital research continues to push the boundaries of human knowledge. The work astronauts like Adenot perform isn't just about breaking records or national pride—it's about conducting experiments that could lead to medical breakthroughs, new materials, and deeper understanding of fundamental science. The exclusive look at ongoing experiments reminds us that space stations are working laboratories where patient, methodical science unfolds far from Earth's pull, revealing answers to questions we can only ask when we leave the planet behind.</description>
-      <source url="https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260630-l-espace-le-meilleur-labo-de-la-terre-parlons-en-avec-c-haigner%C3%A9-s-rousseau-et-o-sanguy">France 24</source>
     </item>
   </channel>
 </rss>
