@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 04:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 06:03:10 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hunting the tardigrade: one small step in sequencing DNA of all life on Earth</title>
+      <link>https://www.theguardian.com/environment/2026/jul/04/hunting-tardigrade-sequencing-dna-life-earth-invertebrate-year</link>
+      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/jul/04/hunting-tardigrade-sequencing-dna-life-earth-invertebrate-year</guid>
+      <pubDate>Sat, 04 Jul 2026 06:01:46 GMT</pubDate>
+      <description>At the Wellcome Sanger Institute in Cambridgeshire, scientists are hunting tardigrades in moss and lichen as part of an extraordinarily ambitious project: sequencing the genomes of all life on Earth. What once took years now happens at remarkable speed—the institute's Tree of Life programme sequences 48 genomes each week, having completed 2,600 so far, from whales to fungi. The latest subjects are tardigrades, those famously indestructible microscopic creatures that won last year's Guardian invertebrate of the year contest.
+
+Postdoctoral researcher Witek Morek collects samples from walls and trees, then rehydrates them in the lab to coax out the tiny "moss piglets." Under the microscope, these translucent animals—about 350 micrometres long—waggle their chubby legs and reveal surprising complexity. Some are voracious carnivores that chase nematodes "like spaghetti," while others show parental care, keeping their shed skin attached until eggs hatch. Identifying species requires examining egg shapes, which can be smooth, mushroom-like, or needle-covered. Once identified, specimens are frozen at -71°C in barcoded tubes, awaiting the delicate process of DNA extraction.
+
+This story captures the intersection of patience and speed in modern science—the careful, almost meditative work of tardigrade hunting combined with technology that has accelerated genome sequencing from a multi-year endeavor to a weekly routine. It's a reminder that understanding life on Earth requires looking closely at the smallest, strangest creatures, and that even animals barely visible to the naked eye have their own remarkable behaviors and evolutionary stories worth preserving in our growing genetic library.</description>
+      <source url="https://www.theguardian.com/environment/2026/jul/04/hunting-tardigrade-sequencing-dna-life-earth-invertebrate-year">The Guardian</source>
+    </item>
     <item>
       <title>Robotic rescue mission underway to save space telescope falling to Earth</title>
       <link>https://www.abc.net.au/news/2026-07-04/rescue-mission-launches-to-save-nasa-telescope-that-s-falling-ba/106879748</link>
@@ -594,18 +606,6 @@ The fossil's true identity came to light when collections manager Dr. Mark Evans
 
 Beyond validating Dr. Thomson's careful fieldwork from 40 years prior, the discovery offers clues about how titanosaurs dispersed across Earth's southern continents. With no titanosaur fossils yet found in Australia and only limited evidence in New Zealand, this Antarctic specimen suggests these giants traveled between landmasses that were once connected. As ice continues to retreat, researchers suspect more dinosaur evidence may emerge from beneath Antarctica's frozen archive, rewriting our understanding of prehistoric life at the bottom of the world—one patient discovery at a time.</description>
       <source url="https://www.abc.net.au/news/2026-06-30/first-antarctic-dinosaur-bone-discovered/106860130">ABC Australia</source>
-    </item>
-    <item>
-      <title>'There's a rongoā within the kupu Māori' - NZ poet laureate</title>
-      <link>https://www.rnz.co.nz/news/te-manu-korihi/643086/there-s-a-rongoa-within-the-kupu-maori-nz-poet-laureate</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/te-manu-korihi/643086/there-s-a-rongoa-within-the-kupu-maori-nz-poet-laureate</guid>
-      <pubDate>Tue, 30 Jun 2026 02:03:09 GMT</pubDate>
-      <description>Robert Sullivan, announced as New Zealand's Poet Laureate in 2025, is carrying forward a rich tradition of Māori poetry that spans both te reo Māori and English. At a ceremony at Wellington's National Library, Sullivan received the laureateship tokotoko—a carved black maire staff shaped like a waka prow—acknowledging his role in a lineage that includes celebrated poets like Hone Tuwhare, with whom Sullivan once had the privilege of reading.
-
-Sullivan, who has whakapapa to Ngāpuhi, Kāi Tahu, and Irish ancestry, describes a "new wave" of Māori poets emerging from the foundational work of language experts like Sir Tīmoti Kāretu and Wharehuia Milroy. He speaks of "rongoā within the kupu Māori"—a vibrational healing inherent in the Māori language itself, carrying mana from the past into the future. Though he considers himself still learning te reo, Sullivan has authored more than twelve poetry collections, including his latest, *Hopurangi-Songcatcher: Poems from the Maramataka*, which was shortlisted for the 2025 Ockham NZ Book Awards.
-
-Sullivan views the three-year laureateship as a gift from the community, offering him the opportunity to spread poetry while learning about the concerns of different communities and how poetry's emotional truth can uplift everyone. The award, which began in Hawke's Bay in 1996, has honored poets from diverse backgrounds and continues to be jointly guardianship between the National Library, the current Laureate, and Matahiwi marae. This story matters because it highlights how language carries healing, how tradition evolves through new voices, and how poetry remains a vital force for connection and understanding across cultures.</description>
-      <source url="https://www.rnz.co.nz/news/te-manu-korihi/643086/there-s-a-rongoa-within-the-kupu-maori-nz-poet-laureate">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
