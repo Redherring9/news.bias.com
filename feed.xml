@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 12:03:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 14:01:45 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why closure matters at the end of life</title>
+      <link>https://www.aljazeera.com/features/longform/2026/7/4/why-closure-matters-at-the-end-of-life?traffic_source=rss</link>
+      <guid isPermaLink="false">https://www.aljazeera.com/features/longform/2026/7/4/why-closure-matters-at-the-end-of-life?traffic_source=rss</guid>
+      <pubDate>Sat, 04 Jul 2026 14:01:44 GMT</pubDate>
+      <description>When Caty Hollis's father was dying of colon cancer two decades ago, he made a decision that would reshape her understanding of death itself. Rather than spending his final days in a hospital, the retired police detective chose to die at home in London, surrounded by family and the music he loved—from Frank Sinatra to the Electric Light Orchestra. In those last weeks, he spoke openly about regrets, wished for more time with his daughters, and found peace in the idea that his death might somehow make way for new life in the family.
+
+Hollis, then a nurse at a teaching hospital in northern England, had witnessed many deaths on the ward—clinical, urgent, focused on prolonging life at all costs. But watching her father die peacefully at home felt entirely different. There was laughter, shared stories about baby names, and the gentle presence of loved ones rather than the blare of machines and sterile surroundings. When he finally passed, James Taylor's "You've Got a Friend" played softly in the background, a song that would forever anchor her memories of him.
+
+That experience led Hollis to leave hospital nursing and join Marie Curie, one of the UK's largest end-of-life care charities, in 2003. She now advocates for palliative care that prioritizes comfort, environment, and emotional wellbeing over purely medical intervention. This story matters because it gently reminds us that how we die—and how we support those who are dying—shapes not just the final moments, but the grief and memories that follow for years to come.</description>
+      <source url="https://www.aljazeera.com/features/longform/2026/7/4/why-closure-matters-at-the-end-of-life?traffic_source=rss">Al Jazeera</source>
+    </item>
     <item>
       <title>How this beetle can 'fool' an entire termite colony</title>
       <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/04/como-este-besouro-pode-enganar-uma-colonia-inteira-de-cupins.ghtml</link>
@@ -594,18 +606,6 @@ The question at the heart of the discussion is whether space truly serves as Ear
 
 This story matters because it highlights how orbital research continues to push the boundaries of human knowledge. The work astronauts like Adenot perform isn't just about breaking records or national pride—it's about conducting experiments that could lead to medical breakthroughs, new materials, and deeper understanding of fundamental science. The exclusive look at ongoing experiments reminds us that space stations are working laboratories where patient, methodical science unfolds far from Earth's pull, revealing answers to questions we can only ask when we leave the planet behind.</description>
       <source url="https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260630-l-espace-le-meilleur-labo-de-la-terre-parlons-en-avec-c-haigner%C3%A9-s-rousseau-et-o-sanguy">France 24</source>
-    </item>
-    <item>
-      <title>"So crazy": NASA to the rescue of the Swift telescope, in space since 2004</title>
-      <link>https://www.france24.com/fr/am%C3%A9riques/20260630-tellement-fou-la-nasa-%C3%A0-la-rescousse-du-t%C3%A9lescope-swift-dans-l-espace-depuis-2004</link>
-      <guid isPermaLink="false">https://www.france24.com/fr/am%C3%A9riques/20260630-tellement-fou-la-nasa-%C3%A0-la-rescousse-du-t%C3%A9lescope-swift-dans-l-espace-depuis-2004</guid>
-      <pubDate>Tue, 30 Jun 2026 10:02:44 GMT</pubDate>
-      <description>NASA is attempting something unprecedented: a robotic rescue mission to save a telescope that's been quietly working in space for over two decades. The Neil Gehrels Swift Observatory, launched in 2004 for what was supposed to be a two-year mission, has continued observing some of the universe's most energetic phenomena—gamma-ray bursts that outshine even supernovas. But now, twenty years later, Swift is falling toward Earth, destined to burn up in the atmosphere without intervention.
-
-The rescue plan reads like science fiction. A robot built by startup Katalyst will launch aboard a small rocket dropped from an airplane over the Pacific. Once in orbit, it must locate Swift in the vastness of space, maneuver around it, grab hold with three mechanical arms, and then spend about a month pushing the telescope roughly 300 kilometers higher—back near its original orbit. "Everything about this mission is so crazy," laughs Regina Caputo, a NASA astrophysicist involved in the effort. The challenge intensified because increased solar activity has expanded Earth's atmosphere, accelerating Swift's orbital decay faster than expected.
-
-What makes this $30 million gamble worth it? Swift remains uniquely valuable to researchers despite its age, offering rapid response capabilities that can't easily be replaced. But beyond saving one beloved telescope, this mission could pioneer techniques for extending the lives of other satellites, turning what seems like an audacious rescue into a potential blueprint for the future of space operations. It's a story about ingenuity, the unexpected longevity of scientific instruments, and our growing ability to actively manage the crowded environment of near-Earth space.</description>
-      <source url="https://www.france24.com/fr/am%C3%A9riques/20260630-tellement-fou-la-nasa-%C3%A0-la-rescousse-du-t%C3%A9lescope-swift-dans-l-espace-depuis-2004">France 24</source>
     </item>
   </channel>
 </rss>
