@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 16:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 18:01:27 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Guardian view on gene-edited humans: darker uses must be acknowledged alongside medical ones | Editorial</title>
+      <link>https://www.theguardian.com/commentisfree/2026/jul/05/the-guardian-view-on-gene-edited-humans-darker-uses-must-be-acknowledged-alongside-medical-ones</link>
+      <guid isPermaLink="false">https://www.theguardian.com/commentisfree/2026/jul/05/the-guardian-view-on-gene-edited-humans-darker-uses-must-be-acknowledged-alongside-medical-ones</guid>
+      <pubDate>Sun, 05 Jul 2026 18:01:25 GMT</pubDate>
+      <description>Gene-editing technology has advanced rapidly since Crispr-Cas9 emerged in the early 2010s, and new research suggests that genetically altered humans may be closer than many realize. While 70 countries currently ban human germline editing—genetic changes that could be passed to future generations—recent studies using more precise base-editing tools on embryos are pushing the boundaries of what's possible. Two new studies demonstrate how this technology could potentially eradicate hereditary diseases, though researchers acknowledge it's not yet safe for clinical use. The legal landscape, however, may be less solid than it appears: most prohibitions rest on safety concerns rather than fundamental ethical objections, meaning each technological improvement weakens the case for maintaining bans.
+
+Public opinion appears surprisingly receptive to these developments. New polling across several European countries shows majority support for using gene editing to eliminate life-threatening conditions like cystic fibrosis, with substantial support even for addressing manageable conditions like asthma. This represents a dramatic shift from the strong opposition that greeted IVF research in the 1980s. Yet this acceptance brings complications. Evidence already exists of couples traveling abroad to screen embryos for desirable traits, and collaborations between IVF companies and base-editing labs in the United States suggest the step from medical treatment to designer babies may be smaller than expected.
+
+This story matters because it captures a pivotal moment when hypothetical ethical debates are becoming practical policy questions. As safety arguments gradually lose their force with each technological advance, societies will need to grapple with deeper questions about what genetic changes should be permitted and how to prevent misuse—challenges that regulation can limit but likely never fully eliminate.</description>
+      <source url="https://www.theguardian.com/commentisfree/2026/jul/05/the-guardian-view-on-gene-edited-humans-darker-uses-must-be-acknowledged-alongside-medical-ones">The Guardian</source>
+    </item>
     <item>
       <title>Thousands welcome home Cape Verde footballers after stunning World Cup run</title>
       <link>https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ Last Saturday, Vittório's dedication was rewarded with a dream encounter. Befor
 
 The experience has inspired Vittório to set a new goal: he wants to improve his speech clarity through continued therapy with his speech pathologist so that next time he meets Djavan, they can have a real conversation. His father notes that for the six months leading up to the concert, the prospect of this meeting became a powerful motivation. It's a quiet reminder of how art can reach across barriers, and how a meaningful connection—whether through melody or a moment of human kindness—can become the catalyst for personal growth.</description>
       <source url="https://g1.globo.com/df/distrito-federal/noticia/2026/07/01/musicas-de-djavan-ajudam-jovem-autista-a-se-comunicar-e-rendem-encontro-especial-no-df.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>England's warmest June on record down to record-breaking heatwave</title>
-      <link>https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Wed, 01 Jul 2026 14:01:47 GMT</pubDate>
-      <description>England experienced its warmest June on record in 2026, with mean temperatures reaching 17.1°C—nearly 3°C above average. The heat was relentless both day and night, with frequent "tropical nights" where temperatures never dropped below 20°C. On June 26, the village of Lingwood in Norfolk recorded 37.7°C (99.9°F), shattering a June record that had stood since 1957 and surpassing even the legendary 1976 heatwave. The Met Office issued a rare red extreme heat warning, which remained in effect for an unprecedented three consecutive days in parts of eastern England.
-
-The heatwave extended well beyond Britain's borders. Across Europe, June temperature records fell in Hungary, Austria, the Netherlands, Switzerland, and Denmark. France experienced its hottest day ever recorded, with nationwide temperatures averaging over 30°C across a 24-hour period—exceeding even the deadly heatwaves of 2003 and 2019. The human cost has been sobering: France reported around 1,000 excess deaths, while Spain recorded 1,029 deaths attributable to extreme heat, many among those over 65.
-
-This story matters because it illustrates how record-breaking weather is becoming the new pattern rather than the exception. Spanish meteorologists note that half of the 12 June heatwaves recorded since 1975 have occurred in the last decade alone. While awareness and early warning systems have improved since the catastrophic 2003 heatwave that claimed tens of thousands of lives, these events remind us that extreme heat remains a quiet but serious threat—one that's becoming more frequent as the climate continues to warm.</description>
-      <source url="https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
