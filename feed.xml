@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 00:03:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 02:01:25 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hayabusa2 flies past asteroid as Japan aims to acquire data for planetary defense</title>
+      <link>https://www.japantimes.co.jp/news/2026/07/06/japan/science-health/hayabusa2-asteroid-flyby/</link>
+      <guid isPermaLink="false">https://www.japantimes.co.jp/news/2026/07/06/japan/science-health/hayabusa2-asteroid-flyby/</guid>
+      <pubDate>Mon, 06 Jul 2026 02:01:24 GMT</pubDate>
+      <description>Japan's Hayabusa2 spacecraft achieved a remarkably close flyby of the asteroid Torifune on Sunday, passing within tight range of the 450-meter-wide space rock while traveling at approximately 18,000 kilometers per hour. The maneuver represents one of the closest encounters ever attempted by a spacecraft of its type and serves a purpose beyond pure exploration — gathering crucial data that could one day help protect Earth from asteroid impacts.
+
+The mission marks an impressive second act for Hayabusa2, which originally captured the world's attention in 2020 when it successfully returned samples from the asteroid Ryugu to Earth. Rather than retiring after that triumph, the probe embarked on an extended mission, using Torifune as a proving ground for techniques and technologies. The flyby serves as preparation for an even more ambitious objective: a planned rendezvous in 2031 with 1998 KY26, an asteroid considerably smaller than Torifune, which will demand even greater precision.
+
+This story offers a quieter sort of wonder — the kind found in careful preparation and the patient work of planetary defense. While asteroid impacts remain rare, understanding how to track, approach, and potentially deflect these wandering rocks represents some of humanity's most forward-thinking science. Hayabusa2's continued journey reminds us that exploration doesn't end with a single success, and that the data gathered from these distant encounters could prove invaluable for safeguarding our planet's future.</description>
+      <source url="https://www.japantimes.co.jp/news/2026/07/06/japan/science-health/hayabusa2-asteroid-flyby/">The Japan Times</source>
+    </item>
     <item>
       <title>Stray rescued from street now top dog at Christchurch Airport</title>
       <link>https://www.rnz.co.nz/news/regions_canterbury/679144/stray-rescued-from-street-now-top-dog-at-christchurch-airport</link>
@@ -594,18 +606,6 @@ For the students involved, HuttFest offers something deeper than performance. Yo
 
 This story is worth attention because it captures something quietly powerful: a community creating space for young people to explore who they are and where they come from, not through competition or judgment, but through shared joy. In an age when cultural identity can feel fragmented, HuttFest offers a model of celebration that's both rooted and welcoming, proving that heritage thrives when it's given room to breathe and be enjoyed together.</description>
       <source url="https://www.rnz.co.nz/news/pacific/653144/hundreds-of-students-take-to-the-stage-as-huttfest-celebrates-pacific-and-maori-culture">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'</title>
-      <link>https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Wed, 01 Jul 2026 22:03:08 GMT</pubDate>
-      <description>A two-year-old Venezuelan boy named Kleiber Moran has been pulled alive from the rubble of his collapsed home after spending six days trapped beneath it. The remarkable rescue, carried out by Jordanian teams in Venezuela's northern La Guaira state, comes amid devastating twin earthquakes that have claimed more than 2,000 lives, with the final toll expected to climb far higher. The discovery of Kleiber has offered a rare moment of hope in a nation grappling with immense loss.
-
-The boy's aunt, 23-year-old Andreína Sarmiento, rushed to be by his side and told the BBC she would care for him "with a mother's warmth" while holding out hope that her sister—Kleiber's mother—and his father might still be found. Though she admits the responsibility feels daunting, Andreína recalls her sister often saying Kleiber was like her son too. Miraculously, the toddler emerged with only minor scratches, no fractures, and has begun to stabilize emotionally, offering his aunt small kisses and playing with toys in his hospital bed. The two recognized each other immediately upon reunion.
-
-Andreína remains hopeful that her sister, who was inseparable from Kleiber, will be discovered alive in the rubble. As tens of thousands remain missing and rescue efforts continue, Kleiber's survival stands as a testament to resilience amid unimaginable tragedy. His aunt believes he has "a purpose in the world," and his story—one of both heartbreak and hope—will be his to carry forward.</description>
-      <source url="https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
     </item>
   </channel>
 </rss>
