@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 12:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 14:02:35 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why are penguins changing their breeding calendar in Antarctica?</title>
+      <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/06/por-que-pinguins-estao-mudando-o-calendario-de-reproducao-na-antartica.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/06/por-que-pinguins-estao-mudando-o-calendario-de-reproducao-na-antartica.ghtml</guid>
+      <pubDate>Mon, 06 Jul 2026 14:02:33 GMT</pubDate>
+      <description>Three species of penguins in Antarctica are breeding earlier each year, representing one of the fastest behavioral shifts ever documented in animals responding to climate change. Over a decade of camera monitoring across 37 colonies revealed that Adélie and chinstrap penguins are now starting their breeding season roughly 10 days earlier per decade, while gentoo penguins have shifted their timing by approximately 13 days per decade—the most rapid phenological change ever recorded among birds globally.
+
+Researchers used a network of 77 automated cameras between 2012 and 2022 to track penguin behavior on the Antarctic Peninsula and subantarctic islands. The cameras also recorded local temperature data, showing these colony sites are warming about four times faster than the Antarctic continental average. This regional warming appears directly connected to the altered breeding schedules. However, not all species are responding equally well. Gentoo penguins, with their varied diet and year-round presence near colonies, may be better equipped to handle changing conditions. Meanwhile, Adélie penguins—more dependent on sea ice—and chinstrap penguins—specialized krill feeders—could face greater challenges ahead.
+
+What makes this story quietly remarkable is its uncertainty. While the behavioral shift is clear and dramatic, scientists still don't know whether earlier breeding actually helps or harms these populations, or whether it simply represents the species' attempt to adapt. As breeding schedules converge, competition for space and resources may intensify. The open question—how much further can these ancient seabirds adjust if warming continues—reminds us that nature's responses to change, however swift, may have limits we're only beginning to understand.</description>
+      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/06/por-que-pinguins-estao-mudando-o-calendario-de-reproducao-na-antartica.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Sightings off Southern Africa suggest blue and fin whales may be rebounding</title>
       <link>https://news.mongabay.com/short-article/2026/07/sightings-off-southern-africa-suggest-blue-and-fin-whales-may-be-rebounding/</link>
@@ -594,18 +606,6 @@ While timber from Cambodia and Laos accounts for less than 9% of Vietnam's total
 
 This story matters because it illustrates how even well-intentioned regulatory frameworks can be undermined when enforcement relies too heavily on paper trails that can be manipulated. The implications ripple outward: businesses trying to comply with international laws face unfair competition, responsible producers are disadvantaged, and global efforts to combat deforestation and associated human rights abuses are eroded. It's a quiet reminder that in our interconnected world, the furniture in our homes may carry hidden environmental and social costs.</description>
       <source url="https://news.mongabay.com/2026/07/illegal-timber-imports-from-cambodia-laos-skirt-vietnam-safeguards-report-reveals/">Mongabay</source>
-    </item>
-    <item>
-      <title>What Residencia Is Like, the Fascinating Hotel for Scientists in One of the World's Most Extreme Places</title>
-      <link>https://www.bbc.com/mundo/articles/c1jyzxwl8l7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/c1jyzxwl8l7o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Thu, 02 Jul 2026 10:03:12 GMT</pubDate>
-      <description>In the heart of Chile's Atacama Desert, one of the driest places on Earth, lies an architectural marvel that doubled as a James Bond villain's lair. The Residencia is an astronomer's hotel—a hidden oasis beneath the barren surface where scientists live and work while studying the stars from nearby observatories like the Very Large Telescope atop Cerro Paranal. Owned and operated by the European Southern Observatory, this facility was purpose-built to support research in one of the planet's most extreme environments, two hours by car from the nearest city.
-
-What makes the Residencia remarkable is how thoughtfully it balances human comfort with astronomical necessity. Behind a heavy, unmarked door, visitors enter a humid green atrium filled with tropical plants and a bright blue pool beneath a large dome—a stark contrast to the arid landscape outside. Yet every design choice serves the science: rooms have minimal windows, glass surfaces are shuttered at night, and the dome covering is deployed each evening to eliminate light pollution that could interfere with telescope observations. Cars must drive without headlights after dark, and visitors are instructed to point their flashlights only at the ground. Despite its remote location at over 2,000 meters above sea level, the facility offers comfortable accommodations, plentiful food, and relaxation spaces, though alcohol is prohibited due to altitude and dehydration risks.
-
-This story offers a fascinating glimpse into how architecture can enable science in the most inhospitable places, creating a livable sanctuary that exists in service of our curiosity about the cosmos—a quiet testament to human ingenuity and our drive to understand the universe.</description>
-      <source url="https://www.bbc.com/mundo/articles/c1jyzxwl8l7o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
