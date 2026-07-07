@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 02:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 04:01:36 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fishers buoyed as algal bloom-related whiting ban lifted early</title>
+      <link>https://www.abc.net.au/news/2026-07-07/king-george-whiting-sa-fishing-ban-lifted-early/106887720</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-07/king-george-whiting-sa-fishing-ban-lifted-early/106887720</guid>
+      <pubDate>Tue, 07 Jul 2026 04:01:34 GMT</pubDate>
+      <description>South Australia has lifted a recreational fishing ban on King George whiting earlier than expected, offering welcome relief to fishers and coastal communities affected by months of restrictions. The ban was originally imposed to protect fish stocks devastated by a harmful algal bloom that swept through the region's waters. Closures covered southern Gulf St Vincent, Investigator Strait, and parts of Spencer Gulf, with restrictions initially set to run through the end of July.
+
+Authorities decided to reopen the fishery ahead of schedule after determining that King George whiting had been less severely impacted than other species and that the bulk of the spawning season had already passed. Researchers noted that most spawning activity occurs in May and June, meaning the protected fish had already completed their natural reproductive cycle. The early lifting, timed with school holidays, has been celebrated by recreational fishers who felt the previous limits made outings less worthwhile. Local fishing retailers have also noticed a boost, with customers returning to purchase tackle and gear.
+
+While recreational restrictions have eased, commercial fishing limits remain in place until next April, and authorities continue monitoring other affected species including calamari, garfish, and snapper. The situation reflects a careful balancing act between ecological recovery and community access to cherished fishing traditions. This story offers a quietly hopeful example of adaptive environmental management—showing how targeted protections, informed by biological understanding, can help marine ecosystems rebound while minimizing the duration of restrictions on the people who depend on and enjoy these waters.</description>
+      <source url="https://www.abc.net.au/news/2026-07-07/king-george-whiting-sa-fishing-ban-lifted-early/106887720">ABC Australia</source>
+    </item>
     <item>
       <title>Himalayan pangolin emerges as distinct species, 189 years after first described</title>
       <link>https://news.mongabay.com/2026/07/himalayan-pangolin-emerges-as-distinct-species-189-years-after-first-described/</link>
@@ -594,18 +606,6 @@ The Phelps family embodied the resilient spirit of the area's early settlers. Ev
 
 For nearly a decade, shoppers literally walked around her property to reach the growing mall, a daily reminder that not everything has a price. This story resonates because it captures a universal tension between progress and belonging, between economic development and personal history. Eva Phelps represents something quietly radical: the stubborn dignity of knowing where you belong and refusing to be moved, even when the entire world is being rebuilt around you.</description>
       <source url="https://www.abc.net.au/news/2026-07-03/remembering-miss-stayput-eva-phelps-stand-westfield-marion/106869454">ABC Australia</source>
-    </item>
-    <item>
-      <title>Can selective logging help the Congo Basin store more carbon?</title>
-      <link>https://news.mongabay.com/2026/07/can-selective-logging-help-the-congo-basin-store-more-carbon/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/07/can-selective-logging-help-the-congo-basin-store-more-carbon/</guid>
-      <pubDate>Fri, 03 Jul 2026 00:04:06 GMT</pubDate>
-      <description>A new study using machine learning has mapped carbon storage across Central Africa's Congo Basin—the world's largest forested carbon sink—and arrived at a counterintuitive finding. Managed logging concessions, where only one or two trees per hectare are selectively harvested each year under strict regulations, account for nearly 57% of the net carbon removals in these vital rainforests. The research, published in Nature Communications, suggests that carefully controlled logging might actually help the Congo Basin capture more atmospheric carbon while providing income for local communities.
-
-Lead researcher Le Bienfaiteur Sagang and his team created a detailed carbon map spanning three decades of data across six countries. Their model revealed that nearly all annual carbon removal—98.7%—happens in managed areas, whether protected reserves or logging concessions. Old-growth forests store the vast majority of carbon regardless of logging status. Meanwhile, unmanaged forests emit nearly as much carbon as they store, largely due to illegal logging and slash-and-burn agriculture. The study suggests that selective logging's careful practices—minimum tree sizes, decades-long recovery periods, and closed logging roads—allow young trees to rapidly fill canopy gaps and absorb more carbon than the mature trees removed.
-
-This story matters because it challenges simple narratives about forest conservation. While some experts argue that addressing the root causes of illegal clearing would be more effective, the research opens a nuanced conversation about how communities might benefit economically from forests while strengthening their role in climate stability. It's a reminder that environmental solutions sometimes emerge from unexpected places—and that the relationship between human activity and nature can be more complex than it first appears.</description>
-      <source url="https://news.mongabay.com/2026/07/can-selective-logging-help-the-congo-basin-store-more-carbon/">Mongabay</source>
     </item>
   </channel>
 </rss>
