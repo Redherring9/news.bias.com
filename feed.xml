@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 06:05:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 08:02:28 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Miniature gelatin, golden muffin: the scientific trick behind collectible 'mini foods'</title>
+      <link>https://g1.globo.com/guia/guia-de-compras/presentes/gelatina-em-miniatura-muffin-douradinho-o-truque-cientifico-por-tras-das-minicomidas-colecionaveis.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/guia/guia-de-compras/presentes/gelatina-em-miniatura-muffin-douradinho-o-truque-cientifico-por-tras-das-minicomidas-colecionaveis.ghtml</guid>
+      <pubDate>Wed, 08 Jul 2026 08:02:26 GMT</pubDate>
+      <description>A new wave of collectible miniature toys is capturing attention on social media, inviting adults to revisit childhood with a dose of whimsy. The star of the collection is Mini Brands Fill the Fridge, a tiny refrigerator that comes with dozens of miniature grocery items—from ice cube trays to egg cartons—some considered rare finds among collectors. What sets these toys apart isn't just their charm, but the science hidden inside: they use UV light to transform liquid substances into solid mini foods, like jiggly gelatin or golden-brown muffins.
+
+The magic happens through a process called photopolymerization. When a photosensitive liquid is placed in a silicone mold and exposed to the UV light inside the toy fridge or mini appliances, the light provides the energy needed to link small molecules into larger polymer chains, turning liquid into a solid, gelatinous texture. A chemistry professor compared the process to UV nail dryers or dental resin curing equipment, though the toy version uses low-power UV light to keep it safe for children. In testing, the mini gelatin took about half an hour to set properly, emerging from its mold ready to join a tiny kitchen collection.
+
+This story offers a delightful peek at how everyday science can be miniaturized into playful experiences. It's a reminder that wonder and learning don't have to come in large packages—sometimes the smallest things reveal the most interesting chemistry, blending nostalgia with a hands-on lesson in molecular transformation.</description>
+      <source url="https://g1.globo.com/guia/guia-de-compras/presentes/gelatina-em-miniatura-muffin-douradinho-o-truque-cientifico-por-tras-das-minicomidas-colecionaveis.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>99% of people on Earth will get sunlight at the same time this Wednesday</title>
       <link>https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss</link>
@@ -594,18 +606,6 @@ Postdoctoral researcher Witek Morek collects samples from walls and trees, then 
 
 This story captures the intersection of patience and speed in modern science—the careful, almost meditative work of tardigrade hunting combined with technology that has accelerated genome sequencing from a multi-year endeavor to a weekly routine. It's a reminder that understanding life on Earth requires looking closely at the smallest, strangest creatures, and that even animals barely visible to the naked eye have their own remarkable behaviors and evolutionary stories worth preserving in our growing genetic library.</description>
       <source url="https://www.theguardian.com/environment/2026/jul/04/hunting-tardigrade-sequencing-dna-life-earth-invertebrate-year">The Guardian</source>
-    </item>
-    <item>
-      <title>Robotic rescue mission underway to save space telescope falling to Earth</title>
-      <link>https://www.abc.net.au/news/2026-07-04/rescue-mission-launches-to-save-nasa-telescope-that-s-falling-ba/106879748</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-04/rescue-mission-launches-to-save-nasa-telescope-that-s-falling-ba/106879748</guid>
-      <pubDate>Sat, 04 Jul 2026 04:04:14 GMT</pubDate>
-      <description>In an orbital rescue mission unlike any before, a three-armed robotic spacecraft has launched toward NASA's Swift Observatory, a telescope that has been falling toward Earth faster than expected. The Swift telescope, which has spent two decades scanning the universe for gamma ray bursts and exploding stars, is sinking due to increased atmospheric drag caused by recent solar storms. Without intervention, it would plummet back to Earth by October.
-
-Katalyst Space Technologies' Link spacecraft lifted off from the Marshall Islands aboard a Pegasus rocket, launched mid-air from a modified airplane. In about a month, Link aims to reach Swift at its current altitude of 360 kilometers, gently capture it with its robotic arms, and boost it back up by 240 kilometers using careful thruster burns to avoid jostling the delicate instruments. NASA is investing $43.5 million in the effort, and if successful, Swift could resume observations by September. The telescope's work is currently paused to conserve what remains of its orbit.
-
-This mission represents more than just saving one telescope. It's a proof of concept that could extend the lives of other valuable spacecraft, including the Hubble Space Telescope, which faces similar orbital decay from solar activity. As Katalyst's CEO noted, this high-risk endeavor was always preferable to letting Swift burn up. The story offers a quiet reminder that sometimes the most valuable tools deserve a second chance, and that ingenuity can reach across the void to pull something precious back from the edge.</description>
-      <source url="https://www.abc.net.au/news/2026-07-04/rescue-mission-launches-to-save-nasa-telescope-that-s-falling-ba/106879748">ABC Australia</source>
     </item>
   </channel>
 </rss>
