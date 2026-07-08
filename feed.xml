@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 18:04:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 20:02:35 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Matariki: Pōhutukawa and preserving the legacy of the 28th Māori Battalion</title>
+      <link>https://www.rnz.co.nz/news/te-manu-korihi/690771/matariki-pohutukawa-and-preserving-the-legacy-of-the-28th-maori-battalion</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/te-manu-korihi/690771/matariki-pohutukawa-and-preserving-the-legacy-of-the-28th-maori-battalion</guid>
+      <pubDate>Wed, 08 Jul 2026 20:02:33 GMT</pubDate>
+      <description>As the Māori New Year of Matariki arrives, bringing a time to honor ancestors under the star Pōhutukawa, one woman's quiet dedication offers a powerful example of remembrance in action. Juliana Keefe has spent nearly three decades compiling an extraordinary archive of the 28th Māori Battalion—thousands of photographs, military records, personal histories, and handwritten notes gathered from across New Zealand and beyond. What began as listening to her father's wartime stories has grown into shelves of meticulously organized albums, each preserving the lives of men who served during the Second World War.
+
+Keefe's father, Private John Keefe, enlisted in 1941 alongside three of his brothers. He rarely spoke of the war until after his wife passed away, then the stories began to flow—tales of friends and fellow soldiers that made them feel present again. Keefe remembers her father as quiet and hardworking, and recalls Anzac Days filled with veterans' laughter, singing, and even the occasional scuffle. Her research has taken her to battlefields and cemeteries worldwide, photographing memorials and tracing the battalion's footsteps. She brings these stories into schools, ensuring younger generations understand the sacrifices made and the struggles many veterans faced returning home without support.
+
+This story resonates beyond military history—it's about the patient work of memory, the ways we carry forward those who shaped us, and how one person's devotion can preserve an entire community's legacy. In a time when firsthand accounts fade, Keefe's archive stands as both tribute and teaching tool, a reminder that remembrance is an active choice we make for the future.</description>
+      <source url="https://www.rnz.co.nz/news/te-manu-korihi/690771/matariki-pohutukawa-and-preserving-the-legacy-of-the-28th-maori-battalion">Radio New Zealand</source>
+    </item>
     <item>
       <title>Matariki: How Māori navigators use the stars to keep their waka on course</title>
       <link>https://www.rnz.co.nz/news/te-manu-korihi/690298/matariki-how-maori-navigators-use-the-stars-to-keep-their-waka-on-course</link>
@@ -594,18 +606,6 @@ Marine biologist Karina Groch from the Australis Institute identified the pair a
 
 This story matters because it highlights a fragile success. Southern right whales remain endangered, and the southern coast of Santa Catarina serves as one of their most important nurseries. These gentle giants seek out shallow, protected waters to mate, give birth, and nurse their young, allowing calves to build strength before the long journey back to Antarctica. Each sighting is a quiet reminder of nature's resilience and the ongoing work needed to protect these remarkable travelers and the coastal havens they depend on.</description>
       <source url="https://g1.globo.com/sc/santa-catarina/noticia/2026/07/04/baleias-francas-fazem-1a-aparicao-de-2026-em-florianopolis-apos-migracao-da-antartida.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Nuclear Fusion: First Fusion Power Plant from German Startups?</title>
-      <link>https://www.dw.com/de/kernfusion-erstes-fusionskraftwerk-von-deutschen-startups/a-77661056?maca=de-rss-de-all-1119-xml-mrss</link>
-      <guid isPermaLink="false">https://www.dw.com/de/kernfusion-erstes-fusionskraftwerk-von-deutschen-startups/a-77661056?maca=de-rss-de-all-1119-xml-mrss</guid>
-      <pubDate>Sat, 04 Jul 2026 16:02:51 GMT</pubDate>
-      <description>The dream of nuclear fusion—abundant clean energy without greenhouse gases or radioactive waste—is drawing unprecedented global investment as startups and nations race to make it commercially viable. Germany has emerged as an unexpected contender in this field, with four domestic startups now competing to build the world's first fusion power plant. The stakes are considerable: the International Atomic Energy Agency estimates the fusion energy sector could reach a market value exceeding $350 billion by 2050, driven by surging electricity demand from economic electrification and the energy-hungry data centers powering artificial intelligence.
-
-While massive state-backed projects like ITER in southern France have faced cost overruns and delays—now targeting operation between 2034 and 2036—approximately 77 private companies worldwide are pursuing their own fusion reactor designs. The United States leads with 42 companies, followed by China with eight and the United Kingdom with six. Germany's four players—Focused Energy, Marvel Fusion, Proxima Fusion, and Gauss Fusion—are vying for position in an intensely competitive field. Private investment has surged dramatically, growing 30 percent since June 2025 alone to reach roughly €13 billion, though the distribution is uneven: 53 percent flows to American firms and about a third to Chinese companies, while European ventures receive just over €700 million.
-
-This story matters because it captures a pivotal moment when fusion energy is transitioning from distant scientific curiosity to serious commercial pursuit, with Germany attempting to claim technological leadership in a field historically dominated by larger powers. Whether these startups can deliver on fusion's promise remains uncertain, but the investment frenzy suggests the world is betting that clean, weather-independent power may finally be within reach.</description>
-      <source url="https://www.dw.com/de/kernfusion-erstes-fusionskraftwerk-von-deutschen-startups/a-77661056?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
     </item>
   </channel>
 </rss>
