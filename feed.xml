@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 12:02:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 14:03:13 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>I found a cemetery with the remains of 40,000 enslaved people under my house during a renovation</title>
+      <link>https://www.bbc.com/mundo/articles/cddlmq8gydgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cddlmq8gydgo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Thu, 09 Jul 2026 14:03:11 GMT</pubDate>
+      <description>When Merced and Petrucio Guimarães dos Anjos began renovating their home in Rio de Janeiro's Gamboa neighborhood in 1996, they expected to build a second floor for their three young daughters. Instead, construction workers unearthed human bones—first a few, then many more. What a worker initially mistook for dog remains turned out to be an adult jawbone, then a tiny child's mandible. The discovery would transform not only their lives but also how Rio understands its own past.
+
+A neighbor arrived with an old book containing a map that revealed the truth: their home sat atop the Cemetery of Pretos Novos, which operated roughly between 1770 and 1830. The term "Pretos Novos" referred to enslaved people who had just arrived in Brazil and did not yet speak Portuguese. Merced estimates that 40,000 people were buried there. The cemetery's existence was documented in historical records, but its precise location had been lost as the city grew and transformed over centuries. For Merced, who had lived in the port area since childhood, the discovery was shocking—no one had ever mentioned that this neighborhood had been central to the enslavement trade.
+
+This story matters because it pulls a hidden chapter of history into the light. What began as a family's dream renovation became an act of recovery and remembrance, giving dignity to tens of thousands whose final resting place had been forgotten beneath the streets of a modern city. It's a quiet but profound reminder of how the past rests just beneath our feet, waiting to be acknowledged.</description>
+      <source url="https://www.bbc.com/mundo/articles/cddlmq8gydgo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>More than 900 fishers in Amazonas receive retroactive payments from closed-season insurance</title>
       <link>https://g1.globo.com/am/amazonas/noticia/2026/07/09/mais-de-900-pescadores-do-amazonas-recebem-pagamentos-retroativos-do-seguro-defeso.ghtml</link>
@@ -594,18 +606,6 @@ This discovery arrives at a crucial moment for conservation strategy. Some exper
 
 What makes this story quietly remarkable is how it reframes conservation priorities through the lens of deep history. Rather than viewing the British swallowtail as a recent, fragile variant, scientists now recognize it as a unique evolutionary lineage and the last remnant of a once-widespread wetland population. Conservationists are now planning to establish new populations in protected wetlands across England, from Suffolk to Somerset to Yorkshire—preserving not just a rare butterfly, but a living connection to Europe's ancient wetland past.</description>
       <source url="https://www.theguardian.com/environment/2026/jul/05/british-swallowtail-butterfly-distinct-subspecies-study-conservation">The Guardian</source>
-    </item>
-    <item>
-      <title>Okinawa’s seaweed at a crossroads as harvesters and scientists race to save a fading tradition</title>
-      <link>https://www.japantimes.co.jp/environment/2026/07/05/climate-change/okinawa-mozuku-seaweed-threat/</link>
-      <guid isPermaLink="false">https://www.japantimes.co.jp/environment/2026/07/05/climate-change/okinawa-mozuku-seaweed-threat/</guid>
-      <pubDate>Sun, 05 Jul 2026 10:01:37 GMT</pubDate>
-      <description>On the tidal flats of Okinawa, harvesters wade through shallow water collecting mozuku, a slippery brown seaweed that has sustained island traditions for generations. Served in vinegar, soups, and noodle dishes, mozuku is more than a local delicacy—it accounts for over 99% of Japan's production and supports both an important aquaculture industry and a growing health food sector thanks to its unique fucoidan content. Yet this familiar rhythm of harvest and tide now faces an uncertain future.
-
-Rising ocean temperatures and repeated coral bleaching events are disrupting the patterns harvesters once relied upon. Production has swung wildly in recent years, plunging from over 22,000 tons in 2007 to just 8,000 tons three years later following unusually warm El Niño conditions. One harvester notes that seasonal predictions, once reliable, have become difficult, leaving communities anxious about what lies ahead. In response, scientists are turning to genomics to understand the seaweed's biology and resilience, while fisheries cooperatives explore reef restoration as a way to protect the coastal ecosystems that mozuku depends upon.
-
-This story captures a quiet struggle playing out across Okinawa's coastline, where tradition meets climate uncertainty. It's a reminder that even the most humble ingredients carry entire ecosystems and economies within them, and that preserving what seems everyday often requires innovation, patience, and care. The fate of mozuku is also the fate of a culture shaped by the sea.</description>
-      <source url="https://www.japantimes.co.jp/environment/2026/07/05/climate-change/okinawa-mozuku-seaweed-threat/">The Japan Times</source>
     </item>
   </channel>
 </rss>
