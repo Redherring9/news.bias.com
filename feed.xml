@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 20:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 22:03:15 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why one of our greatest scientific discoveries is in a UK gift shop</title>
+      <link>https://www.abc.net.au/news/2026-07-10/cranbourne-meteorite-kuunhdurt-laang-natural-history-museum/106828130</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-10/cranbourne-meteorite-kuunhdurt-laang-natural-history-museum/106828130</guid>
+      <pubDate>Thu, 09 Jul 2026 22:03:13 GMT</pubDate>
+      <description>A meteorite that began its existence as part of a distant planet billions of years ago made an extraordinary journey to Earth, landing in 13 pieces near what is now Melbourne, Australia. The largest fragment weighed an astonishing 3.5 tonnes, making it a record-breaker at the time of its discovery. But the cosmic rock's arrival was just the beginning of a surprisingly contentious human story.
+
+In 1854, an unassuming horseshoe appeared at Melbourne's inaugural Exhibition Hall, casually described as "a specimen of iron from Western Port." Local farrier James A Scott had unknowingly created the first written colonial record of the Cranbourne Meteorites by forging the shoe from what a farmer had mistaken for a tree stump in his paddock. Early colonists, excited by the prospect of an iron seam that could fuel infrastructure development, soon discovered multiple similar rocks in the area. Only when they dug deeper and found nothing beneath did they realize these masses had fallen from space—and that they'd stumbled upon something scientifically extraordinary.
+
+The discovery sparked questions that remain unresolved centuries later: Who has the right to claim rocks that fall from the sky? Today, meteorite ownership varies wildly across Australia, from state property to Crown possessions to simple finders-keepers arrangements. This story offers a quietly fascinating glimpse into how a cosmic visitor became entangled in very earthly disputes about possession, value, and cultural heritage—revealing that even objects from the furthest reaches of space can't escape the complexities of human claims and competing interests.</description>
+      <source url="https://www.abc.net.au/news/2026-07-10/cranbourne-meteorite-kuunhdurt-laang-natural-history-museum/106828130">ABC Australia</source>
+    </item>
     <item>
       <title>Neil the seal swims out to sea, leaving joy in his wake</title>
       <link>https://www.abc.net.au/news/2026-07-10/neil-seal-tasmania-joy-worldwide-social-media/106892670</link>
@@ -594,18 +606,6 @@ The inspiration came years earlier while Frøystad watched Norwegian club Rosenb
 
 What makes this story quietly remarkable is how a simple idea from a passionate fan from a tiny mountain island has unlocked something playful and communal in a nation often described as reserved. It's a reminder that sports fandom at its best isn't just about watching — it's about creating moments of shared joy that transcend the game itself.</description>
       <source url="https://www.abc.net.au/news/2026-07-06/world-cup-norway-fans-viking-row-ole-froystad/106882954">ABC Australia</source>
-    </item>
-    <item>
-      <title>The Guardian view on gene-edited humans: darker uses must be acknowledged alongside medical ones | Editorial</title>
-      <link>https://www.theguardian.com/commentisfree/2026/jul/05/the-guardian-view-on-gene-edited-humans-darker-uses-must-be-acknowledged-alongside-medical-ones</link>
-      <guid isPermaLink="false">https://www.theguardian.com/commentisfree/2026/jul/05/the-guardian-view-on-gene-edited-humans-darker-uses-must-be-acknowledged-alongside-medical-ones</guid>
-      <pubDate>Sun, 05 Jul 2026 18:01:25 GMT</pubDate>
-      <description>Gene-editing technology has advanced rapidly since Crispr-Cas9 emerged in the early 2010s, and new research suggests that genetically altered humans may be closer than many realize. While 70 countries currently ban human germline editing—genetic changes that could be passed to future generations—recent studies using more precise base-editing tools on embryos are pushing the boundaries of what's possible. Two new studies demonstrate how this technology could potentially eradicate hereditary diseases, though researchers acknowledge it's not yet safe for clinical use. The legal landscape, however, may be less solid than it appears: most prohibitions rest on safety concerns rather than fundamental ethical objections, meaning each technological improvement weakens the case for maintaining bans.
-
-Public opinion appears surprisingly receptive to these developments. New polling across several European countries shows majority support for using gene editing to eliminate life-threatening conditions like cystic fibrosis, with substantial support even for addressing manageable conditions like asthma. This represents a dramatic shift from the strong opposition that greeted IVF research in the 1980s. Yet this acceptance brings complications. Evidence already exists of couples traveling abroad to screen embryos for desirable traits, and collaborations between IVF companies and base-editing labs in the United States suggest the step from medical treatment to designer babies may be smaller than expected.
-
-This story matters because it captures a pivotal moment when hypothetical ethical debates are becoming practical policy questions. As safety arguments gradually lose their force with each technological advance, societies will need to grapple with deeper questions about what genetic changes should be permitted and how to prevent misuse—challenges that regulation can limit but likely never fully eliminate.</description>
-      <source url="https://www.theguardian.com/commentisfree/2026/jul/05/the-guardian-view-on-gene-edited-humans-darker-uses-must-be-acknowledged-alongside-medical-ones">The Guardian</source>
     </item>
   </channel>
 </rss>
