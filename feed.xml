@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 04:03:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 06:04:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How beachgoers are turning snaps into science</title>
+      <link>https://www.bbc.co.uk/news/articles/cn59n10qnqzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cn59n10qnqzo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Thu, 09 Jul 2026 06:02:40 GMT</pubDate>
+      <description>A simple smartphone frame installed at Tyrella Beach in County Down is inviting beachgoers to become citizen scientists in a global effort to track coastal change. Visitors can snap a photo through a fixed cradle mounted on a fence post, then upload it via QR code to the CoastSnap website—a project that originated in Australia and is now expanding across Northern Ireland. Each photograph, taken from exactly the same angle, contributes to a growing visual database that scientists will use to monitor how beaches shift over time in response to erosion, storms, and rising sea levels.
+
+Geomorphologist Melanie Biausque is leading the initiative in Northern Ireland, where Tyrella was chosen as the first site because of local volunteers' work restoring sand dunes through planting marram grass and installing protective fencing. By comparing images captured across different seasons and weather conditions, researchers hope to understand not just how coastlines naturally shift with wind and tides, but how they might respond to the bigger challenges posed by climate change. The process is designed to be accessible and anonymous—participants need only hold their phone in the cradle, snap a picture of the designated beach section, and upload it. Optional fields allow observers to note changes like vegetation shifts or visible erosion.
+
+This story resonates because it transforms an everyday beach visit into a meaningful scientific contribution. It's a quiet reminder that understanding our changing world doesn't always require specialized equipment or expertise—sometimes it just takes a moment, a phone, and the willingness to look closely at what's right in front of us.</description>
+      <source url="https://www.bbc.co.uk/news/articles/cn59n10qnqzo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>‘It makes your heart sing’: can a pioneering project show that rewilding really works?</title>
       <link>https://www.theguardian.com/news/2026/jul/09/it-makes-your-heart-sing-rewilding-britains-bleak-farmland</link>
@@ -594,18 +606,6 @@ Thai authorities have tried various control measures: introducing predator fish,
 
 This story offers a window into a growing global challenge: invasive fish species linked to aquaculture and the pet trade. It's a reminder that ecological disruptions rarely have simple solutions, and that communities on the front lines must balance survival with adaptation, turning an unwelcome guest into something they can live with—perhaps even eat.</description>
       <source url="https://www.theguardian.com/environment/2026/jul/05/blackchin-tilapia-thailand-invasive-fish-fishers-count-cost-aoe">The Guardian</source>
-    </item>
-    <item>
-      <title>Banker-turned-barefoot artist and ceramicist recreate Klimt's The Kiss</title>
-      <link>https://www.abc.net.au/news/2026-07-05/banker-to-barefoot-artist-and-ceramicist-recreate-klimt-the-kiss/106855982</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-05/banker-to-barefoot-artist-and-ceramicist-recreate-klimt-the-kiss/106855982</guid>
-      <pubDate>Sun, 05 Jul 2026 02:02:25 GMT</pubDate>
-      <description>A Queensland couple has completed a stunning six-year journey to recreate Gustav Klimt's iconic 1908 painting *The Kiss* as a life-sized glass and ceramic mosaic. What muralist Brett Campbell and ceramicist Kari Didi initially thought might take a year evolved into a meticulous labor of love, bringing them closer together while rekindling their passion for art. The project required thousands of dollars in gold leaf—a material that more than doubled in price during the creation process—and millions of hours of painstaking work.
-
-Campbell's path to this collaboration is as remarkable as the artwork itself. Once a bank manager who dreaded his corporate job so intensely he would cry on his commute, he discovered solace in weekend mosaic projects. One day, he walked away from banking for good, throwing away his shoes and tie with a vow never to wear either again. True to his word, Campbell now works barefoot full-time, having toughened his feet to the point where he can walk on glass without injury—a necessary adaptation for his chosen craft. Didi's ceramic expertise proved essential when the gold requirements seemed overwhelming, as she developed alternative techniques using gold glaze and specialty tiles.
-
-The finished mosaic measures 180 by 180 centimeters and currently hangs at the Maleny Yoga Shed, though its weight demands a reinforced wall. The couple hopes to share it with the community before selling it to fund a community art studio and their next collaborative project. This story offers a quiet reminder that sometimes the most fulfilling creations emerge not from speed or efficiency, but from patience, partnership, and the courage to walk away from what no longer serves us—shoes optional.</description>
-      <source url="https://www.abc.net.au/news/2026-07-05/banker-to-barefoot-artist-and-ceramicist-recreate-klimt-the-kiss/106855982">ABC Australia</source>
     </item>
   </channel>
 </rss>
