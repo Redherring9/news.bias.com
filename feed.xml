@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 08:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:04:20 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>When London Stank to High Heaven</title>
+      <link>https://www.dw.com/de/als-london-zum-himmel-stank/a-77867152?maca=de-rss-de-all-1119-xml-mrss</link>
+      <guid isPermaLink="false">https://www.dw.com/de/als-london-zum-himmel-stank/a-77867152?maca=de-rss-de-all-1119-xml-mrss</guid>
+      <pubDate>Fri, 10 Jul 2026 10:04:19 GMT</pubDate>
+      <description>In the scorching summer of 1858, London experienced what would become known as "The Great Stink"—a public health crisis so overwhelming that it brought the city to its knees. As temperatures soared above 30 degrees Celsius for weeks without rain, the Thames River transformed into a putrid sludge of human and animal waste, industrial refuse, and rotting garbage. Citizens who could afford to fled the city, while those who remained soaked their curtains in chlorinated lime and pressed handkerchiefs to their faces just to venture outdoors. The stench was so overpowering that local newspapers warned those who inhaled it could consider themselves lucky to survive.
+
+The crisis was decades in the making. Between 1800 and 1850, London's population had doubled to 2.5 million, making it the world's largest city, but its antiquated sewage system couldn't keep pace. The introduction of modern flush toilets among wealthy residents only worsened conditions, as waste flowed directly into the Thames—the same river from which many Londoners still drew their drinking water. Though physician John Snow had already demonstrated during earlier cholera outbreaks that contaminated water, not foul air, spread disease, the prevailing medical theory still blamed "miasmas"—poisonous vapors. Snow died just before the Great Stink, his groundbreaking theory not yet fully accepted.
+
+The crisis finally forced action when members of Parliament, meeting in their newly built riverside palace, could no longer ignore the stench. After years of refusing to fund infrastructure improvements in favor of more prestigious projects, lawmakers fled to the countryside and approved the construction of a new sewage system. This story offers a striking reminder of how public health crises can catalyze change when they affect those in power—and how the invisible infrastructure beneath our feet often matters more than the monuments above.</description>
+      <source url="https://www.dw.com/de/als-london-zum-himmel-stank/a-77867152?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
+    </item>
     <item>
       <title>Bayeux Tapestry smuggled into Britain for first visit in 1,000 years</title>
       <link>https://www.aljazeera.com/news/2026/7/10/bayeux-tapestry-smuggled-into-britain-for-first-visit-in-1000-years?traffic_source=rss</link>
@@ -594,18 +606,6 @@ The research began as part of the FIRST ART project, which originally aimed to c
 
 While researchers cannot definitively link the DNA to the artists themselves, the discovery demonstrates that cave walls can preserve human biological traces for millennia. Some of the studied sites had entrances sealed by rockfalls 4,000 years ago, suggesting the genetic material could be even older than the confirmed 2,000-year minimum age. This finding offers archaeologists a new tool for understanding how ancient populations used caves and where they left their marks—not just in pigment and stone, but in the invisible threads of their genetic legacy.</description>
       <source url="https://g1.globo.com/ciencia/noticia/2026/07/06/dna-humano-de-ao-menos-2-mil-anos-e-achado-em-paredes-de-cavernas.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>The national dance company opening doors for young performers</title>
-      <link>https://www.positive.news/lifestyle/arts/the-national-dance-company-opening-doors-for-young-performers/</link>
-      <guid isPermaLink="false">https://www.positive.news/lifestyle/arts/the-national-dance-company-opening-doors-for-young-performers/</guid>
-      <pubDate>Mon, 06 Jul 2026 06:01:51 GMT</pubDate>
-      <description>At a time when rising costs are squeezing young people out of creative pursuits, England's National Youth Dance Company is taking a different approach. Run by London's Sadler's Wells theatre, the program brings together dancers aged 16 to 24 from across the country—not from elite academies, but from diverse backgrounds and training styles. The latest cohort of 32 performers hails from 25 different communities, from seaside towns to metropolitan centers, and is currently touring with a production called Memory Keepers.
-
-The initiative addresses a troubling trend: recent research shows that 87% of young adults believe they have fewer creative opportunities than previous generations. In response, the National Youth Dance Company prioritizes representation over pedigree, actively recruiting disabled and non-disabled dancers from various dance traditions and economic backgrounds. Since its founding 14 years ago, the program has engaged more than 12,000 young people, with nearly a quarter coming from England's most economically disadvantaged areas. Remarkably, nine in ten participants have gone on to further training or careers in the performing arts.
-
-For eighteen-year-old Michael Omoruyi from Blackpool, the experience has been transformative, offering not just a chance to perform on world-class stages but to build lasting connections with fellow artists. His observation that cohorts become "families filled with passion and love" captures what makes this story quietly powerful: it's a reminder that access to creativity isn't just about individual achievement, but about building community and belonging in a culture where such opportunities are increasingly rare.</description>
-      <source url="https://www.positive.news/lifestyle/arts/the-national-dance-company-opening-doors-for-young-performers/">Positive News</source>
     </item>
   </channel>
 </rss>
