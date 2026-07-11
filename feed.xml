@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 16:03:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 18:01:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Can a photo save orangutans?</title>
+      <link>https://news.mongabay.com/short-article/2026/07/can-a-photo-save-orangutans/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/07/can-a-photo-save-orangutans/</guid>
+      <pubDate>Sat, 11 Jul 2026 18:01:38 GMT</pubDate>
+      <description>In the forests of Indonesian Borneo, a conservation group called KehatiKu is trying something different: turning local residents into paid wildlife photographers. Through a simple app, community members upload images of the animals they encounter, earning around $6 for spotting an orangutan and smaller amounts for more common species. In just twelve months, the program has gathered roughly 175,000 wildlife records—a remarkable dataset that's helping map where endangered animals live and move.
+
+The initiative emerges from a sobering reality. Despite more than a billion dollars poured into orangutan conservation over the past two decades, populations have declined by approximately 100,000 individuals. KehatiKu believes this community-centered model can achieve meaningful results at a fraction of traditional conservation costs. Early signs are encouraging: participants have begun actively discouraging illegal hunting in their own areas, suggesting the program is fostering a sense of local stewardship alongside the financial incentive.
+
+Yet the approach isn't without questions. Experts like Paul Ferraro from Johns Hopkins University point out that payment-based programs require sustained funding streams that may prove challenging over time. While effective for initial engagement, he suggests, the model's long-term viability remains uncertain. Still, this experiment represents a thoughtful shift—recognizing that the people who share the forest with orangutans might be conservation's most valuable partners, if given the right tools and reasons to participate. It's a reminder that protecting wildlife sometimes means rethinking who does the protecting, and how.</description>
+      <source url="https://news.mongabay.com/short-article/2026/07/can-a-photo-save-orangutans/">Mongabay</source>
+    </item>
     <item>
       <title>Wildlife conservation work to get £1m boost</title>
       <link>https://www.bbc.co.uk/news/articles/cp3xg2zkkv8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The innovation addresses a critical need in rural Uganda, where commercially ava
 
 This story offers a reminder that sometimes the most effective solutions grow close to home. While one researcher playfully noted that the team didn't test whether cats would be attracted to lotion wearers, the real significance lies in combining scientific rigor with community empowerment—proving that fighting a global health crisis doesn't always require expensive imports, just creative thinking about local resources.</description>
       <source url="https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds">The Guardian</source>
-    </item>
-    <item>
-      <title>How do you deal with the fact that Grandpa was a Nazi?</title>
-      <link>https://www.dw.com/de/wie-geht-man-damit-um-dass-opa-ein-nazi-war/a-77855710?maca=de-rss-de-all-1119-xml-mrss</link>
-      <guid isPermaLink="false">https://www.dw.com/de/wie-geht-man-damit-um-dass-opa-ein-nazi-war/a-77855710?maca=de-rss-de-all-1119-xml-mrss</guid>
-      <pubDate>Tue, 07 Jul 2026 14:03:13 GMT</pubDate>
-      <description>When a German newspaper made Nazi party membership records easily searchable online, countless Germans discovered unsettling truths about their families. The tool, developed by Die Zeit, simplifies access to digitized NSDAP membership cards held in U.S. archives—documents that reveal one in five adult Germans belonged to the Nazi party by 1945, totaling 8.5 million members.
-
-The revelations often shatter long-held family narratives. One man always knew his grandfather as a left-leaning union supporter, only to find his name in the database. Research shows more than two-thirds of Germans believe their ancestors weren't perpetrators; nearly 36 percent think they were victims, and over 30 percent claim relatives helped hide Jews. The reality is starkly different: only about one percent actively resisted. After the war, denial became widespread. While major war criminals faced justice at Nuremberg, ordinary Germans resisted accountability when doctors, industrialists, and civil servants were also prosecuted, insisting these were "honorable people." The Allies attempted re-education, forcing Germans to watch concentration camp footage, and launched denazification programs requiring detailed questionnaires about party affiliation—though many sought to minimize their involvement.
-
-This story matters because it illuminates how societies grapple with uncomfortable historical truths across generations. The ease of accessing these records now forces a reckoning that was postponed for decades, challenging families to reconcile warm memories with documented complicity. It's a quiet reminder that understanding the past—even when painful—remains essential work, and that the stories families tell themselves don't always align with history's records.</description>
-      <source url="https://www.dw.com/de/wie-geht-man-damit-um-dass-opa-ein-nazi-war/a-77855710?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
     </item>
   </channel>
 </rss>
