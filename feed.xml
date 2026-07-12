@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 08:03:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 10:03:12 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New measurement expands estimated size of the Milky Way by about 10%</title>
+      <link>https://g1.globo.com/ciencia/noticia/2026/07/12/nova-medicao-amplia-tamanho-estimado-da-via-lactea-em-cerca-de-10percent.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/ciencia/noticia/2026/07/12/nova-medicao-amplia-tamanho-estimado-da-via-lactea-em-cerca-de-10percent.ghtml</guid>
+      <pubDate>Sun, 12 Jul 2026 10:03:10 GMT</pubDate>
+      <description>Astronomers have discovered that the Milky Way may be about 10% larger than previously thought, thanks to a clever measurement technique involving cosmic echoes. By analyzing X-ray reflections from dust clouds in the galaxy's outer spiral arms, researchers using NASA's Chandra and ESA's XMM-Newton observatories have revised our understanding of our galactic home's true extent.
+
+The challenge of measuring our own galaxy stems from our position within it—humanity resides in the Orion arm, roughly 26,000 light-years from the supermassive black hole at the galaxy's center. Without an outside vantage point, scientists must piece together the Milky Way's structure indirectly. The galaxy contains an estimated 100 to 400 billion stars arranged in a spiral disk approximately 100,000 light-years across and remarkably thin at just 1,000 light-years thick. Its four main spiral arms—two primary (Scutum-Centaurus and Perseus) and two secondary (Norma and Sagittarius)—are regions of active star formation, glowing blue with young, massive stars.
+
+The breakthrough came from studying X-ray echoes: radiation from violent extragalactic events like gamma-ray bursts that bounced off dust clouds in the Milky Way's outer arms. By measuring these cosmic ricochets, researchers could calculate precise distances to these remote structures, revealing they extend farther than models suggested. It's a reminder that even our immediate cosmic neighborhood holds surprises, and that sometimes the best way to see where we are is to listen for echoes from the universe beyond.</description>
+      <source url="https://g1.globo.com/ciencia/noticia/2026/07/12/nova-medicao-amplia-tamanho-estimado-da-via-lactea-em-cerca-de-10percent.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Young couple reunites over 10 years after teenage romance, gets engaged and moves people with photo shoot at Goiânia Railway Station clock; photos</title>
       <link>https://g1.globo.com/go/goias/noticia/2026/07/12/jovens-se-reencontram-mais-de-10-anos-apos-romance-ficam-noivos-e-emocionam-com-ensaio-no-relogio-da-estacao-ferroviaria-de-goiania-fotos.ghtml</link>
@@ -594,18 +606,6 @@ The magic happens through a process called photopolymerization. When a photosens
 
 This story offers a delightful peek at how everyday science can be miniaturized into playful experiences. It's a reminder that wonder and learning don't have to come in large packages—sometimes the smallest things reveal the most interesting chemistry, blending nostalgia with a hands-on lesson in molecular transformation.</description>
       <source url="https://g1.globo.com/guia/guia-de-compras/presentes/gelatina-em-miniatura-muffin-douradinho-o-truque-cientifico-por-tras-das-minicomidas-colecionaveis.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>99% of people on Earth will get sunlight at the same time this Wednesday</title>
-      <link>https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss</link>
-      <guid isPermaLink="false">https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss</guid>
-      <pubDate>Wed, 08 Jul 2026 06:04:06 GMT</pubDate>
-      <description>This Wednesday, July 8, marks a quietly extraordinary moment: for about a minute at 11:10 GMT, roughly 99 percent of the world's population—some 8.2 billion people—will experience sunlight or twilight simultaneously. Daylight will blanket North America, South America, Europe, Africa, and most of Asia, where the vast majority of humanity lives, while only Australia, New Zealand, parts of Southeast Asia, and Antarctica remain in darkness. Of those bathed in light, about 6.9 billion will see full daylight, with the remainder experiencing various stages of twilight.
-
-The phenomenon became widely known after a viral 2022 social media post claimed July 8 was the only day this occurs. Fact-checkers later clarified that while July 8 does mark one of the peak moments, similar conditions actually happen every day for roughly two months—from mid-May through mid-July—during the Northern Hemisphere's summer. The timing has to do with Earth's tilt and population distribution. Interestingly, this peak occurs after the June solstice, not on it. As the sun shifts southward following the solstice, it reduces daylight in sparsely populated far northern regions but extends it into densely populated equatorial areas like Indonesia and the Philippines, bringing about 10 million more people into the light.
-
-This story offers a gentle reminder of our shared planetary experience and the mathematics of where humans have chosen to live. It's a moment when geography, astronomy, and demography align in a way that quietly connects nearly all of us under the same sky—a collective experience worth pausing to appreciate.</description>
-      <source url="https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
