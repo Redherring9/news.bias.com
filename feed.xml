@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 02:04:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 04:02:55 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>After promises, supermarkets continue without expanding cage-free egg sales, study says</title>
+      <link>https://g1.globo.com/economia/agronegocios/noticia/2026/07/14/apos-promessas-supermercados-seguem-sem-ampliar-venda-de-ovos-livres-de-gaiolas-diz-estudo.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/economia/agronegocios/noticia/2026/07/14/apos-promessas-supermercados-seguem-sem-ampliar-venda-de-ovos-livres-de-gaiolas-diz-estudo.ghtml</guid>
+      <pubDate>Tue, 14 Jul 2026 04:02:54 GMT</pubDate>
+      <description>A decade after Brazilian supermarket chains began promising to transition away from caged hen eggs, progress has stalled significantly. According to the annual Observatório do Ovo study by the NGO Alianima, 64% of supermarket chains have either failed to increase their selection of cage-free eggs or have actually moved backward. More than 160 Brazilian companies committed to phasing out eggs from caged hens between 2021 and 2030, yet nearly a quarter of these companies aren't even reporting on their progress. Carrefour, one of the chains highlighted in the report, actually decreased its cage-free egg offerings from 21.4% to 20.2% over the past year and is the only committed chain that doesn't offer at least one cage-free brand in every store.
+
+The challenges are multifaceted. Two-thirds of companies cite high costs as an obstacle, while others point to limited consumer awareness, low customer acceptance, and difficulty supplying cage-free eggs to Brazil's northern and northeastern regions. The contrast between production methods is stark: in conventional systems, up to eleven hens share a single cage with no room to move beyond eating and laying eggs. In cage-free systems, birds roam freely throughout production, with standards requiring adequate space, perching room, and unrestricted access to food and water.
+
+This story offers a window into the gap between corporate commitments and actual change, revealing how economic pressures and logistical challenges can quietly derail even well-intentioned animal welfare goals. It's a reminder that progress often moves slower than promises, and that consumer awareness may be the missing ingredient in closing that gap.</description>
+      <source url="https://g1.globo.com/economia/agronegocios/noticia/2026/07/14/apos-promessas-supermercados-seguem-sem-ampliar-venda-de-ovos-livres-de-gaiolas-diz-estudo.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>How Kenyan volunteers hunt polio’s hidden trail</title>
       <link>https://www.aljazeera.com/news/2026/7/14/how-kenyan-volunteers-hunt-polios-hidden-trail?traffic_source=rss</link>
@@ -594,18 +606,6 @@ Dr. Edwards explains that 60,000 years ago, the shoreline sat 17 kilometers furt
 
 This initiative is part of Edwards's larger project, Unbroken Whispers, supported by a $300,000 federal grant to explore how Indigenous songlines have protected marine mammals for centuries. The work doesn't claim one form of knowledge over another but instead shows how Indigenous science—rooted in long-term observation and encoded in story—follows the same patterns Western science documents. It's a quiet reminder that conservation grows strongest when it weaves together diverse perspectives, honoring both data and the deep time of human witness.</description>
       <source url="https://www.abc.net.au/news/2026-07-10/indigenous-whale-watching-tour-illawarra/106865968">ABC Australia</source>
-    </item>
-    <item>
-      <title>Why one of our greatest scientific discoveries is in a UK gift shop</title>
-      <link>https://www.abc.net.au/news/2026-07-10/cranbourne-meteorite-kuunhdurt-laang-natural-history-museum/106828130</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-10/cranbourne-meteorite-kuunhdurt-laang-natural-history-museum/106828130</guid>
-      <pubDate>Thu, 09 Jul 2026 22:03:13 GMT</pubDate>
-      <description>A meteorite that began its existence as part of a distant planet billions of years ago made an extraordinary journey to Earth, landing in 13 pieces near what is now Melbourne, Australia. The largest fragment weighed an astonishing 3.5 tonnes, making it a record-breaker at the time of its discovery. But the cosmic rock's arrival was just the beginning of a surprisingly contentious human story.
-
-In 1854, an unassuming horseshoe appeared at Melbourne's inaugural Exhibition Hall, casually described as "a specimen of iron from Western Port." Local farrier James A Scott had unknowingly created the first written colonial record of the Cranbourne Meteorites by forging the shoe from what a farmer had mistaken for a tree stump in his paddock. Early colonists, excited by the prospect of an iron seam that could fuel infrastructure development, soon discovered multiple similar rocks in the area. Only when they dug deeper and found nothing beneath did they realize these masses had fallen from space—and that they'd stumbled upon something scientifically extraordinary.
-
-The discovery sparked questions that remain unresolved centuries later: Who has the right to claim rocks that fall from the sky? Today, meteorite ownership varies wildly across Australia, from state property to Crown possessions to simple finders-keepers arrangements. This story offers a quietly fascinating glimpse into how a cosmic visitor became entangled in very earthly disputes about possession, value, and cultural heritage—revealing that even objects from the furthest reaches of space can't escape the complexities of human claims and competing interests.</description>
-      <source url="https://www.abc.net.au/news/2026-07-10/cranbourne-meteorite-kuunhdurt-laang-natural-history-museum/106828130">ABC Australia</source>
     </item>
   </channel>
 </rss>
