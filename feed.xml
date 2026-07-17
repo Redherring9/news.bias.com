@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 08:03:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 10:03:42 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>California braces for its sharkiest summer in a decade – but experts say don’t panic</title>
+      <link>https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike</link>
+      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike</guid>
+      <pubDate>Fri, 17 Jul 2026 10:03:41 GMT</pubDate>
+      <description>California is preparing for what marine biologists predict could be its "sharkiest summer in a decade," as juvenile great white sharks migrate northward from unusually warm Mexican waters during a strong El Niño event. These young sharks, measuring between six and nine feet, travel up the California coastline to feed on fish, rays, and squid in shallow waters before venturing into the deep ocean. The last time conditions were this intense, in 2015, researchers observed twice the normal number of white sharks, including the establishment of a shark nursery near Monterey Bay.
+
+Despite the increased shark presence, marine scientists emphasize there's little reason for alarm. Dr. Chris Lowe, who has spent two decades studying white sharks at California State University Long Beach's Shark Lab, explains that humans simply don't register as prey to these apex predators. His team's research, including audio experiments that played back recordings of surfers, swimmers, and kayakers to aggregated sharks, revealed that the animals show minimal interest in humans. Even when curious sharks approach swimmers—drawn perhaps by the distinct sound of splashing arms and legs—they typically investigate from about ten feet away before losing interest and departing. California's shark incident data supports this: only 250 incidents since 1950, with just 17 fatalities, averaging 2.5 deadly encounters per decade.
+
+This story offers a refreshing counterpoint to sensationalized shark narratives. It reminds us that sharing the ocean with powerful predators doesn't have to mean danger—it's a testament to how evolution has fine-tuned these animals' hunting instincts, sparing countless beachgoers simply because we don't fit their dietary profile. It's a quietly reassuring example of coexistence in action.</description>
+      <source url="https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike">The Guardian</source>
+    </item>
     <item>
       <title>John Esposito transformed how the West understood Islam</title>
       <link>https://www.aljazeera.com/opinions/2026/7/17/john-esposito-transformed-how-the-west-understood-islam?traffic_source=rss</link>
@@ -594,18 +606,6 @@ Recognizing that photographs alone cannot convey what makes the space remarkable
 
 This story matters because it reminds us that our most meaningful encounters with the built environment often resist capture through conventional means. In an age saturated with images, KAIT Plaza stands as a gentle argument for presence, for the irreplaceable value of simply being somewhere and paying attention to how a thoughtfully designed space shapes perception and experience.</description>
       <source url="https://www.japantimes.co.jp/life/2026/07/13/style-design/kait-plaza-event/">The Japan Times</source>
-    </item>
-    <item>
-      <title>Matariki: First hautapu ceremony held at Takapūneke in almost two centuries</title>
-      <link>https://www.rnz.co.nz/news/te-manu-korihi/707945/matariki-first-hautapu-ceremony-held-at-takapuneke-in-almost-two-centuries</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/te-manu-korihi/707945/matariki-first-hautapu-ceremony-held-at-takapuneke-in-almost-two-centuries</guid>
-      <pubDate>Mon, 13 Jul 2026 02:02:33 GMT</pubDate>
-      <description>On a winter dawn in Akaroa, New Zealand, approximately 150 people gathered for a hautapu ceremony—a ritual to honor the dead and set intentions for the year ahead—at Takapūneke Reserve for the first time in nearly two centuries. The ceremony, held during Matariki (the Māori New Year), marked a profound moment of healing for the whānau of Ōnuku Marae and Ngāi Tahu, who have been reclaiming a site shadowed by devastating history.
-
-In 1830, Takapūneke was a thriving trading post where Ngāi Tahu exchanged durable harakeke (flax) cordage with merchant sailors navigating between Aotearoa, Sydney, and Europe. That year, the site became the location of a massacre known as the Elizabeth Affair, when Te Rauparaha and warriors hidden aboard a British ship attacked the community. The trauma ran so deep that generations were told never to visit the land, often without explanation. The incident also became a catalyst for the Treaty of Waitangi, marking the first British intervention in inter-tribal conflict. Over time, the sacred site was further degraded—used as a town dump and threatened by subdivision plans—until determined efforts by kaumātua (elders) began to turn the tide.
-
-Today's ceremony followed the installation of ten carved pou (posts) as part of an ongoing redevelopment. For Keefe Robinson-Gore of the Ōnuku Runanga co-governance group, the work represents more than restoration; it's about transforming Takapūneke into a place of reflection and learning where future generations can connect with their identity and stories. This quiet reclamation of land and memory offers a moving example of how communities can honor the past while nurturing a different, more hopeful future.</description>
-      <source url="https://www.rnz.co.nz/news/te-manu-korihi/707945/matariki-first-hautapu-ceremony-held-at-takapuneke-in-almost-two-centuries">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
