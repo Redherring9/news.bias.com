@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 12:02:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 14:01:38 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>First atmosphere found on Earth-like planet in habitable zone of distant star</title>
+      <link>https://www.bbc.co.uk/news/articles/cy4kdd1e0ejo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy4kdd1e0ejo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 17 Jul 2026 14:01:37 GMT</pubDate>
+      <description>Astronomers have detected the first atmosphere around a rocky, Earth-like planet situated in the habitable zone of a distant star—a milestone that brings scientists closer to answering whether life exists beyond our solar system. The planet, LHS 1140 b, orbits a small red star 48 light-years away, and while the atmosphere detected so far contains only helium, researchers believe other gases may be present at lower altitudes.
+
+The discovery is significant because it satisfies several conditions thought necessary for life: the planet is rocky, similar in composition to Earth, and resides in the "Goldilocks zone"—the region around a star where temperatures could allow liquid water to exist. Of the more than 6,000 exoplanets discovered to date, only a few dozen meet these criteria, and until now, none had been confirmed to possess an atmosphere. Dr. Collin Cherubim of Harvard University called the finding "a big deal," emphasizing that it represents the first atmospheric detection on such a world.
+
+While the presence of helium alone wouldn't support life, the discovery opens a new chapter in the search for habitable worlds. Other candidates, including K2-18b and the TRAPPIST-1 system, have offered tantalizing hints but remain inconclusive. What makes this story quietly remarkable is not the promise of life itself, but the patient unraveling of a cosmic puzzle—each atmospheric reading, each spectral line, bringing humanity closer to understanding whether Earth's story is unique or part of a much larger narrative written across the stars.</description>
+      <source url="https://www.bbc.co.uk/news/articles/cy4kdd1e0ejo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Understanding how the practice of wedding dowries has caused an increase in femicides in India</title>
       <link>https://g1.globo.com/mundo/noticia/2026/07/17/entenda-como-pratica-de-dotes-de-casamento-provocou-aumento-de-feminicidios-na-india.ghtml</link>
@@ -594,18 +606,6 @@ The reversal is largely driven by changes in Indonesia and Myanmar. Indonesia, t
 
 While the gains are encouraging, the study emphasizes that newly established forests don't yet match the ecological value of ancient stands. Young mangroves have underdeveloped root systems and require decades to reach the carbon storage capacity of mature forests. This story matters because mangroves are critical ecosystems for carbon sequestration and coastal protection against storms and cyclones. It's a reminder that nature can recover when given the chance—and that the most effective conservation strategy remains stopping deforestation in the first place.</description>
       <source url="https://news.mongabay.com/short-article/2026/07/southeast-asian-mangroves-shift-from-historic-decline-to-net-growth/">Mongabay</source>
-    </item>
-    <item>
-      <title>How public school students created a business to combat menstrual poverty in Rio Grande do Sul</title>
-      <link>https://g1.globo.com/empreendedorismo/pegn/noticia/2026/07/13/como-alunas-de-escola-publica-criaram-negocio-para-combater-a-pobreza-menstrual-no-rs.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/empreendedorismo/pegn/noticia/2026/07/13/como-alunas-de-escola-publica-criaram-negocio-para-combater-a-pobreza-menstrual-no-rs.ghtml</guid>
-      <pubDate>Mon, 13 Jul 2026 06:01:11 GMT</pubDate>
-      <description>In a municipal school library on the outskirts of Porto Alegre, Brazil, a group of teenage girls noticed something troubling: many of their classmates lacked access to menstrual products and felt too ashamed to discuss menstruation at home or school. Their response was to create "Garotas de Vermelho" (Girls in Red), a student-led collective addressing menstrual poverty while opening conversations about health, dignity, and violence prevention.
-
-The project combines education with entrepreneurship in a thoughtful way. The students designed kits containing reusable menstrual pads and heating pads, operating on a buy-one-give-one model—each kit sold finances another distributed free to girls in vulnerable situations. Through peer-to-peer dialogue circles, where conversations happen "girl to girl," participants feel safe sharing experiences and asking questions about topics once considered taboo. The initiative has reached over 30 schools across Porto Alegre and earned national recognition at the Youth League Challenge, an entrepreneurship competition for students. The visibility led to mentorships and even an invitation to present their work in Madrid.
-
-This story matters because it shows young people identifying a gap in their own community and building a sustainable solution that addresses both immediate needs and systemic silence. These students didn't wait for adults to solve the problem—they created infrastructure for dignity, education, and mutual support. Their work demonstrates how combining practical aid with open conversation can shift culture around bodily health from shame to empowerment, one school library at a time.</description>
-      <source url="https://g1.globo.com/empreendedorismo/pegn/noticia/2026/07/13/como-alunas-de-escola-publica-criaram-negocio-para-combater-a-pobreza-menstrual-no-rs.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
