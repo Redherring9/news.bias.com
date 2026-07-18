@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 02:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 04:02:45 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Olympic swimmers return to iconic Sydney pool for 50-year reunion</title>
+      <link>https://www.abc.net.au/news/2026-07-18/olympians-visit-refurbished-north-sydney-olympic-pool/106931116</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-18/olympians-visit-refurbished-north-sydney-olympic-pool/106931116</guid>
+      <pubDate>Sat, 18 Jul 2026 04:02:44 GMT</pubDate>
+      <description>Half a century after competing at the 1976 Montreal Olympics, members of Australia's swimming team gathered at North Sydney Olympic Pool to mark their reunion and celebrate the venue that launched their careers. The iconic harbourside pool, originally built in 1938, served as a training ground during what many consider a golden era of Australian swimming. Between 1953 and 1978, an extraordinary 86 world records were set at the saltwater facility, cementing its place in competitive swimming history.
+
+Among those returning were Graham Windeatt, who captained the 1976 team after winning silver in Munich four years earlier, and Judy Hudson, who competed in multiple events at age 17. Their memories paint a picture of a simpler sporting era—no sports psychologists or specialist support staff, just "mum and dad and our coach," as Windeatt recalled. Hudson fondly remembered the pool's saltwater providing better buoyancy and the quirky dyna stat machines swimmers used for dryland training. The reunion coincided with the pool's reopening after a major renovation that ballooned from an initial $28 million budget to $122 million, keeping the venue closed since February 2021.
+
+This gathering offers more than nostalgia—it's a window into how athletic training has evolved and a reminder of the enduring bonds forged through shared endeavor. For these Olympians, some of whom hadn't seen each other in five decades, the return to their training ground brought back not just personal triumphs, but the camaraderie that helped them stay grounded amid the overwhelming spectacle of the Games. It's a quietly moving story about place, memory, and the lasting connections sport creates.</description>
+      <source url="https://www.abc.net.au/news/2026-07-18/olympians-visit-refurbished-north-sydney-olympic-pool/106931116">ABC Australia</source>
+    </item>
     <item>
       <title>Country town celebrates role in Australia's technological evolution</title>
       <link>https://www.abc.net.au/news/2026-07-18/australia-s-first-ever-telecast-from-carnarvon-remembered/106921402</link>
@@ -594,18 +606,6 @@ His philosophy challenges conventional conservation policies, which he argues of
 
 This story is worth a reader's time because it quietly reframes how we think about environmentalism. Partha's work suggests that true conservation isn't just about protecting nature from people, but understanding the deep, reciprocal relationships that have always existed between them. In an era of accelerating environmental change, his insistence on ecological justice—rooted in respect for Indigenous knowledge and the interconnectedness of all life—offers a compelling, humane alternative to approaches that treat ecosystems and communities as separate concerns.</description>
       <source url="https://news.mongabay.com/2026/07/humans-relationship-with-nature-interview-with-ethnobotanist-pavel-partha/">Mongabay</source>
-    </item>
-    <item>
-      <title>The revolutionary 'atlas' that is helping scientists map the last frontier of the brain</title>
-      <link>https://www.bbc.com/mundo/articles/cgrkekzeyq7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cgrkekzeyq7o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Mon, 13 Jul 2026 22:02:42 GMT</pubDate>
-      <description>Neuroscientists at the Sudha Gopalakrishnan Centre for Brain Research at the Indian Institute of Technology Madras have created what they describe as the world's most detailed three-dimensional atlas of the human brainstem. Called ANCHOR (Atlas of Neurochemical Characterization of the Human Brainstem with 3D Reconstruction), this digital map bridges a gap that has long frustrated brain science: it connects whole-brain medical scans with cellular-level pathology, allowing researchers to zoom seamlessly from MRI images down to individual nerve cells.
-
-The atlas combines more than 500 tissue sections from fetuses, children, and adults, using high-resolution microscopy rather than expensive molecular techniques. Eight chemical markers help distinguish different cell types, identifying over 200 clusters of brain cells and nerve pathways. The brainstem, though occupying only a small portion of the brain, controls essential functions like breathing, heart rate, sleep, and movement. Its dense architecture has made detailed mapping exceptionally difficult, even though damage to tiny cell clusters within it can be catastrophic. Currently, pathologists diagnosing conditions like Alzheimer's typically examine only 15 to 20 sections—less than one percent of the entire organ.
-
-This work represents more than just another anatomical map. It fulfills a long-held dream in neuroscience: integrating two worlds that have remained largely separate since the pioneering work of Spanish neuroscientist Santiago Ramón y Cajal over a century ago. The project places India at the international forefront of brain mapping and offers researchers an unprecedented tool for understanding one of the least understood yet most vital parts of the human brain—a quiet revolution in how we might diagnose and treat neurological disorders.</description>
-      <source url="https://www.bbc.com/mundo/articles/cgrkekzeyq7o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
