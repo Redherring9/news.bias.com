@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 00:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 02:03:35 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Country town celebrates role in Australia's technological evolution</title>
+      <link>https://www.abc.net.au/news/2026-07-18/australia-s-first-ever-telecast-from-carnarvon-remembered/106921402</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-18/australia-s-first-ever-telecast-from-carnarvon-remembered/106921402</guid>
+      <pubDate>Sat, 18 Jul 2026 02:03:34 GMT</pubDate>
+      <description>In 1966, the small Western Australian town of Carnarvon became an unexpected hub of technological history when it hosted Australia's first live television connection with London. The moment came about through serendipity: when a newly launched satellite failed to reach its intended orbit over the Pacific Ocean, engineers spotted a brief window where the wayward satellite could link Carnarvon's Earth Station with Goonhilly Downs in the UK. Families in the remote outback town, 900 kilometers north of Perth, were suddenly face-to-face with relatives in London—a marvel of the satellite age.
+
+Alan Gilham, then an engineer at the Carnarvon Tracking Station, helped make the technology work. Now 96 and back in the UK, he recently reconnected with his hometown triumph when his nephew Stephen traveled from Victoria to Carnarvon to mark the 60th anniversary. Using a simple modern video call, Stephen reached across continents to speak with his uncle—a gesture both parallel to and worlds apart from the convoy of trucks, engineers, and broadcast equipment required six decades earlier. The contrast highlights just how profoundly communication technology has evolved, from cutting-edge satellite links to the smartphones we carry in our pockets.
+
+This story matters because it reminds us that technological revolutions often happen in unexpected places. Carnarvon, better known for its bananas than its role in the space age, was integral not only to this broadcast milestone but also to the Apollo moon missions. It's a quietly remarkable chapter in Australia's technological evolution, and Stephen Gilham's personal pilgrimage honors both his uncle's contribution and a moment when distance briefly collapsed in a way that once seemed impossible.</description>
+      <source url="https://www.abc.net.au/news/2026-07-18/australia-s-first-ever-telecast-from-carnarvon-remembered/106921402">ABC Australia</source>
+    </item>
     <item>
       <title>'Sometimes I don't know how to help him': how his son's autism diagnosis changed the life of Cucurella, of the Spanish national team</title>
       <link>https://www.bbc.com/portuguese/articles/c80nr741zd3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The atlas combines more than 500 tissue sections from fetuses, children, and adu
 
 This work represents more than just another anatomical map. It fulfills a long-held dream in neuroscience: integrating two worlds that have remained largely separate since the pioneering work of Spanish neuroscientist Santiago Ramón y Cajal over a century ago. The project places India at the international forefront of brain mapping and offers researchers an unprecedented tool for understanding one of the least understood yet most vital parts of the human brain—a quiet revolution in how we might diagnose and treat neurological disorders.</description>
       <source url="https://www.bbc.com/mundo/articles/cgrkekzeyq7o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>Paralysed rider hits trails to promote adaptive mountain biking</title>
-      <link>https://www.rnz.co.nz/news/community/713732/paralysed-rider-hits-trails-to-promote-adaptive-mountain-biking</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/community/713732/paralysed-rider-hits-trails-to-promote-adaptive-mountain-biking</guid>
-      <pubDate>Mon, 13 Jul 2026 20:02:44 GMT</pubDate>
-      <description>When Thomas Goodwin broke his neck in a mountain biking accident in Tasmania two years ago, leaving him paralyzed from the chest down, he wanted nothing to do with the sport that had changed his life so dramatically. But the 39-year-old father and former bricklayer from Taranaki, New Zealand, came to realize that mountain biking was deeply woven into his social world—his family and friends were devoted to it, and returning to the trails became essential to reclaiming his life. Now he rides a specialized battery-powered adaptive bike, controlling the brakes with wrist extensions and operating the throttle with his chin, and he's become an advocate for making trails accessible to riders like himself.
-
-At a recent Dawn to Dusk fundraiser at Mangamahoe Mountain Bike Park in New Plymouth, Goodwin joined other adaptive riders and able-bodied cyclists to raise funds for wider, more accessible trails. These improvements benefit not just adaptive riders—whose bikes are wider than traditional two-wheelers—but also families with trailers and anyone seeking gentler terrain. Fellow adaptive rider Chris Handley, who was injured in a motorcycle accident nearly four decades ago, emphasized how transformative adaptive biking can be for recovery, particularly for regaining confidence and reconnecting with loved ones outdoors. Goodwin's partner, Cheyenne Rusling, notes that riding together has allowed them to preserve a shared passion that predated his injury.
-
-This story matters because it quietly illustrates how adaptation and community can turn loss into renewal. Goodwin describes the bike as therapeutic: when he's on the trails, disability fades and he's simply immersed in nature, focused on the next five seconds. It's a reminder that access—whether to trails, equipment, or possibility—can restore not just activity, but joy.</description>
-      <source url="https://www.rnz.co.nz/news/community/713732/paralysed-rider-hits-trails-to-promote-adaptive-mountain-biking">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
