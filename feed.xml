@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 04:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 06:03:17 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Researchers working on artificial placentas for premature babies</title>
+      <link>https://www.abc.net.au/news/2026-07-18/artificial-placenta-research-for-premature-babies/106929330</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-18/artificial-placenta-research-for-premature-babies/106929330</guid>
+      <pubDate>Sat, 18 Jul 2026 06:01:44 GMT</pubDate>
+      <description>In Perth, Australia, researchers are developing an artificial placenta that could offer a lifeline to babies born at the edge of viability. The technology aims to help infants born at 22 or 23 weeks—too early for their lungs and organs to function independently—by allowing them to continue developing outside the womb in conditions similar to those inside it. Led by Professor Matt Kemp at the Women and Infants Research Foundation, the project seeks to give these extremely premature babies a few more crucial weeks to grow before they must breathe and feed on their own.
+
+The device itself is surprisingly compact: two clear perspex blocks about the size of a Rubik's Cube, connected via the umbilical cord. What makes it remarkable is that it requires no external pump—the baby's own heart powers the system, making it naturally responsive to the infant's needs. Currently being tested in sheep, the artificial placenta provides gas exchange and nutrients much like a natural placenta would. Beyond its potential clinical use, the technology is also serving as a research tool, helping scientists better understand the complex biological processes that support fetal development and why premature babies grow differently than full-term infants.
+
+While the technology won't reach hospital neonatal units for at least another decade or two, the work represents a thoughtful approach to one of medicine's most delicate challenges. This story is worth reading because it shows how innovation in healthcare often requires both technological ingenuity and deep biological insight—and how seemingly small advances might one day give the tiniest patients a better chance at life.</description>
+      <source url="https://www.abc.net.au/news/2026-07-18/artificial-placenta-research-for-premature-babies/106929330">ABC Australia</source>
+    </item>
     <item>
       <title>Olympic swimmers return to iconic Sydney pool for 50-year reunion</title>
       <link>https://www.abc.net.au/news/2026-07-18/olympians-visit-refurbished-north-sydney-olympic-pool/106931116</link>
@@ -594,18 +606,6 @@ Kenya's polio surveillance operates on two tracks. In Nairobi, officials test wa
 
 This story offers a ground-level view of global health work that operates far from headlines, where persistence, cultural sensitivity, and a motorbike can make the difference between containment and silent spread. It's a reminder that disease surveillance in remote regions depends as much on human relationships as on medical technology.</description>
       <source url="https://www.aljazeera.com/news/2026/7/14/how-kenyan-volunteers-hunt-polios-hidden-trail?traffic_source=rss">Al Jazeera</source>
-    </item>
-    <item>
-      <title>Humans’ relationship with nature: Interview with ethnobotanist Pavel Partha</title>
-      <link>https://news.mongabay.com/2026/07/humans-relationship-with-nature-interview-with-ethnobotanist-pavel-partha/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/07/humans-relationship-with-nature-interview-with-ethnobotanist-pavel-partha/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:02:36 GMT</pubDate>
-      <description>Pavel Partha, a botanist and activist in Bangladesh, has spent nearly two decades documenting the intricate connections between plants and people. His work goes beyond cataloging species—it recognizes that environmental destruction erases not only ecosystems but also the languages, cultural practices, and traditional knowledge that have co-evolved with them. Partha's approach is rooted in what he calls an "ecocentric" worldview, shaped by years spent with Indigenous communities, farmers, and fishers across Bangladesh's forests, rivers, and coastlines.
-
-His philosophy challenges conventional conservation policies, which he argues often emphasize ecological preservation while overlooking social justice. For Partha, the two are inseparable. Development decisions must account for both environmental and human impacts, honoring the wisdom of communities who have sustained these landscapes for generations. His ethnobotanical research—studying human-plant relationships—serves as both scientific documentation and a form of advocacy, ensuring that plants, animals, and the people who depend on them receive recognition in policy and protest alike.
-
-This story is worth a reader's time because it quietly reframes how we think about environmentalism. Partha's work suggests that true conservation isn't just about protecting nature from people, but understanding the deep, reciprocal relationships that have always existed between them. In an era of accelerating environmental change, his insistence on ecological justice—rooted in respect for Indigenous knowledge and the interconnectedness of all life—offers a compelling, humane alternative to approaches that treat ecosystems and communities as separate concerns.</description>
-      <source url="https://news.mongabay.com/2026/07/humans-relationship-with-nature-interview-with-ethnobotanist-pavel-partha/">Mongabay</source>
     </item>
   </channel>
 </rss>
