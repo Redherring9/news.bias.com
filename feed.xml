@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 18:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 20:03:34 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Underwater gardening helping to restore Tasmania's lost kelp forests</title>
+      <link>https://www.abc.net.au/news/2026-07-21/restoring-giant-kelp-forest-tasmania-eaglehawk-neck-dive-interns/106935712</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-21/restoring-giant-kelp-forest-tasmania-eaglehawk-neck-dive-interns/106935712</guid>
+      <pubDate>Mon, 20 Jul 2026 20:03:32 GMT</pubDate>
+      <description>Off the coast of Tasmania, a quiet revolution is taking place beneath the waves. A new month-long internship program is inviting participants from around the world to help restore the island's vanishing giant kelp forests—underwater ecosystems that have declined by an estimated 95 percent since the 1940s. Armed with laboratory-grown kelp spores wound on spools, divers brave Tasmania's frigid winter waters to hand-plant these marine forests, one strand at a time.
+
+The decline has been driven by warming ocean temperatures and invasive sea urchins that overgraze the kelp. What were once thriving underwater forests—providing habitat, food, and nursery grounds for countless marine species—disappeared in some areas in less than a year. The restoration technique, developed by researchers at the University of Tasmania, involves wrapping spore-laden spools around existing seaweed at carefully selected sites. Results have been mixed: under ideal conditions, a forest can regrow within a year, but summer heat waves, hungry fish, and storms can quickly undo the work. Scientists now emphasize the importance of choosing resilient locations and protecting what remains.
+
+This story captures something quietly hopeful—the idea that careful, hands-on work can begin to repair what's been lost. It's a reminder that restoration is as much about patience and adaptation as it is about action, and that people will travel across oceans to help tend gardens most of us will never see.</description>
+      <source url="https://www.abc.net.au/news/2026-07-21/restoring-giant-kelp-forest-tasmania-eaglehawk-neck-dive-interns/106935712">ABC Australia</source>
+    </item>
     <item>
       <title>Community newspaper The Akaroa Mail celebrates 150 years</title>
       <link>https://www.rnz.co.nz/news/business/755677/community-newspaper-the-akaroa-mail-celebrates-150-years</link>
@@ -594,18 +606,6 @@ Yet the progress comes with important caveats. While fewer trees are being clear
 
 This story matters because it captures both the fragility and resilience of environmental progress. The Amazon's fate isn't sealed by abstract forces—it shifts with policy, enforcement, and collective will. As climate patterns grow more extreme, the coming months will test whether recent gains can hold, or whether a hotter, drier rainforest will erase years of hard-won ground.</description>
       <source url="https://news.mongabay.com/short-article/2026/07/amazon-deforestation-falls-to-10-year-low-in-first-half-of-2026/">Mongabay</source>
-    </item>
-    <item>
-      <title>Seeds of South African rooibos infusion sent to space to study their reaction</title>
-      <link>https://www.france24.com/fr/afrique/20260716-graines-infusion-sud-africaine-rooibos-espace-r%C3%A9action-station-spatiale</link>
-      <guid isPermaLink="false">https://www.france24.com/fr/afrique/20260716-graines-infusion-sud-africaine-rooibos-espace-r%C3%A9action-station-spatiale</guid>
-      <pubDate>Thu, 16 Jul 2026 14:01:39 GMT</pubDate>
-      <description>In a quiet but fascinating first for the African continent, seeds of South Africa's beloved rooibos plant are traveling to the International Space Station. The mission, announced by the South African Rooibos Council, aims to expose the seeds to microgravity and space radiation to observe how they adapt to conditions beyond Earth. It's part of a broader effort to explore whether sustainable food production might one day be possible in space.
-
-Rooibos, meaning "red bush" in Afrikaans, is a caffeine-free herbal infusion treasured for its sweet flavor and antioxidant properties. It grows exclusively in South Africa's Cederberg region and holds protected status in the European Union, much like Champagne or Parmigiano-Reggiano. The country produces around 22,000 tons annually, with half consumed locally and the rest exported to more than 50 countries. When the seeds return to Earth in December or January, they'll be planted alongside control seeds to study any differences in germination and growth—insights that could inform how plants respond to the extreme environment of space.
-
-This story is worth a reader's time because it captures an unexpected intersection of tradition and innovation. A humble plant rooted in South African soil and culture is now contributing to humanity's understanding of space agriculture, reminding us that exploration often begins with the familiar before reaching toward the extraordinary.</description>
-      <source url="https://www.france24.com/fr/afrique/20260716-graines-infusion-sud-africaine-rooibos-espace-r%C3%A9action-station-spatiale">France 24</source>
     </item>
   </channel>
 </rss>
