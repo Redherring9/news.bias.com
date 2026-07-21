@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 16:03:26 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Milky Way flipped in collision with dwarf galaxy 10bn years ago, astronomers say</title>
+      <link>https://www.theguardian.com/science/2026/jul/21/milky-way-disc-flip-collision-dwarf-galaxy-astronomers</link>
+      <guid isPermaLink="false">https://www.theguardian.com/science/2026/jul/21/milky-way-disc-flip-collision-dwarf-galaxy-astronomers</guid>
+      <pubDate>Tue, 21 Jul 2026 16:03:25 GMT</pubDate>
+      <description>About 10 billion years ago, long before our solar system existed, the Milky Way experienced a cosmic catastrophe that fundamentally reshaped it. A dwarf galaxy known as the Gaia Sausage—named for the distinctive sausage-shaped orbits of its stars—collided head-on with our galaxy. The impact was so powerful that it likely flipped the entire disc of the Milky Way by more than 90 degrees over hundreds of millions of years, according to new research from Durham University astronomers using supercomputer simulations.
+
+The collision solved a longstanding astronomical puzzle: why stars in the Milky Way's halo rotate so slowly compared to those in the galactic disc. While disc stars zip around at 220 kilometers per second, halo stars crawl at just 25 kilometers per second. The simulations revealed that this dramatic difference emerges when galaxies like ours experience head-on collisions followed by a disc flip. The Gaia Sausage itself was torn apart by the Milky Way, its stars absorbed into the halo and its mass contributing to the bulge at our galaxy's center. Though classified as a dwarf galaxy, it contained more than 10 billion times the mass of our sun.
+
+This story offers a humbling reminder that even galaxies have violent, transformative pasts. The Milky Way we see today—the orientation we consider normal—is actually the result of ancient chaos. It's a perspective that makes our corner of the universe feel both more dynamic and more impermanent, especially knowing that similar mergers lie ahead in our cosmic future.</description>
+      <source url="https://www.theguardian.com/science/2026/jul/21/milky-way-disc-flip-collision-dwarf-galaxy-astronomers">The Guardian</source>
+    </item>
     <item>
       <title>Stand still, make eye contact: Denmark tells tourists how to behave in a wolf encounter</title>
       <link>https://www.theguardian.com/world/2026/jul/21/denmark-advice-tourists-wolf-encounter</link>
@@ -594,18 +606,6 @@ The discovery is significant because it satisfies several conditions thought nec
 
 While the presence of helium alone wouldn't support life, the discovery opens a new chapter in the search for habitable worlds. Other candidates, including K2-18b and the TRAPPIST-1 system, have offered tantalizing hints but remain inconclusive. What makes this story quietly remarkable is not the promise of life itself, but the patient unraveling of a cosmic puzzle—each atmospheric reading, each spectral line, bringing humanity closer to understanding whether Earth's story is unique or part of a much larger narrative written across the stars.</description>
       <source url="https://www.bbc.co.uk/news/articles/cy4kdd1e0ejo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Understanding how the practice of wedding dowries has caused an increase in femicides in India</title>
-      <link>https://g1.globo.com/mundo/noticia/2026/07/17/entenda-como-pratica-de-dotes-de-casamento-provocou-aumento-de-feminicidios-na-india.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/mundo/noticia/2026/07/17/entenda-como-pratica-de-dotes-de-casamento-provocou-aumento-de-feminicidios-na-india.ghtml</guid>
-      <pubDate>Fri, 17 Jul 2026 12:02:40 GMT</pubDate>
-      <description>A sobering anthropological study from King's College London reveals how dowry practices in India, despite being illegal since 1961, have evolved into a deadly marriage market fueling thousands of women's deaths each year. What was once a traditional gift exchange has transformed into an extractive financial system where grooms' families demand cash, jewelry, luxury cars, and motorcycles—with the price rising according to the groom's social status.
-
-The numbers tell a grim story: dowry-related deaths have more than tripled since the early 1990s, climbing from around 2,000 annually to over 6,500 today—roughly 15 to 16 women killed daily. When a bride's family cannot meet financial demands, she faces harassment, physical violence, and sometimes death by burning. The violence has become so normalized that Indian media reports these cases almost routinely, reflecting what researchers call an "infrastructure of indifference." Sons are now seen as financial investments, with families spending heavily on their education and viewing dowry as a return on that investment. This logic has devastating ripple effects: selective abortions have skewed India's birth ratio to 927 girls per 1,000 boys nationally, dropping as low as 754 per 1,000 in Punjab.
-
-This story matters because it exposes how deeply economic thinking can corrupt fundamental human relationships, turning marriage into a transaction and daughters into liabilities. Activists believe laws alone won't solve this—only a cultural revolution can end what they call a silent massacre. It's a stark reminder that some of society's quietest crises are also its most urgent.</description>
-      <source url="https://g1.globo.com/mundo/noticia/2026/07/17/entenda-como-pratica-de-dotes-de-casamento-provocou-aumento-de-feminicidios-na-india.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
