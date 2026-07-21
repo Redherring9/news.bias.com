@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 10:03:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 12:02:55 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pangolin DNA study links local wild meat markets to global trafficking networks</title>
+      <link>https://news.mongabay.com/short-article/2026/07/pangolin-dna-study-links-local-wild-meat-markets-to-global-trafficking-networks/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/07/pangolin-dna-study-links-local-wild-meat-markets-to-global-trafficking-networks/</guid>
+      <pubDate>Tue, 21 Jul 2026 12:02:53 GMT</pubDate>
+      <description>Scientists have created a groundbreaking DNA database revealing that pangolins—the world's most trafficked wild mammals—are often sourced from the same locations for both local bushmeat markets and international smuggling networks. The study examined 711 samples from three threatened pangolin species and built a model to predict where trafficked animals originated, uncovering unexpected connections between small-scale and global trade.
+
+The findings were most striking in Cameroon, where DNA from endangered white-bellied pangolins seized in China and Europe traced back to the same forests supplying wild meat markets in the capital Yaoundé and port city of Douala. The Ebo Wildlife Reserve emerged as a key sourcing site for both markets. Similar patterns appeared in critically endangered Asian species: Chinese pangolins confiscated in southern China came from Myanmar's mountains, northeastern India, and Taiwan, while Sunda pangolins were traced to southwestern Borneo. The overlap suggests shared supply chains and potentially the same harvesters feeding both local consumption and international crime syndicates.
+
+This research matters because it maps the hidden geography of a crisis affecting more than a million pangolins captured over the past decade. While one expert noted limitations—prosecutions typically happen where shipments are seized rather than where animals are poached—the DNA database represents a significant step toward understanding how trafficking networks operate. The study offers a template for investigating trade in other pangolin species and highlights how conservation efforts must address both community-level hunting and organized international crime simultaneously if these remarkable, scale-covered mammals are to survive.</description>
+      <source url="https://news.mongabay.com/short-article/2026/07/pangolin-dna-study-links-local-wild-meat-markets-to-global-trafficking-networks/">Mongabay</source>
+    </item>
     <item>
       <title>As Sri Lanka braces for El Niño, national parks are a concern amidst encroachment</title>
       <link>https://news.mongabay.com/2026/07/as-sri-lanka-braces-for-el-nino-national-parks-are-a-concern-amidst-encroachment/</link>
@@ -594,18 +606,6 @@ Despite the increased shark presence, marine scientists emphasize there's little
 
 This story offers a refreshing counterpoint to sensationalized shark narratives. It reminds us that sharing the ocean with powerful predators doesn't have to mean danger—it's a testament to how evolution has fine-tuned these animals' hunting instincts, sparing countless beachgoers simply because we don't fit their dietary profile. It's a quietly reassuring example of coexistence in action.</description>
       <source url="https://www.theguardian.com/environment/2026/jul/17/california-sharks-spike">The Guardian</source>
-    </item>
-    <item>
-      <title>John Esposito transformed how the West understood Islam</title>
-      <link>https://www.aljazeera.com/opinions/2026/7/17/john-esposito-transformed-how-the-west-understood-islam?traffic_source=rss</link>
-      <guid isPermaLink="false">https://www.aljazeera.com/opinions/2026/7/17/john-esposito-transformed-how-the-west-understood-islam?traffic_source=rss</guid>
-      <pubDate>Fri, 17 Jul 2026 08:03:39 GMT</pubDate>
-      <description>John L. Esposito, a pioneering scholar who reshaped Western understanding of Islam and Muslim societies, passed away on July 15, 2026, following heart surgery complications. The Georgetown University professor authored more than 55 books translated into dozens of languages, becoming one of the most influential voices in Islamic studies during critical periods of Islam-West tension. Born in 1940 to a working-class Italian-American family in Brooklyn, Esposito initially trained for Catholic priesthood before pursuing graduate studies in religious studies, earning his doctorate under Palestinian-American scholar Ismail al-Faruqi.
-
-Esposito entered academia at a time when Islamic studies barely existed in Western universities and international relations programs ignored religion's role in global affairs. His career gained momentum after the 1979 Iranian Revolution and especially after 9/11, when Western interest in Islam surged—though primarily through the lens of national security concerns. He often joked that he owed his livelihood to "two famous radical Muslims," Ayatollah Khomeini and Osama bin Laden, acknowledging the unfortunate reality that Western curiosity about Islam emerged largely from perceived threats rather than genuine intellectual interest.
-
-What makes Esposito's work remarkable is that he challenged dominant Orientalist narratives during an era of deep polarization, offering nuanced perspectives that countered simplistic theories like Bernard Lewis's "Roots of Muslim Rage" and Samuel Huntington's "Clash of Civilizations." His scholarship created intellectual space for understanding rather than prejudice, paving the way for younger scholars to build upon his research. In an environment where fear and bias often shaped public discourse about Islam, Esposito's courage to present balanced, informed perspectives transformed an entire field of study.</description>
-      <source url="https://www.aljazeera.com/opinions/2026/7/17/john-esposito-transformed-how-the-west-understood-islam?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
