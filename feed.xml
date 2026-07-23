@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 00:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 02:02:33 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>School students successfully launch high-altitude balloon into the atmosphere</title>
+      <link>https://www.rnz.co.nz/news/science-and-technology/775782/school-students-successfully-launch-high-altitude-balloon-into-the-atmosphere</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/science-and-technology/775782/school-students-successfully-launch-high-altitude-balloon-into-the-atmosphere</guid>
+      <pubDate>Thu, 23 Jul 2026 02:02:31 GMT</pubDate>
+      <description>A group of ten primary school students in Lower Hutt, New Zealand, successfully launched a high-altitude weather balloon that soared 26,700 meters into the atmosphere—three times the height of Mount Everest—before landing on a farm in Pahiatua, less than 10 kilometers from their predicted touchdown spot. The Maungaraki School pupils, part of their tongue-in-cheek "Maungaraki Aeronautic Space Administration" (MASA), spent ten weeks preparing for the launch, with each student taking on specialized roles from avionics engineering to logistics and recovery. The balloon carried two 360-degree cameras and instruments that recorded video, temperature, pressure, and altitude data, which the children used to map its journey in 3D.
+
+The project was far more than a science experiment. Students had to solve real-world challenges, like insulating electronics against temperatures as low as -60°C and coordinating with landowners for potential recovery sites. They even prepared gift packs of treats and coffee for farmers who might help retrieve their payload. When the balloon landed in dense scrub, design teacher Ashton Stuart had to ford rivers and climb a tree to recover it, while students back at school tracked its location. The team celebrated their success with ice cream, and for many students, the experience sparked dreams of future STEM careers.
+
+This story is worth reading because it shows how curiosity and hands-on learning can transform abstract concepts into tangible adventures. Only a handful of schools in New Zealand have attempted such a launch, and the students' genuine excitement—one couldn't sleep the night before—reminds us that wonder and rigorous science make excellent companions.</description>
+      <source url="https://www.rnz.co.nz/news/science-and-technology/775782/school-students-successfully-launch-high-altitude-balloon-into-the-atmosphere">Radio New Zealand</source>
+    </item>
     <item>
       <title>Even camels can't cope: Africa's ships of the desert hit by rising temperatures</title>
       <link>https://www.bbc.co.uk/news/articles/cqlxvvw06pqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The only recognized large earthworm in South Australia is the Giant Mount Lofty 
 
 This story is a gentle reminder of how much remains unknown beneath our feet, even in well-studied places. Australia already has more than 700 native earthworm species, but scientists believe many have been lost to land clearing before they were ever documented. These elusive creatures spend their lives underground, doing essential ecological work in obscurity—until heavy rain or a lucky observer brings them briefly to the surface, offering a glimpse of the quiet biodiversity still waiting to be recognized.</description>
       <source url="https://www.abc.net.au/news/2026-07-19/giant-earthworms-south-australia-new-species-science-sa/106897594">ABC Australia</source>
-    </item>
-    <item>
-      <title>'We didn't give up': Afghan women's refugee cricketers celebrate ICC decision</title>
-      <link>https://www.abc.net.au/news/2026-07-19/afghan-women-refugee-cricket-team-icc-decision/106392860</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-19/afghan-women-refugee-cricket-team-icc-decision/106392860</guid>
-      <pubDate>Sat, 18 Jul 2026 22:02:37 GMT</pubDate>
-      <description>Five years after fleeing Afghanistan under Taliban rule, the country's women's refugee cricket team has secured a historic victory off the field. The International Cricket Council announced this week it will continue funding the team and provide a pathway to compete in qualification events by 2030—a breakthrough moment that brought players to tears after years of persistent advocacy.
-
-The journey began in 2021 when players like Benafsha Hashimi fled for their lives as the Taliban returned to power, hunting down women athletes. From those desperate beginnings, the team has steadily built support, writing their first appeal to the ICC in December 2022. When that letter went unanswered, they kept writing. An exhibition match in Melbourne last year finally drew international attention, and momentum grew. Their recent playing tour of England even included an audience with the King—a moment Hashimi described as "magical" for someone who once went days without food.
-
-The announcement represents more than athletic opportunity. Cricket Australia, along with England's ECB and India's BCCI, will form a special taskforce overseeing the players' development, with funding potentially extending to the 2032 Brisbane Olympics. The Taliban-controlled Afghanistan Cricket Board doesn't recognize the team, but the ICC has found a way forward anyway. This story matters because it demonstrates what persistence and community support can achieve against seemingly impossible odds. These women transformed personal survival into collective representation, earning not just the right to play, but respect from the global sporting community—proof that some defeats off the field can become victories through sheer determination.</description>
-      <source url="https://www.abc.net.au/news/2026-07-19/afghan-women-refugee-cricket-team-icc-decision/106392860">ABC Australia</source>
     </item>
   </channel>
 </rss>
