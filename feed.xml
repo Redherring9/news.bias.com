@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 20:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 22:03:46 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Game-changer': Tracking collars help monitor vulnerable koala populations</title>
+      <link>https://www.abc.net.au/news/2026-07-25/tracking-collars-monitor-qld-koala-populations/106938890</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-25/tracking-collars-monitor-qld-koala-populations/106938890</guid>
+      <pubDate>Fri, 24 Jul 2026 22:03:44 GMT</pubDate>
+      <description>In the forests of south-east Queensland, researchers are deploying an unexpected duo of technologies to help save one of Australia's most beloved animals. Thermal drones and featherlight GPS collars are transforming how scientists monitor vulnerable koala populations, turning what was once a painstaking, days-long search into an efficient early-morning operation. The shift is remarkable: just eight years ago, teams would walk in lines through the bush at night, shining torches upward hoping to catch the glint of koala eyes in the darkness.
+
+Now, thermal cameras mounted on drones reveal the animals as glowing signatures against the cool forest canopy, while solar-powered tracking collars—weighing a mere 20 grams—send location updates to researchers' phones four times daily. The technology has already proven lifesaving, allowing scientists to locate sick koalas before it's too late. The innovations are central to a repopulation program in the Brisbane Koala Bushlands at Burbank, where researchers are treating disease one animal at a time and supplementing the struggling population with healthy young koalas. A retrofitted caravan serves as a mobile veterinary clinic, enabling on-site blood work and treatment for chlamydia, the primary threat facing these populations. Young koalas rescued from urban mishaps—wandering into backyards, falling into pools, crossing roads—are given health checks and released into safer habitat.
+
+After 18 months of collaboration among university researchers, government agencies, and wildlife rescue groups, the program has celebrated its first small victory: two joeys born into the recovering population. It's a quiet reminder that sometimes the path forward for conservation lies in marrying old-fashioned field dedication with cutting-edge tools—and in the patient, animal-by-animal work of helping a population climb back from the edge.</description>
+      <source url="https://www.abc.net.au/news/2026-07-25/tracking-collars-monitor-qld-koala-populations/106938890">ABC Australia</source>
+    </item>
     <item>
       <title>From the farm to the Strawberry Festival: the Maziero family maintains tradition for four generations in Atibaia</title>
       <link>https://g1.globo.com/guia/guia-sp/noticia/2026/07/24/da-roca-a-festa-do-morango-familia-maziero-mantem-tradicao-por-quatro-geracoes-em-atibaia.ghtml</link>
@@ -594,18 +606,6 @@ The project is a collaboration between Brazil's Ministry of Science and Technolo
 
 This story matters because it connects a remote forest experiment to kitchens and fields thousands of miles away. Between 30 and 50 percent of rainfall in southern Brazil originates as moisture released by Amazonian trees, forming the "flying rivers" that sustain agriculture and hydroelectric power across the continent. By creating a window into the future, researchers hope to inform policies today that can protect both the forest and the millions who depend on the climate systems it generates. It's science at its most practical: understanding tomorrow to make better decisions now.</description>
       <source url="https://g1.globo.com/jornal-nacional/noticia/2026/07/20/entenda-como-funciona-a-maquina-montada-no-meio-da-amazonia-que-simula-o-clima-do-futuro.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Tiny 'desert' fish found only in Australia narrowly avoids extinction</title>
-      <link>https://www.abc.net.au/news/2026-07-21/tiny-desert-fish-survives-predator-onslaught-at-edgbaston/106934598</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-21/tiny-desert-fish-survives-predator-onslaught-at-edgbaston/106934598</guid>
-      <pubDate>Tue, 21 Jul 2026 00:03:11 GMT</pubDate>
-      <description>In a remote network of artesian springs near Aramac in western Queensland, volunteers are racing to save the red-fin blue-eye, a tiny desert fish found nowhere else on Earth. The critically endangered species, first formally recorded in 1990, has survived against the odds for decades—but this year's floods brought a fresh crisis. Metre-high floodwaters washed invasive mosquitofish, called gambusia, into nearly all of the reserve's springs, threatening to devour the native fish into extinction.
-
-The gambusia, introduced from North America in the 1920s to control mosquitoes, reproduce at an astonishing rate—up to 60 young per female every three weeks—and quickly decimate blue-eye populations. Within six to 18 months of gambusia arrival, native fish typically disappear. Volunteers using makeshift scoops fashioned from milk bottles have witnessed the toll firsthand: every red-fin blue-eye they catch bears damage from attacks, and eggs and fry are being eaten as soon as they appear. Only one spring escaped the initial invasion decades ago, and it holds all the species' remaining genetic diversity. Breeding programs over 20 years painstakingly restored populations to other springs, but this year's record floods overtopped the knee-high mesh fences designed to keep invasive fish out.
-
-This story is a vivid reminder of how fragile isolated ecosystems can be, and how quickly decades of careful conservation work can unravel. It also highlights the dedication of people willing to fight for a fish most will never see—a quiet testament to the value of every thread in the web of life, no matter how small or remote.</description>
-      <source url="https://www.abc.net.au/news/2026-07-21/tiny-desert-fish-survives-predator-onslaught-at-edgbaston/106934598">ABC Australia</source>
     </item>
   </channel>
 </rss>
