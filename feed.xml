@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 22:01:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 00:03:31 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Scientists find building blocks of birdsong's 'spectacular diversity'</title>
+      <link>https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 24 Jul 2026 00:03:30 GMT</pubDate>
+      <description>In a sweeping analysis of more than 116,000 bird recordings from around the world, French scientists have uncovered something remarkable: beneath the astonishing variety of birdsong lies a shared musical vocabulary. Researchers identified eight fundamental sound types—or "motifs"—that appear to form the basis of all birdsong. These include three kinds of trills, three types of whistles, chaotic notes, and harmonies. By drawing on a global database built by thousands of volunteer recordists and employing artificial intelligence to detect patterns, the team revealed an underlying simplicity to what has long seemed bewilderingly diverse.
+
+What makes the findings particularly intriguing is the connection between song structure and habitat. Birds in tropical forests tend to favor simpler motifs, like flat whistles, which cut through dense vegetation and the cacophony of a biodiverse soundscape. Meanwhile, species in temperate regions often compose more complex songs—packed with ultrafast trills and intricate information—suited to closer-range communication in quieter settings. It's an evolutionary trade-off: complexity conveys more information but travels poorly through cluttered environments.
+
+This research offers more than an elegant map of avian acoustics. It opens a window into how birds might adapt—or struggle to adapt—as human noise reshapes their sonic world. Lead researcher Quentin Bacquelé suggests these motifs could help scientists monitor how species respond to environmental change. The study is a quiet reminder that natural soundscapes are worth protecting, not just for the birds, but for the irreplaceable sense of place they give us when we step outside and listen.</description>
+      <source url="https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>What a shark that lives 400 years can teach us about longevity</title>
       <link>https://www.bbc.com/mundo/articles/cp8x30929lgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The work begins with castanheiros like Raimundo Ribeiro, who collects up to 200 
 
 This story quietly illustrates what sustainable development can look like when traditional knowledge meets appropriate technology. As Aprocam president Aurélio Santos Lucas notes, no deforestation is required—the activity is entirely based on what the forest naturally provides. Researchers see Amaturá's model as replicable across the Amazon, demonstrating that communities can prosper economically while keeping forests standing, a reminder that conservation and commerce need not be opposing forces when rooted in respect for natural cycles.</description>
       <source url="https://g1.globo.com/am/amazonas/amazonia-agro/noticia/2026/07/19/castanha-impulsiona-renda-de-familias-e-fortalece-economia-sustentavel-em-amatura-no-amazonas.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>'You've done magic on my feet': Trainee healthcare workers fight diabetes amputations</title>
-      <link>https://www.rnz.co.nz/news/health/747753/you-ve-done-magic-on-my-feet-trainee-healthcare-workers-fight-diabetes-amputations</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/health/747753/you-ve-done-magic-on-my-feet-trainee-healthcare-workers-fight-diabetes-amputations</guid>
-      <pubDate>Sun, 19 Jul 2026 20:02:14 GMT</pubDate>
-      <description>In Northland, New Zealand, a region grappling with diabetes rates three times the national average, two women are pioneering a new approach to healthcare. Christine Hape and Hineataahua Brown are training to become the country's first certified footcare assistants, a newly created role designed to prevent diabetes-related amputations by working alongside podiatrists to provide essential foot health services.
-
-Both women came to the position from unexpected places—Hape was a former special-needs teacher seeking caregiving work, while Brown had grown up in the community without realizing how widespread diabetes had become, even within her own family. Now they travel rural Northland conducting outreach clinics and home visits, performing basic footcare and diabetic assessments for patients who might otherwise go without. The work combines online certification courses with hands-on practice, allowing them to see the statistics they study come to life in their community. The response has been deeply moving: patients express profound gratitude, some embarrassed by years of neglect now relieved to receive care, others literally trying to press cash into their caregivers' hands.
-
-This story matters because it illustrates how communities can address health crises by creating pathways that serve dual purposes—employing local people while meeting urgent medical needs. With over 60 percent of the clinic's patients diabetic or pre-diabetic, the initiative represents both practical innovation and cultural responsiveness, bringing healthcare directly to those who need it most while breaking down stigma around a disease that, as clinic chief executive Tamati Shepherd-Wipiiti says from personal experience, is "killing our whānau."</description>
-      <source url="https://www.rnz.co.nz/news/health/747753/you-ve-done-magic-on-my-feet-trainee-healthcare-workers-fight-diabetes-amputations">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
