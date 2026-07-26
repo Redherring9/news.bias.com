@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 20:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 22:04:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The efforts to save the Tasmanian fish at 'imminent risk' of extinction</title>
+      <link>https://www.abc.net.au/news/2026-07-27/swan-galaxias-conservation-efforts/106884588</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-27/swan-galaxias-conservation-efforts/106884588</guid>
+      <pubDate>Sun, 26 Jul 2026 22:04:00 GMT</pubDate>
+      <description>A small, ancient fish found only in Tasmania is teaching scientists about the island's evolutionary history — even as it teeters on the brink of disappearing forever. The swan galaxias, one of about ten endemic galaxias species in Tasmania, has been listed as one of Australia's most threatened fish, with roughly 6,000 individuals remaining and imminent risk of extinction within two decades. What makes this fish remarkable is its deep genetic heritage: it split from its closest ancestors five million years ago, offering clues to how Tasmania's ecosystems have evolved over millions of years.
+
+The main culprit threatening the swan galaxias is an introduced species that many Tasmanians cherish: trout. Brought to Australia in the 1800s by European colonists seeking a taste of home, trout now thrive in Tasmanian waterways and prey on small native fish. The species has already driven one galaxias cousin, the pedder galaxias, to extinction in the wild. Yet trout fishing remains deeply woven into Tasmania's culture and economy, creating a tension between conservation and tradition. The state's Inland Fisheries Service must balance protecting native species with supporting a recreational fishery that sustains communities, particularly in places like Great Lake and Miena.
+
+Conservationists have found hope in "trout-free havens" — waterways where the invasive fish have yet to establish themselves. In 2023, 180 swan galaxias were relocated to three such sites in Tasmania's northeast, and recent monitoring has confirmed substantial breeding and viable new populations. This story matters because it quietly illustrates a broader challenge: how communities navigate the legacies of the past while protecting what remains irreplaceable, and how sometimes the best path forward lies not in undoing history, but in carving out small refuges where the ancient and fragile can endure.</description>
+      <source url="https://www.abc.net.au/news/2026-07-27/swan-galaxias-conservation-efforts/106884588">ABC Australia</source>
+    </item>
     <item>
       <title>House where Father Libério lived is expropriated for R$350,000 and will become a Memorial in Pará de Minas</title>
       <link>https://g1.globo.com/mg/centro-oeste/noticia/2026/07/26/casa-onde-padre-liberio-viveu-e-desapropriada-por-r-350-mil-e-vai-virar-memorial-em-para-de-minas.ghtml</link>
@@ -594,18 +606,6 @@ Sunfish are already a regular part of the orca diet—these massive fish can gro
 
 What makes this story quietly remarkable is what it reveals about the depth of orca cognition. The coordinated, multi-step behavior suggests sophisticated planning and communication. It's also a reminder that modern wildlife tourism—complete with underwater drones and cameras—is opening new windows into animal lives, capturing mysteries that might otherwise remain invisible to science. The challenge now is balancing our curiosity with the respectful distance these intelligent creatures deserve.</description>
       <source url="https://www.theguardian.com/environment/2026/jul/23/orcas-ramming-prey-hard-explodes-playing-game">The Guardian</source>
-    </item>
-    <item>
-      <title>School students successfully launch high-altitude balloon into the atmosphere</title>
-      <link>https://www.rnz.co.nz/news/science-and-technology/775782/school-students-successfully-launch-high-altitude-balloon-into-the-atmosphere</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/science-and-technology/775782/school-students-successfully-launch-high-altitude-balloon-into-the-atmosphere</guid>
-      <pubDate>Thu, 23 Jul 2026 02:02:31 GMT</pubDate>
-      <description>A group of ten primary school students in Lower Hutt, New Zealand, successfully launched a high-altitude weather balloon that soared 26,700 meters into the atmosphere—three times the height of Mount Everest—before landing on a farm in Pahiatua, less than 10 kilometers from their predicted touchdown spot. The Maungaraki School pupils, part of their tongue-in-cheek "Maungaraki Aeronautic Space Administration" (MASA), spent ten weeks preparing for the launch, with each student taking on specialized roles from avionics engineering to logistics and recovery. The balloon carried two 360-degree cameras and instruments that recorded video, temperature, pressure, and altitude data, which the children used to map its journey in 3D.
-
-The project was far more than a science experiment. Students had to solve real-world challenges, like insulating electronics against temperatures as low as -60°C and coordinating with landowners for potential recovery sites. They even prepared gift packs of treats and coffee for farmers who might help retrieve their payload. When the balloon landed in dense scrub, design teacher Ashton Stuart had to ford rivers and climb a tree to recover it, while students back at school tracked its location. The team celebrated their success with ice cream, and for many students, the experience sparked dreams of future STEM careers.
-
-This story is worth reading because it shows how curiosity and hands-on learning can transform abstract concepts into tangible adventures. Only a handful of schools in New Zealand have attempted such a launch, and the students' genuine excitement—one couldn't sleep the night before—reminds us that wonder and rigorous science make excellent companions.</description>
-      <source url="https://www.rnz.co.nz/news/science-and-technology/775782/school-students-successfully-launch-high-altitude-balloon-into-the-atmosphere">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
