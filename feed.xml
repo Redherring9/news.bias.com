@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 14:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 16:03:23 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meet the platform created in Rondônia that transforms Indigenous words into digital dictionaries</title>
+      <link>https://g1.globo.com/ro/rondonia/noticia/2026/07/26/conheca-a-plataforma-criada-em-ro-que-transforma-palavras-indigenas-em-dicionarios-digitais.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/ro/rondonia/noticia/2026/07/26/conheca-a-plataforma-criada-em-ro-que-transforma-palavras-indigenas-em-dicionarios-digitais.ghtml</guid>
+      <pubDate>Sun, 26 Jul 2026 16:03:22 GMT</pubDate>
+      <description>In the Brazilian state of Rondônia, a university-led project is placing language preservation directly into the hands of Indigenous communities. DicWeb Indígena, developed by the Federal University of Rondônia, is a digital platform that allows Indigenous peoples across the Amazon to collaboratively create dictionaries of their own languages. Rather than relying on outside researchers to document vocabulary, community members themselves record words, audio pronunciations, translations, and everyday usage examples, maintaining control over how their linguistic heritage is represented.
+
+The platform has already cataloged more than 4,500 words across twelve dictionaries in progress. One thoughtful innovation addresses a common barrier: limited internet access in remote villages. Built as a Progressive Web App, DicWeb Indígena can be installed on phones or computers and continues working offline after an initial connection, making it practical for teachers, students, and researchers in areas without reliable service. Beyond preservation, the tool is being integrated into community schools as an educational resource, encouraging students to write in their native languages and helping train Indigenous teachers in both linguistic and pedagogical skills.
+
+This story is worth attention because it quietly shifts power in an important way. Instead of treating Indigenous languages as subjects to be studied and archived by outsiders, the platform recognizes communities as the rightful authors and caretakers of their own words. In doing so, it supports not just the survival of endangered languages, but the autonomy and continuity of the cultures they carry—making space for voices that have long deserved more room in the digital world.</description>
+      <source url="https://g1.globo.com/ro/rondonia/noticia/2026/07/26/conheca-a-plataforma-criada-em-ro-que-transforma-palavras-indigenas-em-dicionarios-digitais.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Langton released from hospital after concussion at Commonwealth Games</title>
       <link>https://www.aljazeera.com/sports/2026/7/26/langton-released-from-hospital-after-concussion-at-commonwealth-games?traffic_source=rss</link>
@@ -594,18 +606,6 @@ General manager Marcus Seal notes that artists still prefer standing before thei
 
 This story quietly celebrates a surviving analog craft in an increasingly digital world. It's a reminder that some things—the thrill of seeing your favorite band's poster wheat-pasted on a city wall, the nostalgia triggered by bold colors and familiar faces—resist easy digitization. The factory represents not just printing, but the preservation of shared cultural memory, one poster at a time.</description>
       <source url="https://www.abc.net.au/news/2026-07-23/thornbury-rock-posters-printing-factory-celebrates-40-years/106945304">ABC Australia</source>
-    </item>
-    <item>
-      <title>Two years until 'one of most majestic sights' in Dunedin</title>
-      <link>https://www.rnz.co.nz/news/science-and-technology/773479/two-years-until-one-of-most-majestic-sights-in-dunedin</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/science-and-technology/773479/two-years-until-one-of-most-majestic-sights-in-dunedin</guid>
-      <pubDate>Wed, 22 Jul 2026 18:03:11 GMT</pubDate>
-      <description>Dunedin, New Zealand, is counting down to a celestial event that hasn't graced its skies in nearly 900 years. In exactly two years, on a Wednesday afternoon in 2028, a total solar eclipse will cast the moon's shadow directly over parts of Otago, plunging the region into daytime darkness. The phenomenon has already captured the imagination of locals and eclipse enthusiasts worldwide, with accommodation providers reporting bookings more than two years in advance.
-
-For about three minutes during the two-hour event, the moon will completely obscure the sun, revealing what museum director Dr. Ian Griffin describes as "one of the most majestic sights in nature"—a black disc surrounded by the sun's glowing corona. The experience brings an eerie transformation: streetlights flicker on, birds return to roost, and entire communities pause. One resident recalls witnessing an eclipse in Munich where an entire hospital ceased operations so staff could observe the moment together. Griffin himself once traveled five days by boat to the Pitcairn Islands for an eclipse, only to encounter rain—yet even through clouds, he found the sudden darkness extraordinary.
-
-Dunedin is preparing for an influx of up to 30,000 visitors during school holidays, with plans for a week-long celebration coinciding with Matariki. The city sees this as more than a scientific spectacle—it's an opportunity to showcase a destination many travelers have never considered. This story reminds us how rare natural events can unite communities in wonder, creating shared moments that transcend the everyday. It's a gentle invitation to look up and remember that some of nature's most profound gifts require only patience and presence.</description>
-      <source url="https://www.rnz.co.nz/news/science-and-technology/773479/two-years-until-one-of-most-majestic-sights-in-dunedin">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
