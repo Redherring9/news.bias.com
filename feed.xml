@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 18:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 20:03:22 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Colorful birds are at greater risk of extinction than drab birds, study finds</title>
+      <link>https://news.mongabay.com/short-article/2026/07/colorful-birds-are-at-greater-risk-of-extinction-than-drab-birds-study-finds/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/07/colorful-birds-are-at-greater-risk-of-extinction-than-drab-birds-study-finds/</guid>
+      <pubDate>Mon, 27 Jul 2026 20:03:20 GMT</pubDate>
+      <description>A new study has uncovered an unexpected pattern in bird conservation: species with vibrant, colorful plumage face a higher risk of extinction than their drab-colored counterparts. The research, sparked by a bird-watching trip in Vietnam, examined more than 4,300 passerine species—the group that includes perching and songbirds like finches, sparrows, and canaries—and compared their conservation status with their colorfulness.
+
+The findings confirmed what researchers initially suspected about the pet trade, particularly in Southeast Asia, where brightly colored birds are heavily targeted and end up in market cages rather than forests. But the study also revealed something puzzling: even colorful birds that aren't part of the pet trade show elevated extinction risk compared to dull-colored species. This pattern held even after accounting for factors like body size, diet, and habitat dependency. Researchers are now exploring possible explanations, including whether colorful feathers affect how birds regulate their body temperature in warming climates, or whether scientific research itself is biased toward studying more visually striking species, leading to better documentation of their threats.
+
+This study matters because it suggests that a bird's appearance—something that seems purely aesthetic—may actually be intertwined with its survival in ways scientists are only beginning to understand. It's a reminder that conservation challenges can emerge from unexpected quarters, and that protecting biodiversity requires looking beyond the obvious threats to consider how traits we find beautiful might also make species vulnerable in a changing world.</description>
+      <source url="https://news.mongabay.com/short-article/2026/07/colorful-birds-are-at-greater-risk-of-extinction-than-drab-birds-study-finds/">Mongabay</source>
+    </item>
     <item>
       <title>'Surfing played a huge role in my recovery': the champion of the sport who lost his leg in an accident and managed to return to the waves</title>
       <link>https://www.bbc.com/portuguese/articles/c629jkljd7yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The urgency is palpable. The remaining 90 percent of the waka is still in the gr
 
 This story matters because it sits at the intersection of heritage, responsibility, and time. It's a quiet race against nature to preserve a vessel that once carried people across the open Pacific, and a reminder that some discoveries ask us not just to look back, but to act before the past slips away for good.</description>
       <source url="https://www.rnz.co.nz/news/te-manu-korihi/783013/cabinet-faces-no-brainer-decision-on-ancient-migration-waka">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Scientists find building blocks of birdsong's 'spectacular diversity'</title>
-      <link>https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Fri, 24 Jul 2026 00:03:30 GMT</pubDate>
-      <description>In a sweeping analysis of more than 116,000 bird recordings from around the world, French scientists have uncovered something remarkable: beneath the astonishing variety of birdsong lies a shared musical vocabulary. Researchers identified eight fundamental sound types—or "motifs"—that appear to form the basis of all birdsong. These include three kinds of trills, three types of whistles, chaotic notes, and harmonies. By drawing on a global database built by thousands of volunteer recordists and employing artificial intelligence to detect patterns, the team revealed an underlying simplicity to what has long seemed bewilderingly diverse.
-
-What makes the findings particularly intriguing is the connection between song structure and habitat. Birds in tropical forests tend to favor simpler motifs, like flat whistles, which cut through dense vegetation and the cacophony of a biodiverse soundscape. Meanwhile, species in temperate regions often compose more complex songs—packed with ultrafast trills and intricate information—suited to closer-range communication in quieter settings. It's an evolutionary trade-off: complexity conveys more information but travels poorly through cluttered environments.
-
-This research offers more than an elegant map of avian acoustics. It opens a window into how birds might adapt—or struggle to adapt—as human noise reshapes their sonic world. Lead researcher Quentin Bacquelé suggests these motifs could help scientists monitor how species respond to environmental change. The study is a quiet reminder that natural soundscapes are worth protecting, not just for the birds, but for the irreplaceable sense of place they give us when we step outside and listen.</description>
-      <source url="https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
