@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 20:03:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:01:50 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Three-way deathmatch unearthed at 100-million-year-old 'crime scene'</title>
+      <link>https://www.abc.net.au/news/2026-07-29/outback-queensland-richmond-fossil-discovery-marine-reptiles/106965390</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-29/outback-queensland-richmond-fossil-discovery-marine-reptiles/106965390</guid>
+      <pubDate>Tue, 28 Jul 2026 22:01:49 GMT</pubDate>
+      <description>A remarkable fossil discovery in outback Queensland has preserved a prehistoric drama that played out 100 million years ago in what was once the Eromanga Sea. The find captures a rare "three-tier predator interaction": an ichthyosaur (a dolphin-like marine reptile) that had eaten a pterosaur (a flying reptile) was itself attacked and killed by a massive kronosaurus, an ocean predator up to 14 metres long with more than 100 razor-sharp teeth.
+
+Travellers first stumbled upon the ichthyosaur remains in 2019, affectionately nicknamed "BOB" for "bag of bones." Three years later, closer examination revealed the extraordinary nature of the find. The ichthyosaur's midsection bore more than 30 bite marks—possibly the most ever recorded in a marine fossil—and its body had been violently shattered by the kronosaurus. Even more remarkable, preserved stomach contents showed pterosaur remains, marking the first documented case of an ichthyosaur having consumed one of these flying reptiles. The combination of predator, prey, and scavenger preserved together is exceptionally rare in the fossil record.
+
+While the precise sequence of events remains a mystery—did the kronosaurus leap from the water to attack, or was the ichthyosaur breaching to catch the pterosaur mid-flight?—the fossil offers an unprecedented window into ancient behaviour. As one palaeontologist noted, it's one of the clearest examples of three-tier predator interaction ever discovered. This "crime scene" from deep time reminds us that the drama of life and death has always been part of nature's story, and that sometimes, against all odds, those moments get preserved for us to puzzle over millions of years later.</description>
+      <source url="https://www.abc.net.au/news/2026-07-29/outback-queensland-richmond-fossil-discovery-marine-reptiles/106965390">ABC Australia</source>
+    </item>
     <item>
       <title>Cangaço Route: trail retraces Lampião's final steps</title>
       <link>https://g1.globo.com/al/alagoas/noticia/2026/07/28/rota-do-cangaco-trilha-refaz-ultimos-passos-de-lampiao.ghtml</link>
@@ -594,18 +606,6 @@ What makes this process so captivating is its reliance on human judgment rather 
 
 This story offers a window into a world where patience, tradition, and collective effort create something extraordinary. In an age of automation and instant results, the tatara method stands as a quiet testament to skills passed down through generations—a practice where uncertainty is embraced, hours blur together, and the reward comes only to those willing to trust in fire, time, and experience. It's a reminder that some of humanity's most valued creations still emerge from heat, hope, and hands working in concert.</description>
       <source url="https://www.japantimes.co.jp/life/2026/07/25/travel/steel-tamahagane-shimane-travel-history-katana/">The Japan Times</source>
-    </item>
-    <item>
-      <title>'Game-changer': Tracking collars help monitor vulnerable koala populations</title>
-      <link>https://www.abc.net.au/news/2026-07-25/tracking-collars-monitor-qld-koala-populations/106938890</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-25/tracking-collars-monitor-qld-koala-populations/106938890</guid>
-      <pubDate>Fri, 24 Jul 2026 22:03:44 GMT</pubDate>
-      <description>In the forests of south-east Queensland, researchers are deploying an unexpected duo of technologies to help save one of Australia's most beloved animals. Thermal drones and featherlight GPS collars are transforming how scientists monitor vulnerable koala populations, turning what was once a painstaking, days-long search into an efficient early-morning operation. The shift is remarkable: just eight years ago, teams would walk in lines through the bush at night, shining torches upward hoping to catch the glint of koala eyes in the darkness.
-
-Now, thermal cameras mounted on drones reveal the animals as glowing signatures against the cool forest canopy, while solar-powered tracking collars—weighing a mere 20 grams—send location updates to researchers' phones four times daily. The technology has already proven lifesaving, allowing scientists to locate sick koalas before it's too late. The innovations are central to a repopulation program in the Brisbane Koala Bushlands at Burbank, where researchers are treating disease one animal at a time and supplementing the struggling population with healthy young koalas. A retrofitted caravan serves as a mobile veterinary clinic, enabling on-site blood work and treatment for chlamydia, the primary threat facing these populations. Young koalas rescued from urban mishaps—wandering into backyards, falling into pools, crossing roads—are given health checks and released into safer habitat.
-
-After 18 months of collaboration among university researchers, government agencies, and wildlife rescue groups, the program has celebrated its first small victory: two joeys born into the recovering population. It's a quiet reminder that sometimes the path forward for conservation lies in marrying old-fashioned field dedication with cutting-edge tools—and in the patient, animal-by-animal work of helping a population climb back from the edge.</description>
-      <source url="https://www.abc.net.au/news/2026-07-25/tracking-collars-monitor-qld-koala-populations/106938890">ABC Australia</source>
     </item>
   </channel>
 </rss>
