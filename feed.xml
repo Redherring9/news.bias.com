@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 18:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:04:01 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The effect buying second-hand has on communities</title>
+      <link>https://www.rnz.co.nz/life/lifestyle/the-impact-buying-second-hand-has-on-communities</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/life/lifestyle/the-impact-buying-second-hand-has-on-communities</guid>
+      <pubDate>Wed, 29 Jul 2026 20:04:00 GMT</pubDate>
+      <description>New Zealand's op-shop industry is making a substantial difference that extends far beyond simply giving old belongings a second life. A newly released impact study from Charitable Reuse Aotearoa reveals that the country's charity shops collectively reinvest approximately $78 million annually into social and environmental programs, while simultaneously diverting over 41,000 tonnes of goods from landfills.
+
+The report, created through collaboration among charities nationwide, paints a picture of an industry that touches communities in multiple ways. Nearly 47 million second-hand items were resold in 2025/2026, with clothing and household goods proving most popular. The sector supports both paid employment and volunteer work, with over 1,300 full-time equivalent paid positions and more than 1,500 full-time equivalent volunteers. For shoppers, the benefits are tangible too: households save an estimated $420 per year by choosing second-hand options, offering meaningful relief during challenging economic times.
+
+What makes this story quietly remarkable is how it quantifies something many people sense but rarely see measured—that donating your unused cutlery set or dusty board games creates ripples of positive impact. As one retail manager notes, perceptions are shifting: op-shop purchases are increasingly seen as thoughtful gifts rather than hidden-away hand-me-downs. It's a reminder that the everyday act of giving items away, or choosing to buy second-hand, connects to a much larger ecosystem of community support, environmental stewardship, and economic resilience.</description>
+      <source url="https://www.rnz.co.nz/life/lifestyle/the-impact-buying-second-hand-has-on-communities">Radio New Zealand</source>
+    </item>
     <item>
       <title>Color becomes a tool for humanization in hospitals</title>
       <link>https://g1.globo.com/pr/parana/especial-publicitario/tintas-verginia/tendencias-e-inspiracoes/noticia/2026/07/29/cor-vira-ferramenta-de-humanizacao-em-hospitais.ghtml</link>
@@ -594,18 +606,6 @@ The corridor, formalized through a Land for Wildlife program, involved painstaki
 
 This story is worth attention because it captures a grassroots response to a challenge facing cities everywhere: how to make room for both people and the wild creatures that share the land. It's a quiet act of stewardship, born not from policy but from neighbors who decided their backyards could become bridges for the animals coming home.</description>
       <source url="https://www.abc.net.au/news/2026-07-26/neighbors-create-40-hectare-wildlife-corridor-kurrajong-heights/106780564">ABC Australia</source>
-    </item>
-    <item>
-      <title>Fifty years of weather records help farmers plan ahead</title>
-      <link>https://www.abc.net.au/news/2026-07-26/50-years-climate-data-helps-queensland-farmers/106953260</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-26/50-years-climate-data-helps-queensland-farmers/106953260</guid>
-      <pubDate>Sat, 25 Jul 2026 20:03:13 GMT</pubDate>
-      <description>In the sun-scorched reaches of western Queensland, a careful analysis of half a century's worth of weather data is offering farmers new ways to work with a shifting climate. Scientists at the University of Southern Queensland examined 50 years of temperature, rainfall, and heat records from eight towns across the region, uncovering patterns that are quietly reshaping how livestock producers plan their year.
-
-The findings reveal warmer summers stretching into what were once cooler months, fewer cool nights, and notably hotter conditions in the shoulder seasons of autumn and spring. For wool producer Peter Thomas and his wife Kimble, who manage 12,000 merino sheep near Longreach, these changes prompted a rethink of their breeding calendar. After noticing poor lamb survival during May lambing—when pregnant ewes endured the hottest months—they shifted their schedule so lambs arrive in August instead, allowing pregnancies to unfold during cooler weather. The result: a 20 percent improvement in lamb survival rates, enough to warrant continuing the experiment.
-
-What makes this story quietly remarkable is its practicality. Climate trend analysis is being translated into actionable farming decisions through tools developed by regional research hubs and natural resource groups like Desert Channels Queensland. The data shows some towns now experience eight or nine additional days per month above 35 degrees Celsius during October, and warmer nights mean heat stress lingers longer, affecting fertility and weight gain in livestock. For producers navigating an uncertain future, this half-century archive offers something invaluable: the ability to adapt with confidence, guided not by guesswork but by the patient record of five decades under the Australian sun.</description>
-      <source url="https://www.abc.net.au/news/2026-07-26/50-years-climate-data-helps-queensland-farmers/106953260">ABC Australia</source>
     </item>
   </channel>
 </rss>
