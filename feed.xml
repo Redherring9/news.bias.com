@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 10:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 12:01:56 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Great Lakes’ most emblematic fish could be consigned to history books</title>
+      <link>https://www.theguardian.com/us-news/2026/jul/29/lake-whitefish-great-lakes-invasive-mussels</link>
+      <guid isPermaLink="false">https://www.theguardian.com/us-news/2026/jul/29/lake-whitefish-great-lakes-invasive-mussels</guid>
+      <pubDate>Wed, 29 Jul 2026 12:01:54 GMT</pubDate>
+      <description>The lake whitefish, once so abundant in the Great Lakes that it made Sandusky, Ohio, the world's largest freshwater fish market in the 1880s, is now facing a precipitous decline that could see it disappear from parts of the region within five years. For centuries, Indigenous communities built their lives around this fish, and settler towns later grew prosperous from its popularity. But beginning in the 1990s, something started going wrong—fewer young fish were making it to adulthood, and researchers began searching for answers.
+
+The culprit turned out to be an ecological chain reaction triggered by invasive zebra and quagga mussels, which arrived in the Great Lakes via transatlantic shipping vessels. These mussels consume the phytoplankton that feed diporeia, small shrimp-like crustaceans that young whitefish depend on after hatching. Without this crucial food source, fingerlings starve before they can grow large enough to shift to other prey. The mussels now blanket lakebeds for hundreds of miles, and while they've helped clean the water of agricultural and industrial pollutants, their overwhelming numbers have devastated the food web. Commercial harvests have collapsed—from 200,000 pounds in Ohio alone in 2009 to just 185,000 pounds across all of Lake Erie last year.
+
+This story matters because it illustrates how a single invasive species can unravel an entire ecosystem and the human communities that depend on it. For fishers like William Ortiz of the Little Traverse Bay Bands of Odawa Indians, the whitefish decline represents not just lost income but the erosion of treaty rights and traditional ways of life. Scientists are now racing to find solutions, including exploring whether native freshwater drum fish might help control mussel populations, offering a glimmer of hope in an otherwise sobering ecological transformation.</description>
+      <source url="https://www.theguardian.com/us-news/2026/jul/29/lake-whitefish-great-lakes-invasive-mussels">The Guardian</source>
+    </item>
     <item>
       <title>Kenyan teen leads charge on tree planting and climate awareness</title>
       <link>https://news.mongabay.com/2026/07/kenyan-teen-leads-charge-on-tree-planting-and-climate-awareness/</link>
@@ -594,18 +606,6 @@ Frida was one of four daughters born to German immigrant Guillermo Kahlo and Mat
 
 This story matters because it repositions Frida not as a solitary genius but as part of a constellation of women who supported, inspired, and shaped one another. As Mara Romeo Kahlo observes, "Frida is who she is because of that support, that important family union between them." It's a quiet reminder that behind every extraordinary life are often equally extraordinary relationships, waiting to be remembered.</description>
       <source url="https://www.bbc.com/mundo/articles/cvg9de0nqn1o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>Tio Anísio, popcorn vendor who became a symbol of Ifes and touched generations in Espírito Santo, dies at 91</title>
-      <link>https://g1.globo.com/es/espirito-santo/noticia/2026/07/25/morre-aos-91-anos-tio-anisio-pipoqueiro-que-virou-simbolo-do-ifes-e-marcou-geracoes-no-es.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/es/espirito-santo/noticia/2026/07/25/morre-aos-91-anos-tio-anisio-pipoqueiro-que-virou-simbolo-do-ifes-e-marcou-geracoes-no-es.ghtml</guid>
-      <pubDate>Sat, 25 Jul 2026 12:02:46 GMT</pubDate>
-      <description>Anísio Motta, affectionately known as Tio Anísio, passed away at 91, leaving behind a legacy that had little to do with formal credentials and everything to do with presence. For more than five decades, he sold popcorn from a green cart in the corridors of a technical school in Vitória, Brazil—first the Escola Técnica de Vitória, later the Federal Institute of Espírito Santo. Though never an official employee, he became woven into the fabric of the institution, greeting generations of students with warmth and a ready smile.
-
-Born in 1934 in the town of Castelo, Tio Anísio began his work at the school in 1973. Over the years, he witnessed the institution's many transformations while maintaining his own quiet constancy. Students remembered him not only for his popcorn but for his willingness to listen, offer advice, and forge friendships that outlasted graduation. Alumni would return years later, seeking him out to reconnect and reminisce. In 2017, the school honored him by naming a film club in his recognition, and he was featured in a book chronicling the institution's century-long history as one of its most beloved figures.
-
-This story is a gentle reminder that influence doesn't always come with a title. Tio Anísio's decades-long presence—marked by kindness, consistency, and an open heart—made him a symbol of community in a place dedicated to learning. His green cart remained on campus even after his health no longer allowed him to work, a testament to the indelible mark one person can leave simply by showing up, day after day, with generosity and grace.</description>
-      <source url="https://g1.globo.com/es/espirito-santo/noticia/2026/07/25/morre-aos-91-anos-tio-anisio-pipoqueiro-que-virou-simbolo-do-ifes-e-marcou-geracoes-no-es.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
