@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 14:03:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 16:01:17 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>England and Wales on course for driest July on record</title>
+      <link>https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 31 Jul 2026 16:01:15 GMT</pubDate>
+      <description>England and Wales are experiencing their driest July since meteorological records began nearly two centuries ago. With just 5.6mm of rainfall recorded in England through the end of July—a mere 8% of the month's long-term average—the current figures fall well below the previous record set in 1911. Wales has seen similarly stark conditions, recording 7.9mm of rain, also 8% of its average and far beneath its 1911 benchmark.
+
+The extreme dryness has prompted official drought declarations across more than half of England and all of Wales, with water being consumed faster than natural systems can replenish it. The consequences are tangible: rivers run low, harvests have come early, and more than 20 million people face hosepipe bans. The parched landscape has also heightened wildfire risk, with crews battling a blaze the size of 200 football pitches in Suffolk and a two-week fire in Scotland's Cairngorms that consumed 10 square miles of moorland. One location in Surrey recorded 44 consecutive rainless days.
+
+Beyond the lack of precipitation, July has also brought notable warmth. Wales is on track for its warmest July by mean temperature, while England appears headed for a joint record. The UK has already seen seven days above 35°C this year, surpassing previous records, and preliminary estimates suggest heat-related deaths may reach their highest levels since tracking began. This combination of drought and heat offers a sobering glimpse into how shifting weather patterns affect daily life, from water use to public health—a story worth watching as it quietly reshapes the rhythms of an entire region.</description>
+      <source url="https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>'They help me,' says market vendor who pays for daughters' medical school with pastel sales</title>
       <link>https://g1.globo.com/to/tocantins/noticia/2026/07/31/elas-me-ajudam-diz-feirante-que-paga-faculdade-de-medicina-das-filhas-com-venda-de-pastel.ghtml</link>
@@ -594,18 +606,6 @@ The adventure honored the dream of Giorgio Amoretti, Marco's father—a photojou
 
 This story quietly captures how love and legacy can propel people across oceans—literally. It's a testament to the lengths children will go to honor a parent's vision, transforming grief into adventure and keeping dreams afloat even when their dreamer cannot sail alongside them.</description>
       <source url="https://www.bbc.com/portuguese/articles/c74gn21xeppo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
-    </item>
-    <item>
-      <title>Why does this tree's fruit explode? Science explains how the assacu launches seeds dozens of meters away</title>
-      <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/27/por-que-o-fruto-dessa-arvore-explode-ciencia-explica-como-o-assacu-lanca-sementes-a-dezenas-de-metros.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/27/por-que-o-fruto-dessa-arvore-explode-ciencia-explica-como-o-assacu-lanca-sementes-a-dezenas-de-metros.ghtml</guid>
-      <pubDate>Mon, 27 Jul 2026 14:02:50 GMT</pubDate>
-      <description>Deep in the Amazon rainforest, a tree produces fruits that explode like firecrackers, launching seeds at speeds approaching 250 kilometers per hour. The assacu tree (*Hura crepitans*) has developed one of nature's most dramatic seed dispersal methods, and scientists are now explaining the precise mechanics behind this botanical firework display.
-
-As the fruit matures and dries, it accumulates mechanical tension within its compartments. When pressure reaches a critical threshold, the capsule ruptures explosively, with each segment acting like a spring to propel seeds up to 45 meters away from the parent tree. This phenomenon, called explosive dehiscence, represents sophisticated evolutionary engineering. By scattering offspring far from home, the assacu ensures young seedlings access sunlight and nutrients without competing with their parent, while also evading the predators and fungi that typically cluster near adult trees. The tree itself is equally remarkable—growing up to 40 meters tall with a trunk armored in conical spines and filled with highly irritating latex that deters herbivores and causes severe reactions in humans.
-
-This story offers a glimpse into the ingenious survival strategies plants have evolved over millennia. The assacu reminds us that even in a kingdom we often think of as passive, nature has engineered solutions as dynamic and forceful as any in the animal world—a tree that literally shoots its children into the future, protected by both chemical warfare and mechanical artillery.</description>
-      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/07/27/por-que-o-fruto-dessa-arvore-explode-ciencia-explica-como-o-assacu-lanca-sementes-a-dezenas-de-metros.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
