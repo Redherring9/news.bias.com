@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 06:04:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:01:48 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Should you take the plunge? How to tell how clean the sea is</title>
+      <link>https://www.bbc.co.uk/news/articles/cy740z8gzp4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy740z8gzp4o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sat, 01 Aug 2026 08:01:47 GMT</pubDate>
+      <description>As concerns about water quality make headlines across the UK, beachgoers are increasingly seeking reliable ways to assess whether it's safe to swim. The question of clean water has become more pressing, with sewage spills, agricultural runoff, and other pollutants potentially affecting coastal waters—though the picture is more nuanced than it might first appear.
+
+Several systems now exist to help swimmers make informed decisions. The Environment Agency rates designated bathing waters from "excellent" to "poor" based on bacteria samples collected over four years, testing for E. coli and intestinal enterococci that can cause illness. However, this official monitoring only runs from mid-May through September and doesn't reflect day-to-day conditions. Water companies provide their own alert systems, like South West Water's WaterFit Live, which notifies users of potential sewage impacts for specific periods after spills. Meanwhile, the campaign group Surfers Against Sewage has developed an app that aggregates data from multiple sources and maintains pollution alerts for 48 hours as a precautionary measure. The Blue Flag scheme offers another benchmark, assessing beaches against strict international criteria.
+
+This story matters because it highlights both progress and limitations in public information about water safety. While more tools exist than ever before, gaps remain—official testing is seasonal, alerts vary between systems, and a sewage spill doesn't automatically mean unsafe conditions. For anyone planning a coastal swim, understanding these different resources and their constraints offers a clearer path to making thoughtful choices about when and where to take the plunge.</description>
+      <source url="https://www.bbc.co.uk/news/articles/cy740z8gzp4o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Dry July for Western Australia as stunning pictures tell story</title>
       <link>https://www.abc.net.au/news/2026-08-01/wa-july-weather-wrap-reveals-dry-month-in-parts-of-state/106973660</link>
@@ -594,18 +606,6 @@ Crawling through a hedge into a wheat stubble field, the observer encounters a r
 
 This story matters because it offers a glimpse of what's possible when farming makes room for the wild. Despite hares being among Britain's most persecuted mammals—illegal hare coursing is surging under organized crime—these animals move with unhurried confidence across a landscape rich with options. It's a quiet testament to the difference one thoughtful farmer can make, and a reminder that even in working countryside, space for wonder and wildness can flourish.</description>
       <source url="https://www.theguardian.com/environment/2026/jul/28/country-diary-dark-against-the-gold-wheat-stubble-the-hares-sit-tall-like-a-hieroglyph">The Guardian</source>
-    </item>
-    <item>
-      <title>Nudists, peaceniks and freeloading travellers: the people keeping the Esperanto dream alive</title>
-      <link>https://www.theguardian.com/news/ng-interactive/2026/jul/28/nudists-peaceniks-freeloading-travellers-esperanto</link>
-      <guid isPermaLink="false">https://www.theguardian.com/news/ng-interactive/2026/jul/28/nudists-peaceniks-freeloading-travellers-esperanto</guid>
-      <pubDate>Tue, 28 Jul 2026 04:03:39 GMT</pubDate>
-      <description>A writer's teenage introduction to Esperanto — the constructed language created in the 1880s by a Polish-Jewish ophthalmologist hoping to foster world peace through mutual understanding — seemed redundant in an age when the internet already promised global connection. But years later, discovering that both China Radio International and the Vatican broadcast in Esperanto on shortwave radio reignited their curiosity. What keeps this 130-year-old dream alive among an estimated million-plus learners?
-
-The language attracts an eclectic mix: nudists, train enthusiasts, Brazilian spiritists who believe Esperanto is heaven's tongue, and modern Duolingo users translating oddly political phrases like "Who is that worker?" and "There are too many wars in the world." While Esperanto's devotees make easy targets for mockery, the language once held real political weight, gaining traction in international labor, anticolonial, and anarchist movements before facing persecution during World War II. Its simple grammar and vocabulary — a dream-warped blend that sounds vaguely like Spanish — were designed to be irresistibly easy to learn, making it a second language anyone could share.
-
-This story offers a gentle look at a community that refuses to let an idealistic vision fade, despite never achieving its founder's goal of universal adoption. It's a reminder that some dreams persist not because they succeed on their own terms, but because they offer something their believers can't find elsewhere: a shared language of hope, however imperfect, in a world still searching for common ground.</description>
-      <source url="https://www.theguardian.com/news/ng-interactive/2026/jul/28/nudists-peaceniks-freeloading-travellers-esperanto">The Guardian</source>
     </item>
   </channel>
 </rss>
