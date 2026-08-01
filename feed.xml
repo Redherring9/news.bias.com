@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 04:03:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:04:11 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dry July for Western Australia as stunning pictures tell story</title>
+      <link>https://www.abc.net.au/news/2026-08-01/wa-july-weather-wrap-reveals-dry-month-in-parts-of-state/106973660</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-08-01/wa-july-weather-wrap-reveals-dry-month-in-parts-of-state/106973660</guid>
+      <pubDate>Sat, 01 Aug 2026 06:02:54 GMT</pubDate>
+      <description>Western Australia experienced one of its driest Julys on record in 2026, despite the month typically being one of the wettest of the year. Perth received just 56.8 millimeters of rain—less than half its long-term average of 147 millimeters—while the broader South West region saw its lowest July rainfall since records began, averaging only 39.7 millimeters.
+
+The unusual dry spell was caused by stubborn high-pressure systems that settled over southern Australia, blocking the cold fronts that normally sweep in from the Southern Ocean to deliver winter rain. Each time a storm approached, another high-pressure system would arrive, steering the weather south and leaving much of Western Australia in calm, settled conditions. The clear skies brought frosty mornings to inland areas, with some locations dropping below zero multiple times. Mid-month brought an unseasonably warm day on July 15, when Jurien Bay hit 26.9°C—its highest July temperature on record—and Perth reached 25.7°C, its warmest July day in 32 years. ABC readers captured the unusual weather through their lenses: double rainbows between brief showers, eerie fog blanketing Perth, and crisp night skies perfect for astrophotography.
+
+This story offers a vivid portrait of climate variability, told through the eyes of residents who documented their changing skies. It's a reminder that weather patterns can surprise us, and that communities notice when the rhythms of the seasons shift in unexpected ways.</description>
+      <source url="https://www.abc.net.au/news/2026-08-01/wa-july-weather-wrap-reveals-dry-month-in-parts-of-state/106973660">ABC Australia</source>
+    </item>
     <item>
       <title>French hitchhikers put faith in fellow travellers in Top End journey</title>
       <link>https://www.abc.net.au/news/2026-08-01/hitchhiking-resurgence-kimberley-broome-french-hitchhikers/106945664</link>
@@ -594,18 +606,6 @@ The language attracts an eclectic mix: nudists, train enthusiasts, Brazilian spi
 
 This story offers a gentle look at a community that refuses to let an idealistic vision fade, despite never achieving its founder's goal of universal adoption. It's a reminder that some dreams persist not because they succeed on their own terms, but because they offer something their believers can't find elsewhere: a shared language of hope, however imperfect, in a world still searching for common ground.</description>
       <source url="https://www.theguardian.com/news/ng-interactive/2026/jul/28/nudists-peaceniks-freeloading-travellers-esperanto">The Guardian</source>
-    </item>
-    <item>
-      <title>How telehealth is helping close the healthcare gap in rural Zimbabwe</title>
-      <link>https://www.aljazeera.com/news/2026/7/28/how-telehealth-is-helping-close-the-healthcare-gap-in-rural-zimbabwe?traffic_source=rss</link>
-      <guid isPermaLink="false">https://www.aljazeera.com/news/2026/7/28/how-telehealth-is-helping-close-the-healthcare-gap-in-rural-zimbabwe?traffic_source=rss</guid>
-      <pubDate>Tue, 28 Jul 2026 03:02:15 GMT</pubDate>
-      <description>In rural Zimbabwe, where doctors are scarce and healthcare often requires grueling journeys, a network of telehealth centers is quietly transforming how communities access medical care. Anymore Kadzunge, a 38-year-old farmer, walked 14 kilometers from her village after months of chest pain and dizziness. At a new facility in Nyazura, a nurse checked her vitals and connected her via video call with a doctor, who diagnosed hypertension and prescribed medication that improved her condition within days.
-
-Launched in 2024 by ZimSmart Villages in partnership with state telecommunications and postal services, the program addresses a stark reality: Zimbabwe has just 1.7 doctors per 10,000 people, well below Africa's average. For many rural residents, seeing a physician means traveling dozens of kilometers to towns or cities—journeys that are expensive and sometimes made by ox-drawn cart when ambulances aren't available. The telehealth centers, now numbering 28 across seven provinces, operate within existing post office infrastructure and use satellite internet to maintain connections during frequent power outages. Nurses perform diagnostic tests and facilitate virtual consultations, eliminating hours-long waits common at public facilities.
-
-What makes this story quietly remarkable is how technology is being adapted to meet people where they are, both literally and culturally. Building trust required months of community outreach to explain how virtual care works. With more than 28,000 consultations conducted, the program demonstrates that bridging healthcare gaps doesn't always require building new hospitals—sometimes it means reimagining the infrastructure already in place and connecting isolated communities to expertise that was previously out of reach.</description>
-      <source url="https://www.aljazeera.com/news/2026/7/28/how-telehealth-is-helping-close-the-healthcare-gap-in-rural-zimbabwe?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
