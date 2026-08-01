@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 10:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 12:02:53 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>"Amicable numbers", the strange mathematical pairs that have captivated lovers, mystics and scientists for 2,500 years</title>
+      <link>https://www.bbc.com/mundo/articles/cn0n2v1874jo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cn0n2v1874jo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sat, 01 Aug 2026 12:02:51 GMT</pubDate>
+      <description>For over 2,500 years, a curious mathematical phenomenon has captivated philosophers, mystics, and mathematicians alike: amicable numbers. These are pairs of numbers where each holds the exact identity of the other through their divisors. Take 220 and 284—the divisors of 220 sum to 284, and the divisors of 284 sum to 220. This elegant reciprocity, first documented by the Syrian philosopher Iamblichus and attributed to Pythagoras, seemed to embody the ancient saying "a friend is another self."
+
+But these numbers didn't remain confined to mathematical treatises. Across cultures and centuries, people infused them with mystical meaning. Jewish Kabbalists noted that when Jacob sent his estranged brother Esau a peace offering, it included precisely 220 goats and 220 sheep—interpreted as a numerical charm to invoke forgiveness and fraternal love. Islamic scholars and medieval grimoires prescribed talismans inscribed with 220 and 284 to forge friendship or romantic bonds between two people. The belief persisted that these numbers could not merely symbolize affection but actually conjure it.
+
+What makes this story quietly remarkable is how a purely mathematical curiosity became a canvas for human longing across vastly different traditions. The same pairs of numbers that intrigued rational mathematicians also carried the hopes of lovers and the prayers of brothers seeking reconciliation. It's a reminder that even in the abstract world of number theory, people have always searched for patterns that reflect our deepest relationships—and sometimes dared to believe that understanding those patterns might help us shape them.</description>
+      <source url="https://www.bbc.com/mundo/articles/cn0n2v1874jo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Country Life: Hydroponics in Horowhenua</title>
       <link>https://www.rnz.co.nz/news/country/792553/country-life-hydroponics-in-horowhenua</link>
@@ -594,18 +606,6 @@ The reintroduction proved to be one of the most challenging the zoo has ever att
 
 This story offers a glimpse into the often-overlooked world of invertebrate conservation, where dedicated scientists risk physical danger to save species most people have never heard of. It's a reminder that biodiversity exists at every scale, and that even the smallest creatures contribute to the intricate web of life on our planet. The team will continue monitoring the snails as they adapt to their ancestral home once again.</description>
       <source url="https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
-    </item>
-    <item>
-      <title>Make the kids’ summer holidays go with a bang – play together like orangutans | Helen Pilcher</title>
-      <link>https://www.theguardian.com/commentisfree/2026/jul/28/kids-summer-holidays-orangutans-playdates-scientists-health-humans</link>
-      <guid isPermaLink="false">https://www.theguardian.com/commentisfree/2026/jul/28/kids-summer-holidays-orangutans-playdates-scientists-health-humans</guid>
-      <pubDate>Tue, 28 Jul 2026 08:04:43 GMT</pubDate>
-      <description>As parents face the annual challenge of filling six weeks of summer holidays with engaging activities, new research offers an unexpected source of inspiration: orangutans. Scientists studying wild Bornean orangutans have discovered that mothers deliberately arrange playdates for their young—a remarkable finding given that orangutans are among the most solitary of great apes, typically preferring their own territories and personal space.
-
-Researchers analyzed 30,000 hours of observations from 31 mother-offspring pairs and found that mothers made specific trips into neighboring territories to visit other mothers with similarly aged youngsters. These visits come at a real cost—time spent traveling means less time for feeding—suggesting the playdates serve an important purpose. This behavior is particularly notable because, unlike other social species where juvenile play happens naturally when adults gather, orangutan mothers actively orchestrate these encounters. The research hints at something profound about play itself: it appears across the animal kingdom from bear cubs to octopuses, caimans to corvids, and isn't merely frivolous fun but a crucial rehearsal for life, teaching communication, cooperation, and conflict resolution.
-
-What makes this story quietly remarkable is its dual revelation. First, it shows that even in solitary species, mothers recognize the developmental value of social play enough to invest precious energy in facilitating it. Second, research on human adults during the pandemic found that playful people coped better with stress—not by perceiving less risk, but by approaching challenges more creatively. The orangutan mothers arranging playdates despite the costs might be offering harried human parents not just solidarity, but permission: play isn't a luxury or childhood indulgence, but an essential tool for navigating life's challenges at any age.</description>
-      <source url="https://www.theguardian.com/commentisfree/2026/jul/28/kids-summer-holidays-orangutans-playdates-scientists-health-humans">The Guardian</source>
     </item>
   </channel>
 </rss>
