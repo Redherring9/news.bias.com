@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 20:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 22:02:50 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How the naked mole rat queen prevents other females from getting pregnant</title>
+      <link>https://www.bbc.com/portuguese/articles/c0m74mljrzeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/c0m74mljrzeo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Mon, 03 Aug 2026 22:02:48 GMT</pubDate>
+      <description>Scientists have discovered how naked mole rats maintain their unusual social hierarchy through chemistry rather than brute force. In colonies of these wrinkly African mammals, only one queen reproduces while all other females remain infertile—and researchers have finally figured out how she enforces this arrangement.
+
+For decades, biologists knew that naked mole rats are eusocial, living in highly organized colonies similar to bees or ants, with worker members caring for the queen's offspring. The prevailing theory suggested the queen physically bullied other females into submission. But when researcher Mohammed Khallaf, who previously studied insect smell, first observed the animals, he noticed they sniffed constantly. This observation led to a breakthrough: the queen produces high concentrations of a chemical compound called isopropyl myristate, which is nearly absent in non-breeding individuals. When the team exposed female mole rats to this scent, it triggered dramatic brain activity in regions controlling smell and hormone production, specifically raising prolactin levels (which suppress fertility) while keeping progesterone low. In experiments, females isolated from the queen's scent quickly became sexually active and pregnant, while those exposed to the chemical remained infertile.
+
+This discovery reveals that naked mole rat queens wield what researchers call a "super contraceptive"—a fragrance-based birth control system that temporarily suppresses fertility in their subjects. It's a quietly remarkable example of how nature engineers complex social structures through elegant chemical solutions, offering insights into mammalian biology that challenge our assumptions about dominance, reproduction, and the surprising power of scent.</description>
+      <source url="https://www.bbc.com/portuguese/articles/c0m74mljrzeo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Breastmilk research could protect against deadly respiratory infections in babies</title>
       <link>https://www.abc.net.au/news/2026-08-04/qld-breastmilk-research-respiratory-infections/106989944</link>
@@ -594,18 +606,6 @@ A team at Suva's Colonial War Memorial Hospital spent eight months reaching out 
 
 Then Saudi Arabia's government stepped forward, offering not only to perform the surgery free of charge on humanitarian grounds, but also to cover the family's travel and accommodation. The girls, their mother, and a Fijian pediatric registrar are now in Riyadh, where specialists at King Salman Hospital are reviewing the case. For Dr. Ilisapeci Tuibeqa, who coordinated the search, the outcome brings exhaustion mixed with joy. This story quietly illustrates both the inequities in global healthcare access and the unexpected generosity that can emerge when medical need meets humanitarian will.</description>
       <source url="https://www.rnz.co.nz/news/pacific/849116/three-countries-asked-for-us-1-million-then-saudi-arabia-stepped-in-to-offer-free-surgery-for-fiji-s-rare-conjoined-twins">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Indigenous teenager celebrates 15th birthday with traditional food and forró in village in Tocantins</title>
-      <link>https://g1.globo.com/to/tocantins/noticia/2026/07/30/adolescente-indigena-celebra-aniversario-com-comida-tradicional-e-forro-em-aldeia-na-ilha-do-bananal.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/to/tocantins/noticia/2026/07/30/adolescente-indigena-celebra-aniversario-com-comida-tradicional-e-forro-em-aldeia-na-ilha-do-bananal.ghtml</guid>
-      <pubDate>Thu, 30 Jul 2026 18:03:43 GMT</pubDate>
-      <description>When Xiwela Javaé turned fifteen, her celebration bridged centuries of tradition with contemporary joy. In her village of Barra do Rio on Ilha do Bananal in Tocantins, Brazil, the party featured roasted tracajá and tartaruga — traditional turtle dishes of her Indigenous people — alongside birthday cake, music, and forró dancing. Videos shared on social media captured both the festive atmosphere and the careful cultural preservation at its heart.
-
-The consumption of these wild animals is legally protected for Indigenous communities as part of their subsistence and cultural practices, provided it occurs within their territories and isn't commercialized. Vice-chief Teixiby Javaé explains that turtle is their principal food, served at cultural festivals and special occasions, and prepared using ancestral techniques. The Karajá people have developed distinctive dishes like bororó, a stew made in the turtle's shell, and bèrèti, a fried meat preparation with flour. "We take pride in showing our people's traditional food," the vice-chief says, emphasizing how these practices connect current generations to their millennial ancestors.
-
-This story offers a window into how Indigenous communities maintain living cultural traditions in the modern world. Xiwela's declaration — "I have so much pride in my people and my community. Growing up in this environment is really great for me" — speaks to the vitality of cultural continuity when young people can celebrate their heritage openly and joyfully, blending ancestral foodways with contemporary celebrations in ways that honor both past and present.</description>
-      <source url="https://g1.globo.com/to/tocantins/noticia/2026/07/30/adolescente-indigena-celebra-aniversario-com-comida-tradicional-e-forro-em-aldeia-na-ilha-do-bananal.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
