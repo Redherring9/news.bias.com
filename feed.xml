@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 00:02:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 02:03:39 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The story behind New Zealand's horse ambulance service</title>
+      <link>https://www.rnz.co.nz/news/country/871343/the-story-behind-new-zealand-s-horse-ambulance-service</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/country/871343/the-story-behind-new-zealand-s-horse-ambulance-service</guid>
+      <pubDate>Mon, 03 Aug 2026 02:03:38 GMT</pubDate>
+      <description>A casual conversation at a backyard barbecue in New Zealand has evolved into a world-first service that's changing how injured horses receive care. Ten years ago, veterinarian Dr. Peter Gillespie and a transport engineer began discussing the possibility of creating a purpose-built ambulance for horses—one that could hydraulically lower to ground level, allowing an injured animal to walk aboard rather than be lifted or dragged. That offhand chat has since grown into a fleet of ten specialized vehicles, making New Zealand the only country in the world with a dedicated horse ambulance at every race meet.
+
+The innovation addresses a gap Gillespie noticed during his decades as a race day vet. While treatment for equine injuries had advanced significantly since the 1980s, the actual transport of injured horses remained problematic. Working with colleague Bill Bishop, Gillespie developed clear criteria: horses needed to board at ground level and feel stable during transit. After initial funding challenges, the project gained backing from Thoroughbred Racing NZ and Harness Racing NZ, leading to the formation of a charitable trust. The first ambulance debuted at Addington Raceway in 2018, and demand was immediate—five more were ordered within two months.
+
+Today, these ambulances serve 700 events annually, covering not just race meetings but also agricultural shows and equestrian competitions. The trust raises over $200,000 yearly through community fundraisers and tournaments, having collected more than $2.25 million to date. This story is a quiet testament to how practical compassion and engineering ingenuity can address a need that went unmet for generations, improving welfare for animals that hold a special place in New Zealand's culture.</description>
+      <source url="https://www.rnz.co.nz/news/country/871343/the-story-behind-new-zealand-s-horse-ambulance-service">Radio New Zealand</source>
+    </item>
     <item>
       <title>Hundreds gather at Harts Range for red dirt racing and rodeo</title>
       <link>https://www.abc.net.au/news/2026-08-03/hundreds-gather-harts-range-races-for-a-good-get-together/106987748</link>
@@ -594,18 +606,6 @@ Two Australian charities, Teach Speak Hear and Ear Foundation Australia, have pa
 
 The stakes extend far beyond individual health. Organizers emphasize that untreated hearing problems can derail a child's entire educational trajectory, creating intergenerational impacts that perpetuate disadvantage. Currently reaching 10 schools out of roughly 40 in the region, the program's founders acknowledge they're addressing just a fraction of the need. But they're gathering data and building understanding about what works in delivering rural healthcare. It's a modest beginning to a significant problem: ensuring that children can simply hear their teachers, a prerequisite for learning that shouldn't depend on geography or family resources. Sometimes the most transformative interventions are also the most straightforward.</description>
       <source url="https://www.abc.net.au/news/2026-07-30/hearing-check-up-bus-schools-launches-in-midwest/106972616">ABC Australia</source>
-    </item>
-    <item>
-      <title>'If you've got a lane, you've got a chance': The Aussie Dolphins' way</title>
-      <link>https://www.abc.net.au/news/2026-07-30/kai-taylor-swimming-commonwealth-games-kyle-chalmers/106974426</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-30/kai-taylor-swimming-commonwealth-games-kyle-chalmers/106974426</guid>
-      <pubDate>Wed, 29 Jul 2026 22:03:47 GMT</pubDate>
-      <description>Australia's swimming team, the Dolphins, delivered a dominant performance at the 2026 Commonwealth Games in Glasgow, breaking their all-time gold medal record with a mixture of veteran excellence and emerging talent. The historic 29th gold medal of the meet came from an unexpected source: 22-year-old Kai Taylor, who won the men's 200m freestyle from the unfavorable lane one after qualifying seventh. His wire-to-wire victory embodied a philosophy he articulated perfectly: "If you've got a lane, you've got a chance."
-
-Taylor's win was part of a remarkable evening that saw Australia claim five golds in the final six races, including complete podium sweeps in both the women's 50m freestyle and men's 50m butterfly. The young swimmer, whose mother Hayley Lewis was an Olympic teammate of legendary Australian swimmers, had already announced his arrival three days earlier by anchoring the 4x200m freestyle relay to a commanding victory. Veterans like Lakeisha Patterson, competing in her third Commonwealth Games since 2014, added to the medal haul with her third Commonwealth crown in the 100m freestyle S9.
-
-Olympic champion Kyle Chalmers, now a veteran presence on the team, offered perspective on the moment, urging Australians not to take this era for granted. He emphasized that the team's nightly parade of gold medals and records reflects a convergence of generational talents drawing inspiration from one another—a golden age that won't last forever. It's a reminder that beneath the routine excellence lies something quietly extraordinary: a team culture where young swimmers like Taylor can rise to historic moments with fearless confidence, turning disadvantage into triumph.</description>
-      <source url="https://www.abc.net.au/news/2026-07-30/kai-taylor-swimming-commonwealth-games-kyle-chalmers/106974426">ABC Australia</source>
     </item>
   </channel>
 </rss>
