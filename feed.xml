@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 02:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 04:01:39 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wildlife-devouring feral cat 'Nine Lives' caught after three-year effort</title>
+      <link>https://www.rnz.co.nz/news/environment/874458/wildlife-devouring-feral-cat-nine-lives-caught-after-three-year-effort</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/environment/874458/wildlife-devouring-feral-cat-nine-lives-caught-after-three-year-effort</guid>
+      <pubDate>Mon, 03 Aug 2026 04:01:38 GMT</pubDate>
+      <description>After three years of intensive tracking, conservation workers in New Zealand's Bay of Islands have finally caught a feral cat that had become infamous for decimating rare native wildlife. Nicknamed 'Nine Lives' for its remarkable ability to evade capture, the large grey tabby was believed responsible for killing around three-quarters of the pāteke—flightless brown teal ducks—released on the Purerua Peninsula. Those twenty birds represented roughly one percent of the species' entire world population, and the cat likely claimed many kiwi chicks as well.
+
+The cat's notoriety reached international attention, drawing a CNN documentary crew and features in wildlife podcasts. Conservation coordinator Andrew Mentor and his team spent years studying the cat's movements through an expanding camera network, experimenting with various lures and tracking methods. What made Nine Lives so challenging was its erratic behavior and extreme aversion to humans—patterns that proved nearly impossible to predict. The breakthrough came when the cat uncharacteristically returned to the same feeding spot three nights running, allowing trappers to finally locate and shoot it.
+
+This story offers a window into the delicate, painstaking work of protecting New Zealand's unique endangered species from introduced predators. While the loss of the pāteke was a significant setback, the peninsula's conservation efforts have achieved remarkable success elsewhere: the local kiwi population now stands at around 3,000, possibly the highest density in the country. The capture of Nine Lives allows the five-person team to shift from crisis mode back to their regular work of preventing reinvasion—a reminder that conservation victories are hard-won and that even a single predator can have outsized impact on fragile ecosystems.</description>
+      <source url="https://www.rnz.co.nz/news/environment/874458/wildlife-devouring-feral-cat-nine-lives-caught-after-three-year-effort">Radio New Zealand</source>
+    </item>
     <item>
       <title>The story behind New Zealand's horse ambulance service</title>
       <link>https://www.rnz.co.nz/news/country/871343/the-story-behind-new-zealand-s-horse-ambulance-service</link>
@@ -594,18 +606,6 @@ Hobbs' journey reflects a tension at the heart of modern sports: the clash betwe
 
 This story matters because it's about more than athletic achievement. It's a quiet reminder that sometimes the most meaningful victories come from trusting your own sense of belonging, even when the numbers say otherwise. Hobbs chose passion over pragmatism, and in doing so, rewrote both her own story and her country's sporting history—all in under eleven seconds.</description>
       <source url="https://www.rnz.co.nz/news/sport/841616/how-zoe-hobbs-outran-the-odds">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Drive-in, drive-out health services helping regional students hear</title>
-      <link>https://www.abc.net.au/news/2026-07-30/hearing-check-up-bus-schools-launches-in-midwest/106972616</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-07-30/hearing-check-up-bus-schools-launches-in-midwest/106972616</guid>
-      <pubDate>Thu, 30 Jul 2026 00:03:47 GMT</pubDate>
-      <description>A colorfully decorated bus is making its way across Western Australia's remote Midwest region, bringing something many urban families take for granted: routine hearing check-ups for schoolchildren. The Buranymarda Marugundi Program — meaning "Good Strong Tomorrow" in the local Badimaya language — is a three-year pilot addressing a critical gap in regional healthcare access.
-
-Two Australian charities, Teach Speak Hear and Ear Foundation Australia, have partnered to deliver coordinated hearing health services directly to schools in communities like Yalgoo, Mount Magnet, and Meekatharra. The mobile service offers cost-free check-ups and care from occupational and speech therapists, eliminating barriers that have long prevented families from accessing specialist help: distance, cost, and lengthy wait times. For Geraldton mother Jasmin Mcaullay, the convenience proved invaluable when her son Zaxson was found to have ear congestion during a school visit — an issue that might otherwise have gone undetected and untreated.
-
-The stakes extend far beyond individual health. Organizers emphasize that untreated hearing problems can derail a child's entire educational trajectory, creating intergenerational impacts that perpetuate disadvantage. Currently reaching 10 schools out of roughly 40 in the region, the program's founders acknowledge they're addressing just a fraction of the need. But they're gathering data and building understanding about what works in delivering rural healthcare. It's a modest beginning to a significant problem: ensuring that children can simply hear their teachers, a prerequisite for learning that shouldn't depend on geography or family resources. Sometimes the most transformative interventions are also the most straightforward.</description>
-      <source url="https://www.abc.net.au/news/2026-07-30/hearing-check-up-bus-schools-launches-in-midwest/106972616">ABC Australia</source>
     </item>
   </channel>
 </rss>
