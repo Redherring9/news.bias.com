@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 10:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 12:01:50 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘You’d want one as a pet’: the irresistibly cute solar-powered sea slug</title>
+      <link>https://www.theguardian.com/environment/2026/aug/05/leaf-sheep-sea-slug-invertebrates-of-year-2026</link>
+      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/aug/05/leaf-sheep-sea-slug-invertebrates-of-year-2026</guid>
+      <pubDate>Wed, 05 Aug 2026 12:01:48 GMT</pubDate>
+      <description>A sea slug the size of a grain of rice has captured hearts and imaginations worldwide, not just for its adorable appearance but for its remarkable ability to harness solar power. The leaf sheep, or Costasiella kuroshimae, grazes on algae in tropical waters around Japan, Indonesia, and the Philippines, but it does something extraordinary with its food: it steals the chloroplasts from the algae and stores them in leaf-like branches on its back called cerata.
+
+Through a process called kleptoplasty, these stolen chloroplasts continue to perform photosynthesis inside the slug's own cells, essentially turning the tiny creature into a solar-powered animal. Its vivid green cerata, often tipped with white, pink, or purple, serve double duty as both solar panels and chemical defenses, while also providing perfect camouflage against the velvety algae where it lives and feeds. The leaf sheep navigates its world using rhinophores—tentacle-like sense organs above its eyes that help it locate food and interpret its surroundings.
+
+Only identified by scientists in 1993, the leaf sheep has become an internet sensation thanks to advances in underwater macro photography that reveal its irresistibly cute features. Readers comparing it to everything from Shaun the Sheep to Pokémon characters have nominated it for Invertebrate of the Year 2026. Beyond its charm, the leaf sheep offers an inspiring example of nature's ingenuity—a tiny creature that figured out how to power itself with sunlight, a lesson that resonates powerfully in our era of seeking sustainable energy solutions.</description>
+      <source url="https://www.theguardian.com/environment/2026/aug/05/leaf-sheep-sea-slug-invertebrates-of-year-2026">The Guardian</source>
+    </item>
     <item>
       <title>Malaysia implements total e-waste import ban to curb toxic trade</title>
       <link>https://news.mongabay.com/short-article/2026/08/malaysia-implements-total-e-waste-import-ban-to-curb-toxic-trade/</link>
@@ -594,18 +606,6 @@ Hydroponic growing replaces soil with nutrient-rich water, which flows through c
 
 This story offers a glimpse into how a family with no background in agriculture built a sustainable, efficient food-growing system from scratch. It's a reminder that career changes, even radical ones, can lead to innovative solutions—and that sometimes the freshest food comes from the most unexpected journeys.</description>
       <source url="https://www.rnz.co.nz/news/country/792553/country-life-hydroponics-in-horowhenua">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Should you take the plunge? How to tell how clean the sea is</title>
-      <link>https://www.bbc.co.uk/news/articles/cy740z8gzp4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy740z8gzp4o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sat, 01 Aug 2026 08:01:47 GMT</pubDate>
-      <description>As concerns about water quality make headlines across the UK, beachgoers are increasingly seeking reliable ways to assess whether it's safe to swim. The question of clean water has become more pressing, with sewage spills, agricultural runoff, and other pollutants potentially affecting coastal waters—though the picture is more nuanced than it might first appear.
-
-Several systems now exist to help swimmers make informed decisions. The Environment Agency rates designated bathing waters from "excellent" to "poor" based on bacteria samples collected over four years, testing for E. coli and intestinal enterococci that can cause illness. However, this official monitoring only runs from mid-May through September and doesn't reflect day-to-day conditions. Water companies provide their own alert systems, like South West Water's WaterFit Live, which notifies users of potential sewage impacts for specific periods after spills. Meanwhile, the campaign group Surfers Against Sewage has developed an app that aggregates data from multiple sources and maintains pollution alerts for 48 hours as a precautionary measure. The Blue Flag scheme offers another benchmark, assessing beaches against strict international criteria.
-
-This story matters because it highlights both progress and limitations in public information about water safety. While more tools exist than ever before, gaps remain—official testing is seasonal, alerts vary between systems, and a sewage spill doesn't automatically mean unsafe conditions. For anyone planning a coastal swim, understanding these different resources and their constraints offers a clearer path to making thoughtful choices about when and where to take the plunge.</description>
-      <source url="https://www.bbc.co.uk/news/articles/cy740z8gzp4o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
