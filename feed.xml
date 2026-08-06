@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 10:03:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 12:04:06 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fecal transplant allows six people to overcome severe peanut allergy and opens hope for patients</title>
+      <link>https://g1.globo.com/saude/noticia/2026/08/06/transplante-de-fezes-faz-seis-pessoas-superarem-alergia-grave-a-amendoim-e-abre-esperanca-para-pacientes.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/saude/noticia/2026/08/06/transplante-de-fezes-faz-seis-pessoas-superarem-alergia-grave-a-amendoim-e-abre-esperanca-para-pacientes.ghtml</guid>
+      <pubDate>Thu, 06 Aug 2026 12:04:04 GMT</pubDate>
+      <description>A small clinical trial in Boston has shown that fecal transplants — transferring gut bacteria from healthy donors — may help some people overcome severe peanut allergies. Six out of fifteen participants went from reacting to trace amounts of peanut protein to tolerating the equivalent of two and a half peanuts or more, a meaningful shift for people whose daily lives are shaped by vigilance and the need to carry emergency epinephrine.
+
+The research, published in Science Translational Medicine, builds on earlier observations linking food allergies to reduced diversity in gut bacteria. Participants swallowed odorless, flavorless capsules containing bacteria from non-allergic donors. Most took 36 pills in a single day without serious side effects. While nine participants saw no improvement, the six who responded showed lasting changes. Researchers noticed patterns: five of the six responders were men, and most non-responders had not taken antibiotics before the transplant, which may affect whether new bacteria successfully colonize the gut. Follow-up experiments in mice identified a specific bacterium, Bacteroides ovatus, that appeared to calm the immune system's reactivity — not just to peanuts, but to other allergens as well.
+
+This story matters because it opens a window into how the microscopic communities living inside us might shape our immune responses in ways we're only beginning to understand. For people living with severe food allergies, the prospect of treatment beyond strict avoidance is quietly remarkable. The research is still early, and a larger trial is underway, but it suggests that the path to tolerance might one day run through the gut.</description>
+      <source url="https://g1.globo.com/saude/noticia/2026/08/06/transplante-de-fezes-faz-seis-pessoas-superarem-alergia-grave-a-amendoim-e-abre-esperanca-para-pacientes.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>On a Philippine beach, villagers are stepping up to save sea turtle nests</title>
       <link>https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/</link>
@@ -594,18 +606,6 @@ Drummond-Herdman's fascination began during the pandemic, when he encountered co
 
 This story offers a gentle reminder that extraordinary worlds exist in the most unexpected places. With an estimated 2 million fungi species awaiting discovery globally, Drummond-Herdman's bedroom research represents more than quirky content—it's frontline biodiversity work that makes taxonomy accessible and beautiful. His time-lapses reveal entire lifecycles that would otherwise remain invisible, transforming something most people avoid into windows of wonder. In championing these overlooked organisms, he demonstrates how passion, patience, and a very understanding housemate can illuminate the quiet complexity thriving all around us.</description>
       <source url="https://www.theguardian.com/environment/2026/aug/02/alfred-drummond-herdman-animal-dung-fungi-films-aoe">The Guardian</source>
-    </item>
-    <item>
-      <title>Beaver dams 'helping boost drought resilience'</title>
-      <link>https://www.bbc.co.uk/news/articles/c5yr7z150d7o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yr7z150d7o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sun, 02 Aug 2026 08:03:49 GMT</pubDate>
-      <description>In a quietly hopeful development for drought-stressed landscapes, beavers are proving to be unexpected allies in building water resilience across England. Dr. Alan Puttock from the University of Exeter has been studying how these industrious mammals—once hunted to extinction in Britain around 400 years ago—are creating complex wetland systems that help landscapes retain water during increasingly common dry spells.
-
-The mechanism is elegantly simple: beaver dams and the ponds they create hold substantial amounts of water and slow its flow into rivers. Puttock's research shows each wetland pond can retain about 1,000 cubic metres of water, reducing peak flows by roughly 30%. During droughts affecting more than half of England, these engineered wetlands provide crucial refuge for struggling wildlife while slowly releasing stored water. Since beavers were reintroduced to Devon's River Otter in 2015, and more recently to Cornwall's Par and Fowey rivers, researchers have observed these benefits firsthand. The wetlands even offer an unexpected bonus: they can act as firebreaks during extreme drought conditions, a concern Puttock admits he hadn't anticipated when he began studying flood management a decade ago.
-
-This story offers a refreshing reminder that sometimes the best solutions to modern environmental challenges come from restoring what was lost. While Puttock is careful to note that beaver wetlands alone won't solve all drought problems, their role as "ecosystem engineers" demonstrates how working with nature—rather than against it—can build landscapes better equipped for both floods and droughts, two extremes of an increasingly unpredictable climate.</description>
-      <source url="https://www.bbc.co.uk/news/articles/c5yr7z150d7o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
