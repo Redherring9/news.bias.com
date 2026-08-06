@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 00:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 02:03:27 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Unprecedented images of the Sun in motion showing a level of detail never seen before</title>
+      <link>https://www.bbc.com/mundo/articles/c5ywq043ql6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/c5ywq043ql6o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Thu, 06 Aug 2026 02:03:25 GMT</pubDate>
+      <description>Scientists have captured unprecedented footage of the Sun's surface using the world's most powerful solar telescope, revealing swirling patterns of activity never seen before in such detail. The images and videos, made possible by the Inouye Solar Telescope perched atop a Hawaiian mountain, show the Sun's magnetic field twisting and shifting as hot gases move across its surface. These constant spiraling motions drive the bursts of energy that create space weather—phenomena that can disrupt Earth's power grids, damage satellites, and pose risks to astronauts.
+
+The research team identified what scientists call Kelvin-Helmholtz instability occurring on the Sun's surface, a phenomenon where fluids sliding past one another create spiral vortices. It's the same process that helps explain how small ripples in the ocean transform into giant waves. On the Sun, this turbulent movement generates magnetic energy that can build up and release in massive solar flares and coronal mass ejections. The discovery also offers clues about why the Sun's surface reaches such extreme temperatures, showing how energy is transported upward through these dynamic processes.
+
+Beyond the practical need to understand and protect ourselves from space weather, these findings remind us that the Sun serves as a unique natural laboratory for testing fundamental physics. As the closest star to Earth, it offers scientists an unparalleled opportunity to observe processes that govern stellar behavior throughout the universe, continuing a tradition that includes Einstein's early tests of general relativity during solar eclipses.</description>
+      <source url="https://www.bbc.com/mundo/articles/c5ywq043ql6o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>In Guatemala, the Fuego volcano eruption has ended, evacuees return home</title>
       <link>https://www.france24.com/fr/am%C3%A9riques/20260805-guatemala-fin-eruption-volcan-fuego-evacues-rentrent-chez-eux</link>
@@ -594,18 +606,6 @@ The restaurant's presence in this unlikely location creates a sense of discovery
 
 This story captures something quietly delightful about how authenticity can flourish in unexpected places. Nonna Nietta represents the kind of establishment that doesn't conform to its surroundings but instead creates its own atmosphere, inviting diners to step out of the familiar rhythms of suburban Japan and into a different culinary world. It's a reminder that charm and character often emerge not from fitting in perfectly, but from standing apart with confidence—and that sometimes the best discoveries are the ones you can smell before you see.</description>
       <source url="https://www.japantimes.co.jp/life/2026/08/02/food-drink/nonna-nietta-ibaraki-italian-fine-dining-destination-restaurants/">The Japan Times</source>
-    </item>
-    <item>
-      <title>Baobab planted by father as family inheritance becomes tourist attraction in Piauí city</title>
-      <link>https://g1.globo.com/pi/piaui/piaui-de-riquezas/noticia/2026/08/01/arvore-baoba-heranca-de-pai-vira-ponto-turistico-no-piaui.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/pi/piaui/piaui-de-riquezas/noticia/2026/08/01/arvore-baoba-heranca-de-pai-vira-ponto-turistico-no-piaui.ghtml</guid>
-      <pubDate>Sat, 01 Aug 2026 22:03:05 GMT</pubDate>
-      <description>In the small village of Boa Vista, in Brazil's northeastern state of Piauí, an African baobab tree has become an unexpected tourist attraction—not for its exotic beauty alone, but for the story it carries. The tree was planted decades ago by João Leôncio, a man of modest means who discovered the species during a visit to Brazil's agricultural research center, Embrapa. Enchanted by the massive, water-storing tree, he obtained a seed and planted it at home with a singular purpose: to leave his children an inheritance that would outlast him.
-
-João Leôncio often told his family he had no material wealth to pass on, but the baobab—known in African cultures as the "tree of life"—would be a living legacy. His youngest daughter, Gilmara Gonçalves, recalls her father as adventurous, generous, and deeply humble, a man who believed in walking "the path of good." After his death, the family honored his wish by caring for the tree and gradually transforming the surrounding area into a small plaza. Visitors now travel to see what locals call "Pau do João Leôncio," taking photos and sharing the story online. The family plans to expand the site with a walkway to accommodate growing interest.
-
-This story quietly defies conventional ideas of inheritance. Instead of property or money, João Leôncio left something rooted, resilient, and communal—a tree capable of surviving droughts, much like the values he hoped to instill. It's a reminder that legacies need not be material to be enduring, and that sometimes the most meaningful gifts are those that grow.</description>
-      <source url="https://g1.globo.com/pi/piaui/piaui-de-riquezas/noticia/2026/08/01/arvore-baoba-heranca-de-pai-vira-ponto-turistico-no-piaui.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
