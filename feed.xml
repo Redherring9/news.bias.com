@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 04:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 06:03:53 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘Spectral lines’ and a giant plume: what science saw when the SpaceX rocket hit the moon</title>
+      <link>https://www.theguardian.com/science/2026/aug/06/spacex-rocket-crash-into-moon-impact</link>
+      <guid isPermaLink="false">https://www.theguardian.com/science/2026/aug/06/spacex-rocket-crash-into-moon-impact</guid>
+      <pubDate>Thu, 06 Aug 2026 06:02:13 GMT</pubDate>
+      <description>When a discarded SpaceX rocket stage collided with the moon at nearly 9,000 kilometers per hour, astronomers got more than just a crash—they got a chemistry lesson. The European Southern Observatory's Very Large Telescope in Chile captured "spectral lines," colorful signatures of sodium and lithium gas, in the dust plume that erupted from the impact site. These chemical fingerprints, visible for five to ten minutes, offered researchers a rare glimpse into both the lunar surface and the debris itself.
+
+The impact occurred near the moon's terminator line, where sunlight meets shadow, creating a brief window for observation. Though the rocket stage was the size of a five-story building and weighed four tons, no orbiting satellites were positioned to witness the collision directly. Multiple ground-based telescopes watched, yet capturing clear imagery proved surprisingly difficult. Scientists believe the sodium detected came from lunar soil kicked up by the crash, while lithium traces may have originated from the rocket itself. The impact likely created a crater some 20 meters wide and five meters deep—a permanent scar that future missions from NASA and South Korea plan to photograph.
+
+This story is worth attention not for spectacle, but for what it reveals about our growing presence in space. As NASA prepares for sustained human activity on the moon, understanding the behavior and hazards of artificial debris becomes essential. What began as discarded hardware from a January 2025 launch carrying lunar landers has become an unintended experiment—one that offers practical insights into space debris impacts while reminding us that even our refuse can teach us something about the cosmos and our place within it.</description>
+      <source url="https://www.theguardian.com/science/2026/aug/06/spacex-rocket-crash-into-moon-impact">The Guardian</source>
+    </item>
     <item>
       <title>The trade-off between te reo Māori and big tech companies</title>
       <link>https://www.rnz.co.nz/news/te-manu-korihi/905548/the-trade-off-between-te-reo-maori-and-big-tech-companies</link>
@@ -594,18 +606,6 @@ This isn't Virunga's first Ebola response. During the DRC's devastating 10th out
 
 This story quietly illustrates how conservation and public health can intersect in unexpected ways. In a region marked by decades of armed conflict, where more than 800 rangers already protect some of the world's most threatened species, Virunga demonstrates that preserving wild spaces can serve multiple purposes. The park's contribution to disease surveillance and community protection offers a compelling reminder that environmental conservation isn't separate from human welfare—sometimes the two are inseparably linked, each strengthening the other in the face of crisis.</description>
       <source url="https://www.aljazeera.com/news/2026/8/2/how-virunga-park-protects-people-and-gorillas-from-ebola-in-eastern-drc?traffic_source=rss">Al Jazeera</source>
-    </item>
-    <item>
-      <title>Fifty years ago, a radical idea saved historic mining town from dust</title>
-      <link>https://www.abc.net.au/news/2026-08-02/kalgoorlie-people-fight-back-gainst-dust-storms/106909830</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-08-02/kalgoorlie-people-fight-back-gainst-dust-storms/106909830</guid>
-      <pubDate>Sun, 02 Aug 2026 02:03:55 GMT</pubDate>
-      <description>For nearly a century, the Australian mining town of Kalgoorlie-Boulder endured ferocious dust storms that forced residents indoors and brought daily life to a standstill. The problem began in the 1890s gold rush, when desperate miners stripped the surrounding landscape of trees to fuel their industry, destabilizing the region's fine topsoil. Mine tailings added to the misery, creating vast piles of dust that the wind carried straight into town. Many locals resigned themselves to the problem as an unavoidable feature of outback life.
-
-Then in 1973, a newcomer named Julian Grill arrived with what seemed like a far-fetched solution. Working with the agriculture department and volunteers, Grill convinced skeptical officials to try an ambitious greening project. The plan involved spreading wood chips across desert floors, planting saplings in arid shrubland, and covering mine tailings with rocks. Six forest reserves were established north of the city, eventually spanning 3,500 hectares. The effort faced resistance—vandals destroyed hundreds of saplings early on—but volunteers persisted, even fencing off areas without official authority.
-
-Fifty years later, those forests still stand, and the dust storms have become a distant memory. What once seemed like an inescapable burden of geography turned out to be solvable through community determination and ecological restoration. It's a quietly remarkable story of how a struggling town refused to accept its fate, proving that environmental problems created by human activity can sometimes be reversed by the same hands that caused them.</description>
-      <source url="https://www.abc.net.au/news/2026-08-02/kalgoorlie-people-fight-back-gainst-dust-storms/106909830">ABC Australia</source>
     </item>
   </channel>
 </rss>
