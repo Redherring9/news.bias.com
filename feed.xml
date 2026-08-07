@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 04:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 06:05:41 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>"Save my little one!": the reception of Spanish children in France during the Civil War (2/4)</title>
+      <link>https://www.france24.com/fr/europe/20260807-guerre-espagne-accueil-refugies-enfants-france-histoire-humanitaire</link>
+      <guid isPermaLink="false">https://www.france24.com/fr/europe/20260807-guerre-espagne-accueil-refugies-enfants-france-histoire-humanitaire</guid>
+      <pubDate>Fri, 07 Aug 2026 06:03:56 GMT</pubDate>
+      <description>Between 1936 and 1939, nearly 15,000 children from Republican-held areas of Spain found refuge in France during the Spanish Civil War—a humanitarian operation that has largely faded from collective memory. Historian Célia Keren's recent book sheds light on this forgotten chapter, revealing how French families and temporary colonies welcomed these young evacuees fleeing bombardment and devastation in cities like Valencia, Barcelona, and Bilbao.
+
+The operation began in August 1936, just weeks after the war erupted, initially through communist organizations and child relief associations. By autumn of that year, a formal Welcome Committee for Children of Spain had formed, co-led by the General Confederation of Labor and the League of Human Rights, as the Battle of Madrid made civilian evacuation urgent. Promotional materials from the era show the emotional appeal used to mobilize French generosity: posters featured anguished mothers clutching their children with pleas like "Save my little one!" Camps opened in the Pyrénées-Orientales, Grenoble, and elsewhere to house hundreds of children for temporary stays.
+
+This story has been overshadowed by more dramatic narratives of the Spanish Civil War—the International Brigades, revolutionary Barcelona, antifascist slogans—and later eclipsed entirely by the massive 1939 Retirada, when half a million refugees crossed into France, followed by World War II. Keren's research recovers a quieter form of solidarity: ordinary families opening their homes and communities organizing care for thousands of displaced children. It's a reminder that amid the grand sweep of political conflict, smaller acts of protection and refuge also shape history, even when they don't fit the heroic narratives we tend to remember.</description>
+      <source url="https://www.france24.com/fr/europe/20260807-guerre-espagne-accueil-refugies-enfants-france-histoire-humanitaire">France 24</source>
+    </item>
     <item>
       <title>Historian’s wife continues his research on U.S. captives in Hiroshima</title>
       <link>https://www.japantimes.co.jp/news/2026/08/07/japan/society/historian-wife-research-hiroshima/</link>
@@ -594,18 +606,6 @@ The cat's notoriety reached international attention, drawing a CNN documentary c
 
 This story offers a window into the delicate, painstaking work of protecting New Zealand's unique endangered species from introduced predators. While the loss of the pāteke was a significant setback, the peninsula's conservation efforts have achieved remarkable success elsewhere: the local kiwi population now stands at around 3,000, possibly the highest density in the country. The capture of Nine Lives allows the five-person team to shift from crisis mode back to their regular work of preventing reinvasion—a reminder that conservation victories are hard-won and that even a single predator can have outsized impact on fragile ecosystems.</description>
       <source url="https://www.rnz.co.nz/news/environment/874458/wildlife-devouring-feral-cat-nine-lives-caught-after-three-year-effort">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>The story behind New Zealand's horse ambulance service</title>
-      <link>https://www.rnz.co.nz/news/country/871343/the-story-behind-new-zealand-s-horse-ambulance-service</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/country/871343/the-story-behind-new-zealand-s-horse-ambulance-service</guid>
-      <pubDate>Mon, 03 Aug 2026 02:03:38 GMT</pubDate>
-      <description>A casual conversation at a backyard barbecue in New Zealand has evolved into a world-first service that's changing how injured horses receive care. Ten years ago, veterinarian Dr. Peter Gillespie and a transport engineer began discussing the possibility of creating a purpose-built ambulance for horses—one that could hydraulically lower to ground level, allowing an injured animal to walk aboard rather than be lifted or dragged. That offhand chat has since grown into a fleet of ten specialized vehicles, making New Zealand the only country in the world with a dedicated horse ambulance at every race meet.
-
-The innovation addresses a gap Gillespie noticed during his decades as a race day vet. While treatment for equine injuries had advanced significantly since the 1980s, the actual transport of injured horses remained problematic. Working with colleague Bill Bishop, Gillespie developed clear criteria: horses needed to board at ground level and feel stable during transit. After initial funding challenges, the project gained backing from Thoroughbred Racing NZ and Harness Racing NZ, leading to the formation of a charitable trust. The first ambulance debuted at Addington Raceway in 2018, and demand was immediate—five more were ordered within two months.
-
-Today, these ambulances serve 700 events annually, covering not just race meetings but also agricultural shows and equestrian competitions. The trust raises over $200,000 yearly through community fundraisers and tournaments, having collected more than $2.25 million to date. This story is a quiet testament to how practical compassion and engineering ingenuity can address a need that went unmet for generations, improving welfare for animals that hold a special place in New Zealand's culture.</description>
-      <source url="https://www.rnz.co.nz/news/country/871343/the-story-behind-new-zealand-s-horse-ambulance-service">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
