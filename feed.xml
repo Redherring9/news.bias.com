@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 00:03:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 02:02:47 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'Māori data in Māori hands': Experts want Google to adhere to data sovereignty principles</title>
+      <link>https://www.rnz.co.nz/news/te-manu-korihi/934607/maori-data-in-maori-hands-experts-want-google-to-adhere-to-data-sovereignty-principles</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/te-manu-korihi/934607/maori-data-in-maori-hands-experts-want-google-to-adhere-to-data-sovereignty-principles</guid>
+      <pubDate>Sat, 08 Aug 2026 02:02:46 GMT</pubDate>
+      <description>A groundbreaking partnership between Google and New Zealand's Māori Language Commission has sparked important conversations about who controls indigenous data. In July, the two organizations launched an AI-powered text-to-speech model that correctly pronounces Māori place names in Google Maps—a technological first that also established an unusual precedent: the indigenous language data remains under Māori guardianship, even as Google holds a license to use it.
+
+The arrangement represents a rare instance where a major tech company has agreed to relinquish ownership of the underlying data it uses. While Google retains the algorithms and technology, the intellectual property for the actual Māori language recordings stays with Te Taura Whiri i te Reo Māori, the language commission. Māori tech experts see this as a positive step, but believe the data should ultimately move to Māori-controlled storage rather than remaining with a government organization. Te Kāhui Raraunga, which advocates for Māori data sovereignty, has already launched Te Pā Tūwatawata—a decentralized storage network designed specifically to safeguard indigenous data according to Māori principles of guardianship and kinship.
+
+This story illuminates a critical question arising at the intersection of technology and indigenous rights: who should control the data that represents a culture's language, knowledge, and identity? As AI systems increasingly rely on cultural and linguistic data, the Māori approach—rooted in the principle of kaitiakitanga, or guardianship—offers a thoughtful model that balances technological innovation with cultural sovereignty. It's a quiet but significant shift in how we might think about data ownership in an interconnected world.</description>
+      <source url="https://www.rnz.co.nz/news/te-manu-korihi/934607/maori-data-in-maori-hands-experts-want-google-to-adhere-to-data-sovereignty-principles">Radio New Zealand</source>
+    </item>
     <item>
       <title>How Japan’s racehorses find second careers away from the track</title>
       <link>https://www.japantimes.co.jp/life/2026/08/08/lifestyle/horse-racing-retired-therapy-animal-welfare/</link>
@@ -594,18 +606,6 @@ Led by immunologist Simon Phipps, the team compared baby mice given osteopontin 
 
 This research offers potential pathways for improving commercial infant formulas, and the laboratory is already in discussions with formula manufacturers. The study was partly funded by Nestle and Australia's National Health and Medical Research Council. Still, experts emphasize that the greatest benefits for mothers and babies will likely come from better access to breastfeeding support. The discovery illuminates one of nature's elegant systems for protecting vulnerable newborns, revealing how a single protein can orchestrate complex biological processes that prepare an infant's immune system for the world beyond the womb.</description>
       <source url="https://www.abc.net.au/news/2026-08-04/qld-breastmilk-research-respiratory-infections/106989944">ABC Australia</source>
-    </item>
-    <item>
-      <title>Scottish seabird hunt cancelled for first time in 400 years</title>
-      <link>https://www.theguardian.com/environment/2026/aug/03/scottish-seabird-hunt-cancelled-for-first-time-in-400-years</link>
-      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/aug/03/scottish-seabird-hunt-cancelled-for-first-time-in-400-years</guid>
-      <pubDate>Mon, 03 Aug 2026 18:03:20 GMT</pubDate>
-      <description>A centuries-old tradition has paused on a remote Scottish island, where NatureScot has refused to license this year's annual gannet chick hunt for the first time in roughly 400 years. The guga hunt, as it's known locally, typically sees up to 2,000 young gannets taken from Sula Sgeir, an uninhabited rock in the Hebrides, over ten days each summer. The birds are killed, salted, and eaten as a delicacy in the Western Isles—though even locals acknowledge the acquired taste, with descriptions ranging from colorful to unappetizing.
-
-NatureScot's decision rests on new population modeling suggesting the hunt could adversely affect gannet numbers, even at reduced levels. The announcement follows intense activism: petitions gathered over 350,000 signatures combined, protesters in gannet costumes occupied the agency's headquarters, and the issue even spawned a political candidacy. Yet the controversy cuts both ways. NatureScot condemned what it called intimidation tactics against staff, and residents of Ness—the community that carries out the hunt—described feeling bullied by outside campaigners. For them, the practice isn't cruelty but heritage, possibly dating to Viking times when seabirds were a vital food source.
-
-This story offers a window into the tension between conservation science, cultural tradition, and modern advocacy. It's a reminder that practices rooted in survival and identity don't disappear quietly, and that protecting wildlife often means navigating deeply held beliefs. The hunt isn't banned permanently—future licenses remain possible—but for now, the cliffs of Sula Sgeir will be quieter this summer, and a tradition as old as memory faces an uncertain future.</description>
-      <source url="https://www.theguardian.com/environment/2026/aug/03/scottish-seabird-hunt-cancelled-for-first-time-in-400-years">The Guardian</source>
     </item>
   </channel>
 </rss>
