@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 22:03:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 00:03:01 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How Japan’s racehorses find second careers away from the track</title>
+      <link>https://www.japantimes.co.jp/life/2026/08/08/lifestyle/horse-racing-retired-therapy-animal-welfare/</link>
+      <guid isPermaLink="false">https://www.japantimes.co.jp/life/2026/08/08/lifestyle/horse-racing-retired-therapy-animal-welfare/</guid>
+      <pubDate>Sat, 08 Aug 2026 00:03:00 GMT</pubDate>
+      <description>Japan's horse racing industry is experiencing remarkable success while other countries see declining interest. In 2025, tracks managed by the Japan Racing Association generated ¥3.5 trillion (approximately $21.5 billion), supported by nearly 9,000 registered racehorses competing across almost 300 official race days. This thriving industry draws both serious bettors and casual spectators, making horse racing one of Japan's three forms of legalized gambling alongside pachinko and keirin cycling.
+
+However, the competitive nature of the sport means many horses face uncertain futures. According to equestrian instructor and handler Hiroko Kawaguchi, horses that haven't achieved victory by their third summer often find themselves reassigned to regional circuits, switched to different race types, or retired altogether. While some successful horses transition to breeding programs, many others face a grimmer fate—processed for meat for human or animal consumption.
+
+This story offers a sobering look behind the glamour of Japan's racing industry, revealing the delicate balance between sporting success and the practical realities facing thousands of animals each year. It quietly raises questions about what happens to the athletes—equine or otherwise—who don't make the cut, and reminds us that even in thriving industries, not every participant shares equally in the success. The piece invites reflection on how societies might create more sustainable pathways for animals whose competitive careers end early.</description>
+      <source url="https://www.japantimes.co.jp/life/2026/08/08/lifestyle/horse-racing-retired-therapy-animal-welfare/">The Japan Times</source>
+    </item>
     <item>
       <title>After 67 years, Brisbane's Centenary Pool to close for major Olympic upgrade</title>
       <link>https://www.abc.net.au/news/2026-08-08/queensland-brisbane-centenary-pool-memories/106947664</link>
@@ -594,18 +606,6 @@ NatureScot's decision rests on new population modeling suggesting the hunt could
 
 This story offers a window into the tension between conservation science, cultural tradition, and modern advocacy. It's a reminder that practices rooted in survival and identity don't disappear quietly, and that protecting wildlife often means navigating deeply held beliefs. The hunt isn't banned permanently—future licenses remain possible—but for now, the cliffs of Sula Sgeir will be quieter this summer, and a tradition as old as memory faces an uncertain future.</description>
       <source url="https://www.theguardian.com/environment/2026/aug/03/scottish-seabird-hunt-cancelled-for-first-time-in-400-years">The Guardian</source>
-    </item>
-    <item>
-      <title>Nicaragua’s gold boom is now encroaching on protected areas and Indigenous land</title>
-      <link>https://news.mongabay.com/2026/08/nicaraguas-gold-boom-is-now-encroaching-on-protected-areas-and-indigenous-land/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/08/nicaraguas-gold-boom-is-now-encroaching-on-protected-areas-and-indigenous-land/</guid>
-      <pubDate>Mon, 03 Aug 2026 16:03:53 GMT</pubDate>
-      <description>Nicaragua is experiencing an unprecedented mining boom that has begun to threaten protected areas and Indigenous territories. Since 1994, the country has granted 213 mining concessions covering roughly 20% of its total land area, but more than half of these—113 concessions—have been issued just since 2022. The rapid expansion comes as Nicaragua, increasingly isolated by international sanctions against President Daniel Ortega's government, has turned to gold exports as an economic lifeline.
-
-The growth has been dramatic: gold exports surged from 109,200 ounces worth $55 million in 2006 to 473,700 ounces worth $1.9 billion in 2024, making it a cornerstone of the national economy. Chinese investment has played a significant role in this expansion. The government has streamlined regulations and signed trade agreements to accelerate mining development, but the pace has become so rapid that the Ministry of Energy and Mines has already exceeded its own projections by more than 40,000 hectares, creating uncertainty about where future concessions might appear.
-
-For Indigenous communities living in these regions, the consequences are far-reaching. A new investigation by Wangki, a community-based Indigenous group, documents how mining operations bring pollution and deforestation that threaten ancestral traditions, subsistence farming, and access to clean water. Residents express growing concern about concessions appearing on their land without warning or consultation. This story offers a window into how economic pressures and political isolation can reshape a landscape—and the lives of those who have called it home for generations—at a pace that leaves communities scrambling to understand what comes next.</description>
-      <source url="https://news.mongabay.com/2026/08/nicaraguas-gold-boom-is-now-encroaching-on-protected-areas-and-indigenous-land/">Mongabay</source>
     </item>
   </channel>
 </rss>
