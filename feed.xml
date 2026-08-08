@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 02:02:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 04:03:19 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Iconic WA whitewater course shortened to avoid 'running race'</title>
+      <link>https://www.abc.net.au/news/2026-08-08/shortened-avon-descent-whitewater-race-course-northam-wa/107008740</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-08-08/shortened-avon-descent-whitewater-race-course-northam-wa/107008740</guid>
+      <pubDate>Sat, 08 Aug 2026 04:03:18 GMT</pubDate>
+      <description>The southern hemisphere's longest whitewater race has adapted to an unexpected challenge this year. The Avon Descent, a grueling two-day event that typically spans 124 kilometers from Northam to Bayswater in Western Australia, has been shortened by 17 kilometers due to remarkably low river levels. Northam recorded its driest July in nearly 150 years, receiving just 12.2 millimeters of rain against a usual average of 81.3mm.
+
+Organizers made the decision to move the starting line downstream to Katrine Crossing, concerned that without adequate water, the opening stretch would become more of a "running race" — with competitors literally carrying their craft over dry riverbed — than the whitewater challenge it's meant to be. This marks only the fourth time since the race began in 1973 that such an adjustment has been necessary. Despite the altered course, more than 300 competitors registered, representing a 10 percent increase in entries. Defending champions acknowledged the disappointment but embraced the challenge, while local officials noted that the race's resilience in any conditions has become part of its identity.
+
+This story offers a glimpse into how endurance sporting events navigate the realities of a changing climate, balancing tradition with pragmatism. The Avon Descent's ability to adapt while maintaining its spirit — and even attracting more participants — speaks to both the dedication of the whitewater community and the creativity required when nature doesn't cooperate. It's a quiet reminder that even beloved annual traditions must sometimes bend without breaking.</description>
+      <source url="https://www.abc.net.au/news/2026-08-08/shortened-avon-descent-whitewater-race-course-northam-wa/107008740">ABC Australia</source>
+    </item>
     <item>
       <title>'Māori data in Māori hands': Experts want Google to adhere to data sovereignty principles</title>
       <link>https://www.rnz.co.nz/news/te-manu-korihi/934607/maori-data-in-maori-hands-experts-want-google-to-adhere-to-data-sovereignty-principles</link>
@@ -594,18 +606,6 @@ For decades, biologists knew that naked mole rats are eusocial, living in highly
 
 This discovery reveals that naked mole rat queens wield what researchers call a "super contraceptive"—a fragrance-based birth control system that temporarily suppresses fertility in their subjects. It's a quietly remarkable example of how nature engineers complex social structures through elegant chemical solutions, offering insights into mammalian biology that challenge our assumptions about dominance, reproduction, and the surprising power of scent.</description>
       <source url="https://www.bbc.com/portuguese/articles/c0m74mljrzeo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
-    </item>
-    <item>
-      <title>Breastmilk research could protect against deadly respiratory infections in babies</title>
-      <link>https://www.abc.net.au/news/2026-08-04/qld-breastmilk-research-respiratory-infections/106989944</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-08-04/qld-breastmilk-research-respiratory-infections/106989944</guid>
-      <pubDate>Mon, 03 Aug 2026 20:01:48 GMT</pubDate>
-      <description>Scientists at the QIMR Berghofer Medical Research Institute in Australia have uncovered how a protein naturally present in breastmilk helps shield infants from dangerous respiratory infections. The five-year international study, published in the journal Cell, focused on osteopontin, a protein found in particularly high concentrations in early breastmilk. While researchers have long known that breastfeeding protects babies and that osteopontin levels are elevated after birth, the mechanism behind this protection remained unclear until now.
-
-Led by immunologist Simon Phipps, the team compared baby mice given osteopontin from cow's milk with those who weren't. The mice receiving the protein developed stronger immune defenses against respiratory infections. The researchers discovered that osteopontin works by altering the gut microbiome, changing how bacteria produce certain chemicals that then signal cells in organs like the lungs to boost immune system development. In an intriguing twist, the study also found that a drug currently used for type 2 diabetes could trigger similar immune responses in mice.
-
-This research offers potential pathways for improving commercial infant formulas, and the laboratory is already in discussions with formula manufacturers. The study was partly funded by Nestle and Australia's National Health and Medical Research Council. Still, experts emphasize that the greatest benefits for mothers and babies will likely come from better access to breastfeeding support. The discovery illuminates one of nature's elegant systems for protecting vulnerable newborns, revealing how a single protein can orchestrate complex biological processes that prepare an infant's immune system for the world beyond the womb.</description>
-      <source url="https://www.abc.net.au/news/2026-08-04/qld-breastmilk-research-respiratory-infections/106989944">ABC Australia</source>
     </item>
   </channel>
 </rss>
