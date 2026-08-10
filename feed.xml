@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 16:03:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 18:01:35 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Measles returns to spark alert in Brazil: who needs to get vaccinated? See questions and answers about the disease</title>
+      <link>https://www.bbc.com/portuguese/articles/cm2g4kmvpxjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/cm2g4kmvpxjo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Mon, 10 Aug 2026 18:01:33 GMT</pubDate>
+      <description>Brazil is experiencing a renewed measles alert, with 24 confirmed cases reported as of early February—23 in São Paulo state and one in Rio de Janeiro. The resurgence comes amid a broader measles outbreak across the Americas, including the largest surge in the United States in 35 years. Health experts point to declining vaccination rates, fueled partly by misinformation and anti-vaccine movements, as the primary reason the virus has regained a foothold in communities with insufficient immunity.
+
+Brazil only recently regained its measles elimination certification in 2024, and while the current case count is far lower than outbreaks in other countries, officials are taking the situation seriously. The cases have been traced to imported infections, many linked to international travel, including Brazilians returning from the World Cup in countries with higher case numbers. In response, cities like São Paulo, Guarulhos, and São Bernardo do Campo are offering measles vaccines to everyone aged six months to 59 years, regardless of vaccination history, to break potential transmission chains.
+
+The story offers a window into how infectious diseases respect no borders and how quickly progress can be reversed without vigilant public health measures. Measles is not a mild illness—it spreads with remarkable ease, and the virus can cause serious complications affecting the lungs and nervous system. As international travel rebounds, this quiet alarm in Brazil underscores the importance of maintaining high vaccination coverage to protect communities and preserve hard-won public health achievements.</description>
+      <source url="https://www.bbc.com/portuguese/articles/cm2g4kmvpxjo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Dogs can distinguish between fearful and angry or sad human faces, brain scans suggest</title>
       <link>https://www.theguardian.com/world/2026/aug/10/dogs-distinguish-fearful-angry-sad-human-faces-brain-scans</link>
@@ -594,18 +606,6 @@ The research, published in Science Translational Medicine, builds on earlier obs
 
 This story matters because it opens a window into how the microscopic communities living inside us might shape our immune responses in ways we're only beginning to understand. For people living with severe food allergies, the prospect of treatment beyond strict avoidance is quietly remarkable. The research is still early, and a larger trial is underway, but it suggests that the path to tolerance might one day run through the gut.</description>
       <source url="https://g1.globo.com/saude/noticia/2026/08/06/transplante-de-fezes-faz-seis-pessoas-superarem-alergia-grave-a-amendoim-e-abre-esperanca-para-pacientes.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>On a Philippine beach, villagers are stepping up to save sea turtle nests</title>
-      <link>https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/</guid>
-      <pubDate>Thu, 06 Aug 2026 10:03:28 GMT</pubDate>
-      <description>On the beaches of San Vicente in the Philippines' Palawan province, a dedicated group of villagers is working to protect olive ridley sea turtles during their most vulnerable moments. The beaches serve as crucial nesting grounds, but the turtles face mounting threats from stray dogs, tourism development, and increasingly severe weather that can flood their nests. In response, the conservation group LAMAVE has partnered with local residents to patrol more than 8 kilometers of coastline through the night, watching over nesting mothers and rescuing their eggs.
-
-When patrollers encounter a nesting turtle, they guard her from dogs, then measure and photograph her for identification before she returns to the sea. The eggs are carefully relocated to protected hatcheries, a step researchers consider essential since nests left on the beach are almost always destroyed by predators or flooding. The hatcheries achieve about 75% hatching success—close to the 80% or higher seen on pristine beaches. The transformation among locals has been profound: patrol leader Jerald Mahusay, who once played with turtle eggs as a child, now serves as a research assistant helping to safeguard the next generation of turtles. LAMAVE also works with residents to manage free-roaming dogs, building enclosures to prevent attacks.
-
-This story offers a quiet reminder that conservation often succeeds not through grand gestures but through patient, community-led effort. As luxury resorts plan expansions covering hundreds of hectares, the villagers' nighttime vigils represent both immediate hope and a longer vision—one where, as project leader Kalei Suza notes, beaches can once again be safe enough for mother turtles to nest naturally, without human intervention.</description>
-      <source url="https://news.mongabay.com/short-article/2026/08/on-a-philippine-beach-villagers-are-stepping-up-to-save-sea-turtle-nests/">Mongabay</source>
     </item>
   </channel>
 </rss>
