@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 10:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 12:04:00 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>August will have two eclipses, but only one can be seen from Brazil</title>
+      <link>https://g1.globo.com/ciencia/noticia/2026/08/10/agosto-tera-dois-eclipses-mas-so-um-deles-podera-ser-visto-do-brasil.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/ciencia/noticia/2026/08/10/agosto-tera-dois-eclipses-mas-so-um-deles-podera-ser-visto-do-brasil.ghtml</guid>
+      <pubDate>Mon, 10 Aug 2026 12:03:58 GMT</pubDate>
+      <description>August brings a rare celestial double feature: two eclipses within the same month, each visible from different parts of the world. While a total solar eclipse will grace the Northern Hemisphere on August 12th, it's the second event—a partial lunar eclipse on August 28th—that will capture the attention of skywatchers across Brazil and much of the Americas, Europe, and Africa.
+
+The solar eclipse occurs when the Moon positions itself precisely between the Sun and Earth, casting its shadow across the planet. This month's total eclipse will trace a path across Greenland, Iceland, northern Russia, Spain, and a small portion of Portugal, with partial views available across much of Europe. Unfortunately for South American observers, the phenomenon won't be visible at all from Brazil. But the lunar eclipse later in the month offers everyone a chance to participate. Beginning at 1 a.m. local time on August 28th, the event will be visible to the naked eye throughout all Brazilian states, requiring no special equipment or travel to remote viewing locations.
+
+This story reminds us that the universe operates on its own schedule, occasionally offering us two celestial performances in a single month. While one eclipse passes by unseen, the other arrives as an invitation—a chance to look up in the predawn darkness and witness Earth's shadow gently crossing the Moon's face, connecting observers across continents in a shared moment of wonder.</description>
+      <source url="https://g1.globo.com/ciencia/noticia/2026/08/10/agosto-tera-dois-eclipses-mas-so-um-deles-podera-ser-visto-do-brasil.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Boa constrictor rescued by firefighters from inside speaker in Ceará; video</title>
       <link>https://g1.globo.com/ce/ceara/noticia/2026/08/10/jiboia-e-resgatada-pelos-bombeiros-dentro-de-caixa-de-som-no-ceara-video.ghtml</link>
@@ -594,18 +606,6 @@ The impact occurred near the moon's terminator line, where sunlight meets shadow
 
 This story is worth attention not for spectacle, but for what it reveals about our growing presence in space. As NASA prepares for sustained human activity on the moon, understanding the behavior and hazards of artificial debris becomes essential. What began as discarded hardware from a January 2025 launch carrying lunar landers has become an unintended experiment—one that offers practical insights into space debris impacts while reminding us that even our refuse can teach us something about the cosmos and our place within it.</description>
       <source url="https://www.theguardian.com/science/2026/aug/06/spacex-rocket-crash-into-moon-impact">The Guardian</source>
-    </item>
-    <item>
-      <title>The trade-off between te reo Māori and big tech companies</title>
-      <link>https://www.rnz.co.nz/news/te-manu-korihi/905548/the-trade-off-between-te-reo-maori-and-big-tech-companies</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/te-manu-korihi/905548/the-trade-off-between-te-reo-maori-and-big-tech-companies</guid>
-      <pubDate>Thu, 06 Aug 2026 04:02:07 GMT</pubDate>
-      <description>For decades, Māori place names have been mispronounced by global technology platforms, a source of ongoing frustration for te reo Māori speakers. That began to change in July when Google and Te Taura Whiri i te Reo Māori launched an AI-powered text-to-speech tool for Google Maps that can correctly pronounce cities and towns with Māori names. University of Waikato professor Te Taka Keegan, who previously worked with Google on language tools, describes the pronunciation as "beautiful" and "ngāwari" (gentle), designed to draw listeners in through subtlety rather than force.
-
-The project represents an unusual arrangement between a tech giant and Indigenous language guardians. Te Taura Whiri retains guardianship of the Māori lexicon, while Google has been granted a license to use it specifically for text-to-speech purposes. Māori intellectual property rights over the language data are preserved—a rare outcome in collaborations with big tech. Google's New Zealand Country Director Caroline Rainsford emphasized that the company doesn't want to own the models, and plans call for a group of interested parties to eventually become data guardians, ensuring academics, researchers, and local communities can access and benefit from the work.
-
-Keegan acknowledges the inherent tensions in working with profit-driven corporations whose priorities differ from those of language activists, yet he views this as one of the first times a major international company has treated Māori data with genuine respect. The tool is primarily aimed at non-Māori speakers who, after hearing correct pronunciations just a few times, may begin saying place names properly. This story matters because it shows how Indigenous communities can engage with powerful technology companies on their own terms, protecting cultural sovereignty while creating tools that might quietly transform how an entire nation speaks.</description>
-      <source url="https://www.rnz.co.nz/news/te-manu-korihi/905548/the-trade-off-between-te-reo-maori-and-big-tech-companies">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
