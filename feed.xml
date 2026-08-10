@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 02:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 04:02:00 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Italy’s record-low Po River forces farmers to weigh crop switch</title>
+      <link>https://www.japantimes.co.jp/environment/2026/08/10/climate-change/italy-po-river-farmers-crop/</link>
+      <guid isPermaLink="false">https://www.japantimes.co.jp/environment/2026/08/10/climate-change/italy-po-river-farmers-crop/</guid>
+      <pubDate>Mon, 10 Aug 2026 04:01:59 GMT</pubDate>
+      <description>Italy's Po River, the lifeblood of the country's industrial heartland, is swinging between devastating extremes as climate change disrupts centuries of predictable water supply. The 652-kilometer waterway, which rises in the Alps and flows to the Adriatic, supports nearly 41% of Italy's GDP and a third of its agricultural output. Now, farmers like Massimo Salvagnin face an unsettling calculation: whether planting seeds will result in crops or simply cook them in superheated soil.
+
+The river recently fell to a record low at Cremona, dropping below even the severe 2022 drought mark, with flow reduced to less than a third of normal levels. Yet the challenge isn't only drought. Spring snowmelt can send 10 billion cubic meters of water past Ferrara in under two weeks, while months later the same region scrambles for every drop. Infrastructure manager Stefano Calderoni operates 4,200 kilometers of canals and 160 pumps to manage farmland reclaimed from marshes, much of it below sea level. The system was designed for nature's predictable rhythms, not today's volatile swings between flood and drought.
+
+This story offers a window into how climate change is quietly rewriting the rules for regions built on assumptions of stability. It's not about distant projections or abstract models, but about a farmer standing in his field, seeds in hand, forced to gamble on whether the ground itself has become too hostile for life to take root. The Po's transformation speaks to a broader question facing communities everywhere: how to adapt systems designed for one climate reality to survive in another.</description>
+      <source url="https://www.japantimes.co.jp/environment/2026/08/10/climate-change/italy-po-river-farmers-crop/">The Japan Times</source>
+    </item>
     <item>
       <title>After decades of pleas, fallen miners from a historic mine will be memorialised</title>
       <link>https://www.abc.net.au/news/2026-08-10/mount-isa-miners-memorial-funded-after-30-years-of-advocacy/107015488</link>
@@ -594,18 +606,6 @@ The idea struck Blumstein while waiting in a meadow for his subjects to emerge. 
 
 This story is a quiet reminder that creativity can emerge from crisis. While OnlyMarms may not fully replace lost federal support, it illustrates how scientists are finding novel ways to sustain essential long-term research and engage the public with the natural world—one chunky, grumpy marmot at a time.</description>
       <source url="https://www.bbc.co.uk/news/articles/c5ywqp5z5yzo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Unprecedented video: ocelot invades burrow and preys on giant armadillo pup in the Cerrado</title>
-      <link>https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/05/video-inedito-mostra-jaguatirica-invadindo-toca-e-predando-filhote-de-tatu-canastra-no-cerrado.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/05/video-inedito-mostra-jaguatirica-invadindo-toca-e-predando-filhote-de-tatu-canastra-no-cerrado.ghtml</guid>
-      <pubDate>Wed, 05 Aug 2026 20:03:50 GMT</pubDate>
-      <description>For the first time, researchers in Brazil's Cerrado have captured footage of an ocelot breaking into a giant armadillo's burrow and preying on an eleven-day-old pup. The remarkable video, recorded by camera traps installed by the Institute for the Conservation of Wild Animals, reveals a previously unknown threat to one of South America's most vulnerable species. Until now, scientists believed the greatest danger to giant armadillo offspring occurred only when mothers moved their young between burrows every few weeks.
-
-The incident unfolded over two nights at a breeding burrow in Mato Grosso do Sul. Each time the mother left to forage, she carefully sealed the entrance with sand, using her front paws to pull dirt, her back legs to compact it, and pressing her head shield against the opening. Yet the ocelot, identified by its unique spot pattern, returned persistently. On the second night, after four minutes of digging, the cat broke through and emerged carrying the pup. The mother armadillo later returned and searched for her offspring, continuing to visit the burrow almost nightly for weeks before finally abandoning it.
-
-This discovery carries significant weight for conservation. Giant armadillos have one of the lowest reproductive rates among South American mammals—females don't reach maturity until age six to eight, give birth to only one pup every three years, and nurse their young for up to eight months. Each loss matters deeply when population growth is measured in single births across years. The footage offers a quiet but essential reminder that even in their most fortified refuges, rare species face challenges scientists are only beginning to understand.</description>
-      <source url="https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/05/video-inedito-mostra-jaguatirica-invadindo-toca-e-predando-filhote-de-tatu-canastra-no-cerrado.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
