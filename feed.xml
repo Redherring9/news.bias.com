@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 20:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 22:02:50 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Yarning circles raise concerns about repetition of Stolen Generations</title>
+      <link>https://www.abc.net.au/news/2026-08-11/solution-to-repetition-of-stolen-generations-aboriginal-children/107009486</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-08-11/solution-to-repetition-of-stolen-generations-aboriginal-children/107009486</guid>
+      <pubDate>Mon, 10 Aug 2026 22:02:49 GMT</pubDate>
+      <description>In South Australia, nearly 40 percent of children in out-of-home care are Aboriginal, despite Aboriginal people making up a small fraction of the population. Carers and community members are raising alarm that this disproportionate representation echoes the trauma of the Stolen Generations, particularly as many children are losing connection to their culture, language, and land. South Australia has the second-highest rate of children in out-of-home care nationally, and Aboriginal children there are placed in care at a rate significantly higher than the national average.
+
+An Aboriginal-led organization called KWY has launched a four-year research project, Wilto Willo—meaning "spring star" in the Kaurna language—to gather community voices and develop solutions. Through yarning circles in Port Lincoln, Port Augusta, and Adelaide, about 200 carers have shared their experiences. They report systemic issues including high staff turnover, fly-in fly-out workers, long waits for medical and psychological assessments, and a failure to follow Aboriginal placement principles, which prioritize keeping children connected to family and culture. Some children have gone six months without a support worker, and many have been placed in non-Indigenous homes where they've had little opportunity to learn their heritage or visit country.
+
+This story matters because it highlights an urgent question: despite policies aimed at closing the gap and protecting Aboriginal children's rights, why are the numbers worsening? The research suggests that most child protection funding goes toward intervening after harm, rather than preventing it. By centering Aboriginal voices and community-led solutions, Wilto Willo offers a path forward—one that honors identity, belonging, and the hard lessons of history.</description>
+      <source url="https://www.abc.net.au/news/2026-08-11/solution-to-repetition-of-stolen-generations-aboriginal-children/107009486">ABC Australia</source>
+    </item>
     <item>
       <title>Quitting dream job over climate fears a 'no-brainer' for former pilot</title>
       <link>https://www.abc.net.au/news/2026-08-11/eltham-pilot-turned-baker-quit-flying-for-climate-change-vic/106945332</link>
@@ -594,18 +606,6 @@ The business model was as ambitious as it was shaky. With an Indiegogo campaign 
 
 This story offers a sobering meditation on the gap between Silicon Valley-style disruption rhetoric and the monumental challenges of space colonization. It also raises a deeply human question: what drives someone to volunteer for a journey with no return, no familiar comforts, and constant surveillance? Beyond the spectacle, the piece invites readers to consider whether the future of human exploration lies in genuine scientific progress or simply our endless appetite for doing improbable things in improbable places—and whether anyone would actually want to watch the unglamorous, dangerous daily reality of life on Mars.</description>
       <source url="https://www.theguardian.com/books/2026/aug/07/tech-barons-dream-of-human-colonies-on-mars-but-i-cant-think-of-a-worse-place-to-die">The Guardian</source>
-    </item>
-    <item>
-      <title>The Island of Lepers: In Japan, the Dark History of Nagashima</title>
-      <link>https://www.france24.com/fr/%C3%A9missions/focus/20260806-%C3%AEle-des-l%C3%A9preux-japon-histoire-sombre-nagashima</link>
-      <guid isPermaLink="false">https://www.france24.com/fr/%C3%A9missions/focus/20260806-%C3%AEle-des-l%C3%A9preux-japon-histoire-sombre-nagashima</guid>
-      <pubDate>Thu, 06 Aug 2026 14:03:30 GMT</pubDate>
-      <description>On the Japanese island of Nagashima lies a chapter of history that remains largely unknown, even to many Japanese citizens themselves. In the 1930s, as Japan confronted the spread of leprosy—an infectious disease that damages nerves and disfigures the body—the government responded by isolating patients in sanatoriums. Nagashima became one of these islands of confinement, where thousands were sent away from their families and communities.
-
-What makes this story particularly haunting is not just the initial policy, but its extraordinary duration. Even after effective treatments for leprosy emerged in the late 1940s, curing patients of the disease, Japan continued to keep these individuals locked away. The government did not abolish its isolation policy until 1996—nearly half a century after the medical justification had vanished. Generations of people spent their entire adult lives confined, cured but not freed, their stories buried beneath decades of silence and stigma.
-
-Today, the survivors of Nagashima are elderly, their numbers dwindling. This story matters because it reveals how fear and misunderstanding can outlast science, and how institutional policies can persist long after their purpose has ended. It's a quiet reminder of the human cost of isolation, and the importance of remembering histories that societies would prefer to forget. For those who lived through it, speaking now offers a chance to ensure their experiences are not lost to time.</description>
-      <source url="https://www.france24.com/fr/%C3%A9missions/focus/20260806-%C3%AEle-des-l%C3%A9preux-japon-histoire-sombre-nagashima">France 24</source>
     </item>
   </channel>
 </rss>
