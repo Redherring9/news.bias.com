@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 04:03:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 06:05:32 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rare piglet the size of 'a grapefruit with legs' born at zoo</title>
+      <link>https://www.bbc.co.uk/news/articles/cr591lz48dro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr591lz48dro?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Wed, 12 Aug 2026 06:03:51 GMT</pubDate>
+      <description>A tiny babirusa piglet named Rana has made her public debut at Chester Zoo, offering a glimmer of hope for a species teetering on the brink of extinction. When she was born, keepers described her as roughly the size of a grapefruit with legs—a fitting image for one of nature's more unusual creatures. Babirusas, known as "pig-deer" in Malay due to their distinctive appearance, are found on only four Indonesian islands and face catastrophic decline in the wild, primarily due to African swine fever that reached their habitat five years ago.
+
+Unlike most pigs, babirusas typically give birth to just one or two offspring at a time rather than large litters, making population recovery painfully slow. New mothers are also highly sensitive to disturbance, so keepers monitored Rana and her mother Matano remotely until they were ready for visitors. Matano herself was born at Chester Zoo eleven years ago and now has descendants across Europe, representing an important genetic safety net. The species, long classified as vulnerable, is being upgraded to critically endangered—a sobering reflection of how quickly their situation has deteriorated.
+
+Beyond their quirky looks—males sport upper tusks that curve dramatically back toward their faces—babirusas play a crucial ecological role. As they forage, they disperse seeds that aid forest regeneration, making them vital to the health of island ecosystems. Conservationists describe Rana as a lifeline for her species and emphasize that her birth represents a race against time to prevent the loss of one of the oldest pig species still living. It's a quiet reminder that even the most charismatic and culturally significant creatures can vanish if we're not paying attention.</description>
+      <source url="https://www.bbc.co.uk/news/articles/cr591lz48dro?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>‘It’s going to be spectacular’: Millions flock to Spain seeking best view of total solar eclipse</title>
       <link>https://www.theguardian.com/science/2026/aug/12/its-going-to-be-spectacular-millions-flock-to-spain-seeking-best-view-of-total-solar-eclipse</link>
@@ -594,18 +606,6 @@ Organizers made the decision to move the starting line downstream to Katrine Cro
 
 This story offers a glimpse into how endurance sporting events navigate the realities of a changing climate, balancing tradition with pragmatism. The Avon Descent's ability to adapt while maintaining its spirit — and even attracting more participants — speaks to both the dedication of the whitewater community and the creativity required when nature doesn't cooperate. It's a quiet reminder that even beloved annual traditions must sometimes bend without breaking.</description>
       <source url="https://www.abc.net.au/news/2026-08-08/shortened-avon-descent-whitewater-race-course-northam-wa/107008740">ABC Australia</source>
-    </item>
-    <item>
-      <title>'Māori data in Māori hands': Experts want Google to adhere to data sovereignty principles</title>
-      <link>https://www.rnz.co.nz/news/te-manu-korihi/934607/maori-data-in-maori-hands-experts-want-google-to-adhere-to-data-sovereignty-principles</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/te-manu-korihi/934607/maori-data-in-maori-hands-experts-want-google-to-adhere-to-data-sovereignty-principles</guid>
-      <pubDate>Sat, 08 Aug 2026 02:02:46 GMT</pubDate>
-      <description>A groundbreaking partnership between Google and New Zealand's Māori Language Commission has sparked important conversations about who controls indigenous data. In July, the two organizations launched an AI-powered text-to-speech model that correctly pronounces Māori place names in Google Maps—a technological first that also established an unusual precedent: the indigenous language data remains under Māori guardianship, even as Google holds a license to use it.
-
-The arrangement represents a rare instance where a major tech company has agreed to relinquish ownership of the underlying data it uses. While Google retains the algorithms and technology, the intellectual property for the actual Māori language recordings stays with Te Taura Whiri i te Reo Māori, the language commission. Māori tech experts see this as a positive step, but believe the data should ultimately move to Māori-controlled storage rather than remaining with a government organization. Te Kāhui Raraunga, which advocates for Māori data sovereignty, has already launched Te Pā Tūwatawata—a decentralized storage network designed specifically to safeguard indigenous data according to Māori principles of guardianship and kinship.
-
-This story illuminates a critical question arising at the intersection of technology and indigenous rights: who should control the data that represents a culture's language, knowledge, and identity? As AI systems increasingly rely on cultural and linguistic data, the Māori approach—rooted in the principle of kaitiakitanga, or guardianship—offers a thoughtful model that balances technological innovation with cultural sovereignty. It's a quiet but significant shift in how we might think about data ownership in an interconnected world.</description>
-      <source url="https://www.rnz.co.nz/news/te-manu-korihi/934607/maori-data-in-maori-hands-experts-want-google-to-adhere-to-data-sovereignty-principles">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
