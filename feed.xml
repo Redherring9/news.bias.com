@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 00:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 02:04:09 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Research uncovers what determines flavour of Australian chocolate</title>
+      <link>https://www.abc.net.au/news/2026-08-14/australian-cocoa-and-chocolate-flavour-comes-from-fermentation/107029174</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-08-14/australian-cocoa-and-chocolate-flavour-comes-from-fermentation/107029174</guid>
+      <pubDate>Fri, 14 Aug 2026 02:04:07 GMT</pubDate>
+      <description>Australian researchers have uncovered a surprising twist in what makes chocolate taste the way it does: the location where cocoa beans are fermented matters even more than the cocoa plant variety itself. In trials conducted across three Far North Queensland sites—Mossman, Fishery Falls, and Mission Beach—scientists found that fermentation location could account for nearly half of a chocolate bar's final flavor profile, with each region producing distinctly different tastes.
+
+The secret lies in the microorganisms naturally present in each environment. During fermentation, these tiny organisms produce metabolites that create flavor precursors, eventually transforming into notes ranging from fruity to chocolatey to buttery. Because Australian cocoa fermentation relies on naturally occurring microbes rather than controlled yeast strains, the local environment plays an outsized role. The Mossman beans developed fruity notes, Mission Beach cocoa emerged more traditionally chocolatey, and Fishery Falls fell somewhere between. University of Queensland food chemist Marlize Bekker explained that these environmental microorganisms and their metabolic processes are the key drivers behind the regional variation.
+
+This discovery could reshape how Australian chocolate is marketed and enjoyed. Industry leaders envision a future where chocolate carries regional designations similar to wine appellations, allowing consumers to choose based on terroir-driven flavor profiles. For Australia's emerging premium cocoa industry, this research offers both scientific validation and commercial opportunity—a way to justify premium pricing while celebrating the distinct character that comes from a specific place and its invisible microbial residents. It's a quiet reminder that flavor is as much about location and process as it is about the raw ingredient itself.</description>
+      <source url="https://www.abc.net.au/news/2026-08-14/australian-cocoa-and-chocolate-flavour-comes-from-fermentation/107029174">ABC Australia</source>
+    </item>
     <item>
       <title>Survivors Reunite with Pets After Earthquake in Colombia</title>
       <link>https://g1.globo.com/mundo/noticia/2026/08/13/sobreviventes-reencontram-animais-de-estimacao-apos-terremoto-na-colombia.ghtml</link>
@@ -594,18 +606,6 @@ The schools were chosen based on specific energy challenges: they're either expe
 
 This story matters because it represents a practical intersection of environmental action and community support. By installing solar panels on school buildings, the programme addresses immediate financial pressures on educational institutions while building renewable energy infrastructure where it can benefit young people directly. The initiative also promises to support regional businesses and help develop local solar industry expertise, creating ripple effects beyond the schoolyard fence. It's a reminder that climate solutions can be quietly pragmatic—reducing both carbon emissions and budget strain in one carefully planned move.</description>
       <source url="https://www.rnz.co.nz/news/political/950575/first-500-schools-to-benefit-from-solar-in-schools-programme-announced">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Divers find Roman ship over 2,000 years old off the coast of Sicily</title>
-      <link>https://g1.globo.com/mundo/noticia/2026/08/09/mergulhadores-encontram-navio-romano-com-mais-de-2-mil-anos-na-costa-da-sicilia.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/mundo/noticia/2026/08/09/mergulhadores-encontram-navio-romano-com-mais-de-2-mil-anos-na-costa-da-sicilia.ghtml</guid>
-      <pubDate>Sun, 09 Aug 2026 22:01:47 GMT</pubDate>
-      <description>Off the western coast of Sicily, a local fisherman and diver named Giacomo De Mola recently stumbled upon what he initially thought was just another rock on the seafloor. Swimming closer through murky water at a depth of 46 meters, he realized he was looking at something far more remarkable: hundreds of ancient amphoras resting silently on the seabed. Italian authorities have confirmed the discovery of a Roman shipwreck estimated to be at least 2,100 years old, dating somewhere between the 2nd and 1st centuries BCE. The vessel, found roughly three nautical miles from the town of Mazara del Vallo, measures about 21 meters long and 6 meters wide.
-
-The wreck is laden with ceramic jars—primarily Dressel 1A amphoras, tall cylindrical vessels typically used for transporting wine—as well as Lamboglia 2 amphoras likely originating from North Africa and a neo-Punic amphora. Italy's Ministry of Culture has classified the site as a significant underwater archaeological discovery, and regional authorities will continue detailed analysis to uncover more about the ship's story and cargo. Culture Minister Alessandro Giuli noted that the Mediterranean continues to reveal precious fragments of history, offering glimpses into the peoples, trade routes, and exchanges that made the sea a crossroads of civilizations.
-
-This discovery matters because it offers a tangible link to the commercial networks that stitched together the ancient Mediterranean world. The quiet persistence of these artifacts, sleeping beneath the waves for over two millennia, reminds us that history often rests just beyond our everyday view, waiting for a curious eye and a moment of clarity to bring it back to light.</description>
-      <source url="https://g1.globo.com/mundo/noticia/2026/08/09/mergulhadores-encontram-navio-romano-com-mais-de-2-mil-anos-na-costa-da-sicilia.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
