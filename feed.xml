@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 02:04:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 04:02:05 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>83-year-old VTuber posts wartime stories of Manchuria</title>
+      <link>https://www.japantimes.co.jp/news/2026/08/14/japan/society/83-year-old-vtuber-wartime-memories/</link>
+      <guid isPermaLink="false">https://www.japantimes.co.jp/news/2026/08/14/japan/society/83-year-old-vtuber-wartime-memories/</guid>
+      <pubDate>Fri, 14 Aug 2026 04:02:04 GMT</pubDate>
+      <description>At 83, Kuniko Asai has found an unexpected medium for preserving history: she's a VTuber—a virtual YouTuber represented by an animated character—who shares wartime stories from Manchuria. Operating her channel "Manshu bachan" (Manchuria grandma) from Kanazawa, Japan, Asai appears as a bespectacled cat to recount experiences from World War II and the subsequent repatriation of Japanese people from northeastern China, where she was born.
+
+Asai handles every aspect of video production herself, from research to filming, drawing on family stories and historical documents to explain the history of Manchuria and the lived experiences of those who returned to Japan. Her approach bridges a significant generational gap: as firsthand memories of the war era fade, she's translating them into a format designed for younger, digitally native audiences. The VTuber format, typically associated with entertainment and gaming content, becomes a vehicle for historical preservation.
+
+What makes Asai's work quietly remarkable is the thoughtful collision of old and new it represents. She's taking some of the most painful chapters of twentieth-century history and presenting them through one of the internet's most contemporary storytelling forms. Her dedication—now three years into the project—speaks to a deep commitment to memory and education. In an age when historical events can feel distant or abstract, Asai's "Manchuria grandma" offers something personal and accessible, ensuring that stories of displacement, return, and survival don't disappear with the generation that lived them.</description>
+      <source url="https://www.japantimes.co.jp/news/2026/08/14/japan/society/83-year-old-vtuber-wartime-memories/">The Japan Times</source>
+    </item>
     <item>
       <title>Research uncovers what determines flavour of Australian chocolate</title>
       <link>https://www.abc.net.au/news/2026-08-14/australian-cocoa-and-chocolate-flavour-comes-from-fermentation/107029174</link>
@@ -594,18 +606,6 @@ The memorial holds deep personal significance for families like Steve Trevor's, 
 
 What makes this story quietly powerful is how it reveals the patient determination of a community insisting that sacrifice be acknowledged. The memorial serves multiple purposes: a place for families to grieve, a reminder of mining's human cost, and an educational touchstone for future generations. As Glencore's Troy Wilson noted, it will stand as both tribute and responsibility—honoring those who didn't come home while reinforcing the commitment to ensure today's workers do. It's a story about memory, community persistence, and the recognition that some debts take decades to properly honor.</description>
       <source url="https://www.abc.net.au/news/2026-08-10/mount-isa-miners-memorial-funded-after-30-years-of-advocacy/107015488">ABC Australia</source>
-    </item>
-    <item>
-      <title>First 500 schools to benefit from Solar in Schools programme announced</title>
-      <link>https://www.rnz.co.nz/news/political/950575/first-500-schools-to-benefit-from-solar-in-schools-programme-announced</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/political/950575/first-500-schools-to-benefit-from-solar-in-schools-programme-announced</guid>
-      <pubDate>Mon, 10 Aug 2026 00:01:28 GMT</pubDate>
-      <description>New Zealand has announced the first 500 schools that will receive solar panel installations through its Solar in Schools programme, a $30 million initiative aimed at reducing energy costs and emissions. The selection includes 340 schools in the North Island, 157 in the South Island, and three in the Chatham Islands, with installations scheduled to roll out over the next three years.
-
-The schools were chosen based on specific energy challenges: they're either experiencing energy insecurity, facing higher-than-average power costs, scheduled to replace aging gas or diesel boilers, or need improved energy resilience. Energy Minister Simeon Brown and Education Minister Erica Stanford unveiled the programme details at Te Papapa School in Auckland, emphasizing the dual benefits of generating clean energy while cutting operational costs. Large schools are expected to save approximately $8,000 annually on electricity bills by generating power from their rooftops rather than drawing exclusively from the grid.
-
-This story matters because it represents a practical intersection of environmental action and community support. By installing solar panels on school buildings, the programme addresses immediate financial pressures on educational institutions while building renewable energy infrastructure where it can benefit young people directly. The initiative also promises to support regional businesses and help develop local solar industry expertise, creating ripple effects beyond the schoolyard fence. It's a reminder that climate solutions can be quietly pragmatic—reducing both carbon emissions and budget strain in one carefully planned move.</description>
-      <source url="https://www.rnz.co.nz/news/political/950575/first-500-schools-to-benefit-from-solar-in-schools-programme-announced">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
