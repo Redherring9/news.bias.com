@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 18:03:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:02:47 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Satellite captures Moon's shadow crossing Earth during total solar eclipse; see IMAGE</title>
+      <link>https://g1.globo.com/ciencia/noticia/2026/08/14/satelite-registra-sombra-da-lua-eclipse-solar.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/ciencia/noticia/2026/08/14/satelite-registra-sombra-da-lua-eclipse-solar.ghtml</guid>
+      <pubDate>Fri, 14 Aug 2026 20:02:46 GMT</pubDate>
+      <description>A weather satellite operated by the U.S. National Oceanic and Atmospheric Administration captured a striking view of the Moon's shadow sweeping across Earth during the total solar eclipse on August 12. The image, recorded by the GOES-19 satellite from its geostationary orbit, shows the shadow as a dark patch moving over Greenland, Iceland, and Spain—regions where the Sun was completely obscured for a few moments.
+
+The GOES-19 satellite, launched in 2024 and operational as GOES-East since April 2025, maintains a constant watch over much of the Western Hemisphere. While its primary mission involves tracking storms, hurricanes, wildfires, and other environmental events, it also captured this rare celestial alignment. The darkest part of the shadow, known as the umbra, marked the path of totality where millions of observers experienced the sky darkening in the middle of the day. The satellite's perspective offers a reminder of the vast scales at play during an eclipse—what appears as a brief moment of darkness on the ground unfolds as a dramatic shadow racing across the planet's surface.
+
+This story offers a rare perspective on a familiar phenomenon, showing how modern satellite technology allows us to witness celestial events from vantage points that were unimaginable just decades ago. It's a quiet reminder of our place in a solar system constantly in motion, where alignments like this create moments of shared wonder across continents.</description>
+      <source url="https://g1.globo.com/ciencia/noticia/2026/08/14/satelite-registra-sombra-da-lua-eclipse-solar.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>VIDEO: Fur seals interrupt race to sea to give 'little kiss' after release in Florianópolis</title>
       <link>https://g1.globo.com/sc/santa-catarina/noticia/2026/08/14/lobos-marinhos-interrompem-corrida-mar-beijinho-oltura-florianopolis.ghtml</link>
@@ -594,18 +606,6 @@ Brazil only recently regained its measles elimination certification in 2024, and
 
 The story offers a window into how infectious diseases respect no borders and how quickly progress can be reversed without vigilant public health measures. Measles is not a mild illness—it spreads with remarkable ease, and the virus can cause serious complications affecting the lungs and nervous system. As international travel rebounds, this quiet alarm in Brazil underscores the importance of maintaining high vaccination coverage to protect communities and preserve hard-won public health achievements.</description>
       <source url="https://www.bbc.com/portuguese/articles/cm2g4kmvpxjo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
-    </item>
-    <item>
-      <title>Dogs can distinguish between fearful and angry or sad human faces, brain scans suggest</title>
-      <link>https://www.theguardian.com/world/2026/aug/10/dogs-distinguish-fearful-angry-sad-human-faces-brain-scans</link>
-      <guid isPermaLink="false">https://www.theguardian.com/world/2026/aug/10/dogs-distinguish-fearful-angry-sad-human-faces-brain-scans</guid>
-      <pubDate>Mon, 10 Aug 2026 16:03:42 GMT</pubDate>
-      <description>Dogs may be more attuned to human emotions than previously understood. New research using brain imaging has revealed that canine brains can distinguish not only between happy and unhappy human faces, but also between different types of negative expressions—a ability researchers say represents the first demonstration that dogs can differentiate emotions of the same emotional valence.
-
-In the study, researchers at the University of Vienna trained pet dogs to lie still in MRI scanners while viewing photographs of unfamiliar human faces displaying various emotions. Initial experiments showed increased brain activity in areas associated with visual processing, social cognition, and reward when dogs viewed happy faces compared to neutral ones. A second experiment involving twelve dogs and four different expressions—happiness, sadness, fear, and anger—revealed something more nuanced: while certain brain regions could distinguish happy from any negative expression, distinguishing between different unhappy faces required analyzing activity across the entire brain. The dogs' brains could tell fearful faces apart from angry or sad ones, though anger and sadness proved harder to differentiate from each other. Researchers suggest this may reflect how different negative expressions signal different types of threats, and that dogs might need additional cues like body language to make finer distinctions.
-
-This research offers a window into how thousands of years of domestication have shaped dogs' remarkable sensitivity to human communication. Beyond satisfying curiosity about our companions' inner lives, the findings suggest practical applications—such as using positive facial expressions to enhance training—and remind us that the bond between humans and dogs runs deeper than we might see on the surface.</description>
-      <source url="https://www.theguardian.com/world/2026/aug/10/dogs-distinguish-fearful-angry-sad-human-faces-brain-scans">The Guardian</source>
     </item>
   </channel>
 </rss>
