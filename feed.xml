@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 00:02:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 02:02:28 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Deadly heat pushes Japan’s farmers to go nocturnal</title>
+      <link>https://www.japantimes.co.jp/environment/2026/08/19/climate-change/japan-farmers-avoid-daytime-heat/</link>
+      <guid isPermaLink="false">https://www.japantimes.co.jp/environment/2026/08/19/climate-change/japan-farmers-avoid-daytime-heat/</guid>
+      <pubDate>Wed, 19 Aug 2026 02:02:26 GMT</pubDate>
+      <description>As Japan's summers grow dangerously hot, farmers across the country are fundamentally reshaping their work schedules, shifting to nocturnal and early-morning hours to survive increasingly extreme temperatures. Motoaki Iijima, a 36-year-old flower farmer north of Tokyo, now harvests gerberas under halogen lights long after sunset, a change he made three years ago after a worker suffered heatstroke in his greenhouse. When outside temperatures exceed 35 degrees Celsius, greenhouse interiors can reach over 40 degrees—turning midday work into a potentially fatal activity.
+
+The human cost is mounting. In 2024, a record 59 agricultural workers in Japan died from extreme heat, more than double the 2021 toll. Nearly 60% of younger farmers surveyed reported either experiencing heatstroke themselves or knowing someone who had. The challenge is particularly acute for Japan's aging agricultural workforce—roughly 70% of farmers are over 65, making them especially vulnerable to heat stress amplified by the country's high humidity. Heat exposure cost the agricultural sector 926 million lost labor hours in 2024 alone, while economy-wide losses reached approximately $46 billion. Poultry farmer Tetsuya Usuba, still haunted by losing over 500 hens to heat six years ago, now wakes his 4,400 birds at 2:30 a.m. so they can eat before temperatures climb.
+
+This story quietly documents a profound transformation in one of humanity's oldest rhythms—the agricultural day. It shows farmers not simply adjusting to climate change but rewriting centuries of practice to protect lives and livelihoods, a shift happening from Vietnam to Spain that speaks to both human adaptability and the escalating toll of a warming planet.</description>
+      <source url="https://www.japantimes.co.jp/environment/2026/08/19/climate-change/japan-farmers-avoid-daytime-heat/">The Japan Times</source>
+    </item>
     <item>
       <title>How chickens and cattle are a surprising fit in soil restoration</title>
       <link>https://www.abc.net.au/news/2026-08-19/wildflower-chickens-experiment-grazier-improves-soil-health/107032622</link>
@@ -594,18 +606,6 @@ Co-founder Ron Lindsay, whose lifelong passion for birds began with breeding fin
 
 This story offers a quiet reminder of how dedication and compassion can create meaningful change for vulnerable wildlife. It's about ordinary people building something extraordinary, one bird at a time, and ensuring New Zealand's raptors have advocates when they need them most.</description>
       <source url="https://www.rnz.co.nz/news/country/1006491/country-life-the-trust-helping-new-zealand-s-raptors-take-flight-again">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Artefacts from across the globe returned to southern WA</title>
-      <link>https://www.abc.net.au/news/2026-08-15/menang-artefacts-returned-to-country-albany-wa/106889850</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-08-15/menang-artefacts-returned-to-country-albany-wa/106889850</guid>
-      <pubDate>Sat, 15 Aug 2026 00:03:48 GMT</pubDate>
-      <description>Cultural artefacts from Western Australia's southern coast have made their way home after centuries in museums across the United Kingdom and Australia, now forming the centerpiece of an exhibition that reunites Indigenous knowledge with historical collections. The Kalyagul exhibition at the Museum of the Great Southern tells a quietly remarkable story of collaboration between Menang elders, historians, and scientists working to reconnect with ancestral wisdom.
-
-The journey began with watercolor drawings of fish created in the 1840s by commissariat officer Robert Neill, who worked closely with Menang people in Albany. What makes Neill's collection unusual is his careful acknowledgment of Indigenous knowledge—each fish specimen bears a label prominently displaying its Menang name and crediting the people who caught it. When researchers discovered fish scales still attached to drawings held at London's Natural History Museum, they uncovered twenty-seven boxes of preserved fish at Scotland's National Museum, each one a testament to Menang expertise. The project also located plant specimens collected by Menang women Lucy Webb and Lucy Eades in the late 19th century, representing the first definitive evidence of Aboriginal contributions to herbarium collections from that era.
-
-This story matters because it reverses a familiar pattern. Rather than knowledge being extracted and claimed by colonial visitors, these artefacts acknowledge their Indigenous sources by name, creating an archive that Menang descendants can now explore and expand. The project has also sparked cultural renewal, with community members recreating traditional items and adding new specimens to museum collections, ensuring that Menang knowledge continues forward—kalyagul, as the Menang word beautifully expresses: always, ever, continuing.</description>
-      <source url="https://www.abc.net.au/news/2026-08-15/menang-artefacts-returned-to-country-albany-wa/106889850">ABC Australia</source>
     </item>
   </channel>
 </rss>
