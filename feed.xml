@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 04:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:03:50 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>China hunts for lunar ice in one of solar system's coldest places</title>
+      <link>https://www.rnz.co.nz/news/world/1076320/china-hunts-for-lunar-ice-in-one-of-solar-system-s-coldest-places</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/world/1076320/china-hunts-for-lunar-ice-in-one-of-solar-system-s-coldest-places</guid>
+      <pubDate>Fri, 21 Aug 2026 06:02:20 GMT</pubDate>
+      <description>China is preparing to launch Chang'e-7, its most ambitious lunar mission yet, targeting one of the coldest and most mysterious regions in the solar system: the moon's south pole. Named after a mythical Chinese moon goddess, the mission will deploy a robotic lander, rover, and an innovative "hopping" probe designed to explore permanently shadowed craters where temperatures plunge to minus 203 degrees Celsius. The goal is to hunt for frozen water deposits that scientists believe have been preserved in these ancient, sunless depressions for billions of years.
+
+What makes this mission particularly intriguing is the hopping probe itself—a small vehicle equipped with thrusters and articulated legs that will leap into the darkness of crater floors, analyze for water molecules, then hop back to sunlit crater rims to recharge its solar batteries. This creative solution addresses the challenge of exploring steep, shadowed terrain that traditional wheeled rovers cannot navigate. The mission represents a critical step toward China's broader ambitions: a crewed lunar landing by 2030 and a permanent research station built jointly with Russia by 2035. Finding accessible water would be transformative, potentially providing drinking water, oxygen, and even rocket fuel for future lunar inhabitants.
+
+This story matters because it captures a new chapter in lunar exploration, where multiple nations—China, the United States, India, Japan, and European partners—are racing to unlock the moon's south pole. It's a reminder that our nearest celestial neighbor still holds secrets worth discovering, and that human ingenuity continues to find novel ways to explore the unknown, one hop at a time.</description>
+      <source url="https://www.rnz.co.nz/news/world/1076320/china-hunts-for-lunar-ice-in-one-of-solar-system-s-coldest-places">Radio New Zealand</source>
+    </item>
     <item>
       <title>Python named Jodie Foster first snake to receive pioneering cancer treatment</title>
       <link>https://www.theguardian.com/world/2026/aug/21/python-jodie-foster-snake-cancer-electrochemotherapy</link>
@@ -594,18 +606,6 @@ The fires at Terra Ronca have been burning for six days and have already consume
 
 This small act of kindness offers a reminder of our connection to the natural world, especially in moments when it's under threat. The story captures both the scale of environmental challenge and the individual compassion that emerges in response—a quiet testament to why protecting these landscapes and their inhabitants matters.</description>
       <source url="https://g1.globo.com/go/goias/noticia/2026/08/16/brigadista-emociona-ao-dar-agua-a-lagarto-que-fugia-de-incendio-em-parque-de-goias-video.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>South Africa’s top court blocks Shell oil exploration off country’s Wild Coast</title>
-      <link>https://news.mongabay.com/short-article/2026/08/south-africas-top-court-blocks-shell-oil-exploration-off-countrys-wild-coast/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/08/south-africas-top-court-blocks-shell-oil-exploration-off-countrys-wild-coast/</guid>
-      <pubDate>Mon, 17 Aug 2026 00:02:18 GMT</pubDate>
-      <description>South Africa's highest court has blocked Shell and a local partner from exploring for oil and gas off the Wild Coast, a biodiverse stretch of the Eastern Cape province's coastline. The Constitutional Court's August ruling marks the first time the country's apex court has weighed in on community and environmental rights in relation to fossil fuel extraction, potentially setting a precedent for similar disputes.
-
-The case began after Shell announced plans in 2021 to conduct seismic surveys in waters long used by coastal fishing communities. Local residents and environmental groups challenged the exploration rights, arguing that authorities had failed to meaningfully consult those whose lives and livelihoods would be affected. In a majority opinion that acknowledged South Africa's history of dispossession under apartheid, Justice Jody Kollapen emphasized that consulting communities isn't merely procedural—it's "a process which affirms human dignity by affording a seat at the table." The court also referenced international climate obligations, noting that decisions must reflect "heightened diligence" informed by scientific knowledge and the foreseeable impacts on current and future generations.
-
-This story matters because it represents a quiet shift in how courts balance economic interests against the rights of communities who depend directly on healthy ecosystems. For fishing families along the Wild Coast, the ocean isn't just a resource to exploit—it's central to culture, spirituality, and survival. The ruling suggests that in an era of climate change, those connections deserve more than passing consideration. It's a reminder that some of the most consequential environmental decisions happen not in international summits, but in courtrooms where local voices finally find a hearing.</description>
-      <source url="https://news.mongabay.com/short-article/2026/08/south-africas-top-court-blocks-shell-oil-exploration-off-countrys-wild-coast/">Mongabay</source>
     </item>
   </channel>
 </rss>
