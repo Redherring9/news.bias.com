@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 14:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 14:07:59 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Stormy autumn, cold winter - how might El Niño affect the UK weather?</title>
+      <link>https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 21 Aug 2026 14:07:57 GMT</pubDate>
+      <description>A significant El Niño is developing in the Pacific Ocean, and while its epicenter lies thousands of miles from the United Kingdom, meteorologists say the phenomenon's influence on global wind patterns will likely reshape British weather in the coming months. The Met Office is signaling an increased chance of wet, stormy conditions through autumn and into early winter, with Professor Adam Scaife noting that the scale of this event is unprecedented in modern climate records.
+
+The timing is notable: the UK is emerging from what appears to be its hottest summer on record, with drought gripping much of the country. While rain might seem welcome, climate change is amplifying the intensity of precipitation, raising concerns about flooding, wind damage, and infrastructure disruption. Forecasters point to the winter of 2015-2016, which coincided with a very strong El Niño and brought what experts described as the most extreme flooding on record. The possibility of a cold late winter also exists, though the historical evidence is mixed—the Big Freeze of 2009-2010 occurred during an El Niño, but the 2006-2007 El Niño winter was unseasonably warm.
+
+This story offers a window into the intricate web of global climate systems and how distant ocean phenomena can ripple across continents. It's a reminder that weather forecasting increasingly requires looking beyond local conditions to planetary patterns, and that natural cycles like El Niño are now layered atop the broader signal of human-driven climate change. For those wondering what the next season might hold, it's a quietly important piece of the puzzle.</description>
+      <source url="https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Terra da Gente covers event dedicated to bird watching and reveals biodiversity of Tapiraí (SP)</title>
       <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/08/21/terra-da-gente-acompanha-evento-dedicado-a-observacao-de-aves-e-revela-biodiversidade-de-tapirai-sp.ghtml</link>
@@ -594,18 +606,6 @@ The incidents range from fires and explosions to a tragic death at a port facili
 
 This story matters because it reveals the sometimes messy reality behind green energy transitions. As Japan's 34 large-scale biomass plants face rising costs, growing local opposition, and the end of favorable government tariffs, the country confronts a difficult question: whether an energy source marketed as sustainable can justify its human and environmental costs when safety becomes an afterthought.</description>
       <source url="https://news.mongabay.com/2026/08/concerns-grow-over-green-biomass-power-in-japan-after-spate-of-accidents/">Mongabay</source>
-    </item>
-    <item>
-      <title>Book Views 'Transa,' Cult Album by Caetano Veloso, Through the Lens of Affection</title>
-      <link>https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/17/livro-enxerga-transa-album-de-caetano-veloso-sob-a-otica-do-afeto.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/17/livro-enxerga-transa-album-de-caetano-veloso-sob-a-otica-do-afeto.ghtml</guid>
-      <pubDate>Mon, 17 Aug 2026 14:04:02 GMT</pubDate>
-      <description>A new book takes a fresh look at one of Brazilian music's most celebrated albums, examining Caetano Veloso's 1972 record "Transa" through the lens of affection and emotional geography. Writer Mateus Baldi approaches the album—recorded during Veloso's London exile under Brazil's military dictatorship—as a "map of Brazil" drawn from the artist's deep personal connections to his homeland. Rather than rehashing familiar critical perspectives, Baldi's work in the "O livro do disco" series offers something more intimate and researched, drawing on her master's thesis and interviews with key figures who shaped the record.
-
-Without direct access to Veloso himself, Baldi reconstructed the album's creation through conversations with collaborators like musical director Jards Macalé, drummer Tutty Moreno, and singer Angela Ro Ro, along with archival research in newspapers and magazines from the era. The narrative traces Veloso's journey from his hometown of Santo Amaro da Purificação in Bahia, through the revolutionary impact of João Gilberto's bossa nova in 1958, to the four London studio sessions that produced "Transa." Baldi's prose reads like compelling journalism rather than academic writing, revealing fascinating details—such as how the reggae rhythm in "Nine out of ten" came from a suggestion by fellow exile Péricles Cavalcanti, introducing a Jamaican sound not yet known in Brazil.
-
-This book matters because it recovers the human story behind a landmark album that has only grown in stature over fifty years, especially after Veloso's 2006 record "Cê" rekindled interest in his rock-inflected London work. Baldi's affection-centered reading reminds us that even canonical art springs from homesickness, collaboration, and the everyday textures of creative life in exile.</description>
-      <source url="https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/17/livro-enxerga-transa-album-de-caetano-veloso-sob-a-otica-do-afeto.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
