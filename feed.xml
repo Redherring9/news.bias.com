@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 02:01:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 04:02:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Python named Jodie Foster first snake to receive pioneering cancer treatment</title>
+      <link>https://www.theguardian.com/world/2026/aug/21/python-jodie-foster-snake-cancer-electrochemotherapy</link>
+      <guid isPermaLink="false">https://www.theguardian.com/world/2026/aug/21/python-jodie-foster-snake-cancer-electrochemotherapy</guid>
+      <pubDate>Fri, 21 Aug 2026 04:02:00 GMT</pubDate>
+      <description>A 23-year-old reticulated python at Chester Zoo has become the first snake known to receive electrochemotherapy, a cancer treatment typically used in humans. Jodie Foster—named after staff misread her paperwork's "JF" marking as the actor's initials rather than "juvenile female"—was diagnosed with a fibrosarcoma, a malignant tumor in her jaw that returned after initial surgical removal and began invading her jawbone.
+
+Facing the possibility that the 15-foot, 50-kilogram python might lose her ability to eat, zoo veterinarians collaborated with cancer specialists from the University of Liverpool to adapt the pioneering treatment for reptilian use. The 90-minute procedure required two operating tables pushed together to accommodate Jodie's impressive length. Veterinarians surgically removed the tumor and diseased bone, then administered electrochemotherapy—a technique that uses controlled electrical pulses to make cancer cells more permeable to the drug bleomycin, allowing it to target remaining malignant cells more effectively. Months later, Jodie has returned to eating normally, demonstrating her ability to strike, grip, and swallow prey without difficulty, and recent examinations show no signs of cancer returning.
+
+This story quietly marks a significant moment in veterinary medicine, where cross-disciplinary collaboration expanded treatment possibilities for exotic animals. The team plans to publish their findings so veterinarians worldwide can learn from their approach, potentially benefiting countless other animals facing similar diagnoses. It's a reminder that medical innovation often happens in unexpected places, and that the same care and ingenuity applied to human health can extend to even the most unusual patients.</description>
+      <source url="https://www.theguardian.com/world/2026/aug/21/python-jodie-foster-snake-cancer-electrochemotherapy">The Guardian</source>
+    </item>
     <item>
       <title>How a world-leading health study in a small town helped shape modern medicine</title>
       <link>https://www.abc.net.au/news/2026-08-21/busselton-health-study-turns-60/107054940</link>
@@ -594,18 +606,6 @@ The case began after Shell announced plans in 2021 to conduct seismic surveys in
 
 This story matters because it represents a quiet shift in how courts balance economic interests against the rights of communities who depend directly on healthy ecosystems. For fishing families along the Wild Coast, the ocean isn't just a resource to exploit—it's central to culture, spirituality, and survival. The ruling suggests that in an era of climate change, those connections deserve more than passing consideration. It's a reminder that some of the most consequential environmental decisions happen not in international summits, but in courtrooms where local voices finally find a hearing.</description>
       <source url="https://news.mongabay.com/short-article/2026/08/south-africas-top-court-blocks-shell-oil-exploration-off-countrys-wild-coast/">Mongabay</source>
-    </item>
-    <item>
-      <title>Māori education pioneer Te Kepa Stirling dies aged 88</title>
-      <link>https://www.rnz.co.nz/news/te-manu-korihi/1024179/maori-education-pioneer-te-kepa-stirling-dies-aged-88</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/te-manu-korihi/1024179/maori-education-pioneer-te-kepa-stirling-dies-aged-88</guid>
-      <pubDate>Sun, 16 Aug 2026 22:01:25 GMT</pubDate>
-      <description>Te Kepa Stirling, a transformative figure in Māori education who dedicated his life to preserving language and cultural identity, has passed away at 88. Alongside his late wife Pani, he created educational pathways that would shape generations of Māori students and teachers, demonstrating how tradition and learning could strengthen one another.
-
-Working at Ngā Tapuwae College, the Stirlings developed Te Whare Awhina, a program centered on whānau (extended family) values that eventually evolved into an independent kura-ā-iwi (tribal school). Their approach represented more than curriculum reform—it was a vision of education rooted in community, where Māori students could succeed while maintaining their cultural identity. Te Kepa also established Te Whare Wānanga, a learning center that served both Māori families and the broader community. In 2005, both he and Pani received the Queen's Service Medal, recognition of work that went far beyond any single institution.
-
-The legacy lives on through their daughter Arihia Stirling, now leading Te Kura Māori o Ngā Tapuwae, and through countless educators and students influenced by their vision. This story matters because it quietly illustrates how determination and partnership can build something enduring—not through headlines or grand pronouncements, but through daily commitment to language, identity, and young people. Te Kepa Stirling's work reminds us that true educational reform often happens one classroom, one family, one generation at a time, creating ripples that extend far beyond what any single lifetime can measure.</description>
-      <source url="https://www.rnz.co.nz/news/te-manu-korihi/1024179/maori-education-pioneer-te-kepa-stirling-dies-aged-88">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
