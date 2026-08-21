@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 06:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 08:03:38 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Farm Effect: How Barn Bacteria Slow Allergies</title>
+      <link>https://www.dw.com/de/bauernhofeffekt-wie-stallbakterien-allergien-bremsen/a-78339549?maca=de-rss-de-all-1119-xml-mrss</link>
+      <guid isPermaLink="false">https://www.dw.com/de/bauernhofeffekt-wie-stallbakterien-allergien-bremsen/a-78339549?maca=de-rss-de-all-1119-xml-mrss</guid>
+      <pubDate>Fri, 21 Aug 2026 08:03:36 GMT</pubDate>
+      <description>For decades, researchers have observed a curious pattern: children who grow up on farms develop asthma, hay fever, and eczema far less often than their urban peers. This phenomenon, known as the "farm effect," has been documented in countless studies, yet the precise mechanism behind it remained elusive—until now. An international research team led by epidemiologist Markus Ege at LMU Hospital Munich has identified nine specific bacteria, primarily from cow barns, that appear to account for much of this protective effect.
+
+The study analyzed samples and health data from over 1,000 European children, examining nasal swabs and dust from homes and barns. Rather than confirming the simple "hygiene hypothesis"—the idea that any microbial exposure strengthens immunity—the findings suggest something more nuanced. Certain bacterial metabolic products, originating in cow intestines and carried through barn air and dust, are inhaled by children and activate receptors in their airways. This process dampens inflammatory responses and reduces allergy risk. The nine identified bacteria explain roughly two-thirds of the protective effect against asthma and about half the effect for hay fever and eczema. Timing matters, too: the most critical window appears to be the first years of life, possibly even beginning before birth when pregnant mothers spend time in barn environments.
+
+This research offers more than an explanation for why farm children breathe easier—it points toward a more precise understanding of how our immune systems learn to distinguish real threats from harmless triggers. In a world where allergic diseases are rising, especially in urban settings, identifying the specific microbial signals that train our defenses could open pathways to new preventive strategies rooted not in avoiding germs, but in welcoming the right ones.</description>
+      <source url="https://www.dw.com/de/bauernhofeffekt-wie-stallbakterien-allergien-bremsen/a-78339549?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
+    </item>
     <item>
       <title>China hunts for lunar ice in one of solar system's coldest places</title>
       <link>https://www.rnz.co.nz/news/world/1076320/china-hunts-for-lunar-ice-in-one-of-solar-system-s-coldest-places</link>
@@ -594,18 +606,6 @@ The common redshank, recognizable by its distinctive orange-red legs, typically 
 
 What makes this story quietly remarkable is its window into how migratory species explore beyond familiar territories and potentially adapt to environmental changes. While many migratory shorebird populations have experienced severe declines due to coastal habitat loss, the common redshank has fared somewhat better, which may explain why one individual is venturing into new territory. For the birdwatchers involved, the encounter offered more than scientific interest—it provided a moment of connection with the natural world, a reminder of the rewards that come from patient observation and the unexpected discoveries waiting in familiar places.</description>
       <source url="https://www.abc.net.au/news/2026-08-17/common-redshank-rare-sighting-queensland-birdwatchers/107045456">ABC Australia</source>
-    </item>
-    <item>
-      <title>Firefighter moves people by giving water to lizard fleeing fire in Goiás park; video</title>
-      <link>https://g1.globo.com/go/goias/noticia/2026/08/16/brigadista-emociona-ao-dar-agua-a-lagarto-que-fugia-de-incendio-em-parque-de-goias-video.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/go/goias/noticia/2026/08/16/brigadista-emociona-ao-dar-agua-a-lagarto-que-fugia-de-incendio-em-parque-de-goias-video.ghtml</guid>
-      <pubDate>Mon, 17 Aug 2026 02:03:45 GMT</pubDate>
-      <description>A moment of compassion amid environmental crisis has touched hearts across borders. Firefighter Rodrigo Vieira captured video of himself and a colleague giving water to a sloth lizard they rescued from raging wildfires at Terra Ronca State Park in Goiás, Brazil. The small reptile, visibly grateful, opened its mouth to drink and raised its body after being hydrated—a gesture that resonated deeply with viewers worldwide, including a German photographer who called it "beautiful, but sad."
-
-The fires at Terra Ronca have been burning for six days and have already consumed more than 10,000 hectares of vegetation, affecting roughly 18% of the park's total area. Civil and military brigades have been working tirelessly to contain the flames since the first outbreaks were detected on August 10. Rodrigo described his anguish watching the animal in distress: even wearing protective gear, he could feel the intense heat from a distance and could only imagine what the creature was experiencing. According to veterinarian Luana Borboleta, the animal is a sloth lizard—also called papa-vento or cerrado chameleon—known for its excellent camouflage abilities that make it blend seamlessly with tree branches. The species is docile and allows close approach because it relies on invisibility for protection rather than flight.
-
-This small act of kindness offers a reminder of our connection to the natural world, especially in moments when it's under threat. The story captures both the scale of environmental challenge and the individual compassion that emerges in response—a quiet testament to why protecting these landscapes and their inhabitants matters.</description>
-      <source url="https://g1.globo.com/go/goias/noticia/2026/08/16/brigadista-emociona-ao-dar-agua-a-lagarto-que-fugia-de-incendio-em-parque-de-goias-video.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
