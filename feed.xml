@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Aug 2026 14:03:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:04:38 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>UFPB researchers develop vest with sensors to monitor climate, noise, and pollution in cities; learn how it works</title>
+      <link>https://g1.globo.com/pb/paraiba/noticia/2026/08/23/pesquisadores-da-ufpb-desenvolvem-colete-com-sensores-para-monitorar-clima-ruido-e-poluicao-nas-cidades-saiba-como-funciona.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/pb/paraiba/noticia/2026/08/23/pesquisadores-da-ufpb-desenvolvem-colete-com-sensores-para-monitorar-clima-ruido-e-poluicao-nas-cidades-saiba-como-funciona.ghtml</guid>
+      <pubDate>Sun, 23 Aug 2026 16:04:36 GMT</pubDate>
+      <description>Researchers at Brazil's Federal University of Paraíba have created a wearable vest that turns people into mobile weather stations. The MiMon Vest—short for Microclimate Monitoring Vest—weighs just over two pounds and is packed with nine sensors that track temperature, humidity, noise, CO₂ levels, atmospheric pressure, GPS location, light, and UV radiation, recording data every minute on a memory card.
+
+The innovation fills a gap left by traditional fixed weather stations, which can't capture the varied microclimates people actually experience as they move through city streets, parks, and plazas. Urban environments are patchworks of conditions: shaded spots versus sunny ones, tree-lined paths versus concrete expanses, areas with good airflow versus stagnant pockets. Since 2020, the team—including graduate students from architecture, urban planning, and environmental engineering programs—has built four prototypes, refining the design through lab and field testing. Field trials in parks revealed the vest's ability to detect environmental variations along walking routes, offering a pedestrian-scale perspective that complements broader meteorological data. Each vest costs between $360 and $400 USD and can operate continuously for at least eight hours.
+
+This story is a quiet reminder that understanding our environment often requires getting closer to it. The researchers aren't aiming to replace existing infrastructure but to add nuance, capturing the lived experience of urban climates where people actually spend their time. As cities grapple with heat islands, pollution, and climate adaptation, tools that map the intimate geography of our daily environments become unexpectedly valuable—turning a simple walk through the neighborhood into an act of discovery.</description>
+      <source url="https://g1.globo.com/pb/paraiba/noticia/2026/08/23/pesquisadores-da-ufpb-desenvolvem-colete-com-sensores-para-monitorar-clima-ruido-e-poluicao-nas-cidades-saiba-como-funciona.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Wicker Man director's sons complete their late father's film trilogy</title>
       <link>https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ Three decades later, these playful half-tonne creatures have woven themselves in
 
 With 38 pups born last season and protected status ensuring their continued growth, Dunedin's sea lion colony represents both ecological resilience and the possibility of coexistence. This story offers a quiet reminder that wildlife recovery, when given space and protection, can happen in our own backyards—sometimes literally. It's a testament to nature's persistence and a charming example of how wild creatures can adapt to human spaces while maintaining their essential playfulness.</description>
       <source url="https://www.rnz.co.nz/life/lifestyle/why-playful-sea-lions-are-living-their-best-lives-in-dunedin">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Otter spotted for first time in 100 years in New York City’s Bronx River</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/19/otter-bronx-river-new-york-city</link>
-      <guid isPermaLink="false">https://www.theguardian.com/us-news/2026/aug/19/otter-bronx-river-new-york-city</guid>
-      <pubDate>Wed, 19 Aug 2026 18:03:18 GMT</pubDate>
-      <description>A North American river otter has been photographed in New York City's Bronx River for the first time in over a century, marking a remarkable milestone in the waterway's ecological recovery. The image, captured in June by a motion-activated camera operated by Wildlife Conservation Society scientist RJ Hawkins, documents the return of a species that vanished from the river due to pollution, habitat destruction, and fur trapping in the early 1900s.
-
-The Bronx River's history is a sobering reminder of industrialization's environmental toll. Once treated as an open sewer and dumping ground, the river absorbed chemicals, oil, animal blood, and untreated sewage from New York's booming factories and slaughterhouses. Residents added to the damage by discarding tires, appliances, and other refuse into the water. This legacy devastated local wildlife for generations. But decades of conservation efforts and legislation like the Clean Water Act have gradually restored the river's health. Beavers returned in 2007 after a 200-year absence, and oysters have also reappeared in recent years.
-
-While a single otter sighting doesn't guarantee a thriving population, it's an encouraging sign. River otters need clean water and plentiful fish to survive, so their presence suggests meaningful environmental progress. These playful, athletic creatures can grow up to five feet long and are skilled hunters, capable of emitting screams audible from 1.5 miles away when alarmed. This story offers quiet hope: it shows how sustained restoration work can reverse even severe ecological damage, creating healthier environments for both wildlife and the people who share these urban spaces.</description>
-      <source url="https://www.theguardian.com/us-news/2026/aug/19/otter-bronx-river-new-york-city">The Guardian</source>
     </item>
   </channel>
 </rss>
