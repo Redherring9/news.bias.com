@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 02:03:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:04:09 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Founders once linked to Bezos project pitch AI that models physics, not language</title>
+      <link>https://www.japantimes.co.jp/business/2026/08/26/tech/ai-founders-bezos-prometheus-universe/</link>
+      <guid isPermaLink="false">https://www.japantimes.co.jp/business/2026/08/26/tech/ai-founders-bezos-prometheus-universe/</guid>
+      <pubDate>Wed, 26 Aug 2026 04:04:07 GMT</pubDate>
+      <description>Two researchers who were once considered to lead a Jeff Bezos-backed initiative have emerged with their own venture, offering a fresh take on artificial intelligence. Anima Anandkumar and Benedikt Jenik have founded Accelerated Understanding, a company that has developed an AI model designed not for language processing, but for understanding physics.
+
+What sets their work apart is scale. In testing, their model successfully processed 5 trillion pieces of data in a single prompt—roughly 5 million times the capacity of leading language models from companies like Anthropic and Google. To put that in perspective, it's akin to absorbing Tolstoy's epic "War and Peace" 5 million times over in one go. The technical achievement addresses a fundamental challenge: handling datasets so enormous that a single computer might struggle under the weight. By focusing on physics rather than language, the duo is carving out a niche that could prove essential for scientific modeling, simulations, and research that demand processing vast amounts of numerical and spatial information.
+
+This story is worth attention because it highlights a quieter frontier in the AI boom. While much of the public conversation centers on chatbots and text generation, Anandkumar and Jenik remind us that artificial intelligence has profound applications beyond words—in the invisible structures that govern the physical world. Their work suggests that the next wave of breakthroughs may come not from models that mimic human conversation, but from those that help us understand the universe itself.</description>
+      <source url="https://www.japantimes.co.jp/business/2026/08/26/tech/ai-founders-bezos-prometheus-universe/">The Japan Times</source>
+    </item>
     <item>
       <title>Singer Tami Neilson says Dolly Parton's death 'hurts so deeply'</title>
       <link>https://www.rnz.co.nz/life/people/celebrity/emotional-tami-neilson-says-dolly-parton-s-death-hurts-so-deeply</link>
@@ -594,18 +606,6 @@ When Baeli's family moved in a decade ago, the house was typical of many UK home
 
 The approach isn't without barriers—Baeli's retrofit cost around £80,000, with windows alone accounting for £30,000. She acknowledges this puts the standard out of reach for many, though spreading the work over time made it more manageable. With more than half of UK homes already at risk of overheating, and projections suggesting 92% will be by 2050 without adaptation, her house represents both a practical solution and a sobering reminder of the scale of the challenge ahead. It's a quiet testament to what's possible when thoughtful design meets the demands of a changing climate.</description>
       <source url="https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>NSW baby first in world to receive breakthrough epilepsy treatment</title>
-      <link>https://www.abc.net.au/news/2026-08-22/baby-gets-world-first-epilepsy-treatment-at-sydney-hospital/107050908</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-08-22/baby-gets-world-first-epilepsy-treatment-at-sydney-hospital/107050908</guid>
-      <pubDate>Fri, 21 Aug 2026 22:01:29 GMT</pubDate>
-      <description>Eight-month-old Bohdi Higginson from Australia's Central Coast has become the first person in the world to receive a precision medicine treatment for KCNT1-related catastrophic epilepsy, a rare and often-fatal genetic disorder. Bohdi began experiencing seizures at just three months old, with his condition rapidly worsening to 74 seizures in a single day. Conventional medications failed to help, and he was losing developmental milestones while spending weeks in intensive care.
-
-Doctors and researchers at the Children's Hospital at Westmead identified the specific genetic change causing Bohdi's condition and learned of a potential treatment developed overseas. Though the medication had shown promise in animal studies, it had never been tested in humans with epilepsy. Through a new innovative therapies pathway designed to fast-track promising treatments, a multidisciplinary team carefully assessed the risks. Bohdi's parents, who had spent ten years trying to have a child, faced a wrenching decision but ultimately felt they had little alternative.
-
-Bohdi received his first dose on April 21 and had his final seizure just three days later. The transformation has been remarkable: from a baby unable to keep his eyes open to one who babbles, smiles, and meets developmental milestones. While Bohdi will need ongoing monitoring to understand the treatment's long-term effects, his case represents a meaningful step forward in precision medicine. For a family who watched their son slip away and for only 18 known cases in Australia, this story offers something quietly profound—the possibility that understanding a condition at its genetic roots can open doors previously unimaginable.</description>
-      <source url="https://www.abc.net.au/news/2026-08-22/baby-gets-world-first-epilepsy-treatment-at-sydney-hospital/107050908">ABC Australia</source>
     </item>
   </channel>
 </rss>
