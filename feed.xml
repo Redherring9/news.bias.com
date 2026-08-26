@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 10:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:02:50 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Scientists discover 149 new deep-sea species at remote Indian Ocean seamounts</title>
+      <link>https://news.mongabay.com/2026/08/scientists-discover-149-new-deep-sea-species-at-remote-indian-ocean-seamounts/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/08/scientists-discover-149-new-deep-sea-species-at-remote-indian-ocean-seamounts/</guid>
+      <pubDate>Wed, 26 Aug 2026 12:02:49 GMT</pubDate>
+      <description>In one of the ocean's least explored regions, scientists have discovered a treasure trove of life on seamounts near Australia's remote Christmas and Cocos islands. An international expedition surveyed the deep Indian Ocean seafloor down to depths of more than 5,400 meters, identifying 149 species previously unknown to science—including black corals, sea worms, peculiar fish, and even a parasitic barnacle. At one site dubbed "The Shark Tooth Graveyard," researchers uncovered roughly 1,000 shark teeth spanning more than 22 million years of evolutionary history.
+
+The expedition required a week-long voyage just to reach the isolated islands, situated between Australia and Sri Lanka. Once there, the team mapped and explored 22 volcanic seamounts—underwater mountains that rise at least 1,000 meters from the ocean floor. These ancient formations, some up to 120 million years old, interrupt deep-sea currents and create nutrient-rich oases that support remarkable biodiversity. The researchers surveyed environments that are perpetually cold, dark, and under crushing pressure, where food is scarce and survival demands extraordinary adaptation. They even discovered a volcanic caldera at 3,000 meters depth, playfully naming it "The Eye of Sauron" for its resemblance to Tolkien's fictional landmark.
+
+This research matters because the Indian Ocean, despite covering a fifth of global ocean area, remains far less studied than the Pacific or Atlantic—particularly its deep-sea ecosystems. As these fragile environments face mounting threats from warming waters, pollution, overfishing, and the prospect of deep-sea mining, understanding what lives there becomes increasingly urgent. The expedition offers a rare glimpse into an alien world that exists beneath familiar waters, revealing just how much of our own planet remains wonderfully, mysteriously unknown.</description>
+      <source url="https://news.mongabay.com/2026/08/scientists-discover-149-new-deep-sea-species-at-remote-indian-ocean-seamounts/">Mongabay</source>
+    </item>
     <item>
       <title>Brewery operating in church basement revives recipe from over 130 years ago</title>
       <link>https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/26/cervejaria-que-funciona-em-porao-de-igreja-resgata-receita-de-mais-de-130-anos.ghtml</link>
@@ -594,18 +606,6 @@ The response from the South Australian lacrosse community has been swift and hea
 
 This story captures something quietly powerful about small sporting communities: their capacity to mobilize quickly and care deeply when one of their own faces hardship. In a moment of profound uncertainty for the Whinnen family, the lacrosse community's response offers both practical help and emotional solidarity, demonstrating how local networks can become lifelines during life's most difficult challenges.</description>
       <source url="https://www.abc.net.au/news/2026-08-22/margot-whinnen-leukaemia-story/107067090">ABC Australia</source>
-    </item>
-    <item>
-      <title>China’s new moon mission could unlock secret of lunar ice: Why that matters</title>
-      <link>https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss</link>
-      <guid isPermaLink="false">https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss</guid>
-      <pubDate>Sat, 22 Aug 2026 06:03:45 GMT</pubDate>
-      <description>China is preparing to launch its most ambitious lunar mission yet, with Chang'e-7 set to explore the permanently shadowed craters at the moon's south pole in search of ice water. The mission, which could lift off any day between August 24 and August 31, will deploy an unprecedented combination of spacecraft: an orbiter to map and relay communications, a lander equipped with scientific instruments, a rover to analyze rocks and soil, and a solar-powered hopper designed to fly short distances and explore the depths of the 21-kilometer-wide Shackleton Crater. No previous lunar mission has ventured this close to the pole.
-
-Scientists have suspected the moon held water since the 1960s, but Apollo samples initially appeared dry. The breakthrough came in 2009 when NASA deliberately crashed a probe into a shadowed crater, confirming significant ice deposits. By 2020, researchers discovered that water on the moon is more widespread than imagined, with molecules trapped in mineral grains and ice patches hidden in areas that have remained dark for billions of years. These permanent shadows, untouched by sunlight for eons, may preserve a frozen record of the moon's volcanic past and ancient comet impacts that could reveal how Earth's own oceans formed.
-
-Beyond its scientific value, accessible lunar water could transform space exploration. It might provide drinking water for astronauts, coolant for equipment, hydrogen for fuel, and oxygen for breathing—potentially supporting future Mars missions or lunar mining operations. This story matters because it represents not just China's technological ambition, but humanity's evolving relationship with our nearest celestial neighbor, transforming the moon from a distant object of wonder into a potential resource for deeper space exploration.</description>
-      <source url="https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
