@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 06:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 08:03:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Satellite proliferation puts astronomical observations at risk, study shows</title>
+      <link>https://g1.globo.com/ciencia/noticia/2026/08/27/proliferacao-de-satelites-poe-em-risco-observacoes-astronomicas-mostra-estudo.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/ciencia/noticia/2026/08/27/proliferacao-de-satelites-poe-em-risco-observacoes-astronomicas-mostra-estudo.ghtml</guid>
+      <pubDate>Thu, 27 Aug 2026 08:03:39 GMT</pubDate>
+      <description>As satellite constellations multiply overhead, astronomers are sounding a quiet alarm about the future of cosmic observation. A new study from the European Southern Observatory examines what happens when tens of thousands—or even millions—of satellites cross the field of view of Earth's most powerful telescopes, leaving bright streaks across images of the night sky.
+
+The research, conducted at Chile's Paranal Observatory in the Atacama Desert, used simulations to model the impact of proposed satellite launches. Currently, about 15,000 satellites orbit Earth, but plans are underway to deploy more than 1.7 million additional ones, driven largely by internet services like SpaceX's Starlink and Amazon's Project Kuiper. Astronomer Olivier Hainaut explains that each satellite trail obscures a small portion of a telescope's view. One streak might be manageable, but as numbers climb into the hundreds of thousands, the cumulative effect could deprive some observatories of most of their data. The study found that 100,000 satellites would create a tolerable level of interference, but 300,000 could prove seriously disruptive.
+
+This story matters because it illuminates an emerging tension between two worthy goals: expanding global internet access and preserving humanity's window into deep space. The researchers emphasize that satellite internet services offer real benefits, particularly for underserved regions, and don't advocate abandoning them. Instead, they're calling for balance—a conversation about how technological progress and scientific discovery might coexist. The challenge, Hainaut notes, is that satellites are already launching while researchers are still assessing the consequences, making this a race between innovation and understanding.</description>
+      <source url="https://g1.globo.com/ciencia/noticia/2026/08/27/proliferacao-de-satelites-poe-em-risco-observacoes-astronomicas-mostra-estudo.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>China’s Tianmu Mountain reserve tackles modern conservation amid religious tradition</title>
       <link>https://news.mongabay.com/short-article/2026/08/chinas-tianmu-mountain-reserve-tackles-modern-conservation-amid-religious-tradition/</link>
@@ -594,18 +606,6 @@ Founded in 2021 by Abakar Mahamat, who grew up witnessing the dual challenge of 
 
 While the kiosks cannot replace emergency care or specialist hospital treatment, they offer a practical bridge in a country where distance can be as formidable a barrier as the healthcare shortage itself. This story is worth attention because it illustrates how thoughtfully designed technology can meet people where they are—literally—turning a solar panel and a screen into a lifeline that allows families to seek care without sacrificing their next meal.</description>
       <source url="https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss">Al Jazeera</source>
-    </item>
-    <item>
-      <title>Grafton 12yo takes campaign to politicians to fix beloved skate park</title>
-      <link>https://www.abc.net.au/news/2026-08-23/haylee-blair-campaign-to-refurbish-grafton-skate-park/107037938</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-08-23/haylee-blair-campaign-to-refurbish-grafton-skate-park/107037938</guid>
-      <pubDate>Sun, 23 Aug 2026 02:03:06 GMT</pubDate>
-      <description>When twelve-year-old Haylee Blair noticed her local skate park in South Grafton, New South Wales, had deteriorated into a safety hazard, she didn't just complain—she launched a campaign. The facility, built in 1998 and expanded twice since, is now riddled with cracks, holes, and debris. It's so rough, Haylee says, that young people use it more as a bike track than for skating. What makes her story particularly compelling is her methodical approach to civic engagement: she started by raising the issue on her community radio show, then presented to a local Rotary club, spoke with her mayor and state representative, and finally brought her case to the Clarence Valley Council.
-
-On Thursday, the council voted unanimously to support her cause, requesting a staff report by October that will outline repair needs, costs, and funding options for the estimated $250,000 project. Haylee's vision extends beyond simple repairs—she hopes for smoother surfaces, a pump track for younger children, shade structures, and security cameras. Her proposal has resonated widely, with a growing community rallying behind the initiative. The council has acknowledged that the project may require state government assistance and might not be completed during the current council term.
-
-This story offers a quiet lesson in how democracy can work at the grassroots level. Haylee's persistence demonstrates that young voices matter in local decision-making, while the example of nearby Lismore—where a new skate park has become a thriving community hub drawing people from ages three to fifty—shows the potential impact of such facilities. It's a reminder that sometimes the most meaningful civic improvements start with one person noticing a problem and deciding to do something about it.</description>
-      <source url="https://www.abc.net.au/news/2026-08-23/haylee-blair-campaign-to-refurbish-grafton-skate-park/107037938">ABC Australia</source>
     </item>
   </channel>
 </rss>
