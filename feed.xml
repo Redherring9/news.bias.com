@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 18:03:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:03:26 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rural school students create unusual band with guitar, horn and a robot in MS</title>
+      <link>https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/27/estudantes-criam-robo-que-toca-trem-do-pantanal-e-chamam-atencao-em-olimpiada-de-robotica-em-ms.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/27/estudantes-criam-robo-que-toca-trem-do-pantanal-e-chamam-atencao-em-olimpiada-de-robotica-em-ms.ghtml</guid>
+      <pubDate>Thu, 27 Aug 2026 20:03:25 GMT</pubDate>
+      <description>At a rural school in the Eldorado 2 settlement in Mato Grosso do Sul, Brazil, four high school students built a robot that performs a beloved regional classic. Their creation plays "Trem do Pantanal" — a song celebrating the Pantanal wetlands — on a keyboard, accompanied by live guitar and traditional instruments. The project, named PantaBox, earned recognition at the regional round of the Brazilian Robotics Olympiad in Campo Grande, impressing judges and fellow competitors alike.
+
+The idea took root after their school received technology kits and training from the state education department. Students José Henrique, Lucas Guilherme, Diogo Maciel, and Nicolas Wendell wanted to honor their regional culture and musician Almir Sater. Over two weeks, they synchronized controller boards and converted musical notes into digital commands, carefully timing motor movements to match the song's original rhythm. The technical challenge was substantial: each note had to be precisely timed, with no programming embedded in the keyboard itself — the robot had to physically press the keys at exactly the right moments.
+
+This project illuminates how technology and tradition can harmonize in unexpected settings. For a rural community often overlooked in conversations about innovation, the students' achievement demonstrates that curiosity and dedication transcend geography. Their work brought visibility to rural education and proved that young people from agricultural settlements can compete — and excel — on the same stage as students from urban centers. It's a quietly powerful reminder that remarkable ideas can emerge from anywhere when students are given tools, encouragement, and the freedom to celebrate their own cultural roots.</description>
+      <source url="https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/27/estudantes-criam-robo-que-toca-trem-do-pantanal-e-chamam-atencao-em-olimpiada-de-robotica-em-ms.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Images of the hypnotic universe of dots and mirrors created by Japanese artist Yayoi Kusama</title>
       <link>https://www.bbc.com/mundo/articles/cwyz55jj78ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The innovation fills a gap left by traditional fixed weather stations, which can
 
 This story is a quiet reminder that understanding our environment often requires getting closer to it. The researchers aren't aiming to replace existing infrastructure but to add nuance, capturing the lived experience of urban climates where people actually spend their time. As cities grapple with heat islands, pollution, and climate adaptation, tools that map the intimate geography of our daily environments become unexpectedly valuable—turning a simple walk through the neighborhood into an act of discovery.</description>
       <source url="https://g1.globo.com/pb/paraiba/noticia/2026/08/23/pesquisadores-da-ufpb-desenvolvem-colete-com-sensores-para-monitorar-clima-ruido-e-poluicao-nas-cidades-saiba-como-funciona.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Wicker Man director's sons complete their late father's film trilogy</title>
-      <link>https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sun, 23 Aug 2026 14:03:55 GMT</pubDate>
-      <description>More than fifty years after The Wicker Man became a cult classic of British horror cinema, the director's sons have completed the trilogy their father never finished. Robin Hardy, who died in 2016, had always envisioned his 1973 film as the first installment of three. He managed to release The Wicker Tree in 2011, but the third film remained unrealized—until a surprising discovery changed everything. When the new owner of Justin Hardy's childhood home found six sacks of scripts, letters, and storyboards in the attic, the brothers hesitated for months before opening them. Inside was their father's script for Wrath of the Gods, along with detailed notes about its conception during an emergency landing in Iceland.
-
-The original Wicker Man occupies a peculiar place in film history: shot in the wrong season, barely paid for, initially buried as a second feature, with rumors that footage ended up literally entombed in a motorway's foundations. Yet Christopher Lee considered it among his finest work, and its unsettling atmosphere eventually earned it devoted fans and a spot launching the BBC's cult cinema series. For the Hardy family, though, the film's legacy was more complicated. It bankrupted Robin and fractured his family, leaving Justin's mother with debts while he went on to marry four more times.
-
-Justin and Dominic transformed their father's vision into their own story about grief, community, and belonging, filming in Shetland with a largely local cast. This quiet family reconciliation—completing a creative vision while reckoning with personal history—makes the trilogy's completion more than just a genre curiosity. It's a meditation on inheritance, both artistic and familial, and the strange ways unfinished stories find their endings.</description>
-      <source url="https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
     </item>
   </channel>
 </rss>
