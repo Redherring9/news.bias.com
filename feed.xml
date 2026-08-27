@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 20:03:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 22:04:32 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Missing dog rescued from cliff face around volcanic crater lake</title>
+      <link>https://www.abc.net.au/news/2026-08-28/dog-rescue-blue-lake-mount-gambier/107079436</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-08-28/dog-rescue-blue-lake-mount-gambier/107079436</guid>
+      <pubDate>Thu, 27 Aug 2026 22:04:30 GMT</pubDate>
+      <description>In the South Australian city of Mount Gambier, a dog named Tyson spent nearly a week stranded on a narrow ledge 100 meters down the steep cliffs surrounding Blue Lake, a striking body of water nestled in a volcanic crater. Locals had reported hearing barking for days, but the sheer, treacherous terrain made locating the source nearly impossible. Tyson's owners, the Camilleri family, had already been searching desperately after both their dogs went missing; one had been found earlier in the week, but hope for Tyson was fading until SA Water crews spotted him from a boat on the lake.
+
+What followed was a multi-hour rescue effort involving the Metropolitan Fire Service, the State Emergency Service, specialized rope systems, and a drone. Firefighter Joel Van Eeten was lowered down the cliffs—navigating sections with 30-degree inclines and sheer 20- to 30-meter drops—to reach the frightened dog. Once there, he spent several minutes earning Tyson's trust before securing him in a harness designed for humans and beginning the careful 30-minute haul back up. Despite his ordeal, Tyson emerged remarkably uninjured, though noticeably thinner from days without food or water.
+
+This story is a quiet testament to the dedication of emergency services and the resilience of one very lucky dog. It's also a reminder of how communities rally around moments of shared compassion, turning what could have been a tragedy into a heartfelt reunion that left rescue crews and the Camilleri family alike moved and grateful.</description>
+      <source url="https://www.abc.net.au/news/2026-08-28/dog-rescue-blue-lake-mount-gambier/107079436">ABC Australia</source>
+    </item>
     <item>
       <title>Rural school students create unusual band with guitar, horn and a robot in MS</title>
       <link>https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/27/estudantes-criam-robo-que-toca-trem-do-pantanal-e-chamam-atencao-em-olimpiada-de-robotica-em-ms.ghtml</link>
@@ -594,18 +606,6 @@ One reader suggests that the absence might come down to energy: advanced civiliz
 
 What makes this exchange quietly delightful is its blend of scientific speculation and human imagination. These aren't academic papers but everyday readers wrestling with one of existence's biggest questions, bringing perspectives from cosmology, anthropology, and even a touch of humor. The letters remind us that wondering about our place in the cosmos is a fundamentally human activity—one that invites both rigorous thinking and playful possibility.</description>
       <source url="https://www.theguardian.com/science/2026/aug/23/is-this-why-close-encounters-with-intelligent-aliens-have-so-far-eluded-us">The Guardian</source>
-    </item>
-    <item>
-      <title>UFPB researchers develop vest with sensors to monitor climate, noise, and pollution in cities; learn how it works</title>
-      <link>https://g1.globo.com/pb/paraiba/noticia/2026/08/23/pesquisadores-da-ufpb-desenvolvem-colete-com-sensores-para-monitorar-clima-ruido-e-poluicao-nas-cidades-saiba-como-funciona.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/pb/paraiba/noticia/2026/08/23/pesquisadores-da-ufpb-desenvolvem-colete-com-sensores-para-monitorar-clima-ruido-e-poluicao-nas-cidades-saiba-como-funciona.ghtml</guid>
-      <pubDate>Sun, 23 Aug 2026 16:04:36 GMT</pubDate>
-      <description>Researchers at Brazil's Federal University of Paraíba have created a wearable vest that turns people into mobile weather stations. The MiMon Vest—short for Microclimate Monitoring Vest—weighs just over two pounds and is packed with nine sensors that track temperature, humidity, noise, CO₂ levels, atmospheric pressure, GPS location, light, and UV radiation, recording data every minute on a memory card.
-
-The innovation fills a gap left by traditional fixed weather stations, which can't capture the varied microclimates people actually experience as they move through city streets, parks, and plazas. Urban environments are patchworks of conditions: shaded spots versus sunny ones, tree-lined paths versus concrete expanses, areas with good airflow versus stagnant pockets. Since 2020, the team—including graduate students from architecture, urban planning, and environmental engineering programs—has built four prototypes, refining the design through lab and field testing. Field trials in parks revealed the vest's ability to detect environmental variations along walking routes, offering a pedestrian-scale perspective that complements broader meteorological data. Each vest costs between $360 and $400 USD and can operate continuously for at least eight hours.
-
-This story is a quiet reminder that understanding our environment often requires getting closer to it. The researchers aren't aiming to replace existing infrastructure but to add nuance, capturing the lived experience of urban climates where people actually spend their time. As cities grapple with heat islands, pollution, and climate adaptation, tools that map the intimate geography of our daily environments become unexpectedly valuable—turning a simple walk through the neighborhood into an act of discovery.</description>
-      <source url="https://g1.globo.com/pb/paraiba/noticia/2026/08/23/pesquisadores-da-ufpb-desenvolvem-colete-com-sensores-para-monitorar-clima-ruido-e-poluicao-nas-cidades-saiba-como-funciona.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
