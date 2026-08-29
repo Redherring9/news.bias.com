@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 20:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 22:02:11 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Can tiny bubbles restore health to the Torrens lake?</title>
+      <link>https://www.abc.net.au/news/2026-08-30/can-new-technology-fix-river-torrens-bacteria-issues/107092402</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-08-30/can-new-technology-fix-river-torrens-bacteria-issues/107092402</guid>
+      <pubDate>Sat, 29 Aug 2026 22:02:09 GMT</pubDate>
+      <description>Adelaide's Torrens Lake has faced its third bacterial closure this year, prompting local residents to push for an innovative solution involving microscopic bubbles. The lake, intended as a centerpiece of the city, has been shuttered multiple times due to enterococci and E. coli bacteria, disrupting rowing clubs and riverboat operators who depend on access to the water.
+
+The proposed remedy is nanobubble technology, which generates tiny bubbles infused with oxygen and ozone to break down contaminants and reduce harmful microbes. Local singer-songwriter John Schumann is spearheading the effort, having submitted a formal request to the Adelaide City Council for a trial. The technology recently underwent a year-long test at Lake Albert in Wagga Wagga, New South Wales, with researchers reporting no loss of aquatic life. However, when a similar proposal was floated for West Lakes last year, authorities including SA Water and the state's Environmental Protection Authority expressed concerns about limited scientific evidence and potential wildlife impacts. Dr. Arash Zamyadi, a Monash University researcher studying the technology, acknowledges the need for more feasibility studies while noting the promise shown in existing trials.
+
+This story offers a glimpse into how communities balance environmental innovation with cautious governance. It's a reminder that restoring neglected urban waterways requires both willingness to experiment and rigorous scientific validation—and that sometimes the most elegant solutions come in the smallest packages.</description>
+      <source url="https://www.abc.net.au/news/2026-08-30/can-new-technology-fix-river-torrens-bacteria-issues/107092402">ABC Australia</source>
+    </item>
     <item>
       <title>Kadiwéu Artisans Bring Ceramics Made with Clay from Their Own Land to Bonito Festival</title>
       <link>https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/29/artesas-kadiweu-levam-ceramicas-feitas-com-barro-da-propria-terra-ao-festival-de-bonito.ghtml</link>
@@ -594,18 +606,6 @@ Developed by the Beijing Humanoid Robot Innovation Center, Tiangong Ultra is par
 
 This story offers a window into a field that's evolving faster than most might expect. While robots surpassing human athletic records might sound like science fiction, the reality is unfolding at competitions that blend sport, engineering, and national ambition. It's a reminder that the line between human capability and machine performance continues to shift in surprising ways, raising questions about what comes next as these technologies move from competitive arenas into everyday applications.</description>
       <source url="https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss">Al Jazeera</source>
-    </item>
-    <item>
-      <title>Could Shellfish Farming Fix Florida’s Algal Bloom Problem?</title>
-      <link>https://reasonstobecheerful.world/shellfish-farming-florida-water-quality/</link>
-      <guid isPermaLink="false">https://reasonstobecheerful.world/shellfish-farming-florida-water-quality/</guid>
-      <pubDate>Tue, 25 Aug 2026 14:01:54 GMT</pubDate>
-      <description>Florida's coastal waters have been increasingly choked by toxic algal blooms—thick green mats that smell of rotten eggs, block sunlight, and kill marine life. The most notorious variety, red tide, turned nearly 1,000 miles of coastline a bloody hue in 2018, killing wildlife and costing the state $2.7 billion in lost tourism. The problem is fueled by nitrogen and phosphorus from fertilizers washing into waterways, and it's getting worse as waters warm and coastal development increases.
-
-Enter an unlikely cleanup crew: clams and oysters. These humble bivalves are natural water filters, with a single adult oyster capable of scrubbing more than 50 gallons of water daily, removing excess nitrogen, bacteria, and algae in the process. Researchers like Ashley Smyth, a coastal biogeochemist at the University of Florida, see shellfish farming as a promising two-pronged solution—both restoring wild oyster reefs that have been decimated by overharvesting and expanding commercial shellfish operations. Programs in regions like the Chesapeake Bay have already shown success with "nutrient credit trading," where oyster farmers can sell credits based on the nitrogen their crops remove from the water.
-
-This story offers a rare glimpse of environmental problem-solving that doesn't require high-tech intervention or massive infrastructure—just working with nature's own systems. It's a reminder that sometimes the most effective solutions are the ones that have been quietly filtering our waters all along, and that supporting them might be as simple as growing more of what we already love to eat.</description>
-      <source url="https://reasonstobecheerful.world/shellfish-farming-florida-water-quality/">Reasons to be Cheerful</source>
     </item>
   </channel>
 </rss>
