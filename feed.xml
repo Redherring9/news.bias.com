@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 14:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 16:01:51 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nasa launches powerful new space telescope to explore mysteries of the Universe</title>
+      <link>https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sun, 30 Aug 2026 16:01:50 GMT</pubDate>
+      <description>NASA's Nancy Grace Roman Space Telescope has begun its journey to unlock some of the universe's deepest mysteries. Launched from Florida's Kennedy Space Center, the telescope is now traveling toward an observation point roughly one million miles from Earth, where it will spend at least five years—and potentially a decade—surveying the cosmos with unprecedented scope.
+
+What sets Roman apart is its expansive vision: it can capture panoramic views at least 100 times wider than the celebrated Hubble Space Telescope. This extraordinary field of view will allow scientists to study dark energy and dark matter—mysterious forces believed to constitute about 95 percent of the universe—while also discovering tens of thousands of exoplanets and mapping billions of galaxies. The telescope is named after Nancy Grace Roman, NASA's first chief astronomer and first female executive in the 1960s, who played a crucial role in getting Hubble approved and who identified dark energy as one of astronomy's most compelling puzzles.
+
+This story matters because it represents a significant leap in humanity's capacity to explore fundamental questions about existence itself. With its ability to peer into distant atmospheres and assess whether worlds beyond our solar system might support life, Roman promises to reshape our understanding of the universe and our place within it. It's a reminder that even as we grapple with earthly concerns, the quiet work of curiosity continues—reaching outward, asking whether we're alone, and seeking answers written in starlight.</description>
+      <source url="https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>The school director who saved 900 students from floods in Nepal</title>
       <link>https://www.bbc.com/portuguese/articles/c3d7x3p82kmo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The brewing took place in the cellar of the Church of Glória's convent, where s
 
 This story offers a quiet glimpse into how tradition, faith, and craft can intertwine across centuries and continents. The brewery has recently begun competing in festivals, earning four medals in 2025 including gold in a regional competition and bronze at an international festival in Peru. Visitors can tour the operation on Saturdays, enjoying tastings in a space where history is quite literally still fermenting. It's a reminder that some of the most meaningful innovations are actually careful acts of preservation—keeping alive skills and recipes that connect us to those who came before.</description>
       <source url="https://g1.globo.com/mg/zona-da-mata/noticia/2026/08/26/cervejaria-que-funciona-em-porao-de-igreja-resgata-receita-de-mais-de-130-anos.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Putting slugs on the map: farmers pioneer precision crop protection</title>
-      <link>https://www.positive.news/environment/putting-slugs-on-the-map-farmers-pioneer-precision-crop-protection/</link>
-      <guid isPermaLink="false">https://www.positive.news/environment/putting-slugs-on-the-map-farmers-pioneer-precision-crop-protection/</guid>
-      <pubDate>Wed, 26 Aug 2026 08:02:59 GMT</pubDate>
-      <description>British farmers are pioneering a clever new approach to protecting their crops from slugs, one of agriculture's most persistent pests. A three-year research project led by the British On-Farm Innovation Network has developed a digital mapping tool that predicts exactly where slugs are most likely to attack, allowing farmers to apply pesticides with surgical precision rather than treating entire fields.
-
-The innovation emerged from an unusual collaboration: twenty-eight farmers worked as field researchers, setting traps and gathering data about where slugs congregated in their fields. This hands-on monitoring, combined with soil sampling and computer modeling, created maps that farmers can now use for free to identify vulnerable 'slug hotspots.' When paired with automated pellet applicators, the system has enabled pilot participants to cut their use of slug pellets by half on average. If adopted widely across Britain's arable industry, researchers estimate it could save farmers six million pounds annually while significantly reducing pesticide use. Meanwhile, scientists at the John Innes Centre have been working on another front, identifying regions of the wheat genome linked to natural slug resistance.
-
-This story quietly challenges assumptions about who can contribute to scientific research. As project founder Tom Allen-Stevens points out, farmers proved themselves highly capable field researchers, and the collaboration demonstrated that those who know the land best deserve more recognition for their expertise. In an era seeking more sustainable agricultural practices, this farmer-scientist partnership offers a model for reducing chemical use while protecting both crops and livelihoods—a practical solution born from respecting local knowledge and pairing it with innovation.</description>
-      <source url="https://www.positive.news/environment/putting-slugs-on-the-map-farmers-pioneer-precision-crop-protection/">Positive News</source>
     </item>
   </channel>
 </rss>
