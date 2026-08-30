@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 10:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:03:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tearful Roger Federer inducted into Tennis Hall of Fame</title>
+      <link>https://www.aljazeera.com/sports/2026/8/30/tearful-roger-federer-inducted-into-tennis-hall-of-fame?traffic_source=rss</link>
+      <guid isPermaLink="false">https://www.aljazeera.com/sports/2026/8/30/tearful-roger-federer-inducted-into-tennis-hall-of-fame?traffic_source=rss</guid>
+      <pubDate>Sun, 30 Aug 2026 12:03:17 GMT</pubDate>
+      <description>Roger Federer, one of tennis's most beloved champions, was inducted into the International Tennis Hall of Fame in Newport, Rhode Island, in a ceremony that moved him to tears multiple times. The Swiss legend, who captured 20 Grand Slam titles including a record eight Wimbledon crowns, reflected on a career defined not by fame but by love for the game and the people who shared that passion with him.
+
+During his speech, the 45-year-old thanked coaches, doctors, and family—particularly his wife Mirka—while emphasizing that his most important moments happened off the court. He spoke fondly of his innovative playing style, from serve-and-volley to what fans dubbed the "SABR" (Sneak Attack by Roger), and expressed pride that Switzerland was entering the Hall alongside him. Federer, who retired in 2022 with 103 ATP Tour titles and 310 weeks as world number one, received congratulations from longtime rival Novak Djokovic, who praised him as "a great ambassador for our sport."
+
+What makes this story quietly remarkable is Federer's insistence that his relationship with tennis continues beyond retirement. "I'm still writing my love letter to tennis," he said, encouraging future players to stay young at heart, take risks, and push the sport forward. His words offer a tender reminder that greatness isn't measured solely in trophies, but in the integrity, curiosity, and generosity one brings to their craft—a legacy that extends far beyond the baseline.</description>
+      <source url="https://www.aljazeera.com/sports/2026/8/30/tearful-roger-federer-inducted-into-tennis-hall-of-fame?traffic_source=rss">Al Jazeera</source>
+    </item>
     <item>
       <title>Taiarahia documentary captures kotahitanga in action</title>
       <link>https://www.rnz.co.nz/news/te-manu-korihi/1184422/taiarahia-documentary-captures-kotahitanga-in-action</link>
@@ -594,18 +606,6 @@ The celebrations took on special significance in unexpected places. At Auckland'
 
 This story offers a quiet glimpse into how immigrant communities sustain cultural memory while building new roots. Onam's emphasis on togetherness, equality, and cross-cultural celebration translates beautifully to New Zealand's multicultural landscape, where festivals become more than nostalgia—they're acts of community-building that enrich everyone involved. The overwhelming turnout at events across both islands suggests these gatherings fulfill a deep need for connection, especially for those working in high-pressure professions far from home.</description>
       <source url="https://www.rnz.co.nz/news/indonz/1134079/overwhelming-response-thousands-gather-across-new-zealand-to-celebrate-onam">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Founders once linked to Bezos project pitch AI that models physics, not language</title>
-      <link>https://www.japantimes.co.jp/business/2026/08/26/tech/ai-founders-bezos-prometheus-universe/</link>
-      <guid isPermaLink="false">https://www.japantimes.co.jp/business/2026/08/26/tech/ai-founders-bezos-prometheus-universe/</guid>
-      <pubDate>Wed, 26 Aug 2026 04:04:07 GMT</pubDate>
-      <description>Two researchers who were once considered to lead a Jeff Bezos-backed initiative have emerged with their own venture, offering a fresh take on artificial intelligence. Anima Anandkumar and Benedikt Jenik have founded Accelerated Understanding, a company that has developed an AI model designed not for language processing, but for understanding physics.
-
-What sets their work apart is scale. In testing, their model successfully processed 5 trillion pieces of data in a single prompt—roughly 5 million times the capacity of leading language models from companies like Anthropic and Google. To put that in perspective, it's akin to absorbing Tolstoy's epic "War and Peace" 5 million times over in one go. The technical achievement addresses a fundamental challenge: handling datasets so enormous that a single computer might struggle under the weight. By focusing on physics rather than language, the duo is carving out a niche that could prove essential for scientific modeling, simulations, and research that demand processing vast amounts of numerical and spatial information.
-
-This story is worth attention because it highlights a quieter frontier in the AI boom. While much of the public conversation centers on chatbots and text generation, Anandkumar and Jenik remind us that artificial intelligence has profound applications beyond words—in the invisible structures that govern the physical world. Their work suggests that the next wave of breakthroughs may come not from models that mimic human conversation, but from those that help us understand the universe itself.</description>
-      <source url="https://www.japantimes.co.jp/business/2026/08/26/tech/ai-founders-bezos-prometheus-universe/">The Japan Times</source>
     </item>
   </channel>
 </rss>
