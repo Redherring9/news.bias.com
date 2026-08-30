@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 04:03:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 06:03:59 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Meet Japan’s first literacy ambassador</title>
+      <link>https://www.japantimes.co.jp/community/2026/08/30/our-lives/japan-first-literacy-ambassador/</link>
+      <guid isPermaLink="false">https://www.japantimes.co.jp/community/2026/08/30/our-lives/japan-first-literacy-ambassador/</guid>
+      <pubDate>Sun, 30 Aug 2026 06:02:18 GMT</pubDate>
+      <description>A seventeen-year-old high school student in Tokyo has become Japan's first literacy ambassador, representing the country in a global program that connects young advocates for reading across more than 100 nations. Aditi Paudel, who was born in Japan but spent her early childhood in Nepal, traces her passion for reading back to a formative moment when her grandfather handed her a newspaper written in Devanagari script before she'd even started school. To everyone's surprise, she could read the complex characters, and that early sense of accomplishment shaped her relationship with literacy.
+
+Paudel is now one of approximately 900 young people aged 16 to 25 participating in the World Literacy Foundation's ambassador program, a twelve-year-old initiative run by an Australian-based nonprofit. According to the foundation's CEO and founder, Andrew Kay, this marks the first time Japan has been represented in the program, making Paudel's appointment a quiet milestone for literacy advocacy in the country.
+
+This story offers a glimpse into how personal experiences with language and reading can spark a lifelong commitment to learning. Paudel's journey—bridging two countries, two scripts, and two cultures—highlights the universal power of literacy while underscoring its deeply individual nature. It's a reminder that advocates for reading often begin as curious children who discovered early on that words could unlock worlds, and that this simple realization can ripple outward to inspire others across borders.</description>
+      <source url="https://www.japantimes.co.jp/community/2026/08/30/our-lives/japan-first-literacy-ambassador/">The Japan Times</source>
+    </item>
     <item>
       <title>Nepal monastery becomes evacuation centre for survivors</title>
       <link>https://www.abc.net.au/news/2026-08-30/nepal-monastery-turned-into-makeshift-evacuation-centre-flood/107094980</link>
@@ -594,18 +606,6 @@ The program's approach is elegantly simple: every registered child from birth to
 
 The program's impact is more than anecdotal. A 2025 international study examining data from 86,000 families found that enrolled children were nine times more likely to be read to four or more days weekly, and the initiative significantly narrowed early literacy gaps that often persist through primary school. For Parton, this wasn't about statistics—it was about planting seeds of dreams through books, just as she'd dreamed herself out of the Smoky Mountains. This story reminds us how one person's tribute to a parent can ripple across continents, quietly reshaping countless childhoods.</description>
       <source url="https://www.abc.net.au/news/2026-08-26/dolly-parton-imagination-library-literacy/107078474">ABC Australia</source>
-    </item>
-    <item>
-      <title>Storing carbon in sea could have huge potential for fighting climate change - report</title>
-      <link>https://www.rnz.co.nz/news/environment_climate/1120135/storing-carbon-in-sea-could-have-huge-potential-for-fighting-climate-change-report</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/environment_climate/1120135/storing-carbon-in-sea-could-have-huge-potential-for-fighting-climate-change-report</guid>
-      <pubDate>Tue, 25 Aug 2026 22:03:07 GMT</pubDate>
-      <description>A new report from New Zealand's Royal Society explores the emerging field of marine carbon dioxide removal (mCDR) — using the ocean to capture and store atmospheric CO2 — as a potential tool in the fight against climate change. With emissions reductions alone no longer sufficient to meet the 1.5°C warming limit outlined in the Paris Agreement, scientists are looking beyond land-based solutions like forestry to the vast potential of the sea. The techniques range from restoring coastal blue carbon habitats like mangroves and salt marshes to more experimental approaches that alter ocean chemistry to boost carbon absorption.
-
-However, the report emphasizes that mCDR is still in its infancy. Significant uncertainties remain about effectiveness, scalability, longevity of carbon storage, costs, and potential environmental side effects. New Zealand's current regulations, developed before these technologies emerged, offer minimal oversight beyond prohibitions on marine dumping and placement of matter. At least one company is already advocating for regulatory changes to enable larger-scale research and commercial operations. The report stresses that any adoption would require robust monitoring, verification, extensive research, and public dialogue — developed in partnership with Pacific neighbors.
-
-Climate researcher Tim Naish cautions that while carbon removal may be necessary, it risks creating a "moral hazard" that discourages emissions cuts at their source. Continuous removal efforts would be needed as long as emissions continue, which could prove financially and environmentally expensive. This story matters because it highlights a careful tension: the ocean may hold real climate solutions, but the urgency to explore new technologies shouldn't overshadow the fundamental work of reducing emissions in the first place.</description>
-      <source url="https://www.rnz.co.nz/news/environment_climate/1120135/storing-carbon-in-sea-could-have-huge-potential-for-fighting-climate-change-report">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
