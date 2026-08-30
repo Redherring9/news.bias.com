@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 18:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:02:27 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How GPS, Created for War, Shaped the Modern World</title>
+      <link>https://www.bbc.com/portuguese/articles/c62m4znn84lo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/c62m4znn84lo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sun, 30 Aug 2026 20:02:25 GMT</pubDate>
+      <description>A curious incident in 2017 offers a window into one of the modern world's most ubiquitous yet least noticed technologies. Several oil tankers approaching a Russian port discovered their GPS systems showed them hovering in mid-air over a nearby airport, even as their eyes confirmed they were sailing on water. This bizarre glitch sparked journalist Katherine Dunn's deep dive into GPS, the satellite-based system that quietly shapes nearly every aspect of contemporary life.
+
+What began as a military tool for precision bombing during the Vietnam War has evolved into the invisible infrastructure of global civilization. GPS does far more than help us navigate to unfamiliar addresses. It synchronizes cell phone towers, banking systems, and electrical grids, relying on atomic clocks accurate to billionths of a second. The system works by having devices receive signals from four satellites simultaneously, solving equations for longitude, latitude, altitude, and time. This time-keeping function is crucial: every smartphone essentially carries a pocket atomic clock, enabling the split-second coordination that modern digital life demands. From agricultural precision to traffic light timing, from online shopping delivery to international shipping logistics, GPS threads through systems we take for granted.
+
+This story matters because it reveals how a technology born from conflict has become so deeply woven into daily existence that we barely notice it—until it goes wrong. That little blue dot on our screens represents more than our location; it's become how we identify ourselves in digital space, a new form of "I" that required no instruction manual to understand. Understanding GPS means understanding the hidden scaffolding of the modern world.</description>
+      <source url="https://www.bbc.com/portuguese/articles/c62m4znn84lo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>The geriatric giant growing by the hour</title>
       <link>https://www.rnz.co.nz/news/health/1191350/the-geriatric-giant-growing-by-the-hour</link>
@@ -594,18 +606,6 @@ Corporal punishment has been illegal in Indian schools since 2010, when the Righ
 
 This story matters because it exposes the troubling gap between India's legal protections for children and classroom realities. Despite clear prohibitions and court rulings affirming children's rights to dignity, the normalization of hitting students—especially among vulnerable populations—continues largely unchecked. Pranay Teja's death is a stark reminder that laws alone cannot protect children when enforcement remains inadequate and cultural acceptance of physical discipline persists across institutions and homes alike.</description>
       <source url="https://www.aljazeera.com/news/2026/8/26/a-teachers-slap-students-death-revive-indias-corporal-punishment-debate?traffic_source=rss">Al Jazeera</source>
-    </item>
-    <item>
-      <title>Scientists discover 149 new deep-sea species at remote Indian Ocean seamounts</title>
-      <link>https://news.mongabay.com/2026/08/scientists-discover-149-new-deep-sea-species-at-remote-indian-ocean-seamounts/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/08/scientists-discover-149-new-deep-sea-species-at-remote-indian-ocean-seamounts/</guid>
-      <pubDate>Wed, 26 Aug 2026 12:02:49 GMT</pubDate>
-      <description>In one of the ocean's least explored regions, scientists have discovered a treasure trove of life on seamounts near Australia's remote Christmas and Cocos islands. An international expedition surveyed the deep Indian Ocean seafloor down to depths of more than 5,400 meters, identifying 149 species previously unknown to science—including black corals, sea worms, peculiar fish, and even a parasitic barnacle. At one site dubbed "The Shark Tooth Graveyard," researchers uncovered roughly 1,000 shark teeth spanning more than 22 million years of evolutionary history.
-
-The expedition required a week-long voyage just to reach the isolated islands, situated between Australia and Sri Lanka. Once there, the team mapped and explored 22 volcanic seamounts—underwater mountains that rise at least 1,000 meters from the ocean floor. These ancient formations, some up to 120 million years old, interrupt deep-sea currents and create nutrient-rich oases that support remarkable biodiversity. The researchers surveyed environments that are perpetually cold, dark, and under crushing pressure, where food is scarce and survival demands extraordinary adaptation. They even discovered a volcanic caldera at 3,000 meters depth, playfully naming it "The Eye of Sauron" for its resemblance to Tolkien's fictional landmark.
-
-This research matters because the Indian Ocean, despite covering a fifth of global ocean area, remains far less studied than the Pacific or Atlantic—particularly its deep-sea ecosystems. As these fragile environments face mounting threats from warming waters, pollution, overfishing, and the prospect of deep-sea mining, understanding what lives there becomes increasingly urgent. The expedition offers a rare glimpse into an alien world that exists beneath familiar waters, revealing just how much of our own planet remains wonderfully, mysteriously unknown.</description>
-      <source url="https://news.mongabay.com/2026/08/scientists-discover-149-new-deep-sea-species-at-remote-indian-ocean-seamounts/">Mongabay</source>
     </item>
   </channel>
 </rss>
