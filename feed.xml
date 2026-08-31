@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 14:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:01:53 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Environmental crimes don’t stop at borders. Neither can the reporting</title>
+      <link>https://news.mongabay.com/2026/08/environmental-crimes-dont-stop-at-borders-neither-can-the-reporting/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/08/environmental-crimes-dont-stop-at-borders-neither-can-the-reporting/</guid>
+      <pubDate>Mon, 31 Aug 2026 16:01:51 GMT</pubDate>
+      <description>Environmental crimes like illegal gold mining and wildlife trafficking don't respect borders, and neither should the journalism that exposes them. That's the philosophy driving Daniela Quintero, investigations editor at Mongabay Latam, who is pioneering cross-border collaborations to document the complex networks behind nature crimes across Latin America.
+
+Quintero's approach blends traditional field reporting with modern investigative tools—satellite imagery, environmental databases, legal documents, and scientific literature. A recent investigation she coordinated tracked how illegal Amazonian gold was being laundered through Venezuela after Brazil tightened trade controls, a story that required journalists in three countries working in concert. Beyond her editing work, Quintero coordinates Mongabay's Nature Crimes Fellowship, training senior journalists from Colombia, Ecuador, and Peru to develop investigative skills focused on environmental reporting in the Amazon and Pacific regions. The Colombian journalist and sociologist came to Mongabay in early 2025 after years covering environmental issues at El Espectador, one of Colombia's oldest newspapers.
+
+This profile, captured during an interview in Colombia's Guainía department ahead of a Mongabay conference, offers a window into what investigative environmental journalism looks like in practice. Quintero's work reminds us that understanding today's environmental challenges requires following the threads across borders, combining boots-on-the-ground reporting with data analysis, and building networks of journalists who can see the whole picture. It's a quiet but essential evolution in how we document and ultimately address crimes against nature.</description>
+      <source url="https://news.mongabay.com/2026/08/environmental-crimes-dont-stop-at-borders-neither-can-the-reporting/">Mongabay</source>
+    </item>
     <item>
       <title>Scientists use satellites to track whale strandings in remote places from space</title>
       <link>https://news.mongabay.com/2026/08/scientists-use-satellites-to-track-whale-strandings-in-remote-places-from-space/</link>
@@ -594,18 +606,6 @@ Vergara's research has revealed charming parallels between whale and human commu
 
 This research has already made a difference. In 2018, Canadian authorities closed key beluga gathering areas to boats, giving those "faint, tentative" baby voices a better chance of being heard. The story is a quiet reminder that listening—truly listening—can reveal not just the hidden lives of other species, but also surprisingly simple ways humans can help protect them in an increasingly noisy ocean.</description>
       <source url="https://www.theguardian.com/environment/2026/aug/27/how-decoding-beluga-whales-chitchat-may-save-them-and-teach-us-more-about-ourselves">The Guardian</source>
-    </item>
-    <item>
-      <title>Satellite proliferation puts astronomical observations at risk, study shows</title>
-      <link>https://g1.globo.com/ciencia/noticia/2026/08/27/proliferacao-de-satelites-poe-em-risco-observacoes-astronomicas-mostra-estudo.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/ciencia/noticia/2026/08/27/proliferacao-de-satelites-poe-em-risco-observacoes-astronomicas-mostra-estudo.ghtml</guid>
-      <pubDate>Thu, 27 Aug 2026 08:03:39 GMT</pubDate>
-      <description>As satellite constellations multiply overhead, astronomers are sounding a quiet alarm about the future of cosmic observation. A new study from the European Southern Observatory examines what happens when tens of thousands—or even millions—of satellites cross the field of view of Earth's most powerful telescopes, leaving bright streaks across images of the night sky.
-
-The research, conducted at Chile's Paranal Observatory in the Atacama Desert, used simulations to model the impact of proposed satellite launches. Currently, about 15,000 satellites orbit Earth, but plans are underway to deploy more than 1.7 million additional ones, driven largely by internet services like SpaceX's Starlink and Amazon's Project Kuiper. Astronomer Olivier Hainaut explains that each satellite trail obscures a small portion of a telescope's view. One streak might be manageable, but as numbers climb into the hundreds of thousands, the cumulative effect could deprive some observatories of most of their data. The study found that 100,000 satellites would create a tolerable level of interference, but 300,000 could prove seriously disruptive.
-
-This story matters because it illuminates an emerging tension between two worthy goals: expanding global internet access and preserving humanity's window into deep space. The researchers emphasize that satellite internet services offer real benefits, particularly for underserved regions, and don't advocate abandoning them. Instead, they're calling for balance—a conversation about how technological progress and scientific discovery might coexist. The challenge, Hainaut notes, is that satellites are already launching while researchers are still assessing the consequences, making this a race between innovation and understanding.</description>
-      <source url="https://g1.globo.com/ciencia/noticia/2026/08/27/proliferacao-de-satelites-poe-em-risco-observacoes-astronomicas-mostra-estudo.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
