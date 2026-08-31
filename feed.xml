@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 12:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:01:54 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Scientists use satellites to track whale strandings in remote places from space</title>
+      <link>https://news.mongabay.com/2026/08/scientists-use-satellites-to-track-whale-strandings-in-remote-places-from-space/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/08/scientists-use-satellites-to-track-whale-strandings-in-remote-places-from-space/</guid>
+      <pubDate>Mon, 31 Aug 2026 14:01:52 GMT</pubDate>
+      <description>In 2015, 337 sei whales washed ashore along Chile's remote Patagonian coast in what became the largest recorded mass baleen whale mortality event. The most striking detail? Nobody discovered the stranding for two months. This tragedy became a turning point for marine science, demonstrating both the vastness of our ocean blindspots and the potential of satellite technology to help fill them. Scientists now use very high-resolution orbital imagery to monitor whale strandings in the world's most inaccessible places, transforming what were once unidentifiable dark blobs in early 2000s satellite photos into detailed images that reveal species, decomposition stages, and even individual scars.
+
+Penny Clarke and her colleagues at the British Antarctic Survey have been at the forefront of this effort since 2019, part of a growing global network using digital eyes in the sky to track cetaceans. The technology allows researchers to distinguish flippers and flukes, estimate whale size, and differentiate calves from adults. With whale strandings rising significantly in some regions over the past two decades, this capability has become invaluable for understanding mortality patterns, sea surface temperatures, and ocean currents in remote areas. Scientists emphasize that satellites complement rather than replace traditional fieldwork, as cloud cover, wind, and satellite availability can limit data quality.
+
+This story offers a quiet reminder of how technology can extend our care across distances we cannot physically reach. The long-term goal is to develop automated detection systems that spot strandings quickly enough to intervene and identify causes, turning orbital observation into an early-warning system for ocean health and the creatures that depend on it.</description>
+      <source url="https://news.mongabay.com/2026/08/scientists-use-satellites-to-track-whale-strandings-in-remote-places-from-space/">Mongabay</source>
+    </item>
     <item>
       <title>Federal Prosecutors Request Immediate Creation of Committee to Manage Upper Paraguay Basin</title>
       <link>https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/31/mpf-pede-a-justica-criacao-imediata-de-comite-para-gestao-da-bacia-do-alto-paraguai.ghtml</link>
@@ -594,18 +606,6 @@ The research, conducted at Chile's Paranal Observatory in the Atacama Desert, us
 
 This story matters because it illuminates an emerging tension between two worthy goals: expanding global internet access and preserving humanity's window into deep space. The researchers emphasize that satellite internet services offer real benefits, particularly for underserved regions, and don't advocate abandoning them. Instead, they're calling for balance—a conversation about how technological progress and scientific discovery might coexist. The challenge, Hainaut notes, is that satellites are already launching while researchers are still assessing the consequences, making this a race between innovation and understanding.</description>
       <source url="https://g1.globo.com/ciencia/noticia/2026/08/27/proliferacao-de-satelites-poe-em-risco-observacoes-astronomicas-mostra-estudo.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>China’s Tianmu Mountain reserve tackles modern conservation amid religious tradition</title>
-      <link>https://news.mongabay.com/short-article/2026/08/chinas-tianmu-mountain-reserve-tackles-modern-conservation-amid-religious-tradition/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/08/chinas-tianmu-mountain-reserve-tackles-modern-conservation-amid-religious-tradition/</guid>
-      <pubDate>Thu, 27 Aug 2026 06:04:20 GMT</pubDate>
-      <description>On Tianmu Mountain in eastern China, ancient religious traditions and modern conservation science are finding common ground. For over a millennium, Buddhist, Daoist, and Confucian beliefs have shaped local attitudes toward the forest, with temples once enforcing strict rules against harming trees and wildlife. Now, following a dramatic expansion in 2025, the area has become the 54,700-hectare Tianmushan-Qingliangfeng UNESCO World Biosphere Reserve—China's first expansion of its kind—and state regulations provide the formal legal framework for protection.
-
-Known as the "kingdom of big trees," the reserve shelters thousands of species, including endangered ginkgo trees, Chinese pangolins, and the rare Tianmu ironwood. What makes this conservation effort particularly noteworthy is its co-management approach: local communities helped develop the ten-year management plan, and residents in the transition zone's 41 villages hold decision-making power over ecotourism and sustainable development. This collaboration aims to resolve longstanding tensions, including a 2001 lawsuit over land-use restrictions. Park authorities and religious institutions are now encouraging younger generations to pursue ecotourism careers rather than traditional farming, aligning economic livelihoods with environmental health. Meanwhile, the reserve faces contemporary challenges like pine wilt disease and climate-driven shifts in forest composition.
-
-This story offers a quietly hopeful model for conservation: honoring the past while adapting to present needs. The belief that "every tree, flower, and bird carries a spirit" has kept the mountain thriving for centuries, and that spiritual foundation now supports a modern framework where protection and prosperity might grow together.</description>
-      <source url="https://news.mongabay.com/short-article/2026/08/chinas-tianmu-mountain-reserve-tackles-modern-conservation-amid-religious-tradition/">Mongabay</source>
     </item>
   </channel>
 </rss>
