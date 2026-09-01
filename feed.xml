@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 02:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 04:02:06 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kākāpō rising: 90 chicks swell population of the world’s heaviest parrot</title>
+      <link>https://www.theguardian.com/world/2026/sep/01/record-breeding-worlds-heaviest-parrot-nz-endangered-kakapo</link>
+      <guid isPermaLink="false">https://www.theguardian.com/world/2026/sep/01/record-breeding-worlds-heaviest-parrot-nz-endangered-kakapo</guid>
+      <pubDate>Tue, 01 Sep 2026 04:02:03 GMT</pubDate>
+      <description>New Zealand's kākāpō, the world's heaviest parrot, has reached a population milestone not seen in three-quarters of a century. Thanks to a bumper breeding season, ninety chicks have joined the ranks of these critically endangered birds, bringing the total to 325—the highest number since intensive recovery efforts began in 1995 with just 51 individuals.
+
+The breeding boom was triggered by a mass fruiting of rimu trees, whose berries provide essential nutrition for kākāpō reproduction. These flightless, nocturnal parrots breed only when rimu harvests are plentiful, which happens every two to four years, making population growth painstakingly slow. This year's success followed a four-year wait and produced as many chicks as it took sixteen years to hatch in the program's early days. All three breeding populations live on predator-free islands, safe from the cats and stoats that nearly drove the species to extinction by the 1900s. The recovery team now looks ahead to the next potential breeding season in 2028, preparing for what they hope will be continued growth.
+
+What makes this story quietly remarkable is not just the numbers, but the peculiar charm of the birds themselves. Weighing up to four kilograms and living sixty to eighty years, kākāpō have captivated global audiences—over 100,000 people watched a livestream of a mother tending her nest. Males court females by producing deep, booming calls from chest air sacs while sitting in ground bowls, a sound that travels up to five kilometers and resembles a plucked cello string. It's a reminder that conservation can succeed with patience, and that some of nature's most endearing oddities are worth the decades-long effort to save.</description>
+      <source url="https://www.theguardian.com/world/2026/sep/01/record-breeding-worlds-heaviest-parrot-nz-endangered-kakapo">The Guardian</source>
+    </item>
     <item>
       <title>What it's really like to live with obsessive-compulsive disorder</title>
       <link>https://www.abc.net.au/news/2026-09-01/matthew-wright-perspective-living-with-ocd/106934778</link>
@@ -594,18 +606,6 @@ What followed was a multi-hour rescue effort involving the Metropolitan Fire Ser
 
 This story is a quiet testament to the dedication of emergency services and the resilience of one very lucky dog. It's also a reminder of how communities rally around moments of shared compassion, turning what could have been a tragedy into a heartfelt reunion that left rescue crews and the Camilleri family alike moved and grateful.</description>
       <source url="https://www.abc.net.au/news/2026-08-28/dog-rescue-blue-lake-mount-gambier/107079436">ABC Australia</source>
-    </item>
-    <item>
-      <title>Rural school students create unusual band with guitar, horn and a robot in MS</title>
-      <link>https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/27/estudantes-criam-robo-que-toca-trem-do-pantanal-e-chamam-atencao-em-olimpiada-de-robotica-em-ms.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/27/estudantes-criam-robo-que-toca-trem-do-pantanal-e-chamam-atencao-em-olimpiada-de-robotica-em-ms.ghtml</guid>
-      <pubDate>Thu, 27 Aug 2026 20:03:25 GMT</pubDate>
-      <description>At a rural school in the Eldorado 2 settlement in Mato Grosso do Sul, Brazil, four high school students built a robot that performs a beloved regional classic. Their creation plays "Trem do Pantanal" — a song celebrating the Pantanal wetlands — on a keyboard, accompanied by live guitar and traditional instruments. The project, named PantaBox, earned recognition at the regional round of the Brazilian Robotics Olympiad in Campo Grande, impressing judges and fellow competitors alike.
-
-The idea took root after their school received technology kits and training from the state education department. Students José Henrique, Lucas Guilherme, Diogo Maciel, and Nicolas Wendell wanted to honor their regional culture and musician Almir Sater. Over two weeks, they synchronized controller boards and converted musical notes into digital commands, carefully timing motor movements to match the song's original rhythm. The technical challenge was substantial: each note had to be precisely timed, with no programming embedded in the keyboard itself — the robot had to physically press the keys at exactly the right moments.
-
-This project illuminates how technology and tradition can harmonize in unexpected settings. For a rural community often overlooked in conversations about innovation, the students' achievement demonstrates that curiosity and dedication transcend geography. Their work brought visibility to rural education and proved that young people from agricultural settlements can compete — and excel — on the same stage as students from urban centers. It's a quietly powerful reminder that remarkable ideas can emerge from anywhere when students are given tools, encouragement, and the freedom to celebrate their own cultural roots.</description>
-      <source url="https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/27/estudantes-criam-robo-que-toca-trem-do-pantanal-e-chamam-atencao-em-olimpiada-de-robotica-em-ms.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
