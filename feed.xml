@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 12:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:02:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Could humans ever communicate with whales? - podcast</title>
+      <link>https://www.theguardian.com/science/audio/2026/sep/01/clicks-grunts-and-squeals-the-wonders-of-whale-communication-podcast</link>
+      <guid isPermaLink="false">https://www.theguardian.com/science/audio/2026/sep/01/clicks-grunts-and-squeals-the-wonders-of-whale-communication-podcast</guid>
+      <pubDate>Tue, 01 Sep 2026 14:02:16 GMT</pubDate>
+      <description>Scientists have been captivated by whale vocalizations since the first recording of whale song in 1949, and now advancing technology is bringing researchers closer to understanding the complex communication systems of these marine mammals. A recent podcast explores how scientists are decoding the distinctive patterns in the wails, clicks, grunts, and squeals that different whale species use to communicate with one another.
+
+Journalist Emma Bryce, who spent months investigating human efforts to understand whale song, discusses how beluga whales' intricate vocalizations are being studied and interpreted. The research draws on decades of recordings and observations, combining traditional field work with modern computational tools to identify patterns and potential meanings in whale communication. Organizations like the Raincoast Conservation Foundation and Project CETI are at the forefront of this work, capturing footage and audio that reveal the richness of cetacean language.
+
+What makes this research particularly meaningful goes beyond satisfying human curiosity. Understanding how whales communicate could prove essential to protecting them from human-caused threats like ocean noise pollution, ship strikes, and habitat disruption. By learning to decode their language, scientists hope to better understand whale behavior, social structures, and needs—knowledge that could inform more effective conservation strategies. The effort also holds a mirror up to ourselves, offering insights into the nature of intelligence, communication, and our relationship with the natural world. It's a reminder that the ocean holds mysteries that remain largely undeciphered, and that listening carefully might be one of the most important things we can do.</description>
+      <source url="https://www.theguardian.com/science/audio/2026/sep/01/clicks-grunts-and-squeals-the-wonders-of-whale-communication-podcast">The Guardian</source>
+    </item>
     <item>
       <title>'Without technique and persistence, I would never have gotten where I am': biologist transforms nature into art</title>
       <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/01/sem-tecnica-e-persistencia-jamais-teria-chegado-onde-estou-biologa-transforma-natureza-em-arte.ghtml</link>
@@ -594,18 +606,6 @@ Harald's legacy is defined by his modernization of royal tradition and his deepl
 
 This story resonates because it captures how one person can reshape an ancient institution through quiet authenticity. Harald's willingness to show emotion, humor, and vulnerability made the monarchy feel accessible and human. His son Haakon, now 53, assumes the throne at a time when the family has faced both health struggles and personal controversies, but Harald's decades of steady, compassionate leadership have left a template for what it means to serve with genuine warmth in a changing world.</description>
       <source url="https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
-    </item>
-    <item>
-      <title>People freed after spending day stuck between slips on State Highway 6</title>
-      <link>https://www.rnz.co.nz/news/weather/1159373/people-freed-after-spending-day-stuck-between-slips-on-state-highway-6</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/weather/1159373/people-freed-after-spending-day-stuck-between-slips-on-state-highway-6</guid>
-      <pubDate>Fri, 28 Aug 2026 06:02:42 GMT</pubDate>
-      <description>A powerful winter storm swept across New Zealand's South Island, trapping two cars and their occupants between more than 20 landslips on State Highway 6 near Wānaka. The stranded travelers spent an entire chilly day waiting for rescue, with one person bundling up to watch Lord of the Rings trilogy to pass the time. Road contractors eventually cleared a path through the debris, allowing both vehicles—one stuck at each end of the affected section—to drive out safely, reportedly in good spirits despite their ordeal.
-
-The storm brought dramatic impacts across the region, dumping over 300 millimeters of rain in Franz Josef and more than 20 centimeters of snow elsewhere. In Queenstown's Fernhill area, a blocked culvert created a cascading waterfall that tore through six properties. Resident Debra Clarke, who has lived in her home for 36 years, described water gushing like a river through her garden and into her house around midnight, leaving an inch of silt throughout. She and 44 others were evacuated to temporary accommodation, with firefighters responding to 16 flooding emergencies across multiple communities. Clarke's freshly landscaped garden was destroyed, and her cat went missing in the chaos.
-
-This story captures both the dramatic power of nature and the quiet resilience of people caught in its path—from the movie-watching patience of stranded motorists to neighbors helping clear flooded streets. It's a reminder of how quickly weather can transform familiar landscapes and the human capacity to find calm, even humor, while waiting out forces beyond our control.</description>
-      <source url="https://www.rnz.co.nz/news/weather/1159373/people-freed-after-spending-day-stuck-between-slips-on-state-highway-6">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
