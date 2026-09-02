@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:04:17 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Yayoi Kusama’s polka dots were never just dots</title>
+      <link>https://www.japantimes.co.jp/culture/2026/09/03/art/yayoi-kusama-polka-dots/</link>
+      <guid isPermaLink="false">https://www.japantimes.co.jp/culture/2026/09/03/art/yayoi-kusama-polka-dots/</guid>
+      <pubDate>Wed, 02 Sep 2026 16:04:14 GMT</pubDate>
+      <description>Yayoi Kusama's polka dots have become one of contemporary art's most recognizable signatures, adorning everything from pumpkins to entire buildings. Following the announcement of the legendary Japanese artist's death at age 97, reflections on her work reveal that these cheerful, brand-like patterns originated from something far more profound than playful decoration.
+
+The dots emerged from Kusama's lived experience with hallucinations, obsessive thoughts, and what she described as a fear of self-obliteration—struggles that followed her from childhood. In a 2016 interview conducted ahead of a major retrospective at Stockholm's Moderna Museet, Kusama shared insights about the deeper meaning behind her signature motif. While the interview was published in Swedish at the time, the artist's original reflections on her dots had not previously appeared in English, offering a rare glimpse into her creative process and the psychological underpinnings of her work.
+
+This story reminds us that even the most joyful and accessible art can spring from complex inner worlds. Kusama's dots captivate children and function as global iconography, yet they represent her method of processing mental health challenges and fears. It's a testament to how artists transform personal struggle into something universally resonant—beauty and meaning that outlasts a single lifetime and continues to speak across cultures and generations.</description>
+      <source url="https://www.japantimes.co.jp/culture/2026/09/03/art/yayoi-kusama-polka-dots/">The Japan Times</source>
+    </item>
     <item>
       <title>VIDEO: Horse and dog 'clock in' at bakery and receive bread every day in rural São Paulo</title>
       <link>https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/02/video-cavalo-e-cachorra-batem-ponto-em-padaria-e-ganham-pao-todos-os-dias-no-interior-de-sp.ghtml</link>
@@ -594,18 +606,6 @@ India faces a stark water challenge: home to 18% of the world's population but o
 
 What makes this story quietly remarkable is the realization that some of the best tools for climate adaptation aren't new technologies, but old wisdom half-buried in mud. Communities across India are discovering that restoring heritage isn't just about preserving the past—it's about securing the future. These ancient structures, carved in stone and tested by centuries, are proving resilient exactly when they're needed most.</description>
       <source url="https://www.bbc.com/mundo/articles/c0j3pl28377o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>Cyborg cockroaches are trained to rescue disaster victims; see how</title>
-      <link>https://g1.globo.com/ciencia/noticia/2026/08/29/baratas-ciborgues-sao-treinadas-para-socorrer-vitimas-de-desastres-veja.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/ciencia/noticia/2026/08/29/baratas-ciborgues-sao-treinadas-para-socorrer-vitimas-de-desastres-veja.ghtml</guid>
-      <pubDate>Sat, 29 Aug 2026 12:04:01 GMT</pubDate>
-      <description>Australian researchers have turned giant burrowing cockroaches into "cyborgs" designed to help disaster victims trapped in rubble. Scientists from the University of Queensland and the University of New South Wales equipped the insects with tiny backpacks containing miniature injection devices and cameras, with the goal of delivering basic medical aid to earthquake and collapse survivors before human rescue teams can arrive.
-
-The project uses the northern Queensland giant burrowing cockroach, considered the world's heaviest cockroach species. By implanting an electrode into the insect's nervous system, researchers can send small electrical signals that allow them to remotely guide the cockroach's movements through disaster sites. The choice of living insects over robots comes down to performance: no machine has yet matched the combination of agility, resilience, and energy efficiency that cockroaches naturally possess. Their ability to navigate complex terrain, climb walls, and move upside down makes them ideal for navigating the irregular, debris-filled spaces typical of collapsed structures.
-
-The research team acknowledges significant challenges remain before these "paraborgs" can be deployed in real emergencies, including navigation difficulties in complex terrain, signal loss within collapsed buildings, and ensuring the injection mechanism works reliably without harming victims. Still, this unusual approach highlights how nature's solutions—refined over millions of years—sometimes outperform even our most sophisticated technology, and how scientists are finding creative ways to bridge biology and engineering in service of saving lives.</description>
-      <source url="https://g1.globo.com/ciencia/noticia/2026/08/29/baratas-ciborgues-sao-treinadas-para-socorrer-vitimas-de-desastres-veja.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
