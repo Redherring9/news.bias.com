@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:04:25 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Unprecedented study maps what makes 'seed rain' richer in the Atlantic Forest</title>
+      <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/02/estudo-inedito-mapeia-o-que-faz-a-chuva-de-sementes-ser-mais-rica-na-mata-atlantica.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/02/estudo-inedito-mapeia-o-que-faz-a-chuva-de-sementes-ser-mais-rica-na-mata-atlantica.ghtml</guid>
+      <pubDate>Wed, 02 Sep 2026 12:04:23 GMT</pubDate>
+      <description>A groundbreaking study has mapped what makes "seed rain" — the daily cascade of seeds dropped by wind, gravity, and especially animals — more abundant in Brazil's Atlantic Forest. This nearly invisible process is essential for forest survival, generating new trees and helping vegetation recover after fires or deforestation. Researchers found that two factors drive richer seed dispersal: rainfall volume and, crucially, the amount of native vegetation surrounding each area.
+
+The study, led by Marco Aurélio Pizo from São Paulo State University, represents the largest investigation of its kind in the Atlantic Forest. It compiled data collected between 1987 and 2021 by dozens of researchers across 52 sites, analyzing records from nearly 1,900 seed collectors that captured over 1.3 million seeds from 1,029 different plant groups. The research revealed a surprising insight that could reshape restoration planning: multiple connected forest fragments support richer seed dispersal than a single isolated fragment of equal total size, even when the overall area is the same. Connected fragments create corridors that allow birds, bats, and monkeys to move between areas, carrying seeds as they travel.
+
+This work matters because the Atlantic Forest, once covering over one million square kilometers along Brazil's coast, has been reduced to roughly 23% of its original extent, mostly scattered in small fragments. Yet there's hope: recent monitoring shows deforestation rates dropped 40% between 2023 and 2024, the lowest in four decades. Understanding how seed dispersal works across this fragmented landscape offers practical guidance for protecting what remains and reconnecting isolated patches — a quiet but vital strategy for helping one of the world's most threatened forests regenerate naturally.</description>
+      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/02/estudo-inedito-mapeia-o-que-faz-a-chuva-de-sementes-ser-mais-rica-na-mata-atlantica.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>The quantum batteries that challenge what we know about how these devices are charged</title>
       <link>https://www.bbc.com/mundo/articles/cx2zdz11l42o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ King Harald was celebrated for embracing a more inclusive vision of Norwegian id
 
 This story captures a quiet but profound moment of national reflection, as Norway honors a beloved monarch while navigating the complexities of royal succession. The new king inherits a monarchy praised for its modernity yet recently shadowed by controversy, including scandals touching members of the royal family. It's a reminder that even in one of the world's most egalitarian societies, the human dimensions of leadership—warmth, continuity, and the passage of generations—still matter deeply to how communities understand themselves.</description>
       <source url="https://www.aljazeera.com/news/2026/8/29/norway-mourns-king-harald-as-new-era-begins-under-haakon-viii?traffic_source=rss">Al Jazeera</source>
-    </item>
-    <item>
-      <title>What happens if you give everyone $700? A local economy thrives</title>
-      <link>https://www.japantimes.co.jp/business/2026/08/29/direct-cash-transfer-experiment/</link>
-      <guid isPermaLink="false">https://www.japantimes.co.jp/business/2026/08/29/direct-cash-transfer-experiment/</guid>
-      <pubDate>Sat, 29 Aug 2026 08:03:01 GMT</pubDate>
-      <description>In the bustling village of Kamala in southern Malawi, 19-year-old Yonas Fote has turned a modest room into a thriving cinema, charging friends twelve cents to watch dubbed Nigerian films. His entrepreneurial venture isn't just youthful ambition—it's part of a radical experiment in rethinking how aid works. Fote is one of 230,000 adults receiving approximately $700 each through GiveDirectly's unconditional cash transfer program, the largest of its kind in the world, with no strings attached and no prescribed use for the funds.
-
-The $198 million initiative challenges traditional models of development assistance by trusting recipients to know what they need most. Rather than dictating solutions from afar, the program simply provides capital and observes what emerges. Fote's cinema represents exactly the kind of creative, locally-grounded initiative that can flourish when people have resources and agency. His business serves his community's appetite for entertainment while generating income—a modest but meaningful contribution to the local economy.
-
-This story matters because it offers a glimpse into what happens when we shift from paternalistic aid to empowerment. The results aren't grand infrastructure projects or imported solutions, but rather organic economic activity rooted in actual community needs and desires. Whether it's a makeshift cinema or another venture entirely, these cash transfers are revealing how local economies can thrive when people are trusted to make their own decisions. It's a quietly radical proposition: that sometimes the best development strategy is simply giving people the means to pursue their own ideas.</description>
-      <source url="https://www.japantimes.co.jp/business/2026/08/29/direct-cash-transfer-experiment/">The Japan Times</source>
     </item>
   </channel>
 </rss>
