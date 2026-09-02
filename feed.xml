@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 08:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:01:14 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The quantum batteries that challenge what we know about how these devices are charged</title>
+      <link>https://www.bbc.com/mundo/articles/cx2zdz11l42o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cx2zdz11l42o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Wed, 02 Sep 2026 10:01:13 GMT</pubDate>
+      <description>Scientists in Australia have built the world's first working prototype of a quantum battery, a device that turns conventional energy storage on its head. While traditional batteries take longer to charge as they grow larger, quantum batteries exhibit the opposite behavior: the bigger they are, the faster they charge. This counterintuitive phenomenon emerges from the strange rules governing matter at atomic and subatomic scales.
+
+Researcher James Quach at CSIRO led the team that achieved this March 2026 breakthrough. The prototype uses an optical microcavity—two tiny mirrors placed just 100 nanometers apart, roughly one-thousandth the width of a human hair. Between these mirrors, organic dye molecules are energized by laser light, creating hybrid states of light and matter that enhance the system's ability to absorb and store energy. Unlike conventional batteries, which rely on chemical reactions moving trillions upon trillions of electrons, quantum batteries harness quantum effects like entanglement. The focus isn't on storing vast amounts of energy, but on delivering it faster and with greater control.
+
+The field remains in its infancy, and the technology faces significant skepticism about real-world viability. Yet proponents suggest quantum batteries could one day power quantum computers or even everyday devices like smartphones. Whether these batteries prove practical or remain a laboratory curiosity, they represent a fascinating exploration of how the bizarre laws of quantum mechanics might reshape technologies we take for granted. This story reminds us that the universe still holds surprises, and that reimagining the fundamentals can lead to genuinely unexpected possibilities.</description>
+      <source url="https://www.bbc.com/mundo/articles/cx2zdz11l42o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>What Brazil’s supercentenarians can teach us about living to 120</title>
       <link>https://www.positive.news/society/what-brazils-supercentenarians-can-teach-us-about-living-to-120/</link>
@@ -594,18 +606,6 @@ The $198 million initiative challenges traditional models of development assista
 
 This story matters because it offers a glimpse into what happens when we shift from paternalistic aid to empowerment. The results aren't grand infrastructure projects or imported solutions, but rather organic economic activity rooted in actual community needs and desires. Whether it's a makeshift cinema or another venture entirely, these cash transfers are revealing how local economies can thrive when people are trusted to make their own decisions. It's a quietly radical proposition: that sometimes the best development strategy is simply giving people the means to pursue their own ideas.</description>
       <source url="https://www.japantimes.co.jp/business/2026/08/29/direct-cash-transfer-experiment/">The Japan Times</source>
-    </item>
-    <item>
-      <title>30 Years of Chabad in Berlin: More Space for Jewish Life</title>
-      <link>https://www.dw.com/de/30-jahre-chabad-in-berlin-mehr-platz-für-jüdisches-leben/a-78526661?maca=de-rss-de-all-1119-xml-mrss</link>
-      <guid isPermaLink="false">https://www.dw.com/de/30-jahre-chabad-in-berlin-mehr-platz-für-jüdisches-leben/a-78526661?maca=de-rss-de-all-1119-xml-mrss</guid>
-      <pubDate>Sat, 29 Aug 2026 06:02:04 GMT</pubDate>
-      <description>In a quiet corner of Berlin, a Jewish community is preparing to expand its spiritual home. The Chabad community, now marking 30 years since Rabbi Yehuda Teichtal arrived from New York, has outgrown its central synagogue in Wilmersdorf. What began with a handful of families has blossomed into a congregation of roughly 4,000 members, and the current 200-seat synagogue regularly overflows—sometimes welcoming up to 1,000 worshippers during High Holy Days.
-
-Teichtal, whose family lost dozens of relatives in the Holocaust, has built more than just physical spaces. The community now runs multiple smaller synagogues across Berlin, a Jewish campus with kindergarten and school, and even opened Germany's only Jewish refugee shelter when Ukrainian Jews fled the war. The rabbi describes himself as "orthodox and open," and that openness shapes the community's approach: regular visits from school groups, partnerships with federal police training programs, and increasingly, students from schools with large Muslim populations. "Encounter breaks down prejudice and creates tolerance," Teichtal notes, pleased that reality has exceeded expectations.
-
-This weekend's anniversary celebration will feature street festivities, live music, and a glimpse of the future—visitors can experience the planned expanded synagogue through virtual reality. The community will also begin a new Torah to be handwritten entirely in Germany. It's a story worth attention because it captures something quietly remarkable: a thriving Jewish community choosing visibility and growth in a country still reckoning with its history, building bridges through invitation rather than isolation, and betting that shared experience can soften the edges of difference.</description>
-      <source url="https://www.dw.com/de/30-jahre-chabad-in-berlin-mehr-platz-für-jüdisches-leben/a-78526661?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
     </item>
   </channel>
 </rss>
