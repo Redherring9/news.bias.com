@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 22:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:02:54 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Traditional owners say national park can 'breathe again' after handback</title>
+      <link>https://www.abc.net.au/news/2026-09-04/boodjamulla-national-park-lawn-hill-gorge-handover/107102104</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-09-04/boodjamulla-national-park-lawn-hill-gorge-handover/107102104</guid>
+      <pubDate>Fri, 04 Sep 2026 00:02:52 GMT</pubDate>
+      <description>After decades of campaigning and protest, Boodjamulla National Park in outback Queensland has been formally returned to the Waanyi people, who have maintained connection to this land for more than 30,000 years. The 247,000-hectare park, known for its dramatic gorges and World Heritage-listed fossil deposits at Riversleigh, attracts over 20,000 visitors annually. For traditional owners, the handback represents what Hayley Iles, chair of the Waanyi Prescribed Body Corporate, calls "a long-awaited homecoming" — a moment when "the land breathes again."
+
+The journey to this moment stretches back through generations of struggle. After being dispossessed of their country, Waanyi people staged sit-in protests in 1994 and 2002, demanding recognition and a voice in managing both the park and nearby mining operations. Those actions helped build momentum toward formal negotiations that began in 2020. The land transfer occurred progressively in three stages, culminating in January of this year. Under the agreement, the park is leased back to the state, with a board of equal representation ensuring Waanyi and Queensland Parks rangers work side by side, blending cultural knowledge with land management expertise.
+
+This story matters because it illustrates patience and persistence across generations. While elders who began this fight have passed away, their vision is now realized in a model that honours both sovereignty and shared stewardship. For visitors, little will change on the surface, but beneath lies a profound shift: Boodjamulla, meaning rainbow serpent country, is once again recognized as Aboriginal land, where ancient connection and modern conservation walk together.</description>
+      <source url="https://www.abc.net.au/news/2026-09-04/boodjamulla-national-park-lawn-hill-gorge-handover/107102104">ABC Australia</source>
+    </item>
     <item>
       <title>'Regulars': Hitchhiking birds catch Sydney train commuters by surprise</title>
       <link>https://www.abc.net.au/news/2026-09-04/nsw-myna-birds-catch-sydney-trains-surprising-travellers/107064310</link>
@@ -594,18 +606,6 @@ The Roman telescope's primary mission addresses one of humanity's most enduring 
 
 What makes this story quietly remarkable is how it builds on decades of astronomical achievement while opening entirely new windows into the cosmos. The telescope honors a pioneer who helped bring the Hubble to fruition, and now her namesake instrument will search for answers she herself found most intriguing. With an initial five-year mission and hopes for ten years of operation, Roman represents humanity's patient, persistent effort to understand our place in an incomprehensibly vast universe—one exoplanet at a time.</description>
       <source url="https://www.bbc.com/mundo/articles/cpq09qxgev4o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>How GPS, Created for War, Shaped the Modern World</title>
-      <link>https://www.bbc.com/portuguese/articles/c62m4znn84lo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/c62m4znn84lo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sun, 30 Aug 2026 20:02:25 GMT</pubDate>
-      <description>A curious incident in 2017 offers a window into one of the modern world's most ubiquitous yet least noticed technologies. Several oil tankers approaching a Russian port discovered their GPS systems showed them hovering in mid-air over a nearby airport, even as their eyes confirmed they were sailing on water. This bizarre glitch sparked journalist Katherine Dunn's deep dive into GPS, the satellite-based system that quietly shapes nearly every aspect of contemporary life.
-
-What began as a military tool for precision bombing during the Vietnam War has evolved into the invisible infrastructure of global civilization. GPS does far more than help us navigate to unfamiliar addresses. It synchronizes cell phone towers, banking systems, and electrical grids, relying on atomic clocks accurate to billionths of a second. The system works by having devices receive signals from four satellites simultaneously, solving equations for longitude, latitude, altitude, and time. This time-keeping function is crucial: every smartphone essentially carries a pocket atomic clock, enabling the split-second coordination that modern digital life demands. From agricultural precision to traffic light timing, from online shopping delivery to international shipping logistics, GPS threads through systems we take for granted.
-
-This story matters because it reveals how a technology born from conflict has become so deeply woven into daily existence that we barely notice it—until it goes wrong. That little blue dot on our screens represents more than our location; it's become how we identify ourselves in digital space, a new form of "I" that required no instruction manual to understand. Understanding GPS means understanding the hidden scaffolding of the modern world.</description>
-      <source url="https://www.bbc.com/portuguese/articles/c62m4znn84lo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
     </item>
   </channel>
 </rss>
