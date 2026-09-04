@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 14:03:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:03:43 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The charts that reveal who app workers are and how much they earn in Brazil</title>
+      <link>https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 04 Sep 2026 16:03:40 GMT</pubDate>
+      <description>Brazil's statistics agency has released a revealing portrait of the country's app-based workforce, and the numbers tell a story of stagnating opportunity. While 18-year-old Pedro Ivo saw his income quadruple after switching from an apprenticeship to delivery work, he represents an increasingly rare experience. Over the past three years, the wage advantage that platform workers once enjoyed has vanished entirely.
+
+As of late 2025, app workers and other private-sector employees earned nearly identical monthly averages—around R$3,147—but the similarity masks an important disparity. Platform workers logged 44.7 hours per week compared to 39.3 for traditional employees, meaning their effective hourly wage fell short: R$16.20 versus R$18.40. While overall private-sector wages rose more than 10% since 2022, app worker earnings barely budged, largely because drivers—who make up three-quarters of the platform workforce—saw no real income growth. The data emerged just days after delivery workers staged protests demanding a minimum fee of R$10 for short trips and better legal protections.
+
+This snapshot of Brazil's 2 million platform workers offers a quiet corrective to the narrative of gig work as a path to higher pay. What began as a flexible, lucrative alternative has become a longer-hours grind for comparable—or lower—compensation. The story matters because it documents, with unusual precision, how quickly the economics of app-based work can shift, and how the promise of autonomy doesn't always translate into financial gain. It's a measured look at a labor market in flux, worth reading for anyone curious about the real trade-offs behind the gig economy.</description>
+      <source url="https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>What is terva, the 'tar' that Finns can't stop eating</title>
       <link>https://www.bbc.com/mundo/articles/crl6k6lp9n9o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ Penny Clarke and her colleagues at the British Antarctic Survey have been at the
 
 This story offers a quiet reminder of how technology can extend our care across distances we cannot physically reach. The long-term goal is to develop automated detection systems that spot strandings quickly enough to intervene and identify causes, turning orbital observation into an early-warning system for ocean health and the creatures that depend on it.</description>
       <source url="https://news.mongabay.com/2026/08/scientists-use-satellites-to-track-whale-strandings-in-remote-places-from-space/">Mongabay</source>
-    </item>
-    <item>
-      <title>Federal Prosecutors Request Immediate Creation of Committee to Manage Upper Paraguay Basin</title>
-      <link>https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/31/mpf-pede-a-justica-criacao-imediata-de-comite-para-gestao-da-bacia-do-alto-paraguai.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/31/mpf-pede-a-justica-criacao-imediata-de-comite-para-gestao-da-bacia-do-alto-paraguai.ghtml</guid>
-      <pubDate>Mon, 31 Aug 2026 12:02:25 GMT</pubDate>
-      <description>Brazil's Federal Public Prosecutor's Office has filed an urgent lawsuit demanding the immediate creation of a management committee for the Upper Paraguay River Basin, the waterway that feeds the Pantanal, the world's largest tropical wetland. The legal action targets federal and state governments, arguing that the absence of this coordinating body has left one of South America's most important ecosystems vulnerable to fragmented decision-making and unchecked industrial development.
-
-At the heart of the case is concern over major infrastructure projects, including the Paraguay-Paraná Waterway—a series of dredging operations, port terminals, and channel deepening at 28 critical points along the river. Prosecutors argue these projects are advancing without comprehensive impact assessments or consultation with Indigenous Guató and Kadiwéu peoples and traditional Pantanal communities, violating international labor conventions. The cumulative effect, they warn, could disrupt the wetland's natural flood pulse, the seasonal rhythm of water flow that sustains the Pantanal's extraordinary biodiversity. The lawsuit also challenges claims of insufficient funding, citing a technical report showing that between 2021 and 2025, the National Water Agency left over 149 million reais unspent and failed to allocate more than a billion reais collected specifically for water resource management.
-
-This story highlights a tension familiar in many parts of the world: how to balance economic ambitions with environmental stewardship, especially in places recognized as global treasures. The Pantanal holds constitutional protection in Brazil and international designations from UNESCO, yet its governance remains incomplete. The case is a reminder that protecting irreplaceable landscapes often requires not just laws on paper, but the institutions and voices to bring those laws to life.</description>
-      <source url="https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/31/mpf-pede-a-justica-criacao-imediata-de-comite-para-gestao-da-bacia-do-alto-paraguai.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
