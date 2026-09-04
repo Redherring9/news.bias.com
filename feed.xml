@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:03:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:01:54 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Argentine couple to return Nazi-looted painting to rightful owner</title>
+      <link>https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 04 Sep 2026 18:01:52 GMT</pubDate>
+      <description>A painting stolen by the Nazis more than 80 years ago has surfaced in an unexpected place: hanging above a green sofa in a coastal Argentine home listed for sale. The late-baroque Portrait of a Lady, looted from Jewish art dealer Jacques Goudstikker after the Nazi invasion of the Netherlands in 1940, was recognized last August by a Dutch newspaper while browsing real estate photographs online. The house belonged to Patricia Kadgien, daughter of Friedrich Kadgien, a top adviser to Hermann Göring who helped plunder thousands of artworks across occupied Europe.
+
+After initially facing criminal charges for concealment, Kadgien and her husband reached an agreement with prosecutors and the painting's rightful heir, Marei von Saher, Goudstikker's daughter-in-law. In exchange for returning the artwork and donating approximately $3,185 to local hospitals, the couple will avoid prosecution. Von Saher has committed to exhibiting the painting temporarily at the Holocaust Museum of Buenos Aires to raise awareness about Nazi-looted art. She has long worked to recover pieces from her family's collection, stating her aim is to bring back every stolen artwork and restore Jacques Goudstikker's legacy.
+
+This story represents a quiet victory in the ongoing effort to right historical wrongs, demonstrating how persistence and modern technology can uncover hidden truths decades later. It also highlights the complex human dimensions of restitution—balancing justice with reconciliation across generations. The painting's rediscovery reminds us that the effects of wartime theft ripple far beyond borders and lifetimes, and that some searches for justice span continents and take the better part of a century to resolve.</description>
+      <source url="https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
+    </item>
     <item>
       <title>The charts that reveal who app workers are and how much they earn in Brazil</title>
       <link>https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ Quintero's approach blends traditional field reporting with modern investigative
 
 This profile, captured during an interview in Colombia's Guainía department ahead of a Mongabay conference, offers a window into what investigative environmental journalism looks like in practice. Quintero's work reminds us that understanding today's environmental challenges requires following the threads across borders, combining boots-on-the-ground reporting with data analysis, and building networks of journalists who can see the whole picture. It's a quiet but essential evolution in how we document and ultimately address crimes against nature.</description>
       <source url="https://news.mongabay.com/2026/08/environmental-crimes-dont-stop-at-borders-neither-can-the-reporting/">Mongabay</source>
-    </item>
-    <item>
-      <title>Scientists use satellites to track whale strandings in remote places from space</title>
-      <link>https://news.mongabay.com/2026/08/scientists-use-satellites-to-track-whale-strandings-in-remote-places-from-space/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/08/scientists-use-satellites-to-track-whale-strandings-in-remote-places-from-space/</guid>
-      <pubDate>Mon, 31 Aug 2026 14:01:52 GMT</pubDate>
-      <description>In 2015, 337 sei whales washed ashore along Chile's remote Patagonian coast in what became the largest recorded mass baleen whale mortality event. The most striking detail? Nobody discovered the stranding for two months. This tragedy became a turning point for marine science, demonstrating both the vastness of our ocean blindspots and the potential of satellite technology to help fill them. Scientists now use very high-resolution orbital imagery to monitor whale strandings in the world's most inaccessible places, transforming what were once unidentifiable dark blobs in early 2000s satellite photos into detailed images that reveal species, decomposition stages, and even individual scars.
-
-Penny Clarke and her colleagues at the British Antarctic Survey have been at the forefront of this effort since 2019, part of a growing global network using digital eyes in the sky to track cetaceans. The technology allows researchers to distinguish flippers and flukes, estimate whale size, and differentiate calves from adults. With whale strandings rising significantly in some regions over the past two decades, this capability has become invaluable for understanding mortality patterns, sea surface temperatures, and ocean currents in remote areas. Scientists emphasize that satellites complement rather than replace traditional fieldwork, as cloud cover, wind, and satellite availability can limit data quality.
-
-This story offers a quiet reminder of how technology can extend our care across distances we cannot physically reach. The long-term goal is to develop automated detection systems that spot strandings quickly enough to intervene and identify causes, turning orbital observation into an early-warning system for ocean health and the creatures that depend on it.</description>
-      <source url="https://news.mongabay.com/2026/08/scientists-use-satellites-to-track-whale-strandings-in-remote-places-from-space/">Mongabay</source>
     </item>
   </channel>
 </rss>
