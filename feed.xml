@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 06:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:01:26 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Brazil tests 'space laboratory' that reaches 100 km altitude and returns to Earth by parachute</title>
+      <link>https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/05/brasil-testa-laboratorio-espacial-que-vai-a-100-km-de-altitude-e-volta-a-terra-de-paraquedas.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/05/brasil-testa-laboratorio-espacial-que-vai-a-100-km-de-altitude-e-volta-a-terra-de-paraquedas.ghtml</guid>
+      <pubDate>Sat, 05 Sep 2026 08:01:25 GMT</pubDate>
+      <description>Brazil is testing a recoverable space laboratory that launches over 100 kilometers into microgravity, conducts experiments, and returns samples safely to Earth via parachute. The Suborbital Microgravity Platform is attached to a Brazilian rocket and launched from Barreira do Inferno, South America's oldest aerospace center, located in Parnamirim in the state of Rio Grande do Norte. The operation, involving the Brazilian Air Force, runs from August 31 to September 19.
+
+If successful, this will mark the first time Brazil recovers items from a Brazilian platform after real flight conditions for analysis. Currently, Brazilian space research relies mainly on telemetry—collecting data remotely. The microgravity environment is valuable because it allows substances to behave differently than on Earth, particularly in how molecules crystallize. Without gravity's interference, crystals grow more uniformly and symmetrically, which matters greatly for pharmaceutical, food, and materials research. A 2023 mission by Varda Space Industries, for instance, successfully crystallized Ritonavir, an HIV medication, in space. The nine-meter rocket reaches altitudes ten times higher than commercial aircraft.
+
+This test represents a step toward technological independence for Brazil's space program. While the country already uses space laboratory platforms, they're purchased from abroad. Success would enable periodic launches with domestically produced equipment, advancing Brazil's autonomy in suborbital flight. The story quietly underscores how nations beyond traditional space powers are developing capabilities to conduct meaningful scientific research at the edge of space, opening doors to discoveries that could improve medicines and materials back on Earth.</description>
+      <source url="https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/05/brasil-testa-laboratorio-espacial-que-vai-a-100-km-de-altitude-e-volta-a-terra-de-paraquedas.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Country diary: The wild, riotous sounds of otters in battle | Cal Flyn</title>
       <link>https://www.theguardian.com/environment/2026/sep/05/country-diary-the-wild-riotous-sounds-of-otters-in-battle</link>
@@ -594,18 +606,6 @@ The finished nest reveals itself as an intricate work of natural architecture. I
 
 This story offers a quiet invitation to reconsider creatures often viewed as nuisances. The wasps' nest represents simultaneously a family history, an architectural marvel, and a microcosm of the garden's ecological economy—all built with patience and precision over a single summer. It's a reminder that extraordinary craftsmanship and complex societies exist right in our backyards, if we're willing to look closely and wait.</description>
       <source url="https://www.theguardian.com/environment/2026/sep/01/country-diary-a-wasps-nest-in-our-shed-is-a-work-of-art-a-family-saga">The Guardian</source>
-    </item>
-    <item>
-      <title>Kākāpō rising: 90 chicks swell population of the world’s heaviest parrot</title>
-      <link>https://www.theguardian.com/world/2026/sep/01/record-breeding-worlds-heaviest-parrot-nz-endangered-kakapo</link>
-      <guid isPermaLink="false">https://www.theguardian.com/world/2026/sep/01/record-breeding-worlds-heaviest-parrot-nz-endangered-kakapo</guid>
-      <pubDate>Tue, 01 Sep 2026 04:02:03 GMT</pubDate>
-      <description>New Zealand's kākāpō, the world's heaviest parrot, has reached a population milestone not seen in three-quarters of a century. Thanks to a bumper breeding season, ninety chicks have joined the ranks of these critically endangered birds, bringing the total to 325—the highest number since intensive recovery efforts began in 1995 with just 51 individuals.
-
-The breeding boom was triggered by a mass fruiting of rimu trees, whose berries provide essential nutrition for kākāpō reproduction. These flightless, nocturnal parrots breed only when rimu harvests are plentiful, which happens every two to four years, making population growth painstakingly slow. This year's success followed a four-year wait and produced as many chicks as it took sixteen years to hatch in the program's early days. All three breeding populations live on predator-free islands, safe from the cats and stoats that nearly drove the species to extinction by the 1900s. The recovery team now looks ahead to the next potential breeding season in 2028, preparing for what they hope will be continued growth.
-
-What makes this story quietly remarkable is not just the numbers, but the peculiar charm of the birds themselves. Weighing up to four kilograms and living sixty to eighty years, kākāpō have captivated global audiences—over 100,000 people watched a livestream of a mother tending her nest. Males court females by producing deep, booming calls from chest air sacs while sitting in ground bowls, a sound that travels up to five kilometers and resembles a plucked cello string. It's a reminder that conservation can succeed with patience, and that some of nature's most endearing oddities are worth the decades-long effort to save.</description>
-      <source url="https://www.theguardian.com/world/2026/sep/01/record-breeding-worlds-heaviest-parrot-nz-endangered-kakapo">The Guardian</source>
     </item>
   </channel>
 </rss>
