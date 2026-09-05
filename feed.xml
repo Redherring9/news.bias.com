@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 00:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 02:01:23 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>In the United States, patient lives 9 months with a transplanted pig kidney; achievement is unprecedented</title>
+      <link>https://g1.globo.com/jornal-nacional/noticia/2026/09/04/nos-estados-unidos-paciente-fica-9-meses-com-um-rim-transplantado-de-porco-feito-e-inedito.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/jornal-nacional/noticia/2026/09/04/nos-estados-unidos-paciente-fica-9-meses-com-um-rim-transplantado-de-porco-feito-e-inedito.ghtml</guid>
+      <pubDate>Sat, 05 Sep 2026 02:01:21 GMT</pubDate>
+      <description>In a remarkable medical milestone, an American patient lived for nine months with a kidney transplanted from a genetically modified pig — more than double the duration achieved in previous cases. Timothy Andrews, 66, was facing advanced kidney disease with only a 9% chance of finding a human donor when he volunteered for the experimental program at Massachusetts General Hospital in Boston.
+
+The breakthrough involved extensive genetic engineering: scientists removed three pig genes that could trigger human rejection, added seven human genes to make the organ more compatible, and neutralized viruses that could cause disease. These 69 modifications were made at the cellular level, then used to create embryos that grew into pigs with organs suitable for human transplantation. After receiving his pig kidney in January 2025, Andrews experienced a dramatic improvement in quality of life — going from constant illness and dialysis to feeling well enough to joke about tap-dancing off the operating table. The kidney functioned for 271 days before developing lesions, at which point Andrews successfully received a human kidney.
+
+This story matters because it demonstrates that animal-to-human organ transplants could serve as a viable bridge for patients waiting for human donors — a solution to the chronic shortage of available organs. Led by Brazilian physician Leonardo Riella at Harvard University, the research suggests that pig kidney transplants might become a standard option in the American healthcare system within five years, offering hope to thousands facing long, uncertain waits for life-saving transplants.</description>
+      <source url="https://g1.globo.com/jornal-nacional/noticia/2026/09/04/nos-estados-unidos-paciente-fica-9-meses-com-um-rim-transplantado-de-porco-feito-e-inedito.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Handcrafted violins take six months to make, but bring timeless joy</title>
       <link>https://www.abc.net.au/news/2026-09-05/korumburra-violin-maker-richard-hall/106756220</link>
@@ -594,18 +606,6 @@ Researcher Emilie Vansant discovered this gap during her doctoral work, when she
 
 This story matters because it demonstrates how ecological restoration and human nutrition can support each other. By looking to what grew in these landscapes before—and what local communities already love to eat—conservation work can nourish both people and ecosystems simultaneously.</description>
       <source url="https://news.mongabay.com/2026/08/growing-indigenous-food-trees-in-east-africa-fights-malnutrition-and-biodiversity-loss/">Mongabay</source>
-    </item>
-    <item>
-      <title>The best thing about being an immigrant in the U.S. is that it opens the doors to Latin America</title>
-      <link>https://www.bbc.com/mundo/articles/c0qxe7xgn74o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/c0qxe7xgn74o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Mon, 31 Aug 2026 22:01:28 GMT</pubDate>
-      <description>Kiran Desai, the acclaimed Indian-born author living in the United States, found inspiration for her ambitious latest novel along Mexico's Pacific coast. The 54-year-old writer, who became the youngest Booker Prize winner two decades ago, has spent extended periods in various Mexican regions with her mother, also a novelist. In the beach town of La Manzanilla, Jalisco, Desai discovered a powerful metaphor: loneliness is as capricious and changeable as water itself.
-
-Her nearly 700-page novel, "The Loneliness of Sonia and Sunny," explores love on the surface but delves deeper into the complexities of our globalized world, where migration, culture, and colonialism can be both blessing and curse. Desai sees profound connections between Mexico and India that go far beyond superficial similarities like spicy food. Both countries contain living ancient civilizations where multiple time periods seem to exist simultaneously, she observes. Both grapple with colonial legacies that persist today, operating not just from outside forces but within their own societies across class lines.
-
-The interview also reveals Desai's nuanced relationship with literary labels. While she counts Juan Rulfo and Gabriel García Márquez among her influences, she critiques how "magical realism" has been applied almost exclusively to writers from poorer countries, never to European or American authors exploring similar themes. This story offers a thoughtful glimpse into how artists find unexpected resonances across cultures and how physical places can unlock creative understanding about universal human experiences like solitude and belonging.</description>
-      <source url="https://www.bbc.com/mundo/articles/c0qxe7xgn74o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
