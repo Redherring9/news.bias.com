@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 10:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:01:48 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Flourishing green communities are changing lives</title>
+      <link>https://www.bbc.co.uk/news/articles/cq8j0vlznx4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cq8j0vlznx4o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sat, 05 Sep 2026 12:01:46 GMT</pubDate>
+      <description>Four grassroots environmental projects in Devon, England, have been nominated for BBC Radio Devon's Make a Difference Awards, each demonstrating how small-scale community efforts can foster both ecological health and human wellbeing. The nominees include a therapeutic garden, a tree-planting volunteer group, a farm education program, and a town sustainability initiative—all quietly transforming their localities through hands-on engagement with nature.
+
+The Growing Well Garden in Bow uses gardening as a form of green social prescribing, allowing an NHS GP to connect with patients outside the traditional consulting room. Dr. Susan Taheri describes the garden as her "happy place," where therapeutic benefits emerge from getting hands dirty rather than focusing on clinical sterility. Meanwhile, Shallowford Farm on Dartmoor introduces young people to rural life and food production, aiming to instill appreciation for the natural world. Sampford Peverell Tree Wardens maintain the parish's greenery through volunteer efforts often "powered by cake," embodying community pride and care. Sustainable Hatherleigh coordinates bug hunts, graveyard wildflower projects, and repair cafés, with their site now recognized as a county wildlife site.
+
+What makes these stories worth attention is their demonstration that environmental action need not be grand or abstract. These projects weave ecological stewardship into everyday life—through medical practice, childhood education, neighborly tree care, and town-center composting. They suggest that meaningful change often grows from the ground up, nurtured by ordinary people who simply care about where they live and the wellbeing of those around them.</description>
+      <source url="https://www.bbc.co.uk/news/articles/cq8j0vlznx4o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Beavers filmed bonding after release in the wild</title>
       <link>https://www.bbc.co.uk/news/articles/cdx5vz1kqxwo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The initiative connects diverse Brazilian communities through creative economy a
 
 This story quietly demonstrates how cultural preservation and economic opportunity can reinforce rather than contradict each other. It's worth attention not for spectacle, but for its thoughtful model of collaboration—one that honors indigenous heritage while creating pathways for contemporary artisans, connects distant geographies through shared purpose, and positions traditional craft as innovation rather than nostalgia.</description>
       <source url="https://g1.globo.com/pa/para/noticia/2026/09/01/grafismo-marajoara-artesanato-do-para-vira-colecao-de-calcados-e-estreia-na-semana-de-moda-de-milao.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Kākāpō population soars to 325</title>
-      <link>https://www.rnz.co.nz/news/environment/1204957/kakapo-population-soars-to-325</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/environment/1204957/kakapo-population-soars-to-325</guid>
-      <pubDate>Tue, 01 Sep 2026 08:01:59 GMT</pubDate>
-      <description>New Zealand's kākāpō recovery program has reached a remarkable milestone, with the critically endangered night parrot's population jumping from 235 to 325 birds following the most successful breeding season on record. Ninety chicks survived to independence this year—a number that once took sixteen years to achieve in the program's early days. When conservation efforts began in 1995, only 51 kākāpō remained in the world.
-
-This season's success reflects both favorable natural conditions and an important philosophical shift in conservation strategy. On two Fiordland breeding islands, an abundant rimu fruit crop allowed mother kākāpō to raise their chicks without human intervention, while birds on Codfish Island still required supplementary feeding when their fruit crop failed to ripen. Notably, only two chicks needed hand-rearing this year, compared to extensive intervention in previous seasons. Conservation managers are deliberately stepping back from intensive management, relying instead on remote monitoring technology—each bird wears a smart transmitter—to determine when intervention is truly necessary. The team has even decided not to name all the new chicks, symbolizing a move toward allowing kākāpō to exist in a more natural state.
-
-This story offers a refreshing perspective on conservation in an age often dominated by extinction narratives. It demonstrates how patience, adaptive management, and technological innovation can work together to bring a species back from the brink, while also showing the wisdom in knowing when to let nature take the lead.</description>
-      <source url="https://www.rnz.co.nz/news/environment/1204957/kakapo-population-soars-to-325">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
