@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 02:03:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 04:01:54 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>50 years of spotting southern right whales off Great Australian Bight</title>
+      <link>https://www.abc.net.au/news/2026-09-06/southern-right-whale-count-great-australian-bight-50-years/106802582</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-09-06/southern-right-whale-count-great-australian-bight-50-years/106802582</guid>
+      <pubDate>Sun, 06 Sep 2026 04:01:53 GMT</pubDate>
+      <description>For half a century, researchers have been conducting aerial surveys of southern right whales as they migrate from Antarctic waters to breed along Australia's southern coast. This year's census, covering the stretch from Fremantle to Ceduna, recorded 520 whales including 235 mother-calf pairs — a notable decline from 2023's count of 646 individuals. The long-term data is revealing something surprising: the whales' breeding cycles are changing, stretching from once every three years to approximately every five.
+
+Led by Murdoch University's Joshua Smith, the research shows the whale population has stalled since 2011, with calving rates appearing to drop. The Great Australian Bight remains a crucial gathering spot, hosting over 30 percent of the region's mother-calf pairs this year. But researchers are observing unusually quiet activity overall, with nearly twice as many solitary whales compared to cow-calf pairs. The shift appears linked to ocean warming and its cascading effects on the marine food web: fewer sea lice mean less krill, the whales' primary food source. Combined with pressure from krill fisheries, these conditions may be causing females to delay breeding until their body condition improves.
+
+This story matters because it demonstrates how patient, decades-long observation can reveal patterns invisible in shorter timeframes. The 50-year dataset offers a window into how climate change is quietly reshaping the lives of these recovering giants, and reminds us that conservation success isn't always a straight line upward — sometimes it's about understanding the pauses along the way.</description>
+      <source url="https://www.abc.net.au/news/2026-09-06/southern-right-whale-count-great-australian-bight-50-years/106802582">ABC Australia</source>
+    </item>
     <item>
       <title>Hawkesbury's Helping Hands charity marks 15 years of service</title>
       <link>https://www.abc.net.au/news/2026-09-06/hawkesbury-helping-hands-charity-marks-15-years/107117204</link>
@@ -594,18 +606,6 @@ The celebration weaves together cultural performances, including kapa haka from 
 
 This story offers a window into how living traditions adapt and endure through generational change. It's a reminder that cultural celebration can be both deeply personal—honoring individual loss—and collectively visionary, as communities gather to chart paths toward self-determination while maintaining connections to ancestral values and contemporary global relationships.</description>
       <source url="https://www.rnz.co.nz/news/te-manu-korihi/1227456/thousands-expected-to-attend-koroneihana-celebrations-this-year">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Pacific chiefs to attend Māori Queen's second koroneihana</title>
-      <link>https://www.rnz.co.nz/news/pacific/1225437/pacific-chiefs-to-attend-maori-queen-s-second-koroneihana</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/pacific/1225437/pacific-chiefs-to-attend-maori-queen-s-second-koroneihana</guid>
-      <pubDate>Wed, 02 Sep 2026 00:03:21 GMT</pubDate>
-      <description>As the Māori Queen prepares for her second koroneihana celebration, Pacific chiefs are gathering at Tūrangawaewae Marae to honor connections that stretch back nearly a century. Te Arikinui Kuini Nga wai hono i te po will welcome traditional leaders from across Polynesia, Micronesia, and Melanesia, continuing a legacy of kinship that transcends modern borders.
-
-The relationship between the Kiingitanga movement and Pacific royal houses was formalized in the 1940s, when Princess Te Puea and the future Dame Te Atairangikaahu traveled extensively through the region, meeting with Queen Sālote of Tonga, chiefs in Samoa and the Cook Islands, and leaders across the Pacific. Dame Te Atairangikaahu later helped establish what is now the Pacific Islands Forum, cementing diplomatic and cultural ties. Kiingitanga spokesperson Rahui Papa recalls the 1991 silver anniversary celebrations, when leaders spoke of the Pacific Ocean itself as a connector—not just physically, but culturally and spiritually—linking all their peoples.
-
-Today, a new generation of chiefs carries these relationships forward. The son of Fiji's Ratu Mara now leads the Great Council of Chiefs, while Te Arikinui has hosted and visited Pacific leaders throughout her reign. Papa suggests these enduring bonds offer something the wider world might learn from—a model of whanaungatanga, or kinship, rooted in genealogy, language, and shared tradition. In a time of global conflict, he believes the Pacific holds "a very special key to world nationhood." It's a quiet reminder that some of the most resilient forms of diplomacy are built not on treaties alone, but on generations of respect, memory, and connection.</description>
-      <source url="https://www.rnz.co.nz/news/pacific/1225437/pacific-chiefs-to-attend-maori-queen-s-second-koroneihana">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
