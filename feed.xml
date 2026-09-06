@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 12:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 14:03:22 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>German startup sends first commercial rocket into space from Europe</title>
+      <link>https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe</link>
+      <guid isPermaLink="false">https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe</guid>
+      <pubDate>Sun, 06 Sep 2026 14:03:20 GMT</pubDate>
+      <description>A German startup has achieved a significant milestone for European space access by successfully launching the first commercial rocket to reach orbit from continental Europe. Isar Aerospace's Spectrum rocket lifted off from Andøya Spaceport in Arctic Norway on Saturday, carrying five small satellites and a technology experiment into orbit. The achievement marks a notable recovery for the company, which saw its first rocket explode shortly after takeoff from the same location just 18 months earlier.
+
+The successful launch comes at a time when Europe is seeking greater independence in space capabilities amid shifting global dynamics. German Chancellor Friedrich Merz, who visited the launch site in March, called it "the beginning of a new era," while EU officials emphasized the importance of autonomous access to space. Isar's CEO Daniel Metzler highlighted that launch capability is currently the industry's biggest constraint, and the company plans to address this by rapidly scaling operations. With five more rockets already in production and a long-term goal of conducting approximately 40 launches annually, Isar is positioning itself to compete in the growing satellite launch market alongside established players like SpaceX and France's ArianeGroup.
+
+This story offers a glimpse into how newer companies are reshaping access to space while regions seek technological self-reliance. It's a reminder that the path to innovation often includes setbacks—and that persistence can turn early failures into breakthrough moments that shift an entire industry's landscape.</description>
+      <source url="https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe">The Guardian</source>
+    </item>
     <item>
       <title>Writer who read comics to grandmother who couldn't read found in books a way to express himself: 'It encouraged me'</title>
       <link>https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/06/escritor-que-lia-gibis-para-avo-que-nao-sabia-ler-encontrou-nos-livros-uma-forma-de-se-expressar-me-encorajou.ghtml</link>
@@ -594,18 +606,6 @@ The study, led by Marco Aurélio Pizo from São Paulo State University, represen
 
 This work matters because the Atlantic Forest, once covering over one million square kilometers along Brazil's coast, has been reduced to roughly 23% of its original extent, mostly scattered in small fragments. Yet there's hope: recent monitoring shows deforestation rates dropped 40% between 2023 and 2024, the lowest in four decades. Understanding how seed dispersal works across this fragmented landscape offers practical guidance for protecting what remains and reconnecting isolated patches — a quiet but vital strategy for helping one of the world's most threatened forests regenerate naturally.</description>
       <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/02/estudo-inedito-mapeia-o-que-faz-a-chuva-de-sementes-ser-mais-rica-na-mata-atlantica.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>The quantum batteries that challenge what we know about how these devices are charged</title>
-      <link>https://www.bbc.com/mundo/articles/cx2zdz11l42o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cx2zdz11l42o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Wed, 02 Sep 2026 10:01:13 GMT</pubDate>
-      <description>Scientists in Australia have built the world's first working prototype of a quantum battery, a device that turns conventional energy storage on its head. While traditional batteries take longer to charge as they grow larger, quantum batteries exhibit the opposite behavior: the bigger they are, the faster they charge. This counterintuitive phenomenon emerges from the strange rules governing matter at atomic and subatomic scales.
-
-Researcher James Quach at CSIRO led the team that achieved this March 2026 breakthrough. The prototype uses an optical microcavity—two tiny mirrors placed just 100 nanometers apart, roughly one-thousandth the width of a human hair. Between these mirrors, organic dye molecules are energized by laser light, creating hybrid states of light and matter that enhance the system's ability to absorb and store energy. Unlike conventional batteries, which rely on chemical reactions moving trillions upon trillions of electrons, quantum batteries harness quantum effects like entanglement. The focus isn't on storing vast amounts of energy, but on delivering it faster and with greater control.
-
-The field remains in its infancy, and the technology faces significant skepticism about real-world viability. Yet proponents suggest quantum batteries could one day power quantum computers or even everyday devices like smartphones. Whether these batteries prove practical or remain a laboratory curiosity, they represent a fascinating exploration of how the bizarre laws of quantum mechanics might reshape technologies we take for granted. This story reminds us that the universe still holds surprises, and that reimagining the fundamentals can lead to genuinely unexpected possibilities.</description>
-      <source url="https://www.bbc.com/mundo/articles/cx2zdz11l42o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
