@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 14:03:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 16:03:53 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The successes and failures of 3 maps we use today (and why the one now approved by the UN also doesn't correctly represent the world)</title>
+      <link>https://www.bbc.com/mundo/articles/c07l1l0knpjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/c07l1l0knpjo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sun, 06 Sep 2026 16:03:50 GMT</pubDate>
+      <description>The United Nations has called for replacing the widely used Mercator map with a new projection that more accurately represents the true size of continents like Africa. The resolution, titled "Correct the Map," addresses how the Mercator projection makes Africa appear similar in size to Greenland, though Africa is actually about 14 times larger. The UN has adopted the Equal Earth projection, created by cartographers in 2018, which better reflects the actual sizes of landmasses.
+
+The Mercator map, created in 1569 by Flemish cartographer Gerardus Mercator, was designed to help European sailors navigate the oceans by ensuring that straight lines on the map corresponded to straight compass bearings in reality. To achieve this on a flat surface, Mercator had to stretch the grid lines as they moved away from the equator toward the poles, making countries near the poles appear much larger than they actually are. While perfectly suited for navigation, critics argue this distortion has psychological effects, making some regions seem less important than they truly are. Kenyan geographer Kioko Muendo notes this has implicitly diminished perceptions of Africa's vast resources, population, and investment opportunities.
+
+This story offers a fascinating glimpse into how the tools we use to understand our world carry hidden assumptions and trade-offs. No map can perfectly represent a sphere on a flat surface—each must sacrifice either accurate area, shape, distance, or direction. The conversation about which map to use is ultimately about which truths we prioritize and how our tools shape our perceptions of global importance and interconnection.</description>
+      <source url="https://www.bbc.com/mundo/articles/c07l1l0knpjo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>German startup sends first commercial rocket into space from Europe</title>
       <link>https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe</link>
@@ -594,18 +606,6 @@ The animals belong to neighbors Marilda Tozini da Silva and Marco Megali, and th
 
 What makes this story quietly remarkable is the web of care it reveals: a bakery owner who looks forward to her animal customers, neighbors who let their pets roam safely, and the unmistakable bond between a horse and dog who navigate their small world together. As Marilda observes, in a world where animals aren't always treated kindly, these small daily rituals of attention and affection matter. They remind us that companionship crosses species, and that community can be built one shared breakfast at a time.</description>
       <source url="https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/02/video-cavalo-e-cachorra-batem-ponto-em-padaria-e-ganham-pao-todos-os-dias-no-interior-de-sp.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Unprecedented study maps what makes 'seed rain' richer in the Atlantic Forest</title>
-      <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/02/estudo-inedito-mapeia-o-que-faz-a-chuva-de-sementes-ser-mais-rica-na-mata-atlantica.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/02/estudo-inedito-mapeia-o-que-faz-a-chuva-de-sementes-ser-mais-rica-na-mata-atlantica.ghtml</guid>
-      <pubDate>Wed, 02 Sep 2026 12:04:23 GMT</pubDate>
-      <description>A groundbreaking study has mapped what makes "seed rain" — the daily cascade of seeds dropped by wind, gravity, and especially animals — more abundant in Brazil's Atlantic Forest. This nearly invisible process is essential for forest survival, generating new trees and helping vegetation recover after fires or deforestation. Researchers found that two factors drive richer seed dispersal: rainfall volume and, crucially, the amount of native vegetation surrounding each area.
-
-The study, led by Marco Aurélio Pizo from São Paulo State University, represents the largest investigation of its kind in the Atlantic Forest. It compiled data collected between 1987 and 2021 by dozens of researchers across 52 sites, analyzing records from nearly 1,900 seed collectors that captured over 1.3 million seeds from 1,029 different plant groups. The research revealed a surprising insight that could reshape restoration planning: multiple connected forest fragments support richer seed dispersal than a single isolated fragment of equal total size, even when the overall area is the same. Connected fragments create corridors that allow birds, bats, and monkeys to move between areas, carrying seeds as they travel.
-
-This work matters because the Atlantic Forest, once covering over one million square kilometers along Brazil's coast, has been reduced to roughly 23% of its original extent, mostly scattered in small fragments. Yet there's hope: recent monitoring shows deforestation rates dropped 40% between 2023 and 2024, the lowest in four decades. Understanding how seed dispersal works across this fragmented landscape offers practical guidance for protecting what remains and reconnecting isolated patches — a quiet but vital strategy for helping one of the world's most threatened forests regenerate naturally.</description>
-      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/02/estudo-inedito-mapeia-o-que-faz-a-chuva-de-sementes-ser-mais-rica-na-mata-atlantica.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
