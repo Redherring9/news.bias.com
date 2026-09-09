@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:02:38 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The trail of clues that our planet might be heating faster than we realised</title>
+      <link>https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Wed, 09 Sep 2026 00:02:37 GMT</pubDate>
+      <description>A heated social media debate over climate science has inadvertently highlighted a fascinating and concerning wrinkle in our understanding of global warming. While carbon dioxide from fossil fuels is undeniably the primary driver of climate change, those same fuels also produce sulphur pollution—tiny particles that reflect sunlight back into space and have been quietly masking some of the warming we might otherwise have experienced. As countries implement clean-air policies to reduce harmful sulphur emissions, scientists are discovering that the loss of this unintended cooling effect may be accelerating the pace of warming.
+
+Researchers like Reto Knutti at ETH Zurich have been working to separate natural temperature fluctuations from the underlying warming trend, and their findings suggest the rate of warming has indeed picked up speed. Sulphate aerosols, though harmful to human health and responsible for acid rain, act like dust on greenhouse windows—reducing the amount of sunlight that reaches Earth's surface. They also brighten clouds and make them last longer, further cooling the planet. For decades, this pollution has been partly counterbalancing the heat-trapping effects of carbon dioxide, but as we clean up our air, that accidental shield is disappearing while greenhouse gas emissions remain near record highs.
+
+This story matters because it reveals an unsettling paradox: doing the right thing for air quality may be exposing us to faster warming than climate models initially projected. It's a reminder that Earth's climate system is more complex than simple cause-and-effect, and that understanding these hidden dynamics is essential for preparing for what comes next.</description>
+      <source url="https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Former SA teacher Narelle Zanker crowned Rural Woman of the Year</title>
       <link>https://www.abc.net.au/news/2026-09-09/narelle-zanker-rural-woman-of-the-year/107126242</link>
@@ -594,18 +606,6 @@ The games serve multiple purposes beyond athletic competition. After independenc
 
 This story offers a fascinating glimpse into how a young country is transforming centuries-old traditions into both cultural celebration and economic opportunity. It's a reminder that heritage can be adaptive, that sports can carry deep historical significance, and that a nation's path forward sometimes means reaching thoughtfully into its past. The image of competitors like Sezim Jumabekova—who learned horseback archery despite many falls—captures both the physical challenge and the cultural pride fueling this growing international event.</description>
       <source url="https://www.abc.net.au/news/2026-09-05/kyrgyzstan-world-nomad-games-central-asia/107112630">ABC Australia</source>
-    </item>
-    <item>
-      <title>UN votes to adopt new world map that reflects Africa’s true size</title>
-      <link>https://www.aljazeera.com/news/2026/9/4/un-votes-to-adopt-new-world-map-that-reflects-africas-true-size?traffic_source=rss</link>
-      <guid isPermaLink="false">https://www.aljazeera.com/news/2026/9/4/un-votes-to-adopt-new-world-map-that-reflects-africas-true-size?traffic_source=rss</guid>
-      <pubDate>Fri, 04 Sep 2026 20:03:13 GMT</pubDate>
-      <description>The United Nations General Assembly has voted overwhelmingly to adopt a new world map that more accurately represents the true sizes of continents and countries. The resolution, sponsored by African Union member states and the Bahamas, passed 164-1 with six abstentions, with only the United States voting against it. The initiative seeks to address a centuries-old cartographic distortion that has visually diminished Africa's size and prominence for 450 years.
-
-The widely-used Mercator projection, created by Flemish cartographer Gerardus Mercator in the 16th century, expands land masses closer to the poles while shrinking those near the equator. This makes Greenland appear roughly the same size as Africa, even though Africa is actually about 14 times larger. Critics argue this distortion has shaped global perceptions, perpetuating ideas of European superiority while marginalizing the Global South in education, media, and policy. The resolution promotes the Equal Earth projection as a fairer alternative, though it remains non-binding and doesn't affect maritime or aerial navigation, where Mercator remains useful.
-
-This quiet cartographic revolution reflects a broader reckoning with colonial legacies. As Togo's Foreign Minister Robert Dussey put it, "A fair world begins with a fair map." France has already announced plans to abandon the Mercator projection in official materials. The campaign's real work now begins: encouraging schools, newsrooms, tech companies, and international organizations to adopt more accurate representations. The story reminds us how easily visual distortions can shape our understanding of the world—and how correcting something as fundamental as a map might help us question other unexamined assumptions about entire continents and cultures.</description>
-      <source url="https://www.aljazeera.com/news/2026/9/4/un-votes-to-adopt-new-world-map-that-reflects-africas-true-size?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
