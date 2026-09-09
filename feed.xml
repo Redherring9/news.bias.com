@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:02:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:03:50 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>"It was designed for an elite figure": the extraordinary discovery of an almost intact tomb from the ancient Chimú culture in Peru</title>
+      <link>https://www.bbc.com/mundo/articles/clykvmlvv3ko?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/clykvmlvv3ko?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Wed, 09 Sep 2026 12:03:48 GMT</pubDate>
+      <description>Archaeologists in Peru have uncovered a remarkable treasure: a nearly intact tomb from the ancient Chimú civilization that remained sealed for approximately 600 years. Located near Chan Chan, the former capital of the Chimú kingdom about 500 kilometers north of Lima, the discovery offers a rare window into pre-Incan burial practices and elite society along Peru's Pacific coast.
+
+The burial platform, constructed from mud brick and measuring 17 meters on each side and five meters high, contains five chambers housing the remains of at least 38 individuals. Lead archaeologist Jorge Meneses explains that the structure was designed for an elite figure whose main chamber stayed undisturbed until this recent excavation. Among the finds are metal weapons, copper and gold objects, and 200 black ceramic vessels decorated with red pigments—all artifacts of the Chimú culture that flourished between 900 and 1470 CE. At its peak, the Chimú Empire stretched over 1,000 kilometers along the Pacific coast, creating what historians consider the most significant political system in Peru before the Inca conquest around 1475.
+
+What makes this discovery particularly valuable is its pristine condition. Unlike many previous finds from the colonial period that were looted or destroyed, this tomb remains as it was originally arranged, allowing researchers to study burial patterns and artifacts in their original context. For archaeologists seeking to understand how the Chimú honored their elite and organized their society, this undisturbed site represents an exceptional opportunity—a time capsule offering authentic insights into a sophisticated civilization that thrived centuries before European contact.</description>
+      <source url="https://www.bbc.com/mundo/articles/clykvmlvv3ko?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Norway holds funeral for King Harald with crowds and European royal families in attendance</title>
       <link>https://g1.globo.com/mundo/noticia/2026/09/09/funeral-rei-harald-noruega.ghtml</link>
@@ -594,18 +606,6 @@ Beavers typically live in small family groups centered on an adult pair who mate
 
 This story offers a quiet glimpse into rewilding in action. Beavers were hunted to extinction in Britain during the 16th century for their fur, meat, and scent glands, making their return a meaningful ecological restoration. The trail camera footage—capturing behavior that happens largely at night, beyond human observation—reveals not just the animals' presence but their social lives taking root. If this pair stays together and eventually raises young, they could help establish a self-sustaining beaver population that reshapes the Somerset landscape for generations of wildlife to come.</description>
       <source url="https://www.bbc.co.uk/news/articles/cdx5vz1kqxwo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Brazil tests 'space laboratory' that reaches 100 km altitude and returns to Earth by parachute</title>
-      <link>https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/05/brasil-testa-laboratorio-espacial-que-vai-a-100-km-de-altitude-e-volta-a-terra-de-paraquedas.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/05/brasil-testa-laboratorio-espacial-que-vai-a-100-km-de-altitude-e-volta-a-terra-de-paraquedas.ghtml</guid>
-      <pubDate>Sat, 05 Sep 2026 08:01:25 GMT</pubDate>
-      <description>Brazil is testing a recoverable space laboratory that launches over 100 kilometers into microgravity, conducts experiments, and returns samples safely to Earth via parachute. The Suborbital Microgravity Platform is attached to a Brazilian rocket and launched from Barreira do Inferno, South America's oldest aerospace center, located in Parnamirim in the state of Rio Grande do Norte. The operation, involving the Brazilian Air Force, runs from August 31 to September 19.
-
-If successful, this will mark the first time Brazil recovers items from a Brazilian platform after real flight conditions for analysis. Currently, Brazilian space research relies mainly on telemetry—collecting data remotely. The microgravity environment is valuable because it allows substances to behave differently than on Earth, particularly in how molecules crystallize. Without gravity's interference, crystals grow more uniformly and symmetrically, which matters greatly for pharmaceutical, food, and materials research. A 2023 mission by Varda Space Industries, for instance, successfully crystallized Ritonavir, an HIV medication, in space. The nine-meter rocket reaches altitudes ten times higher than commercial aircraft.
-
-This test represents a step toward technological independence for Brazil's space program. While the country already uses space laboratory platforms, they're purchased from abroad. Success would enable periodic launches with domestically produced equipment, advancing Brazil's autonomy in suborbital flight. The story quietly underscores how nations beyond traditional space powers are developing capabilities to conduct meaningful scientific research at the edge of space, opening doors to discoveries that could improve medicines and materials back on Earth.</description>
-      <source url="https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/05/brasil-testa-laboratorio-espacial-que-vai-a-100-km-de-altitude-e-volta-a-terra-de-paraquedas.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
