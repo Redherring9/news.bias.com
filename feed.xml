@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:03:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:04:00 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Antioch: The Kiwi tech co-founder who's helping to ensure AI robotics' safety in real world</title>
+      <link>https://www.rnz.co.nz/news/business/1319876/antioch-the-kiwi-tech-co-founder-who-s-helping-to-ensure-ai-robotics-safety-in-real-world</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/business/1319876/antioch-the-kiwi-tech-co-founder-who-s-helping-to-ensure-ai-robotics-safety-in-real-world</guid>
+      <pubDate>Wed, 09 Sep 2026 20:03:59 GMT</pubDate>
+      <description>A 28-year-old New Zealand entrepreneur is making waves in Silicon Valley with technology designed to keep AI-powered robots safe before they enter the real world. Harry Mellsop, who left Wellington after high school to pursue opportunities in the United States, has co-founded Antioch, a company that creates digital simulation environments where companies can test autonomous systems before deployment. The concept is straightforward but crucial: rather than switching on a robot operating heavy machinery for the first time in an actual workplace, companies can observe how it performs in a virtual world first.
+
+Mellsop's path to this venture took him through Stanford University, a position with Tesla's autopilot team, and work at New Zealand investment firm Icehouse Ventures. His New York-based company has just secured $54 million in funding from prominent backers including Greylock and Icehouse Ventures, and counts Amazon Ring among its clients. With partnerships alongside tech giants Nvidia and Nebius, Antioch is positioning itself to help manufacturers—from automakers facing pressure from Chinese competitors to companies exploring warehouse automation—adopt robotic systems with confidence.
+
+This story offers a glimpse into the less glamorous but essential infrastructure being built around artificial intelligence: the testing grounds that might prevent tomorrow's mishaps. Mellsop's advice to aspiring entrepreneurs reflects his own trajectory—seek out the most intimidating rooms and learn to navigate them. For readers curious about how the AI revolution actually reaches the factory floor safely, this quiet work of simulation and verification represents the scaffolding that makes bolder technological leaps possible.</description>
+      <source url="https://www.rnz.co.nz/news/business/1319876/antioch-the-kiwi-tech-co-founder-who-s-helping-to-ensure-ai-robotics-safety-in-real-world">Radio New Zealand</source>
+    </item>
     <item>
       <title>'I never imagined it,' says observer who filmed pair of the largest eagle in the Americas with camera trap</title>
       <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/09/eu-nao-imaginava-diz-observador-que-filmou-casal-da-maior-aguia-das-americas-com-cameras-trap.ghtml</link>
@@ -594,18 +606,6 @@ Valentina's Japanese tour includes exhibitions in Osaka from September 15–20, 
 
 What makes Valentina's story quietly remarkable isn't just her precociousness, but her refreshingly grounded perspective on creativity. She describes painting as something deeply calming—leaving her feeling "tranquil and serene"—while also seeing it as a potential profession. Her advice carries the unselfconscious wisdom that sometimes comes easiest to children: even if you think your art looks bad, it's beautiful, because art is everything. In a world that often emphasizes perfection and expertise, this young artist's journey reminds us that creative expression can be both serious work and joyful play, accessible to anyone willing to pick up a brush.</description>
       <source url="https://g1.globo.com/rj/regiao-serrana/noticia/2026/09/05/aos-10-anos-artista-de-teresopolis-leva-obras-para-exposicoes-no-japao.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Nepal: Why Should We Bear the Costs Alone?</title>
-      <link>https://www.dw.com/de/nepal-warum-sollen-wir-die-kosten-alleine-tragen/a-79047741?maca=de-rss-de-all-1119-xml-mrss</link>
-      <guid isPermaLink="false">https://www.dw.com/de/nepal-warum-sollen-wir-die-kosten-alleine-tragen/a-79047741?maca=de-rss-de-all-1119-xml-mrss</guid>
-      <pubDate>Sat, 05 Sep 2026 16:03:00 GMT</pubDate>
-      <description>A devastating glacial flood in the Himalayan border region between Nepal and Tibet has killed more than 1,300 people, with over 5,000 still missing. The August 26 disaster, triggered by a glacial collapse on the 7,000-meter peak Langtang Lirung, destroyed entire communities, infrastructure, and more than a dozen hydroelectric plants. Nepal estimates the damage at approximately $2.6 billion.
-
-The catastrophe has reignited questions of climate justice. Nepal's government points out that the landlocked nation of 30 million people contributes just 0.1 percent of global greenhouse gas emissions, yet remains extraordinarily vulnerable to climate change impacts. Prime Minister Balendra Shah has called managing the disaster a matter of "global responsibility," arguing that countries minimally responsible for climate change shouldn't bear the costs of its consequences alone. Nepal plans to raise these concerns at the UN General Assembly in late September, with Foreign Minister Shisir Khanal announcing efforts to build a coalition of climate-vulnerable nations.
-
-This story offers a window into one of the most pressing equity questions of our time: who pays when climate change devastates communities that contributed least to causing it. Nepal has long advocated for mountain nations in climate forums—memorably holding a 2009 cabinet meeting at 5,240 meters near Everest Base Camp to draw attention to glacial melting. Now, facing catastrophic loss, the country is testing whether the international community will translate climate commitments into tangible support for adaptation and recovery in the world's most vulnerable regions.</description>
-      <source url="https://www.dw.com/de/nepal-warum-sollen-wir-die-kosten-alleine-tragen/a-79047741?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
     </item>
   </channel>
 </rss>
