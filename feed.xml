@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:03:12 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Medieval mental health</title>
+      <link>https://aeon.co/essays/the-curio-cabinet-of-medieval-mental-health</link>
+      <guid isPermaLink="false">https://aeon.co/essays/the-curio-cabinet-of-medieval-mental-health</guid>
+      <pubDate>Thu, 10 Sep 2026 10:03:11 GMT</pubDate>
+      <description>A 12th-century account of a bishop performing an exorcism on a restrained, convulsing man seems to confirm every stereotype about medieval superstition and cruelty toward mental illness. But looking beyond dramatic tales of demonic possession reveals a surprisingly nuanced medieval understanding of mental health—one that resonates with contemporary concerns in unexpected ways.
+
+Medieval medical texts, particularly popular health guides called regimens, placed emotional wellness at the center of physical health. Working within the humoral system—which sought balance among four bodily fluids—physicians identified six external factors affecting health, including diet, exercise, sleep, and crucially, the emotions. Fourteenth-century doctors warned that anger, worry, and irritation could severely harm the body, while emotional dysregulation disrupted eating, exercise, and rest. These weren't abstract theories: in 1395, an Italian merchant attributed his high fever directly to getting upset over election results. The advice sounds strikingly modern—manage your stress, guard your emotional equilibrium, or face physical consequences.
+
+This story matters because it challenges our assumptions about the past and present alike. Yes, medieval people sometimes interpreted mental distress through a supernatural lens, but they also developed sophisticated frameworks linking emotional and physical health centuries before modern psychology. Their recognition that responsibility and status increased health risks, and that feelings directly impacted bodily wellness, echoes today's conversations about stress, work-life balance, and the mind-body connection. The medieval world may have lacked our vocabulary and treatments, but the fundamental insight—that mental health is inseparable from overall wellbeing—was already there, quietly documented in medical texts across Europe.</description>
+      <source url="https://aeon.co/essays/the-curio-cabinet-of-medieval-mental-health">Aeon</source>
+    </item>
     <item>
       <title>Japan wants to plant no-pollen trees to solve its hay fever crisis</title>
       <link>https://news.mongabay.com/short-article/2026/09/japan-wants-to-plant-no-pollen-trees-to-solve-its-hay-fever-crisis/</link>
@@ -594,18 +606,6 @@ Kaminuma's path to the ice began with an unlikely discovery at a Tokyo amusement
 
 This story offers a gentle reminder that grand adventures don't always follow the paths we first imagine. Sometimes our limitations redirect us toward destinations equally profound, where patience, curiosity, and a willingness to embrace the unexpected can turn a detour into a life's calling. Kaminuma's seven decades of polar devotion suggests that the most meaningful explorations happen not despite our constraints, but because we're willing to chart new courses when our first dreams prove impossible.</description>
       <source url="https://www.japantimes.co.jp/environment/2026/09/06/earth-science/katsutada-kaminuma-antarctic-research/">The Japan Times</source>
-    </item>
-    <item>
-      <title>RSPB marks 50 years at wildlife-rich reserve</title>
-      <link>https://www.bbc.co.uk/news/articles/c770njk8e53o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c770njk8e53o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sun, 06 Sep 2026 06:01:58 GMT</pubDate>
-      <description>Strumpshaw Fen, a 450-hectare wetland reserve nestled in Norfolk's Broads, is celebrating half a century under the care of the RSPB. What began as unmanaged fenland in the mid-1970s has become a thriving sanctuary for some of Britain's most threatened species, from nesting bitterns and swallowtail butterflies to a pair of cranes that raised a chick this past summer. The reserve's diverse habitats also support marsh harriers, bearded tits, otters, water voles, and the impressively named fen raft spider.
-
-Reserves manager Helen Deavin calls Strumpshaw a "hidden gem," noting that its rare wildlife is unusually accessible to visitors. The site's careful habitat management over the decades has created conditions where threatened species don't merely survive but genuinely flourish. Though summer heatwaves tested the reserve, staff are preparing for autumn's cooler, wetter weather and the seasonal challenges of flood events and saline surges. The anniversary is being marked with guided walks and community events.
-
-This story resonates beyond conservation statistics through the testimony of BBC cameraman Shaun Whitmore, who shares how Strumpshaw became woven into his personal life—a refuge during mental health struggles, the setting for his marriage proposal, and the subject of a lockdown film. His reflection captures something meaningful about protected spaces: they're not just ecological achievements but places that hold human stories, offering both wildlife and people room to breathe, recover, and thrive. It's a quiet reminder that nature reserves serve a dual purpose, nurturing biodiversity while providing sanctuary for the humans who visit them.</description>
-      <source url="https://www.bbc.co.uk/news/articles/c770njk8e53o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
