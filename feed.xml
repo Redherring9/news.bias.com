@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:04:17 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why it took over a century for Auckland to get its CRL</title>
+      <link>https://www.rnz.co.nz/news/regions_auckland/1330441/why-it-took-over-a-century-for-auckland-to-get-its-crl</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/regions_auckland/1330441/why-it-took-over-a-century-for-auckland-to-get-its-crl</guid>
+      <pubDate>Thu, 10 Sep 2026 18:04:16 GMT</pubDate>
+      <description>Auckland's City Rail Link, opening this weekend after a decade of construction, represents the culmination of a vision first proposed more than a century ago. The underground rail tunnel has been on the drawing board since 1912, when the Northern Railway League first suggested connecting Auckland to Morningside. Railway historian Graeme Carter notes that remarkably, subsequent proposals in 1918 and 1923 all followed essentially the same route that trains will now travel.
+
+The project's long delay reflects decades of policy choices favoring motorways over public transit. From the 1950s through the 1990s, Auckland looked to Los Angeles as a model and deliberately allowed its commuter rail system to deteriorate while investing heavily in roads. The city came closest to underground rail in the mid-1970s with "Robbies Rapid Rail," an ambitious plan that would have connected the airport and North Shore, but the Muldoon government canceled it in favor of more motorways. It wasn't until Mayor Len Brown secured agreement with Prime Minister John Key's government that construction finally began, though the journey proved turbulent, with costs rising from an initial $3.4 billion to $5.5 billion and significant disruption to downtown businesses.
+
+Despite the painful gestation, even skeptics like former Transport Minister Simon Bridges—now leading Auckland's Chamber of Commerce—believe the link will prove transformative. Brown's reflection offers a quiet lesson in urban planning: inevitable infrastructure only grows more expensive with delay. After 112 years of proposals, postponements, and finally progress, Auckland is about to discover what it might have had generations earlier.</description>
+      <source url="https://www.rnz.co.nz/news/regions_auckland/1330441/why-it-took-over-a-century-for-auckland-to-get-its-crl">Radio New Zealand</source>
+    </item>
     <item>
       <title>Feather discovered in fossilised dinosaur poo is first of its kind</title>
       <link>https://www.abc.net.au/news/science/2026-09-11/preserved-feather-coprolite-t-rex-66-million-years-fossil/107125056</link>
@@ -594,18 +606,6 @@ The Mercator map, created in 1569 by Flemish cartographer Gerardus Mercator, was
 
 This story offers a fascinating glimpse into how the tools we use to understand our world carry hidden assumptions and trade-offs. No map can perfectly represent a sphere on a flat surface—each must sacrifice either accurate area, shape, distance, or direction. The conversation about which map to use is ultimately about which truths we prioritize and how our tools shape our perceptions of global importance and interconnection.</description>
       <source url="https://www.bbc.com/mundo/articles/c07l1l0knpjo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>German startup sends first commercial rocket into space from Europe</title>
-      <link>https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe</link>
-      <guid isPermaLink="false">https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe</guid>
-      <pubDate>Sun, 06 Sep 2026 14:03:20 GMT</pubDate>
-      <description>A German startup has achieved a significant milestone for European space access by successfully launching the first commercial rocket to reach orbit from continental Europe. Isar Aerospace's Spectrum rocket lifted off from Andøya Spaceport in Arctic Norway on Saturday, carrying five small satellites and a technology experiment into orbit. The achievement marks a notable recovery for the company, which saw its first rocket explode shortly after takeoff from the same location just 18 months earlier.
-
-The successful launch comes at a time when Europe is seeking greater independence in space capabilities amid shifting global dynamics. German Chancellor Friedrich Merz, who visited the launch site in March, called it "the beginning of a new era," while EU officials emphasized the importance of autonomous access to space. Isar's CEO Daniel Metzler highlighted that launch capability is currently the industry's biggest constraint, and the company plans to address this by rapidly scaling operations. With five more rockets already in production and a long-term goal of conducting approximately 40 launches annually, Isar is positioning itself to compete in the growing satellite launch market alongside established players like SpaceX and France's ArianeGroup.
-
-This story offers a glimpse into how newer companies are reshaping access to space while regions seek technological self-reliance. It's a reminder that the path to innovation often includes setbacks—and that persistence can turn early failures into breakthrough moments that shift an entire industry's landscape.</description>
-      <source url="https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe">The Guardian</source>
     </item>
   </channel>
 </rss>
