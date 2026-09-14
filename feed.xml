@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 00:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:02:54 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A clownfish’s last stand</title>
+      <link>https://news.mongabay.com/2026/09/a-clownfishs-last-stand/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/09/a-clownfishs-last-stand/</guid>
+      <pubDate>Mon, 14 Sep 2026 02:02:53 GMT</pubDate>
+      <description>Twenty years ago, a scientist dove into the waters off Singapore to document a coral reef before it disappeared forever. Among the vibrant life at Terumbu Bayan, she encountered a false clownfish fiercely defending her eggs, charging and biting the diver despite the size difference. Minutes after the team surfaced, barges began dumping rock and fill into the channel, burying the reef—and the clownfish family—under sediment and stone. Today, satellite images show only industrial towers and roads where the reef once thrived.
+
+This memory has resurfaced as Singapore considers merging several southern islands into a new "Western Island" for industry and infrastructure, raising concerns about popular dive sites like Pulau Hantu. Singapore has already lost about 65% of its coral reef habitat and more than 45% of its seagrass meadows to coastal development, even as the nation's land area has grown by over a fifth. Underwater visibility has plummeted from ten meters in the 1960s to less than two today, and the types of corals that can survive have shifted, affecting the broader marine ecosystem.
+
+This story matters because it offers a rare glimpse beneath the surface of development—a reminder that land reclamation doesn't just reshape coastlines but erases entire living communities. The image of a small fish making her last stand against impossible odds captures both the resilience of nature and the quiet losses that accompany progress, losses that are rarely witnessed or mourned but that accumulate across generations.</description>
+      <source url="https://news.mongabay.com/2026/09/a-clownfishs-last-stand/">Mongabay</source>
+    </item>
     <item>
       <title>The Himalayas are melting faster - and India's economy is 'at risk'</title>
       <link>https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The group brings together about 15 members, mostly in their twenties and represe
 
 Research from the University of Melbourne suggests these collegial relationships play a crucial role in retaining young people in agriculture, helping them overcome the isolation that can come with rural work. The founders of Young Ag Network CQ hope their model inspires similar groups across the country, recognizing that building community may be just as vital to the future of agriculture as any technical skill or innovation.</description>
       <source url="https://www.abc.net.au/news/2026-09-10/central-queensland-agriculture-workers-connect/107097514">ABC Australia</source>
-    </item>
-    <item>
-      <title>Antioch: The Kiwi tech co-founder who's helping to ensure AI robotics' safety in real world</title>
-      <link>https://www.rnz.co.nz/news/business/1319876/antioch-the-kiwi-tech-co-founder-who-s-helping-to-ensure-ai-robotics-safety-in-real-world</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/business/1319876/antioch-the-kiwi-tech-co-founder-who-s-helping-to-ensure-ai-robotics-safety-in-real-world</guid>
-      <pubDate>Wed, 09 Sep 2026 20:03:59 GMT</pubDate>
-      <description>A 28-year-old New Zealand entrepreneur is making waves in Silicon Valley with technology designed to keep AI-powered robots safe before they enter the real world. Harry Mellsop, who left Wellington after high school to pursue opportunities in the United States, has co-founded Antioch, a company that creates digital simulation environments where companies can test autonomous systems before deployment. The concept is straightforward but crucial: rather than switching on a robot operating heavy machinery for the first time in an actual workplace, companies can observe how it performs in a virtual world first.
-
-Mellsop's path to this venture took him through Stanford University, a position with Tesla's autopilot team, and work at New Zealand investment firm Icehouse Ventures. His New York-based company has just secured $54 million in funding from prominent backers including Greylock and Icehouse Ventures, and counts Amazon Ring among its clients. With partnerships alongside tech giants Nvidia and Nebius, Antioch is positioning itself to help manufacturers—from automakers facing pressure from Chinese competitors to companies exploring warehouse automation—adopt robotic systems with confidence.
-
-This story offers a glimpse into the less glamorous but essential infrastructure being built around artificial intelligence: the testing grounds that might prevent tomorrow's mishaps. Mellsop's advice to aspiring entrepreneurs reflects his own trajectory—seek out the most intimidating rooms and learn to navigate them. For readers curious about how the AI revolution actually reaches the factory floor safely, this quiet work of simulation and verification represents the scaffolding that makes bolder technological leaps possible.</description>
-      <source url="https://www.rnz.co.nz/news/business/1319876/antioch-the-kiwi-tech-co-founder-who-s-helping-to-ensure-ai-robotics-safety-in-real-world">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
