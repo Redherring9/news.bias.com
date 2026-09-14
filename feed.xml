@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Sep 2026 08:04:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:03:27 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The bombarding of childhood</title>
+      <link>https://aeon.co/essays/its-not-just-screen-time-kids-are-bombarded-by-hectic-media</link>
+      <guid isPermaLink="false">https://aeon.co/essays/its-not-just-screen-time-kids-are-bombarded-by-hectic-media</guid>
+      <pubDate>Mon, 14 Sep 2026 10:03:26 GMT</pubDate>
+      <description>A researcher observing a young boy at an airport watching cartoons on an iPad notices something striking: the child's body is still, but his eyes dart frantically across the screen as scenes, emotions, and characters shift in rapid succession. This moment crystallizes a concern that has been largely overlooked in discussions about children's media—not what children watch, but how quickly they're forced to process it.
+
+While debates about screen time typically focus on content quality, educational value, or age-appropriateness, this essay argues that pace may be equally consequential. Even programs with genuinely rich subject matter often rush from joke to song to visual shift before a child has time to absorb any single idea. Different media make different temporal demands, but the crucial question is whether the pace allows children to actually engage with what's being presented: to follow a story, understand a concept, identify with a character, or process an emotion. When a cartoon character's tears instantly transform into a smile, or when a lesson about how eyes work blazes past in a flurry of stimulation, children may register the surface without grasping the deeper patterns—the anticipation that makes a joke funny, or the emotional repair that teaches empathy.
+
+This essay offers a quiet but radical reframing: pace isn't a minor design choice, but a statement about how we imagine childhood itself. Are children consumers to be retained through constant stimulation, or people whose capacity for attention is still forming and needs time to arrive? It's a question worth sitting with—slowly.</description>
+      <source url="https://aeon.co/essays/its-not-just-screen-time-kids-are-bombarded-by-hectic-media">Aeon</source>
+    </item>
     <item>
       <title>Blind workers transform plastic bottles headed for trash into brooms used by street sweepers in urban cleaning in Vitória</title>
       <link>https://g1.globo.com/es/espirito-santo/noticia/2026/09/14/cegos-transformam-garrafas-pet-que-iriam-para-o-lixo-em-vassouras-usadas-por-garis-na-limpeza-urbana-em-vitoria.ghtml</link>
@@ -594,18 +606,6 @@ The chat takes a delightful turn when three-time Olympian Clancy suggests Fejes 
 
 This story is a gentle reminder that elite athletes are more than their medals. It captures how small acts of making—whether knitting, crocheting, or simply finding calm between competitions—can ground competitors and connect them to teammates and fans in unexpectedly human ways.</description>
       <source url="https://www.abc.net.au/news/2026-09-10/beach-volleyball-taliqua-clancy-stefie-fejes-snoop-dogg/107134880">ABC Australia</source>
-    </item>
-    <item>
-      <title>Rare whale and calf sighting prompts boatie warning</title>
-      <link>https://www.rnz.co.nz/news/regional/1324663/rare-whale-and-calf-sighting-prompts-boatie-warning</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/regional/1324663/rare-whale-and-calf-sighting-prompts-boatie-warning</guid>
-      <pubDate>Thu, 10 Sep 2026 04:03:21 GMT</pubDate>
-      <description>A southern right whale mother and her calf have been spotted in the coastal waters of northern New Zealand, prompting conservation officials to ask boaters to exercise caution and give the pair plenty of space. The whales spent a weekend near Ngunguru and Pātaua, east of Whangārei, and were last seen heading south near Auckland. Local expert Hori Parata named the calf Te Pāpunui, honoring a culturally significant site where they were first observed.
-
-The Department of Conservation's Hannah Hendriks explained that while southern right whales often travel close to shore—offering wonderful viewing opportunities from land—this also brings them into busy recreational boating areas. The mother and calf are on a long journey from the subantarctic islands to feeding grounds south of Australia, and both need considerable rest along the way. The calf, in particular, requires uninterrupted time to build strength for the migration ahead. Hendriks noted that these slow-moving whales may struggle to avoid vessels, especially when resting near the surface, making them vulnerable to collisions.
-
-This sighting carries quiet significance beyond its rarity. Southern right whales once bred in New Zealand's sheltered coastal waters but were hunted nearly to extinction in the early 19th century—their name a grim reminder that whalers considered them the "right" whales to kill. Today, their population is slowly recovering, making each mother-calf pair a symbol of resilience and careful stewardship. The story offers a gentle reminder that sharing waters with recovering wildlife requires both vigilance and respect, transforming a chance encounter into an opportunity for mindful coexistence.</description>
-      <source url="https://www.rnz.co.nz/news/regional/1324663/rare-whale-and-calf-sighting-prompts-boatie-warning">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
