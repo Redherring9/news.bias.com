@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 10:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:03:00 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SpaceX announces new Starship test flight, spacecraft designed for future missions to the Moon and Mars</title>
+      <link>https://g1.globo.com/tecnologia/noticia/2026/09/16/spacex-se-prepara-para-realizar-primeiro-voo-orbital-de-seu-megafoguete-starship.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/tecnologia/noticia/2026/09/16/spacex-se-prepara-para-realizar-primeiro-voo-orbital-de-seu-megafoguete-starship.ghtml</guid>
+      <pubDate>Wed, 16 Sep 2026 12:02:58 GMT</pubDate>
+      <description>SpaceX is preparing to launch its fourteenth test flight of Starship, the company's largest rocket designed for future missions to the Moon and Mars. Scheduled for next week from Texas, this test marks a significant milestone: for the first time, the spacecraft will attempt to complete a full orbit around Earth. Previous flights have been suborbital, reaching space but returning without circling the planet. During this test, SpaceX also plans to deploy 26 next-generation Starlink satellites, expanding its satellite internet constellation.
+
+The shift from suborbital to orbital flight represents a more complex engineering challenge, requiring the vehicle to achieve sufficient speed and altitude to remain in orbit. SpaceX has embraced a testing philosophy that accepts failures as learning opportunities—several earlier prototypes have ended in explosions. The last test in July was considered largely successful, though the program remains far from ready for commercial use or deep-space missions.
+
+Before Starship can carry astronauts to the Moon or Mars, SpaceX must overcome several hurdles: perfecting orbital flight, mastering in-space refueling to enable longer journeys, and developing reliable recovery systems to make the vehicle fully reusable. This story offers a window into the iterative, high-stakes world of modern spaceflight, where each test—successful or not—brings humanity closer to becoming a multi-planetary species. It's a reminder that the grandest ambitions often advance through patient, incremental steps, and that the path to the stars is paved with both spectacular failures and quiet breakthroughs.</description>
+      <source url="https://g1.globo.com/tecnologia/noticia/2026/09/16/spacex-se-prepara-para-realizar-primeiro-voo-orbital-de-seu-megafoguete-starship.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Father leaves car in garage and uses horse to pick up daughter at school in RS; VIDEO</title>
       <link>https://g1.globo.com/rs/rio-grande-do-sul/blog/reporter-farroupilha/post/2026/09/16/pai-cavalo-buscar-filha-escola-serra-rs-video.ghtml</link>
@@ -594,18 +606,6 @@ Peat—partially decomposed vegetation accumulated over millennia in waterlogged
 
 This story is worth attention because it reveals how patient, unglamorous work can yield swift rewards. After creating new pools at one site, Hickey's team watched dragonflies arrive almost immediately to lay eggs. It's a quiet reminder that ecological repair, though measured in decades for full recovery, can spark visible life nearly overnight—and that some of our most valuable landscapes require defenders willing to get muddy.</description>
       <source url="https://www.bbc.co.uk/news/articles/czjzvdjl0plo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Artist delights in beautiful ‘mess’ and dead trees of England’s rewilding sites</title>
-      <link>https://www.theguardian.com/environment/2026/sep/12/artist-england-rewilding-sites-knepp-rebecca-howard</link>
-      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/sep/12/artist-england-rewilding-sites-knepp-rebecca-howard</guid>
-      <pubDate>Sat, 12 Sep 2026 06:03:29 GMT</pubDate>
-      <description>Artist Rebecca Howard has spent two years exploring England's rewilding sites, discovering unexpected beauty in landscapes that challenge traditional ideas of pastoral perfection. Her work celebrates the "mess" that conservationists embrace: beaver-gnawed trees, standing deadwood, muddy wetlands, and the tangle of regenerating wilderness that arises when humans step back from intensive land management.
-
-Howard's nine large canvases, born from month-long painting sessions at each location, showcase sites ranging from the pioneering Knepp estate in West Sussex to Derby's largest urban rewilding project. At Hamatethy Farm in Cornwall, she painted a beech tree partially chewed by beavers—caught in stasis between life and death, destined to crash down and become vital habitat. At Knepp, she studied standing deadwood, home to hundreds of invertebrates but long considered untidy or dangerous in manicured landscapes. She witnessed volunteers ring-barking invasive larches to create deadwood and make space for native oaks and birches. The landowners she met, whether private estates or charities, shared a contagious enthusiasm for the dramatic biodiversity gains already visible after just five years of rewilding.
-
-This exhibition, opening at Knepp in September, offers more than aesthetic pleasure. Howard hopes viewers will feel empowered rather than overwhelmed by the climate and biodiversity crisis, inspired to see beauty in unconventional forms. Her work quietly asks: what if our galleries celebrated dying trees alongside bluebell woods? The answer lies in recognizing that decay, disorder, and the unknown aren't signs of neglect—they're the foundations of thriving ecosystems and a different kind of wonder.</description>
-      <source url="https://www.theguardian.com/environment/2026/sep/12/artist-england-rewilding-sites-knepp-rebecca-howard">The Guardian</source>
     </item>
   </channel>
 </rss>
