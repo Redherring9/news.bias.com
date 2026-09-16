@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 20:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:03:35 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘Don’t shoot. Listen’: The AI-aided quest to understand Yellowstone’s wolves</title>
+      <link>https://news.mongabay.com/2026/09/dont-shoot-listen-the-ai-aided-quest-to-understand-yellowstones-wolves/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/09/dont-shoot-listen-the-ai-aided-quest-to-understand-yellowstones-wolves/</guid>
+      <pubDate>Wed, 16 Sep 2026 22:03:34 GMT</pubDate>
+      <description>A chance encounter on a Montana farm five years ago changed Jeff Reed's relationship with wolves forever. Standing with a rifle pointed at a gray wolf in his headlights, Reed experienced what he calls an "Apostle Paul moment" — suddenly questioning why he intended to shoot. He fired high over the animal's back, and that decision sparked an unlikely journey from wolf indifference to scientific obsession.
+
+Reed, a linguist and Silicon Valley software engineer, has since become a pioneer in wolf bioacoustics. His Cry Wolf Project, launched in 2023 within Yellowstone's renowned Wolf Project, deploys fifty automated recording units across the park's backcountry. These devices capture half a million hours of ambient sound annually. Using large-language models and artificial intelligence, Reed has isolated over 8,000 hours of continuous wolf vocalizations — the world's largest database of its kind. His analysis has identified more than twenty distinct call types, from barks and whimpers to the haunting chorus howl where entire packs vocalize in unison, possibly conveying specific meanings or emotions.
+
+This story matters because it represents a new frontier in understanding animal communication. Reed's technology is already being used to study wolf packs in Italy and holds promise for wildlife research and conservation globally. By combining his diverse expertise in linguistics, computer science, and his self-taught naturalist passion, Reed is working to decode what he calls "wolfish" — moving beyond centuries of mythology to actually listen to what wolves might be saying. It's a quiet reminder that sometimes the most groundbreaking science begins with a simple decision to lower the rifle and pay attention.</description>
+      <source url="https://news.mongabay.com/2026/09/dont-shoot-listen-the-ai-aided-quest-to-understand-yellowstones-wolves/">Mongabay</source>
+    </item>
     <item>
       <title>'Pretty emotional': Rare video shows humpback whale with stillborn calf</title>
       <link>https://www.abc.net.au/news/2026-09-17/humpback-whale-video-with-calf-reveals-grieving-behaviour/107156326</link>
@@ -594,18 +606,6 @@ The language of "cold blood" has curious roots in ancient Greek medicine, partic
 
 This story offers a window into how evolution shaped our biology and how ancient medical theories continue to color our everyday language. It's a quiet reminder that understanding our own bodies connects us to both natural history and cultural heritage, revealing the remarkable systems that keep us functioning optimally at a precise temperature.</description>
       <source url="https://www.bbc.com/mundo/articles/cd08dp51pp4o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>Belém fashion show transforms history and architecture into Amazonian fashion pieces</title>
-      <link>https://g1.globo.com/pa/para/noticia/2026/09/12/desfile-em-belem-transforma-historia-e-arquitetura-em-pecas-de-moda-amazonica.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/pa/para/noticia/2026/09/12/desfile-em-belem-transforma-historia-e-arquitetura-em-pecas-de-moda-amazonica.ghtml</guid>
-      <pubDate>Sat, 12 Sep 2026 16:02:56 GMT</pubDate>
-      <description>In Belém, Brazil, a historic mansion has become an unlikely muse for contemporary fashion. Sixteen original garments, inspired by the architecture, colors, and stories of Casa SESI—a cultural center housed in a traditional Amazonian building—will be unveiled in a public fashion show that blends heritage with creative sustainability.
-
-The collection emerged from a five-day artistic residency that challenged fashion professionals to translate the mansion's physical details and historical memory into wearable art. Participants drew on architectural forms, the building's palette, and decorative elements as creative references. The project also embraced environmental responsibility: designers worked primarily with repurposed materials including jute waste, reclaimed wood, and donated twill fabric from local partner companies. Following the runway presentation, all sixteen pieces will remain on display, allowing visitors to examine the craftsmanship, textures, and innovative material choices up close. The event will also feature a performance by the SESI Sustainable Orchestra, a youth ensemble that plays Amazonian-inspired music on instruments made from recycled and alternative materials.
-
-This story offers a quiet lesson in how cultural heritage and environmental consciousness can inform contemporary creativity. By rooting fashion design in local history and sustainable practice, the project honors both place and resourcefulness. Visitors to the exhibition are invited to contribute clean fabric donations, which will support free sewing and fashion courses serving some 5,000 students each semester—extending the project's impact well beyond the runway. It's a reminder that innovation often flourishes when artists are asked to listen carefully to what already exists around them.</description>
-      <source url="https://g1.globo.com/pa/para/noticia/2026/09/12/desfile-em-belem-transforma-historia-e-arquitetura-em-pecas-de-moda-amazonica.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
