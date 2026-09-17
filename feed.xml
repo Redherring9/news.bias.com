@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 22:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 00:03:16 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Country police dangle $20 reward for sober drivers</title>
+      <link>https://www.abc.net.au/news/2026-09-17/manjumup-police-20-dollar-voucher-sober-drivers/107152548</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-09-17/manjumup-police-20-dollar-voucher-sober-drivers/107152548</guid>
+      <pubDate>Thu, 17 Sep 2026 00:03:14 GMT</pubDate>
+      <description>In a small town in Western Australia, police are trying something unusual: rewarding sober drivers with cash. Officers in Manjimup, about 290 kilometers south of Perth, are handing out $20 vouchers to anyone who blows zero on a breathalyzer test during September traffic stops. The timing is deliberate—football finals and school holidays mean more people on the roads, and Western Australia has seen a particularly difficult year for road safety.
+
+The idea came from a local road safety committee working with police, who wondered whether positive reinforcement might succeed where traditional enforcement sometimes falls short. Sergeant Tyler Winter explained that the approach is about recognizing good behavior and building connections with the community. The 100 vouchers, funded by local drug and alcohol support service Holyoake, represent a grassroots experiment rather than a state-wide policy. Similar small-scale programs have been tried in other regional Western Australian towns.
+
+Criminologists are intrigued but cautious. While Matthew Morgan from Australian Catholic University sees value in the community-building aspect, he's uncertain whether a $20 incentive will genuinely change drinking-and-driving decisions. He notes that research does support immediate feedback—like roadside speed displays that show happy or sad faces—as effective behavioral nudges. The real test will come when organizers analyze the data collected during this trial run. It's a quiet experiment in a country town, asking whether a small reward and a friendly interaction might help keep roads safer—a modest wager on the power of positive encouragement over punishment alone.</description>
+      <source url="https://www.abc.net.au/news/2026-09-17/manjumup-police-20-dollar-voucher-sober-drivers/107152548">ABC Australia</source>
+    </item>
     <item>
       <title>‘Don’t shoot. Listen’: The AI-aided quest to understand Yellowstone’s wolves</title>
       <link>https://news.mongabay.com/2026/09/dont-shoot-listen-the-ai-aided-quest-to-understand-yellowstones-wolves/</link>
@@ -594,18 +606,6 @@ Each station tells distinct stories through carefully chosen materials and symbo
 
 What makes this project quietly remarkable is its commitment to making infrastructure meaningful. Rather than treating public transit stations as purely functional spaces, Auckland has created places where thousands of daily travelers can connect with ancestral stories, geological time, and the living landscape beneath their feet—a reminder that even underground, we move through layers of history and belonging.</description>
       <source url="https://www.rnz.co.nz/life/culture/auckland-s-city-rail-link-stations-are-a-feast-for-the-eyes">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Why we have warm blood and what advantages it has over cold blood</title>
-      <link>https://www.bbc.com/mundo/articles/cd08dp51pp4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cd08dp51pp4o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sat, 12 Sep 2026 18:01:41 GMT</pubDate>
-      <description>Why do humans maintain a steady body temperature of around 37 degrees Celsius, whether shivering in Antarctica or sweating in the Sahara? This question leads to a fascinating exploration of warm-blooded versus cold-blooded animals, and the evolutionary journey that separates them. The terms themselves—"cold-blooded" and "warm-blooded"—are somewhat misleading. Cold-blooded animals, or ectotherms, regulate their temperature externally, relying on their environment. Warm-blooded creatures, or endotherms, generate heat internally. A desert lizard basking in the sun can actually be warmer than many mammals, making the labels relative rather than absolute.
-
-The language of "cold blood" has curious roots in ancient Greek medicine, particularly the Theory of Humors proposed by Hipocrates and Galen. They believed bodily fluids controlled temperament, and that blood literally heated up during strong emotions—hence expressions like "blood boiling." Writers in the sixteenth and seventeenth centuries adopted this medical metaphor to describe human behavior, coining phrases like acting "in cold blood" long before scientists formally classified reptiles and amphibians as cold-blooded in the eighteenth and nineteenth centuries. All animals originally descended from ectothermic fish, but some evolved fur or feathers that enabled them to retain body heat, giving rise to endotherms—still a minority among Earth's creatures.
-
-This story offers a window into how evolution shaped our biology and how ancient medical theories continue to color our everyday language. It's a quiet reminder that understanding our own bodies connects us to both natural history and cultural heritage, revealing the remarkable systems that keep us functioning optimally at a precise temperature.</description>
-      <source url="https://www.bbc.com/mundo/articles/cd08dp51pp4o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
