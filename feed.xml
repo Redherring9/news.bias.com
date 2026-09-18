@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 22:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:03:20 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New wild cat species discovered - with only one known living member</title>
+      <link>https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 18 Sep 2026 00:03:17 GMT</pubDate>
+      <description>A small spotted cat living in a Bolivian rescue sanctuary has been identified as an entirely new species — and it may be the only confirmed member of its kind. The feline, about the size of a house cat and nicknamed 'Tigrino', was discovered after a volunteer scientist noticed something unusual about its appearance. What began as curiosity led to a comprehensive DNA study that revealed the cat belongs to a previously unknown species now called the Tilcaya cat, or Leopardus tilcayo.
+
+The discovery emerged from the confusing world of tiger cats, a group of small, spotted wild cats spread across Central and South America that look remarkably alike. Even experts struggle to tell them apart. By analyzing DNA from living animals and museum specimens, researchers uncovered not just one new species but evidence that tiger cats may actually comprise five species rather than the three previously recognized. The Tilcaya cat had been hiding in plain sight, mistaken for its cousins in the dense Yungas forests of Bolivia, a region where few scientific records exist.
+
+This story is a quiet reminder that Earth's biodiversity still holds surprises, even among animals as familiar-looking as cats. The discovery carries weight beyond novelty: scientists can't protect a species they don't know exists. With tiger cats facing threats from deforestation and illegal hunting, proper identification is the first step toward conservation. It's also a testament to the power of paying attention — sometimes the most significant scientific breakthroughs begin with a volunteer simply noticing that something seems a little different.</description>
+      <source url="https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Bushfire survivor builds fire-resistant tiny home that fits in ute tray</title>
       <link>https://www.abc.net.au/news/2026-09-18/fire-resistant-tiny-home-casa-manyana/107157308</link>
@@ -594,18 +606,6 @@ The giant peg has attracted its share of devoted admirers, from photographers ar
 
 Now the Staceys are downsizing and selling the property, peg included. They've fielded commentary about the awkward roadside location and occasionally overgrown lawn, but Peter Stacey simply laughs it off. His goal was always modest: if people drive past, smile, and have a bit of a laugh, the sculpture has done its job. This story is a gentle reminder of how the most unexpected creative gestures—born from whimsy and built in a shed—can stitch themselves into the fabric of a community's identity.</description>
       <source url="https://www.abc.net.au/news/2026-09-14/property-with-the-big-peg-in-canowindra-for-sale/107098148">ABC Australia</source>
-    </item>
-    <item>
-      <title>The town where every week is Te Wiki o Te Reo Māori</title>
-      <link>https://www.rnz.co.nz/life/people/identity/the-town-where-every-week-is-te-wiki-o-te-reo-maori</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/life/people/identity/the-town-where-every-week-is-te-wiki-o-te-reo-maori</guid>
-      <pubDate>Sun, 13 Sep 2026 20:04:03 GMT</pubDate>
-      <description>In New Zealand's Far North, the town of Kaikohe offers something unusual: a place where te reo Māori, the Māori language, isn't confined to a single week of celebration but woven into daily life. A new five-part bilingual podcast from Radio New Zealand follows three journalists as they bicycle the Te Pou Herenga Tai trail, an 87-kilometer route connecting coast to coast, and discover a community where roughly a quarter of residents speak te reo Māori fluently.
-
-Along their journey, the team encounters bilingual signage, traditional carvings, and spontaneous waiata (songs). They meet Mayor Moko Tepania, a second-language learner who moves seamlessly between Māori and English, describing his role through the metaphor of the kahikatea tree—a native pine that can only thrive when its roots intertwine with others. The podcasters also witness traditional practices still vibrantly alive: they soak in Ngāwhā Springs while learning its 400-year-old origin story, sit with families still healing from land confiscations, and watch weavers extract fiber from flax under expert guidance. Weaving instructor Makereta Jahnke explains how craftspeople listen not just to human language but to the "language" of the flax itself, reading the environment through the plants.
-
-This story matters because it quietly documents what linguistic and cultural revitalization looks like on the ground—not as policy or aspiration, but as lived reality. In Kaikohe, te reo Māori isn't a museum piece or a political statement; it's the ordinary soundtrack of community life, so normalized that locals only notice its richness when visitors "geek out" over what feels unremarkable to them. It's a portrait of resilience, continuity, and what happens when language becomes inseparable from place.</description>
-      <source url="https://www.rnz.co.nz/life/people/identity/the-town-where-every-week-is-te-wiki-o-te-reo-maori">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
