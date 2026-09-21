@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 10:02:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:04:00 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘Incredibly encouraging’: healing the scars of traditional anchors in Dorset’s seagrass meadows</title>
+      <link>https://www.theguardian.com/environment/2026/sep/21/seagrass-eco-mooring-dorset-seahorses</link>
+      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/sep/21/seagrass-eco-mooring-dorset-seahorses</guid>
+      <pubDate>Mon, 21 Sep 2026 12:03:58 GMT</pubDate>
+      <description>In a heartening example of conservation innovation, a study has revealed that Dorset's seagrass meadows are making a remarkable recovery after the introduction of specially designed "eco moorings" in Studland Bay. Traditional boat anchors and chains had been tearing up the seabed, leaving bare scars across these underwater meadows. But since eco-moorings were installed starting in 2021, those scars have dramatically shrunk—by 94% in some areas—and the seagrass is regenerating with surprising speed.
+
+Seagrass meadows rank among the world's most valuable ecosystems, storing carbon, protecting coastlines from erosion, and providing crucial habitat for creatures like the protected spiny seahorse. Yet they're declining globally due to pollution, coastal development, and climate change. Studland Bay's meadows faced particular pressure from leisure boating in this popular area. The new eco-moorings work by using a helical screw drilled into the seabed with an elasticated riser that stretches with the tides, eliminating the scouring damage caused by traditional chains. Volunteer divers monitoring the area have reported increases in seahorse numbers, alongside sightings of conger eels, spider crabs, and various other marine life.
+
+This story offers a quiet reminder that thoughtful design and collaboration can yield measurable environmental gains. The Studland Bay Marine Partnership brought together conservationists and boating enthusiasts, demonstrating that protecting nature doesn't require choosing between recreation and restoration. For anyone weary of environmental decline, this research provides encouraging evidence that damaged ecosystems can bounce back remarkably quickly when given the right conditions—and that solutions developed in one location might help protect similar habitats elsewhere around the UK coast.</description>
+      <source url="https://www.theguardian.com/environment/2026/sep/21/seagrass-eco-mooring-dorset-seahorses">The Guardian</source>
+    </item>
     <item>
       <title>Vaccines for ash trees and gene-edited butterflies among UK projects to get £30m funding</title>
       <link>https://www.theguardian.com/environment/2026/sep/21/gene-edited-butterflies-vaccines-ash-trees-uk-science-projects-30m-funding</link>
@@ -594,18 +606,6 @@ The physical toll extends beyond exhaustion. Students risk stingray attacks in t
 
 This story offers a stark glimpse into how climate and geography shape daily life in remote regions. It reveals the determination of young people who refuse to let impassable rivers interrupt their education, even as they navigate genuine danger. The state transportation department has dispatched a team to assess the situation, but for now, these students' commitment to learning requires literal heavy lifting through mud and forest each day.</description>
       <source url="https://g1.globo.com/ap/amapa/noticia/2026/09/17/estudantes-empurram-barcos-na-lama-para-ir-a-escola-durante-seca-no-bailique-no-ap-nao-tem-outro-jeito.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>'The choir was a great lifter when the fields fell silent'</title>
-      <link>https://www.bbc.co.uk/news/articles/c58jd32wgwk4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c58jd32wgwk4o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Thu, 17 Sep 2026 06:01:56 GMT</pubDate>
-      <description>When bovine tuberculosis forced Northern Ireland dairy farmer Mervyn Kelso to lose his entire herd of over 160 cows, the silence that fell over his farm was devastating. By March 2022, after three waves of removals, the milking yards stood empty and the fields that had defined his life's work were still. Around the same time, a longtime family friend passed away, compounding the grief. It was Mervyn's sister who suggested he try something different: join the Farmers' Choir in nearby Ballymena.
-
-What began as a way to fill the void left by absent cattle became something more profound. For Mervyn and his wife Ruth, the choir offered community during one of their darkest periods. The weekly rehearsals provided structure and companionship at a time when the farm's usual rhythm had vanished. Musical director Barkley Thompson, himself raised on a dairy farm, recognized that modern farming's increased automation has stripped away the social connections that once came naturally at harvest time. The choir recreates that lost sense of mutual support, offering farmers an antidote to the isolation and danger of working alone. Four years on, the Farmers' Choir has taken Mervyn to unexpected places—singing at King Charles's coronation concert, meeting the Duke and Duchess of Edinburgh, and chatting with Welsh opera star Bryn Terfel, whose sheep-farming father made him "worth chatting to."
-
-This story quietly illuminates how community and creative expression can help people navigate profound loss. It's a reminder that sometimes the path forward from grief isn't about replacing what was lost, but about discovering new sources of connection and joy.</description>
-      <source url="https://www.bbc.co.uk/news/articles/c58jd32wgwk4o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
