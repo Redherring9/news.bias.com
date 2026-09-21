@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 02:03:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 04:01:50 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'A full-body experience': Life amongst plants at Allan Herbarium</title>
+      <link>https://www.rnz.co.nz/news/science-and-technology/1492806/a-full-body-experience-life-amongst-plants-at-allan-herbarium</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/science-and-technology/1492806/a-full-body-experience-life-amongst-plants-at-allan-herbarium</guid>
+      <pubDate>Mon, 21 Sep 2026 04:01:49 GMT</pubDate>
+      <description>Inside a climate-controlled building in Lincoln, Christchurch, Dr. Ines Schönberger oversees more than 800,000 dried plant specimens at the Allan Herbarium—a collection she describes as anything but lifeless. The Germany-born botanist, who manages this botanical archive, bristles at the notion of a "plant morgue," insisting the work is a sensory, full-body experience where nearly every pressed leaf and flower tells a story. Some of those stories reach back to 1770, preserved in specimens collected by Joseph Banks and Daniel Solander during Captain Cook's first voyage to New Zealand.
+
+Schönberger's own journey to botany took an unexpected turn. She initially dreamed of becoming a veterinarian, but the realities of dissection and the heartbreak of putting down her beloved sausage dog nudged her toward plants instead. She met her New Zealand husband while working at a small herbarium in Regensburg, Germany, and followed him south, eventually taking the helm of the Allan Herbarium in 2007. Today, she works alongside community volunteers who help press and organize specimens—including invasive species like Madagascar Ragwort—that arrive from across the country. The collection bears traces of its history: many specimens were once treated with mercuric chloride to fend off pests, and each is carefully stamped as a precaution.
+
+This story offers a quietly remarkable glimpse into how collections like the Allan Herbarium serve as living records of ecological change. As climate patterns shift and native plants appear in unexpected places, these archives become essential tools for understanding distribution, adaptation, and time itself—proof that preserved plants are far from dead, but rather witnesses to centuries of botanical life.</description>
+      <source url="https://www.rnz.co.nz/news/science-and-technology/1492806/a-full-body-experience-life-amongst-plants-at-allan-herbarium">Radio New Zealand</source>
+    </item>
     <item>
       <title>The black robin, once down to just a single breeding pair, wins NZ bird of the year</title>
       <link>https://www.theguardian.com/world/2026/sep/21/nz-bird-of-the-year-2026-black-robin-wins-new-zealand</link>
@@ -594,18 +606,6 @@ The idea came from a local road safety committee working with police, who wonder
 
 Criminologists are intrigued but cautious. While Matthew Morgan from Australian Catholic University sees value in the community-building aspect, he's uncertain whether a $20 incentive will genuinely change drinking-and-driving decisions. He notes that research does support immediate feedback—like roadside speed displays that show happy or sad faces—as effective behavioral nudges. The real test will come when organizers analyze the data collected during this trial run. It's a quiet experiment in a country town, asking whether a small reward and a friendly interaction might help keep roads safer—a modest wager on the power of positive encouragement over punishment alone.</description>
       <source url="https://www.abc.net.au/news/2026-09-17/manjumup-police-20-dollar-voucher-sober-drivers/107152548">ABC Australia</source>
-    </item>
-    <item>
-      <title>‘Don’t shoot. Listen’: The AI-aided quest to understand Yellowstone’s wolves</title>
-      <link>https://news.mongabay.com/2026/09/dont-shoot-listen-the-ai-aided-quest-to-understand-yellowstones-wolves/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/09/dont-shoot-listen-the-ai-aided-quest-to-understand-yellowstones-wolves/</guid>
-      <pubDate>Wed, 16 Sep 2026 22:03:34 GMT</pubDate>
-      <description>A chance encounter on a Montana farm five years ago changed Jeff Reed's relationship with wolves forever. Standing with a rifle pointed at a gray wolf in his headlights, Reed experienced what he calls an "Apostle Paul moment" — suddenly questioning why he intended to shoot. He fired high over the animal's back, and that decision sparked an unlikely journey from wolf indifference to scientific obsession.
-
-Reed, a linguist and Silicon Valley software engineer, has since become a pioneer in wolf bioacoustics. His Cry Wolf Project, launched in 2023 within Yellowstone's renowned Wolf Project, deploys fifty automated recording units across the park's backcountry. These devices capture half a million hours of ambient sound annually. Using large-language models and artificial intelligence, Reed has isolated over 8,000 hours of continuous wolf vocalizations — the world's largest database of its kind. His analysis has identified more than twenty distinct call types, from barks and whimpers to the haunting chorus howl where entire packs vocalize in unison, possibly conveying specific meanings or emotions.
-
-This story matters because it represents a new frontier in understanding animal communication. Reed's technology is already being used to study wolf packs in Italy and holds promise for wildlife research and conservation globally. By combining his diverse expertise in linguistics, computer science, and his self-taught naturalist passion, Reed is working to decode what he calls "wolfish" — moving beyond centuries of mythology to actually listen to what wolves might be saying. It's a quiet reminder that sometimes the most groundbreaking science begins with a simple decision to lower the rifle and pay attention.</description>
-      <source url="https://news.mongabay.com/2026/09/dont-shoot-listen-the-ai-aided-quest-to-understand-yellowstones-wolves/">Mongabay</source>
     </item>
   </channel>
 </rss>
