@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 14:02:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:04:06 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Global coral reefs get less time to recover as oceans heat up, report finds</title>
+      <link>https://news.mongabay.com/2026/09/global-coral-reefs-get-less-time-to-recover-as-oceans-heat-up-report-finds/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/09/global-coral-reefs-get-less-time-to-recover-as-oceans-heat-up-report-finds/</guid>
+      <pubDate>Fri, 25 Sep 2026 16:04:04 GMT</pubDate>
+      <description>The world's coral reefs are facing a double challenge: declining health and vanishing recovery time. A comprehensive new assessment tracking more than 21 million observations across 123 countries reveals that global hard coral cover has dropped 9.5% compared to a baseline period from 1980 to 2009. The report, released by the Global Coral Reef Monitoring Network, represents the most extensive survey of reef health ever conducted, offering a sobering snapshot of ecosystems under mounting thermal stress.
+
+The timing is particularly alarming. Between 2023 and 2025, reefs endured their fourth global bleaching event—episodes where heat-stressed corals expel the algae they depend on for survival. This latest event triggered the steepest single-year decline on record: an 8.9% drop in just twelve months. While reefs demonstrated resilience after the previous bleaching event, bouncing back by about 6% between 2017 and 2019, the intervals between these crises have shortened dramatically. Marine heat waves now strike roughly every four to six years, down from once per decade, compressing the window corals need to rebuild.
+
+What makes this story quietly urgent is its clarity. Hard corals aren't just beautiful; they're the architects of reef ecosystems, and their cover serves as a straightforward, globally comparable measure of reef vitality. Scientists emphasize that thoughtful local management can help fortify reef resilience, but without rapid reductions in greenhouse gas emissions, even the most robust conservation efforts may not be enough. This report offers a rare, data-rich view into an ecosystem racing against a clock that keeps speeding up.</description>
+      <source url="https://news.mongabay.com/2026/09/global-coral-reefs-get-less-time-to-recover-as-oceans-heat-up-report-finds/">Mongabay</source>
+    </item>
     <item>
       <title>‘Hope is a built-in characteristic’: Margaret Atwood on birds, conservation and optimism for the future</title>
       <link>https://www.theguardian.com/books/ng-interactive/2026/sep/25/margaret-atwood-birds-conservation-optimistic-future</link>
@@ -594,18 +606,6 @@ Seagrass meadows rank among the world's most valuable ecosystems, storing carbon
 
 This story offers a quiet reminder that thoughtful design and collaboration can yield measurable environmental gains. The Studland Bay Marine Partnership brought together conservationists and boating enthusiasts, demonstrating that protecting nature doesn't require choosing between recreation and restoration. For anyone weary of environmental decline, this research provides encouraging evidence that damaged ecosystems can bounce back remarkably quickly when given the right conditions—and that solutions developed in one location might help protect similar habitats elsewhere around the UK coast.</description>
       <source url="https://www.theguardian.com/environment/2026/sep/21/seagrass-eco-mooring-dorset-seahorses">The Guardian</source>
-    </item>
-    <item>
-      <title>Vaccines for ash trees and gene-edited butterflies among UK projects to get £30m funding</title>
-      <link>https://www.theguardian.com/environment/2026/sep/21/gene-edited-butterflies-vaccines-ash-trees-uk-science-projects-30m-funding</link>
-      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/sep/21/gene-edited-butterflies-vaccines-ash-trees-uk-science-projects-30m-funding</guid>
-      <pubDate>Mon, 21 Sep 2026 10:02:16 GMT</pubDate>
-      <description>A UK government agency is funding an ambitious set of projects that use cutting-edge biotechnology to help native wildlife adapt more quickly to climate change and emerging threats. The £30 million initial investment supports fourteen teams exploring interventions that range from vaccines for ash trees threatened by disease to gene-editing swallowtail butterflies for pesticide resistance. The program also includes efforts to accelerate oak tree reproduction from decades to months, and develop protective skin treatments for newts.
-
-Led by evolutionary genomics professor Yannick Wurm, the Advanced Research and Invention Agency's "accelerated adaptation" initiative aims to complement traditional conservation methods with what Wurm calls "precision tools" — biotechnology approaches comparable to mRNA vaccines for humans. The rationale is straightforward: natural environments are changing so rapidly that many species simply cannot evolve fast enough on their own. While the research includes controversial techniques like Crispr gene-editing, organizers emphasize strict ethical oversight modeled on global conservation standards, and none of the experimental solutions will be released into the wild during the program's timeline through 2030.
-
-This story captures a fascinating tension in modern conservation. As climate pressures intensify, scientists are grappling with whether humanity should intervene in evolution itself to protect species we've already imperiled. More than 90 environmental organizations have raised concerns about unpredictable consequences, while hundreds of scientists point to potential benefits. The debate reflects a broader question about our relationship with the natural world: whether helping nature adapt through biotechnology represents responsible stewardship or an overreach with unknown risks. Whatever the outcome, these projects represent a significant bet that technology might offer new answers to age-old conservation challenges.</description>
-      <source url="https://www.theguardian.com/environment/2026/sep/21/gene-edited-butterflies-vaccines-ash-trees-uk-science-projects-30m-funding">The Guardian</source>
     </item>
   </channel>
 </rss>
