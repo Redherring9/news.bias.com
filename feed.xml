@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 18:03:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 20:02:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Scientists develop tech to measure eucalypt flammability from space</title>
+      <link>https://www.abc.net.au/news/2026-09-27/ozfuel-satellite-eucalypt-flammability-anu/107181430</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-09-27/ozfuel-satellite-eucalypt-flammability-anu/107181430</guid>
+      <pubDate>Sat, 26 Sep 2026 20:02:00 GMT</pubDate>
+      <description>Australian scientists have developed groundbreaking technology that could measure how flammable eucalypt forests are by scanning them from space—a world first that addresses a critical gap in the country's bushfire preparedness. The OzFuel project, led by researchers at the Australian National University, uses infrared sensors to detect the complex chemistry in eucalypt leaves, including moisture content, oils, cellulose, and lignin, all of which influence how readily trees will burn. Currently, Australia relies entirely on foreign-owned satellites for Earth observation data during emergencies, a dependency that raises both practical and national security concerns.
+
+The technology has been proven in the lab, where astronomers' instruments normally used to observe distant planets have been adapted for Earth observation. Researchers analyzed thousands of eucalypt leaf samples to identify which infrared wavelengths reveal key flammability traits, and they've built a compact, high-powered infrared telescope small enough to fit on a satellite. The team could launch a prototype mission within 18 months to test the system in orbit—but they need approximately $15 million to cross what they call the "technology Valley of Death," the difficult stage between laboratory success and commercial viability.
+
+This story matters because it sits at the intersection of innovation and urgency. As bushfires become more frequent and intense across Australia, real-time data on forest flammability could transform how communities prepare for and respond to fire danger. Yet promising technology risks stalling without established funding pathways, potentially losing both the expert team and precious time. It's a quiet reminder that the gap between scientific breakthrough and real-world application often comes down to bridging a funding chasm at just the right moment.</description>
+      <source url="https://www.abc.net.au/news/2026-09-27/ozfuel-satellite-eucalypt-flammability-anu/107181430">ABC Australia</source>
+    </item>
     <item>
       <title>Six Magellanic penguins returned to sea after rehabilitation in Rio de Janeiro</title>
       <link>https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/26/pinguins-sao-devolvidos-ao-mar-apos-reabilitacao-no-rj.ghtml</link>
@@ -594,18 +606,6 @@ While daily spikes are dramatic, scientists emphasize that monthly averages dete
 
 This story matters because it offers a real-time glimpse into how climate patterns unfold and intensify over months, revealing both the precision of modern ocean monitoring and the fundamental unpredictability of ocean-atmosphere interactions. The early intensity suggests significant weather impacts ahead for regions worldwide, yet scientists maintain humility about forecasting—a reminder that even with advanced tools, Earth's climate system retains an element of mystery.</description>
       <source url="https://g1.globo.com/meio-ambiente/noticia/2026/09/22/el-nino-oceano-pacifico-atinge-marca-recorde-de-aquecimento-diario-mesmo-meses-antes-do-pico.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Record baptisms, Catholic influencers: how the Church is winning over young people</title>
-      <link>https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20260922-record-de-bapt%C3%AAmes-influenceurs-catholiques-comment-l-%C3%A9glise-s%C3%A9duit-les-jeunes</link>
-      <guid isPermaLink="false">https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20260922-record-de-bapt%C3%AAmes-influenceurs-catholiques-comment-l-%C3%A9glise-s%C3%A9duit-les-jeunes</guid>
-      <pubDate>Tue, 22 Sep 2026 14:03:17 GMT</pubDate>
-      <description>France is experiencing a surprising religious shift: more than 21,000 adolescents and adults were baptized into the Catholic Church in 2026, a number that has tripled in just ten years. This wave of conversions comes at a time when young people are grappling with pandemic aftershocks, climate anxiety, and geopolitical instability—forces that have left many searching for meaning and community.
-
-The new converts, called catechumens, come from diverse backgrounds. Johan, a former athlete, turned to faith after his grandmother's death. Morgane, raised by a single parent in a housing project, sought belonging. Malick, who grew up Muslim in Senegal, was drawn in by reading the Bible. Historian Charles Mercier notes a fundamental change: religion is no longer an inherited identity in France but a personal choice, making it feel less like obligation and more like discovery. Friends play a central role—Johan asked his friend Matthieu to take him to his first Mass and later serve as his godfather. Even observing Muslim friends practice Ramadan has inspired young Catholics to rediscover their own traditions, like Lent.
-
-Social media has become an unexpected evangelizing force. Nearly 20 percent of catechumens credit Catholic influencers with guiding their spiritual journeys, and weekly youth Masses now draw crowds of a thousand in Paris. Rather than a return to tradition, Mercier sees this as a new chapter in the Church's history—one shaped by individual seeking, peer influence, and digital connection. It's a quiet but remarkable story about how ancient institutions adapt, and how young people find anchors in uncertain times.</description>
-      <source url="https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20260922-record-de-bapt%C3%AAmes-influenceurs-catholiques-comment-l-%C3%A9glise-s%C3%A9duit-les-jeunes">France 24</source>
     </item>
   </channel>
 </rss>
