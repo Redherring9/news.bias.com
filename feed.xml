@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 14:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:02:42 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Did you solve it? Isaac Newton’s tower drop puzzle</title>
+      <link>https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle</link>
+      <guid isPermaLink="false">https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle</guid>
+      <pubDate>Mon, 28 Sep 2026 16:02:40 GMT</pubDate>
+      <description>A centuries-old physics puzzle posed by Isaac Newton in 1679 reveals something surprising about how objects fall. When dropped from a high tower, where does an object land—considering Earth's rotation? Most would guess directly below, or perhaps slightly west as the planet spins eastward beneath it. The answer turns out to be counterintuitive: the object lands slightly to the east.
+
+The explanation involves the same principle that makes figure skaters spin faster when they pull their arms inward. As the object falls, it's already rotating with Earth. But as it drops closer to the planet's center, its distance from Earth's axis decreases. Conservation of angular momentum means that as this distance shrinks, the object's rotational speed must increase—causing it to spin faster than the ground below and land east of the tower's base. On the equator, an object dropped from the height of the Eiffel Tower would drift about eleven centimeters eastward.
+
+This puzzle showcases how physics can surprise us even in familiar scenarios. Newton's question to Robert Hooke demonstrates that careful thinking about rotation and momentum reveals hidden dynamics in everyday phenomena. It's a reminder that the world operates according to elegant principles that aren't always obvious at first glance, and that puzzles centuries old can still teach us to question our assumptions about how things move through space.</description>
+      <source url="https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle">The Guardian</source>
+    </item>
     <item>
       <title>Preserving wildlife DNA for the future: Interview with the Frozen Zoo’s Katie Heineman</title>
       <link>https://news.mongabay.com/2026/09/preserving-wildlife-dna-for-the-future-interview-with-the-frozen-zoos-katie-heineman/</link>
@@ -594,18 +606,6 @@ The bears at the sanctuary are survivors of the bile farming industry, where the
 
 This story resonates because it captures an unexpected intersection of art and advocacy. Wakeman's willingness to play piano in sweltering heat for an audience that can't applaud speaks to both his genuine affection for animals and the creative ways people are drawing attention to wildlife cruelty. It's a quietly remarkable reminder that sometimes the most powerful activism comes wrapped in melody and delivered with warmth rather than outrage.</description>
       <source url="https://www.theguardian.com/world/2026/sep/24/rick-wakeman-vietnam-bears-moon-sanctuary">The Guardian</source>
-    </item>
-    <item>
-      <title>Biodiversity credits shouldn’t copy the carbon market playbook (commentary)</title>
-      <link>https://news.mongabay.com/2026/09/biodiversity-credits-shouldnt-copy-the-carbon-market-playbook-commentary/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/09/biodiversity-credits-shouldnt-copy-the-carbon-market-playbook-commentary/</guid>
-      <pubDate>Thu, 24 Sep 2026 14:03:00 GMT</pubDate>
-      <description>As biodiversity credit markets gain momentum, a new commentary challenges the prevailing approach of emulating the carbon credit model. The author argues that reducing complex ecosystems to a single tradable number—similar to carbon markets' use of metric tons of CO2 equivalent—fundamentally misrepresents what biodiversity actually is.
-
-The evidence for this mismatch is striking: market estimates for 2025 vary wildly, from $90 million to $7.1 billion, differing by a factor of nearly 80. Rather than viewing this as a data problem awaiting better measurement tools, the author suggests it reveals something essential about biodiversity itself. Carbon credits succeeded commercially because a ton of CO2 prevented in one location is functionally identical to a ton prevented anywhere else. But a hectare of mangrove forest cannot be meaningfully equated with a hectare of grassland—the ecological value, species composition, and functions are entirely different. The massive variation in market estimates reflects analysts' differing assumptions about what even qualifies as a biodiversity credit, precisely because no shared definition exists. Researchers have identified this tension between "commensurability"—the ability to compare things by a common standard—and genuine ecological meaning as possibly unresolvable within a single metric.
-
-This piece matters because it questions a foundational assumption driving billions in environmental finance. Rather than forcing biodiversity into carbon's elegant but oversimplified framework, the author proposes measuring success by how continuously and independently conservation claims can be verified. It's a call for honesty over convenience, suggesting that some things in nature resist—and perhaps should resist—reduction to a single number.</description>
-      <source url="https://news.mongabay.com/2026/09/biodiversity-credits-shouldnt-copy-the-carbon-market-playbook-commentary/">Mongabay</source>
     </item>
   </channel>
 </rss>
