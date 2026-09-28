@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 08:02:54 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Can you solve it? Isaac Newton’s tower drop puzzle</title>
+      <link>https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle</link>
+      <guid isPermaLink="false">https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle</guid>
+      <pubDate>Mon, 28 Sep 2026 08:02:52 GMT</pubDate>
+      <description>A centuries-old physics puzzle that helped spark Isaac Newton's revolutionary work has resurfaced as a thought experiment for curious minds today. The question seems straightforward: if you drop an object from a tall tower, where does it land? But the answer, which Newton himself described as "quite contrary to ye opinion of ye vulgar" in a 1679 letter to fellow scientist Robert Hooke, defies common intuition. The puzzle invites readers to consider how Earth's rotation might influence a falling object's trajectory, drawing a parallel to the way a spinning figure skater accelerates when pulling in their arms.
+
+What makes this problem particularly significant is its place in scientific history. The correspondence between Newton and Hooke that included this tower drop puzzle reignited Newton's thinking about gravity and motion at a crucial moment. That renewed focus eventually led Newton to develop the mathematical framework of classical physics in his landmark work, the Principia. Oxford emeritus professor David Acheson highlights the puzzle in his new book, "Wonders in Motion, The Story of Dynamics," which explores the science of movement in an accessible way.
+
+This story offers more than just a brain teaser. It provides a window into how playful intellectual exchange between scientists can catalyze world-changing discoveries. The puzzle reminds us that some of humanity's greatest insights emerged not from laboratories or grand experiments, but from thoughtful letters between colleagues willing to challenge each other's assumptions. It's a quiet testament to the power of curiosity and conversation in advancing human understanding.</description>
+      <source url="https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle">The Guardian</source>
+    </item>
     <item>
       <title>The endangered wild ponies of Eriskay in the Outer Hebrides – a photo essay</title>
       <link>https://www.theguardian.com/artanddesign/2026/sep/28/endangered-wild-ponies-eriskay-outer-hebrides-scotland-photo-essay</link>
@@ -594,18 +606,6 @@ Twenty-six-year-old Bilgudei Gankhulug created the Hunu app — meaning "strong 
 
 This story offers a quietly hopeful glimpse at how technology can support, rather than replace, ancient practices under threat. As herder families increasingly abandon the steppe for cities, Hunu represents an effort to preserve Mongolia's nomadic culture while acknowledging that the climate crisis respects no borders — dust storms beginning in the Gobi now reach as far as the United States. With interest from pastoralists in Tanzania and Uruguay, the app suggests that solutions born from one community's struggle might ripple outward to help others facing similar challenges.</description>
       <source url="https://www.japantimes.co.jp/environment/2026/09/24/climate-change/mongolian-herders-tech-climate/">The Japan Times</source>
-    </item>
-    <item>
-      <title>From TikTok to Church Pews, French Catholic Influencers Are Drawing New Flocks</title>
-      <link>https://www.france24.com/fr/france/20260924-tiktok-instagram-youtube-influenceurs-catholiques-vatican-leon-xiv</link>
-      <guid isPermaLink="false">https://www.france24.com/fr/france/20260924-tiktok-instagram-youtube-influenceurs-catholiques-vatican-leon-xiv</guid>
-      <pubDate>Thu, 24 Sep 2026 06:02:16 GMT</pubDate>
-      <description>A quiet shift is taking place in French Catholicism, and it's happening on screens before it reaches the pews. As France experiences a dramatic rise in adult and adolescent baptisms—jumping from just under 6,000 in 2022 to more than 21,000 in 2026—a new generation of Catholic influencers is helping draw young people back to the faith. Brother Paul-Adrien films from a studio decorated like a gaming setup, complete with neon lights and memes. Sister Albertine shares behind-the-scenes glimpses of convent life on Instagram. Father Benoît invites his followers to pray with him on TikTok. Together, they're translating ancient tradition into the language of social media.
-
-The phenomenon has caught the attention of scholars like David Douyère, a specialist in religious communication, who notes that while these influencers have modernized the Church's image and made religious life more accessible to youth, their messaging remains deeply traditional. A survey by the Catholic newspaper La Croix found that one in five adults baptized in 2025 cited influencers like Paul-Adrien as playing a role in their decision to convert. The enthusiasm is palpable: when Pope Leo XIV's visit to Paris was announced, tens of thousands of free tickets to a prayer vigil at the Stade de France—the same venue where Beyoncé performed—sold out in under an hour.
-
-This story matters because it captures a fascinating cultural moment where ancient ritual meets modern platform, and where declining clergy numbers coexist with a surprising uptick in conversions. It's a reminder that renewal can come from unexpected places, and that tradition finds new life when it speaks in a contemporary voice.</description>
-      <source url="https://www.france24.com/fr/france/20260924-tiktok-instagram-youtube-influenceurs-catholiques-vatican-leon-xiv">France 24</source>
     </item>
   </channel>
 </rss>
