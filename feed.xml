@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 08:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:03:28 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Paternity is poetical</title>
+      <link>https://aeon.co/essays/when-a-man-becomes-a-father-and-a-poetic-revolution-follows</link>
+      <guid isPermaLink="false">https://aeon.co/essays/when-a-man-becomes-a-father-and-a-poetic-revolution-follows</guid>
+      <pubDate>Mon, 28 Sep 2026 10:03:26 GMT</pubDate>
+      <description>The essay challenges the long-standing notion that fatherhood and domesticity are obstacles to artistic creativity. For centuries, the heroic model of fatherhood—exemplified by Homer's Hector commanding his wife to tend to domestic tasks while men handle war—has justified male artists distancing themselves from family life. From Gauguin abandoning his children to D.H. Lawrence celebrating "remote but powerful father-love," the narrative has persisted that true art requires isolation from the messy realities of child-rearing.
+
+Yet Samuel Taylor Coleridge's "Frost at Midnight," written in 1797, offers a striking counterexample. In this intimate poem, Coleridge portrays himself watching over his sleeping infant son Hartley, whose gentle breathing fills the pauses in his thoughts. Scholars have noted the radical nature of a male poet adopting what was traditionally considered a maternal posture. Rather than finding domesticity stifling, Coleridge discovered it generative—the essay suggests that fatherhood didn't hinder his poetry but actually helped make him a great poet. The poem represents a stylistic peak that corresponds directly with his experience of new fatherhood.
+
+This story matters because it invites us to reconsider the mythology around creativity and caregiving. If the old narrative served male artists by freeing them from domestic responsibilities, perhaps it also robbed them of inspiration found in the ordinary intimacies of family life. The essay quietly suggests that caring for others—both the physical labor and emotional investment—might not be creativity's enemy but rather one of its surprising sources. It's a gentle reframing that makes room for a more expansive understanding of where art comes from.</description>
+      <source url="https://aeon.co/essays/when-a-man-becomes-a-father-and-a-poetic-revolution-follows">Aeon</source>
+    </item>
     <item>
       <title>Can you solve it? Isaac Newton’s tower drop puzzle</title>
       <link>https://www.theguardian.com/science/2026/sep/28/can-you-solve-it-isaac-newtons-tower-drop-puzzle</link>
@@ -594,18 +606,6 @@ What begins as a simple description of chopping corn stalks opens into a meditat
 
 This piece offers something increasingly rare: a ground-level view of how farming, when practiced with attention to cycles and relationships, becomes a form of ecological stewardship. The author writes as both outsider and participant, a "mechanically challenged tree-hugger" learning from his father-in-law how human work can support rather than extract from living systems. It's worth reading for anyone curious about where the abstract concept of sustainability meets actual dirt, seasons, and spinning machinery—a portrait of agriculture as participation in something vastly larger than any single harvest.</description>
       <source url="https://aeon.co/essays/a-prairie-enthusiast-in-search-of-a-farming-land-ethic">Aeon</source>
-    </item>
-    <item>
-      <title>Mongolian herders enlist new tech against harsher, drier climate</title>
-      <link>https://www.japantimes.co.jp/environment/2026/09/24/climate-change/mongolian-herders-tech-climate/</link>
-      <guid isPermaLink="false">https://www.japantimes.co.jp/environment/2026/09/24/climate-change/mongolian-herders-tech-climate/</guid>
-      <pubDate>Thu, 24 Sep 2026 08:02:57 GMT</pubDate>
-      <description>In the vast expanse of Mongolia's Gobi Desert, a young entrepreneur is helping nomadic herders adapt to a rapidly changing climate with an unexpected tool: a smartphone app. When herder Ganchimeg's sheep wandered toward a toxic salt lake this summer, a GPS tracker allowed her husband to intercept the flock in time, potentially saving their entire livelihood. The close call illustrates the mounting pressures facing Mongolia's traditional way of life.
-
-Twenty-six-year-old Bilgudei Gankhulug created the Hunu app — meaning "strong nomad" — after witnessing the devastating 2024 dzud, an extreme cold snap that killed over 8 million livestock in just months. The app combines GPS tracking with AI-powered weather forecasts and detailed maps showing snow depth, soil moisture, and drought conditions, helping herders make critical decisions about where to move next. Mongolia is disproportionately affected by climate change, experiencing deadly temperature swings, dust storms, and droughts that compound damage from overgrazing. Nearly 82 percent of the country's territory now faces desertification, and one in four Mongolians are nomadic herders watching their traditional lands deteriorate.
-
-This story offers a quietly hopeful glimpse at how technology can support, rather than replace, ancient practices under threat. As herder families increasingly abandon the steppe for cities, Hunu represents an effort to preserve Mongolia's nomadic culture while acknowledging that the climate crisis respects no borders — dust storms beginning in the Gobi now reach as far as the United States. With interest from pastoralists in Tanzania and Uruguay, the app suggests that solutions born from one community's struggle might ripple outward to help others facing similar challenges.</description>
-      <source url="https://www.japantimes.co.jp/environment/2026/09/24/climate-change/mongolian-herders-tech-climate/">The Japan Times</source>
     </item>
   </channel>
 </rss>
