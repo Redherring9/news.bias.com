@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 00:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 02:04:24 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How AI is creating a UK super-museum and revealing our planet's history</title>
+      <link>https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Wed, 30 Sep 2026 02:04:22 GMT</pubDate>
+      <description>A decade-long project is underway to create a vast digital museum bringing together around 70 million natural history specimens from collections across the United Kingdom. Using robots and artificial intelligence, researchers are digitizing animals, plants, fossils, and rocks—many collected centuries ago—transforming what would have been a process taking hundreds of years into something achievable within ten years. The Distributed System of Scientific Collections (DiSSCo UK) will make these treasures accessible to both scientists and the public through phones and computers.
+
+One hundred institutions are participating, from major venues like the Natural History Museum to smaller regional collections. The initial phase focuses on Wales and Scotland, prioritizing beetles, butterflies, moths, flies, and pressed plants rather than spectacular large specimens. These smaller organisms actually provide the most detailed record of environmental change. In Cardiff alone, half a million specimens will be scanned, while Scotland's collections span two centuries of change across every type of landscape, from sea level to mountaintops. The challenge isn't trivial: each specimen must be photographed along with its tiny labels, often handwritten centuries ago, containing crucial scientific information.
+
+This digital archive promises to reveal how the UK has transformed throughout Earth's entire history and help predict future changes in climate, food supplies, and species loss. It's a resource designed for everyone—from four-year-olds with boundless curiosity to researchers seeking unprecedented analytical scale. The project quietly reminds us that scientific understanding often comes not from the spectacular, but from careful attention to the small and overlooked, and that knowledge locked away in drawers gains meaning only when shared.</description>
+      <source url="https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Mysterious Antarctic region that could lift sea levels by several metres must be studied - researchers</title>
       <link>https://www.rnz.co.nz/news/environment_climate/1659532/mysterious-antarctic-region-that-could-lift-sea-levels-by-several-metres-must-be-studied-researchers</link>
@@ -594,18 +606,6 @@ Litt brought two decades of long-distance running experience to this challenge, 
 
 This story is worth your attention not for its extremity alone, but for what it reveals about human capacity when curiosity meets discipline. Litt's journey is a quiet testament to endurance—not just physical, but mental and logistical. It's a reminder that remarkable achievements often unfold in the early morning hours, one methodical step at a time, far from spectacle or fanfare.</description>
       <source url="https://www.rnz.co.nz/life/wellbeing/new-zealand-woman-runs-1000-ultramarathons-in-1000-days">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>'I was buggered': Stranded sailor in dramatic rescue off Darwin Harbour</title>
-      <link>https://www.abc.net.au/news/2026-09-26/digby-campbell-75-darwin-yacht-rescue-lifesaving-awards/107196120</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-09-26/digby-campbell-75-darwin-yacht-rescue-lifesaving-awards/107196120</guid>
-      <pubDate>Sat, 26 Sep 2026 00:02:13 GMT</pubDate>
-      <description>When a freak wave struck Digby Campbell's trimaran off the coast of Timor-Leste in July, it destroyed his navigation equipment and most of his food supplies, transforming what should have been a straightforward six-day sail into a month-long survival ordeal. The 75-year-old experienced sailor was finally spotted drifting into Darwin Harbour in August, sunburnt, dehydrated, and barely able to stand after steering his battered vessel for a day and a half without food. Maritime officers who came alongside for a welfare check found a man at the edge of his endurance—swollen ankles, disoriented, but remarkably still determined to make it to Sunday drinks.
-
-Campbell's troubles began even before he left Dili, where a frustrated harbourmaster tried to insist he take two French backpackers and a bicycle aboard his already questionable trimaran. Once at sea, the boat began disintegrating in rough weather: the outboard motor went underwater, rigging failed, and a wave swept away his tablet and phone. Faced with the choice of returning to port or pushing on to Darwin, Campbell chose the latter, partly out of sheer stubbornness about facing that angry harbourmaster again. During the gruelling weeks that followed, he received supplies from Australian Border Force and a midnight welfare check from a Navy warship, rationing his last can of beer until he finally saw the lights of Darwin.
-
-This story resonates not for its drama alone, but for what it reveals about resilience, resourcefulness, and the particular brand of dry humor that surfaces in the most unlikely circumstances—a man keeping himself alive with the promise of a Sunday session with strangers who became mates.</description>
-      <source url="https://www.abc.net.au/news/2026-09-26/digby-campbell-75-darwin-yacht-rescue-lifesaving-awards/107196120">ABC Australia</source>
     </item>
   </channel>
 </rss>
