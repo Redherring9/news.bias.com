@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:02:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Electric fish may inspire new technologies capable of 'seeing' in the dark</title>
+      <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/30/peixe-eletrico-pode-inspirar-novas-tecnologias-capazes-de-enxergar-no-escuro.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/30/peixe-eletrico-pode-inspirar-novas-tecnologias-capazes-de-enxergar-no-escuro.ghtml</guid>
+      <pubDate>Wed, 30 Sep 2026 14:02:16 GMT</pubDate>
+      <description>Researchers in Brazil, Germany, and Spain are using artificial intelligence to decode the electrical signals produced by the striped knifefish (Gymnotus carapo), a species that navigates murky waters using electricity as a sophisticated sensory system. The fish generates electrical discharges that create a field around its body, allowing it to locate objects, communicate, and find food in complete darkness—a process called electrolocalization. Scientists hope to reverse-engineer this natural sonar to develop technology that can "see" in environments where cameras fail.
+
+In their experiment, published in Frontiers in Computational Neuroscience, the team placed a fish in a tank equipped with eight electrodes and three cameras. Deep learning algorithms tracked three points on the fish's body while electrodes recorded its electrical pulses. The signals varied based on the fish's distance and orientation, providing clues about its movement. By combining camera data with electrical readings, researchers reconstructed the fish's position and posture in three dimensions with remarkable precision—down to about 0.8 millimeters. They tested three computational models to simulate the electric organ's charge distribution, finding that an asymmetric model inspired by the fish's biology performed best.
+
+The ultimate goal is far more ambitious: to track these fish using only their electrical signals, without any visual input. Such technology could revolutionize how we monitor aquatic life in dark or turbulent waters and might inspire new sensing systems for robotics or navigation in visually challenging environments. This research reminds us that nature's solutions, refined over millions of years, continue to offer blueprints for human innovation—even in the darkest waters.</description>
+      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/30/peixe-eletrico-pode-inspirar-novas-tecnologias-capazes-de-enxergar-no-escuro.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Yellow trees take over streets of Petrolina in springtime; see photos</title>
       <link>https://g1.globo.com/pe/petrolina-regiao/noticia/2026/09/30/arvores-amarelas-tomam-ruas-de-petrolina-na-primavera-veja-fotos.ghtml</link>
@@ -594,18 +606,6 @@ Morazán was a 19th-century Honduran military leader who became the last preside
 
 This story offers a window into how nations use historical figures to shape contemporary identity. Morazán's legacy as a champion of Central American unity remains symbolically powerful, making his commemoration particularly resonant in today's context. Whether viewed as honoring a visionary leader or as political theater, the mausoleum project reminds us how the past continues to be reinterpreted—and how a leader who died trying to keep a region together still speaks to questions about unity, sovereignty, and national memory nearly two centuries later.</description>
       <source url="https://www.bbc.com/mundo/articles/cq98609xx5p6o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>Varig Flight 820: Meet the pilot from São Paulo's interior who made a historic landing in a tragedy in France</title>
-      <link>https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/26/voo-varig-820-conheca-o-piloto-do-interior-de-sp-que-fez-pouso-historico-em-tragedia-na-franca.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/26/voo-varig-820-conheca-o-piloto-do-interior-de-sp-que-fez-pouso-historico-em-tragedia-na-franca.ghtml</guid>
-      <pubDate>Sat, 26 Sep 2026 12:03:54 GMT</pubDate>
-      <description>On July 11, 1973, Varig Flight 820 was seconds from landing at Paris's Orly Airport when disaster struck. What should have been a routine arrival became one of aviation's most haunting tragedies, claiming 123 lives but sparing 11 survivors. At the controls during those critical moments was Antônio Fuzimoto, a pilot from Presidente Prudente in São Paulo's interior, whose swift decision to execute a forced landing in a rural area prevented the Boeing 707 from crashing into populated zones—averting an even greater catastrophe.
-
-Fuzimoto's path to that cockpit began with a teenage dream. Born in 1928 to Japanese immigrant parents who instilled values of dignity and restraint, he overcame initial family resistance to pursue flying. He started at the local flying club while working days cutting fabric for wedding dresses at a silk shop, then moved to Rio de Janeiro in 1950 for commercial pilot training. By his twenties, the young man from western São Paulo was already flying international routes across continents. French investigative reports and eyewitness testimony from the surviving flight engineer confirm that Fuzimoto physically piloted the aircraft during the emergency while the senior commander coordinated communications—a distinction that underscores his role in those final, terrible minutes.
-
-This story matters not only as aviation history but as a portrait of quiet competence under unimaginable pressure. Fuzimoto was a devoted father of four, a private man who passed his passion for flight to his son Alexandre, and someone whose "silent generosity" deepened after personal loss. His split-second choices in 1973 represent both the weight pilots carry and the humble origins from which extraordinary courage can emerge.</description>
-      <source url="https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/26/voo-varig-820-conheca-o-piloto-do-interior-de-sp-que-fez-pouso-historico-em-tragedia-na-franca.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
