@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 10:04:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:03:30 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google removes over 40 channels with fake AI doctors after BBC News Brasil reports</title>
+      <link>https://www.bbc.com/portuguese/articles/ckd686n19dx2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/ckd686n19dx2o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Thu, 01 Oct 2026 12:03:28 GMT</pubDate>
+      <description>YouTube has removed over 40 channels featuring fake doctors created with artificial intelligence, following investigative reports by BBC News Brasil and a formal notification from Brazil's government. The channels used AI-generated personas—and in some cases, cloned images of real physicians—to spread unverified health advice, targeting primarily elderly viewers with promises of natural cures and unproven treatments.
+
+The scale of the operation was striking: BBC's investigation in July found 29 Portuguese-language channels had accumulated more than 70 million views, posting roughly ten new videos daily. Analysis of thousands of comments revealed elderly users who believed they were watching genuine medical professionals and had begun following the advice—some replacing prescribed medications with home remedies. One 82-year-old woman told reporters she had no idea she was watching artificial intelligence, finding the figure's advice "plausible." At least five channels cloned the face and identity of a real otolaryngologist without permission, prompting him to file a police report for identity theft and defamation.
+
+This story offers a sobering look at how AI tools can be weaponized at industrial scale to exploit vulnerable populations. It also shows that accountability is possible: government intervention, investigative journalism, and platform enforcement can work together to curb digital deception. The incident raises important questions about how societies will protect trust and safety as synthetic media becomes harder to distinguish from reality—particularly for those least equipped to spot the difference.</description>
+      <source url="https://www.bbc.com/portuguese/articles/ckd686n19dx2o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>"Sky superhero": who is Smit Machchhar, the pilot who averted disaster on the Flydubai flight?</title>
       <link>https://www.france24.com/fr/moyen-orient/20261001-heros-smit-machchhar-pilote-indien-vol-flydubai-attaque-modi-netanyahu</link>
@@ -594,18 +606,6 @@ Jaqueline's journey began unexpectedly in 2017 when a routine emergency room vis
 
 When doctors presented the option of a transplant, Quênia didn't hesitate to get tested for compatibility. The sisters matched, and after a month-long wait for insurance authorization, the transplant became reality. Their story, shared on Brazil's National Organ Donation Day, offers a quiet testament to the ways medical science and human devotion can intersect. It's a reminder that behind every transplant statistic is a story of love made tangible—one person literally giving part of themselves so another can continue living fully.</description>
       <source url="https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/27/nossa-relacao-e-sinonimo-de-vida-o-transplante-que-uniu-irmas-no-rj.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Why Japan has so few trash cans yet keeps its streets clean</title>
-      <link>https://www.bbc.com/mundo/articles/cm89j2x1jl99o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cm89j2x1jl99o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sun, 27 Sep 2026 12:01:20 GMT</pubDate>
-      <description>Visitors to Tokyo often find themselves puzzled by a curious contradiction: Japan's streets are famously spotless, yet public trash bins are remarkably scarce. The phenomenon has spawned countless social media videos of bewildered tourists clutching empty coffee cups and sandwich wrappers, searching in vain for somewhere to dispose of them.
-
-The shortage traces back to a pivotal moment in March 1995, when the Aum Shinrikyo cult released sarin gas in Tokyo's subway system, killing 14 people and injuring thousands. In response, authorities removed public bins as a security measure—a practice reinforced by subsequent terrorist attacks worldwide, including September 11th. But security concerns alone don't explain why bins never returned. Since the 2000s, many municipalities have deliberately reduced street receptacles to encourage people to take their trash home, cutting maintenance costs and discouraging illegal dumping of household waste. Kyoto, for instance, cut its public bins by more than half starting in 2011.
-
-Yet the streets remain clean through a combination of intentional policy and cultural practice. Decades of anti-littering campaigns, public education, and environmental design have shaped behavior, while social norms like "meiwaku"—avoiding inconvenience to others—reinforce consideration for shared spaces. Eating while walking is relatively uncommon, so locals generate less waste on the go. Tourists initially find the bin shortage frustrating, but many quickly adapt to carrying their trash until they find proper disposal spots. This story offers a quiet lesson in how cleanliness emerges not from a single cultural trait, but from the intersection of historical events, deliberate infrastructure choices, and evolving social expectations.</description>
-      <source url="https://www.bbc.com/mundo/articles/cm89j2x1jl99o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
