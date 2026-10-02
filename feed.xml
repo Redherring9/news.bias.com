@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 18:03:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:03:16 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Two artists from same remote community finalists in prestigious portrait prize</title>
+      <link>https://www.abc.net.au/news/2026-10-03/warmun-kimberley-artists-finalists-lester-art-prize/107222198</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-03/warmun-kimberley-artists-finalists-lester-art-prize/107222198</guid>
+      <pubDate>Fri, 02 Oct 2026 20:03:14 GMT</pubDate>
+      <description>In Warmun, a remote community of 3,000 residents in Western Australia's northeast, two Gija artists have achieved something quietly extraordinary: both Dwayne Jessell and Troy Drill are finalists in the Lester Prize, one of Australia's most prestigious portraiture competitions. The small town, marked by a single shop, a dusty airstrip, and ancient boab trees, has become an unlikely hub of artistic excellence. Jessell, competing for the second time, and Drill, a first-time finalist, both created self-portraits that reflect their profound connection to Gija Country, working primarily with ochre extracted traditionally from surrounding hills.
+
+The Warmun Art Centre, co-founded by Jessell's father Jack Britten in 1998, has weathered significant challenges, including devastating floods in 2011 that destroyed the building and countless artworks. Yet the community's resilience transformed the centre into what Jessell describes as a vital reminder for younger generations about cultural identity and legacy. For Drill, the centre functions as family—a place where experienced artists like Jessell generously share knowledge with emerging creators, fostering both skill and connection despite the Kimberley's relentless heat.
+
+What makes this story particularly meaningful is Warmun's unique contribution to world art. Art historian Darren Jorgensen notes that Warmun remains the only Australian art centre working exclusively with ochre, producing a body of work as culturally significant as Arnhem Land's bark paintings or the Central Desert's dot painting tradition. The artists' dedication to traditional materials and methods, combined with their distinctive portrayals of the surrounding landscape, represents not just personal achievement but the continuation of a living cultural movement—a testament to how creativity and community can flourish in the most unexpected places.</description>
+      <source url="https://www.abc.net.au/news/2026-10-03/warmun-kimberley-artists-finalists-lester-art-prize/107222198">ABC Australia</source>
+    </item>
     <item>
       <title>Project Offers Technology to Modernize Textile Production in Nova Friburgo</title>
       <link>https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/02/projeto-oferece-tecnologia-para-modernizar-producao-textil-em-nova-friburgo.ghtml</link>
@@ -594,18 +606,6 @@ The choice of Metz was deeply intentional. This eastern French city changed hand
 
 This story offers a quiet but resonant reminder of how fragile peace can be, and how deliberately it must be maintained. At a time when the pope lamented that "relations between people and between states are becoming increasingly barbaric," his appeal from a former battlefield carries particular weight. It's a meditation on memory, reconciliation, and the ongoing work of choosing dialogue over division—values that feel both timeless and urgently contemporary.</description>
       <source url="https://www.dw.com/de/papst-leo-xiv-würdigt-in-der-französischen-grenzstadt-metz-robert-schuman-und-fordert-europa-zu-mehr-einsatz-für-frieden-und-dialog-auf/a-79463744?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
-    </item>
-    <item>
-      <title>Did you solve it? Isaac Newton’s tower drop puzzle</title>
-      <link>https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle</link>
-      <guid isPermaLink="false">https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle</guid>
-      <pubDate>Mon, 28 Sep 2026 16:02:40 GMT</pubDate>
-      <description>A centuries-old physics puzzle posed by Isaac Newton in 1679 reveals something surprising about how objects fall. When dropped from a high tower, where does an object land—considering Earth's rotation? Most would guess directly below, or perhaps slightly west as the planet spins eastward beneath it. The answer turns out to be counterintuitive: the object lands slightly to the east.
-
-The explanation involves the same principle that makes figure skaters spin faster when they pull their arms inward. As the object falls, it's already rotating with Earth. But as it drops closer to the planet's center, its distance from Earth's axis decreases. Conservation of angular momentum means that as this distance shrinks, the object's rotational speed must increase—causing it to spin faster than the ground below and land east of the tower's base. On the equator, an object dropped from the height of the Eiffel Tower would drift about eleven centimeters eastward.
-
-This puzzle showcases how physics can surprise us even in familiar scenarios. Newton's question to Robert Hooke demonstrates that careful thinking about rotation and momentum reveals hidden dynamics in everyday phenomena. It's a reminder that the world operates according to elegant principles that aren't always obvious at first glance, and that puzzles centuries old can still teach us to question our assumptions about how things move through space.</description>
-      <source url="https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle">The Guardian</source>
     </item>
   </channel>
 </rss>
