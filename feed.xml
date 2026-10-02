@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 22:03:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:02:46 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mangroves keep waves at bay. A new study helps scientists predict how</title>
+      <link>https://news.mongabay.com/2026/10/mangroves-keep-waves-at-bay-a-new-study-helps-scientists-predict-how/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/10/mangroves-keep-waves-at-bay-a-new-study-helps-scientists-predict-how/</guid>
+      <pubDate>Fri, 02 Oct 2026 00:02:44 GMT</pubDate>
+      <description>Mangrove forests have long been valued for their ability to protect coastal communities from storm surges and rising seas, but scientists have struggled to predict exactly how much wave energy these tangled-root ecosystems can absorb during severe weather. Measuring mangrove performance during typhoons and hurricanes is dangerous and complex, leaving coastal planners without reliable data for the moments that matter most. Now, researchers from China's M5 lab have developed a breakthrough method that uses calm-weather measurements to predict how mangroves will perform during extreme storms.
+
+The team tested their approach during Typhoon Yagi, which struck Southeast Asia and southern China in September 2024, generating record-breaking waves nearly three feet high at the edge of a restored mangrove forest along China's Zhanjiang coast. The mangroves reduced those waves to just over one foot after traveling the length of a football field through the forest. The researchers' new equation, dubbed the HU method, successfully predicted this attenuation using only data gathered during peaceful conditions. They've also released a free online tool allowing coastal engineers anywhere in the world to estimate how local mangrove forests might protect their communities.
+
+With more than 87 million people affected by climate-related flooding and storms in 2025 alone, this research offers vulnerable coastal communities a practical way to plan nature-based defenses before disaster strikes. The work bridges ecological science and coastal engineering, turning mangrove restoration from a general climate strategy into something communities can measure, predict, and rely on when the next big storm approaches.</description>
+      <source url="https://news.mongabay.com/2026/10/mangroves-keep-waves-at-bay-a-new-study-helps-scientists-predict-how/">Mongabay</source>
+    </item>
     <item>
       <title>Hitting the sweet spot: bear treats itself to baked goods at Colorado farmers’ market</title>
       <link>https://www.theguardian.com/us-news/2026/oct/01/colorado-bear-farmers-market</link>
@@ -594,18 +606,6 @@ The Autonomous Bougainville Government coordinated with maritime rescue centers 
 
 This story offers a remarkable testament to human endurance and the unpredictable nature of ocean travel in the Pacific islands, where communities are often separated by vast stretches of open water. For the families and communities in Bougainville who waited anxiously for over two months, the rescue brings an end to a period of profound uncertainty. What makes this account quietly extraordinary is not just the duration of their ordeal, but the reminder of both the vulnerabilities faced by island communities and the resilience of those who survive against daunting odds.</description>
       <source url="https://www.rnz.co.nz/news/pacific/1628046/three-bougainvilleans-reportedly-rescued-after-70-days-adrift-at-sea">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Morning kayakers treated to rare dolphin sighting in Sydney Harbour</title>
-      <link>https://www.abc.net.au/news/2026-09-28/sydney-harbour-dolphins-spotted-west-of-bridge/107202526</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-09-28/sydney-harbour-dolphins-spotted-west-of-bridge/107202526</guid>
-      <pubDate>Mon, 28 Sep 2026 00:02:49 GMT</pubDate>
-      <description>Early-morning kayakers in Sydney Harbour were surprised by an unusual visitor this week: a pod of about ten dolphins swimming west of the iconic harbour bridge. The sighting is notable because dolphins are rarely spotted in this part of the harbour, particularly so far upstream near Birchgrove and the Parramatta River. Tour operators who regularly paddle these waters said they had never encountered dolphins on that side of the bridge before.
-
-Marine scientist Dr. Vanessa Pirotta from Macquarie University explains that the dolphins likely ventured into the western harbour in search of food, but their presence also tells a larger story about the waterway's health. The sighting suggests improving environmental conditions in Sydney Harbour, where marine biodiversity appears to be thriving. Dr. Pirotta runs a citizen science project called Wild Sydney Harbour that tracks marine animal sightings through social media reports. Working with the local Gamay Rangers, the project has already identified individual dolphins returning to Sydney's waters years apart, suggesting some may be regular visitors rather than rare wanderers.
-
-This story offers a quiet reminder that urban waterways can support rich marine life when conditions are right. For city dwellers accustomed to viewing their harbour primarily as a transportation corridor or scenic backdrop, the dolphins' appearance upstream is both a delightful surprise and an encouraging sign that efforts to protect and restore urban marine environments can yield tangible results.</description>
-      <source url="https://www.abc.net.au/news/2026-09-28/sydney-harbour-dolphins-spotted-west-of-bridge/107202526">ABC Australia</source>
     </item>
   </channel>
 </rss>
