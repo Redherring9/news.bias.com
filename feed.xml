@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 16:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 18:03:03 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Project Offers Technology to Modernize Textile Production in Nova Friburgo</title>
+      <link>https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/02/projeto-oferece-tecnologia-para-modernizar-producao-textil-em-nova-friburgo.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/02/projeto-oferece-tecnologia-para-modernizar-producao-textil-em-nova-friburgo.ghtml</guid>
+      <pubDate>Fri, 02 Oct 2026 18:03:01 GMT</pubDate>
+      <description>In Nova Friburgo, a mountainous region of Rio de Janeiro state known for its textile industry, local businesses are gaining access to equipment many couldn't afford on their own. The Acelera Moda Sindvest project, launched through a partnership between the local garment industry union and Firjan SENAI Espaço da Moda, offers shared cutting-edge technology to modernize clothing production. More than 450 member companies can now use an automated cutting table capable of processing up to 20,000 pieces per programming cycle, along with a textile testing laboratory that evaluates fabric durability, colorfastness, and other technical qualities.
+
+The initiative addresses one of the highest-cost areas in garment manufacturing: the cutting room. By pooling resources, smaller manufacturers gain access to technology that reduces fabric waste, speeds up production, and lowers costs—advantages typically available only to larger operations. The project also includes VestLab, a testing facility offering services like abrasion evaluation and light cabinet assessments, helping ensure quality standards across the region's output.
+
+This story matters because it illustrates how collective infrastructure can level the playing field for small manufacturers. Nova Friburgo's fashion and intimate apparel sector employs over 28,000 people across approximately 3,500 active operations, making it a vital part of the local economy. By democratizing access to advanced production tools, the project quietly strengthens an entire regional industry, showing that innovation doesn't always mean going it alone—sometimes it means sharing the table.</description>
+      <source url="https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/02/projeto-oferece-tecnologia-para-modernizar-producao-textil-em-nova-friburgo.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Probiotics prevented coral bleaching during a Red Sea heat wave: Study</title>
       <link>https://news.mongabay.com/2026/10/probiotics-prevented-coral-bleaching-during-a-red-sea-heat-wave-study/</link>
@@ -594,18 +606,6 @@ The explanation involves the same principle that makes figure skaters spin faste
 
 This puzzle showcases how physics can surprise us even in familiar scenarios. Newton's question to Robert Hooke demonstrates that careful thinking about rotation and momentum reveals hidden dynamics in everyday phenomena. It's a reminder that the world operates according to elegant principles that aren't always obvious at first glance, and that puzzles centuries old can still teach us to question our assumptions about how things move through space.</description>
       <source url="https://www.theguardian.com/science/2026/sep/28/did-you-solve-it-isaac-newtons-tower-drop-puzzle">The Guardian</source>
-    </item>
-    <item>
-      <title>Preserving wildlife DNA for the future: Interview with the Frozen Zoo’s Katie Heineman</title>
-      <link>https://news.mongabay.com/2026/09/preserving-wildlife-dna-for-the-future-interview-with-the-frozen-zoos-katie-heineman/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/09/preserving-wildlife-dna-for-the-future-interview-with-the-frozen-zoos-katie-heineman/</guid>
-      <pubDate>Mon, 28 Sep 2026 14:01:16 GMT</pubDate>
-      <description>At the San Diego Zoo Wildlife Alliance, scientists are quietly building what might be called a library of life — except instead of books, the shelves hold frozen cells, tissue samples, and DNA from thousands of species. The Frozen Zoo, the largest facility of its kind in the world, preserves genetic material in liquid nitrogen at temperatures reaching -196° Celsius, safeguarding biodiversity for a future when conservation challenges may finally be solved.
-
-The work has already yielded remarkable results. In 2020 and 2023, two Przewalski's horses — a species extinct in the wild since the 1960s — were successfully cloned using DNA preserved at the zoo for 40 years. Born to a domestic horse surrogate, Kurt and Ollie represent the potential of biodiversity banking not just for research, but for actual species recovery. Katie Heineman, who leads the alliance's biodiversity banking program, describes the effort as inherently optimistic: saving genetic diversity today for a time when humanity has addressed the threats facing nature. The initiative extends beyond the Frozen Zoo to include a native plant gene bank and tissue repositories, creating a comprehensive approach to preserving Earth's biological heritage.
-
-As habitat loss accelerates worldwide, Heineman emphasizes the urgency of building global capacity for sample collection. The alliance is now partnering with organizations in Kenya, Vietnam, Peru, and Hawai'i to expand these efforts. This story matters because it represents a bridge between present-day conservation struggles and future possibilities — a recognition that protecting biodiversity sometimes means preserving it in ways we're only beginning to understand, for solutions we haven't yet imagined.</description>
-      <source url="https://news.mongabay.com/2026/09/preserving-wildlife-dna-for-the-future-interview-with-the-frozen-zoos-katie-heineman/">Mongabay</source>
     </item>
   </channel>
 </rss>
