@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 00:02:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:02:10 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SpaceX flight led by first Black female commander sets US speed record</title>
+      <link>https://www.theguardian.com/science/2026/oct/01/spacex-speed-record-first-black-female-commander</link>
+      <guid isPermaLink="false">https://www.theguardian.com/science/2026/oct/01/spacex-speed-record-first-black-female-commander</guid>
+      <pubDate>Fri, 02 Oct 2026 02:02:08 GMT</pubDate>
+      <description>Four astronauts arrived at the International Space Station on Thursday after completing the fastest journey from Earth yet achieved by any U.S. spacecraft—a remarkable eight-hour express trip made possible by the station's fortuitous orbital position at launch time. The SpaceX mission, which lifted off from Cape Canaveral after weather concerns and a three-week delay to repair a fuel leak, marks another milestone in commercial spaceflight and sets a new American speed record.
+
+The crew is led by Jessica Watkins, a geologist who previously worked on NASA's Mars Curiosity rover and is returning to the ISS for her second mission. She becomes the first Black woman to command a crew to orbit. Joining her are three spaceflight newcomers: NASA's Luke Delaney, a retired Marine; Canada's Joshua Kutryk, a Royal Canadian Air Force colonel; and Russia's Sergey Teteryatnikov, a former submariner. In a poignant human touch, Kutryk's wife is expecting their third child in late November, making him the fourth man to become a father while in orbit—a reminder that six-month missions unfold alongside the earthbound rhythms of family life.
+
+This story offers a quiet celebration of progress on multiple fronts: technological achievement in rapid space transit, the diversification of space exploration leadership, and the enduring international cooperation that keeps the ISS functioning. The crew's embrace of the number 13—carried in their mission patch, vehicle license plates, and even a crocheted lucky dragon—adds a touch of human superstition to an otherwise precision-engineered endeavor, reminding us that even at the edge of possibility, people bring their hopes and charms along for the ride.</description>
+      <source url="https://www.theguardian.com/science/2026/oct/01/spacex-speed-record-first-black-female-commander">The Guardian</source>
+    </item>
     <item>
       <title>Mangroves keep waves at bay. A new study helps scientists predict how</title>
       <link>https://news.mongabay.com/2026/10/mangroves-keep-waves-at-bay-a-new-study-helps-scientists-predict-how/</link>
@@ -594,18 +606,6 @@ Balclutha in South Otago offers a particularly striking turnaround. After three 
 
 What makes this story quietly remarkable is its human dimension. Eaqub discovered that people in these towns weren't looking for pity or prescriptions—they wanted to share what was working, the messy and complicated local solutions that don't fit neatly into economic models. The resulting documentary and podcast series explores not just statistics, but roots, connections, and hope—the elements of community resilience that spreadsheets can't measure but that determine whether a place thrives or fades.</description>
       <source url="https://www.rnz.co.nz/news/country/1619719/revisiting-zombie-towns-balclutha-s-rural-resilience">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Three Bougainvilleans reportedly rescued after 70 days adrift at sea</title>
-      <link>https://www.rnz.co.nz/news/pacific/1628046/three-bougainvilleans-reportedly-rescued-after-70-days-adrift-at-sea</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/pacific/1628046/three-bougainvilleans-reportedly-rescued-after-70-days-adrift-at-sea</guid>
-      <pubDate>Mon, 28 Sep 2026 01:22:07 GMT</pubDate>
-      <description>Three people from Bougainville have been rescued after spending an extraordinary 70 days adrift in the Pacific Ocean. The trio—two young men and a woman—set out from Nissan Island bound for Buka on July 18th in a small floater dinghy when their boat ran out of fuel, leaving them stranded and drifting at the mercy of ocean currents.
-
-The Autonomous Bougainville Government coordinated with maritime rescue centers to search for the missing vessel, described as a dinghy with a yellow top powered by a 60-horsepower engine. After more than two months at sea, an overseas vessel located and rescued them, though details about the rescuing ship, the survivors' exact location when found, and their current medical condition have not yet been released. The three have been transported to Kiribati for further assistance and care.
-
-This story offers a remarkable testament to human endurance and the unpredictable nature of ocean travel in the Pacific islands, where communities are often separated by vast stretches of open water. For the families and communities in Bougainville who waited anxiously for over two months, the rescue brings an end to a period of profound uncertainty. What makes this account quietly extraordinary is not just the duration of their ordeal, but the reminder of both the vulnerabilities faced by island communities and the resilience of those who survive against daunting odds.</description>
-      <source url="https://www.rnz.co.nz/news/pacific/1628046/three-bougainvilleans-reportedly-rescued-after-70-days-adrift-at-sea">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
