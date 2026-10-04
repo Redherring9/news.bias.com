@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 22:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 00:04:00 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A doctor said Tim was incapable of love. His mum knew otherwise</title>
+      <link>https://www.abc.net.au/news/2026-10-04/love-story-tim-judy-sharp-laser-beak-man/107070292</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-04/love-story-tim-judy-sharp-laser-beak-man/107070292</guid>
+      <pubDate>Sun, 04 Oct 2026 00:03:58 GMT</pubDate>
+      <description>When Judy Sharp's son Tim was diagnosed with autism at age three in 1991, a specialist delivered a devastating prognosis: Tim would be "unfeeling and incapable of love." As Judy left that appointment in tears, three-year-old Tim patted her back and wiped away her tears—a moment that contradicted everything the doctor had said. It was a gesture of perfect love that would define their relationship for years to come.
+
+Tim's early years were marked by distress, sleeplessness, and behaviors Judy didn't understand. But at age five, he discovered drawing, and it became a bridge between mother and son—a way to communicate feelings and humor when words were difficult. By eleven, Tim had created Laser Beak Man, a superhero character infused with his unique personality and perspective. What began as childhood drawings evolved into an unexpected creative journey that took Tim and Judy around the world, from New York to London to the Sydney Opera House, through theatre shows, films, and countless opportunities no one had imagined possible.
+
+This story matters because it quietly challenges assumptions about autism, communication, and what it means to love and be loved. Tim's drawings didn't just become art—they became proof of the emotional connection a doctor once said was impossible. In Tim's own words, his mum "likes me just the way I am" and makes him feel peaceful. It's a reminder that love expresses itself in countless ways, and that a mother's refusal to accept limiting predictions can open doors no specialist could foresee.</description>
+      <source url="https://www.abc.net.au/news/2026-10-04/love-story-tim-judy-sharp-laser-beak-man/107070292">ABC Australia</source>
+    </item>
     <item>
       <title>'Forgotten' outback town faces scorching summer without a pool</title>
       <link>https://www.abc.net.au/news/2026-10-04/outback-town-walgett-loses-swimming-pool-ahead-of-hot-summer/107211758</link>
@@ -594,18 +606,6 @@ In that movie, a teenage hacker unknowingly activates a military AI designed to 
 
 This story matters because it cuts through sensationalist narratives about AI autonomy to reveal a more mundane truth: the technology is doing exactly what it's designed to do, within the parameters set by humans. The real challenge isn't controlling "rogue" AI, but designing systems with appropriate guardrails from the start—a problem computer scientists have grappled with for generations, now arriving at scale in our interconnected digital infrastructure.</description>
       <source url="https://theconversation.com/the-war-games-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control-292884">The Conversation</source>
-    </item>
-    <item>
-      <title>Uganda pastoralists turn to wild plants as food shortages bite, study finds</title>
-      <link>https://news.mongabay.com/2026/09/uganda-pastoralists-turn-to-wild-plants-as-food-shortages-bite-study-finds/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/09/uganda-pastoralists-turn-to-wild-plants-as-food-shortages-bite-study-finds/</guid>
-      <pubDate>Tue, 29 Sep 2026 20:02:29 GMT</pubDate>
-      <description>In northern Uganda's Karamoja region, pastoralist communities facing severe food shortages are discovering an unexpected lifeline: wild plants they had never considered edible before. A recent study published in People and Nature documents how residents across five villages have identified and begun eating 27 previously unused plant species, most of them indigenous to Uganda. What makes this discovery particularly striking is that the knowledge wasn't passed down through generations—it emerged through trial and error during periods of acute hunger, known locally as akoro.
-
-Researcher Emiel De Meyer describes the findings as evidence that "local plant knowledge is usually treated as inherited and fixed," but here it's being "generated in the present." The communities' botanical experimentation reveals that surrounding vegetation holds a reservoir of resilience that had gone unexplored. While most of these leafy vegetables are harvested during the wet season, at least three remain available year-round. This adaptive response comes as climate-driven droughts and floods, compounded by violent conflicts, create a deepening food crisis across the Sahel region, with projections suggesting 53 million people will be affected.
-
-The research raises an important question about communities with less botanical diversity: will they be less equipped to weather similar crises? With roughly 1 billion people worldwide depending on wild edible species for food security, and these plants offering high concentrations of health-promoting compounds, the study illuminates how human ingenuity and nature's abundance can intersect during difficult times. It's a quiet testament to adaptability—and a reminder that solutions to modern challenges sometimes grow right underfoot.</description>
-      <source url="https://news.mongabay.com/2026/09/uganda-pastoralists-turn-to-wild-plants-as-food-shortages-bite-study-finds/">Mongabay</source>
     </item>
   </channel>
 </rss>
