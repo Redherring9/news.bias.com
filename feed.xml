@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 16:03:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:03:56 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How a high school student became Portrait Artist of the Year</title>
+      <link>https://www.abc.net.au/news/2026-10-05/portrait-artist-of-the-year-jasmine-lancaster-merton/107204946</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-05/portrait-artist-of-the-year-jasmine-lancaster-merton/107204946</guid>
+      <pubDate>Sun, 04 Oct 2026 18:03:54 GMT</pubDate>
+      <description>When Jasmine 'Jazz' Lancaster Merton skipped her Year 12 camp to compete in Australia's Portrait Artist of the Year, she assumed she'd simply meet some fellow art enthusiasts and head home. Instead, the 17-year-old from North Sydney found herself painting her way through rounds featuring Casey Donovan, Marcia Hines, and INXS's Kirk Pengilly—ultimately winning the entire competition. Her prize: a commission to paint entertainer Justine Clarke for the National Portrait Gallery, a remarkable honor for someone still navigating high school assignments.
+
+Jazz's bedroom doubles as her studio, and portraits have become her obsession. She's drawn to the infinite ways people customize themselves, the endless variations of human faces. Her passion earned early validation when her self-portrait won the Young Archies prize in 2025, but nothing prepared her for the pressure of balancing a nationally televised commission with looming school deadlines. With her school's support, she managed both, working through what she describes with characteristic warmth as "a bit of a priorities call" between a life-changing opportunity and her university entrance exams.
+
+What makes Jazz's story quietly remarkable isn't just her technical skill with colored pencils and oils, but her grounded perspective on sudden recognition. She speaks of staring at Justine Clarke's face for weeks with humor rather than hubris, and admits she's still adjusting to sharing something so personal with TV crews and gallery crowds. For anyone who's ever wondered whether youthful passion can find its footing in the professional world, Jazz's journey from bedroom studio to national gallery offers a gentle, encouraging answer.</description>
+      <source url="https://www.abc.net.au/news/2026-10-05/portrait-artist-of-the-year-jasmine-lancaster-merton/107204946">ABC Australia</source>
+    </item>
     <item>
       <title>"Once you see her, you can't stop thinking about her": Ana Mendieta, the artist who defied limits with her body and whose mysterious death continues to divide the art world</title>
       <link>https://www.bbc.com/mundo/articles/cj4gk1y9pl76o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ At the heart of this tradition stands Ghulam Nabi Baba, a 74-year-old chef whose
 
 Yet modernity is gently reshaping what persists. Baba's son has opted to open a restaurant rather than continue the exhausting round-the-clock wedding work, a shift that speaks to changing lifestyles across Kashmir. Still, he sees himself as carrying forward the family's culinary heritage, just in a different venue. The story quietly captures how living traditions survive not by freezing in place, but by finding new forms that honor old roots while accommodating contemporary life—a feast adapting without losing its essential flavor.</description>
       <source url="https://www.aljazeera.com/gallery/2026/9/30/photos-kashmirs-600-year-old-wazwan-wedding-feast-adapts-to-modern-life?traffic_source=rss">Al Jazeera</source>
-    </item>
-    <item>
-      <title>Electric fish may inspire new technologies capable of 'seeing' in the dark</title>
-      <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/30/peixe-eletrico-pode-inspirar-novas-tecnologias-capazes-de-enxergar-no-escuro.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/30/peixe-eletrico-pode-inspirar-novas-tecnologias-capazes-de-enxergar-no-escuro.ghtml</guid>
-      <pubDate>Wed, 30 Sep 2026 14:02:16 GMT</pubDate>
-      <description>Researchers in Brazil, Germany, and Spain are using artificial intelligence to decode the electrical signals produced by the striped knifefish (Gymnotus carapo), a species that navigates murky waters using electricity as a sophisticated sensory system. The fish generates electrical discharges that create a field around its body, allowing it to locate objects, communicate, and find food in complete darkness—a process called electrolocalization. Scientists hope to reverse-engineer this natural sonar to develop technology that can "see" in environments where cameras fail.
-
-In their experiment, published in Frontiers in Computational Neuroscience, the team placed a fish in a tank equipped with eight electrodes and three cameras. Deep learning algorithms tracked three points on the fish's body while electrodes recorded its electrical pulses. The signals varied based on the fish's distance and orientation, providing clues about its movement. By combining camera data with electrical readings, researchers reconstructed the fish's position and posture in three dimensions with remarkable precision—down to about 0.8 millimeters. They tested three computational models to simulate the electric organ's charge distribution, finding that an asymmetric model inspired by the fish's biology performed best.
-
-The ultimate goal is far more ambitious: to track these fish using only their electrical signals, without any visual input. Such technology could revolutionize how we monitor aquatic life in dark or turbulent waters and might inspire new sensing systems for robotics or navigation in visually challenging environments. This research reminds us that nature's solutions, refined over millions of years, continue to offer blueprints for human innovation—even in the darkest waters.</description>
-      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/09/30/peixe-eletrico-pode-inspirar-novas-tecnologias-capazes-de-enxergar-no-escuro.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
