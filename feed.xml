@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 04:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:02:56 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How non-monogamy and mental health shaped Rowena Wise's songwriting</title>
+      <link>https://www.abc.net.au/news/2026-10-04/rowena-wise-bad-things-feel-good-album-tour-non-monogamy/107176152</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-04/rowena-wise-bad-things-feel-good-album-tour-non-monogamy/107176152</guid>
+      <pubDate>Sun, 04 Oct 2026 06:01:48 GMT</pubDate>
+      <description>Melbourne singer-songwriter Rowena Wise has crafted an album that refuses easy answers. Her second record, *Bad Things Feel Good**, complete with its punctuation-mark provocation, explores the messy terrain between right and wrong, good and bad. The asterisk itself serves as an unspoken footnote, a reminder that life's moral calculations rarely add up neatly. Wise writes from within what she calls "the grey area," drawing on a turbulent period marked by relationship shifts, mental health struggles, and questions of identity.
+
+Raised in Margaret River as part of a family band, Wise learned her craft early. Her father, a luthier for nearly fifty years, built her first instruments by hand—a custom collection that now includes guitars, a ukulele, a dulcimer, and a violin. That string background informs her melodic sensibility, and she arranged the strings on this album herself. Her vocal delivery is unhurried and intimate, inviting listeners to lean in and catch every carefully chosen word. Songs like "Diamond in the Rough" reflect on the quiet trap of perfectionism, inspired by a friend who tried to hold herself together publicly while falling apart in private. "Blood Ties" chronicles a friend's mental health crisis and the emotional distance of a father who loved but lacked the vocabulary for vulnerability.
+
+What makes Wise's work quietly remarkable is her willingness to sit with contradiction and complexity without offering tidy resolutions. For fans of Julia Jacklin or Stella Donnelly, her music offers that same blend of warmth and unflinching honesty—a soundtrack for anyone navigating the uncomfortable, transformative moments when life refuses to be simple.</description>
+      <source url="https://www.abc.net.au/news/2026-10-04/rowena-wise-bad-things-feel-good-album-tour-non-monogamy/107176152">ABC Australia</source>
+    </item>
     <item>
       <title>"Mitbestimmung": how Germany requires large companies to give workers a voice in decision-making (and what impact it has on the economy)</title>
       <link>https://www.bbc.com/mundo/articles/cp3rxlq1nlno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ At Long Nanny in Northumberland, little terns—England's second-rarest breeding
 
 Yet conservationists caution against complacency. Just last year, avian flu killed over 600 arctic tern chicks at Long Nanny, and the Farne Islands saw a 27% decline in arctic terns this season. The story matters because it shows both fragility and resilience—how dedicated conservation can help threatened species recover, even as broader environmental pressures loom. In a world of ecological anxiety, these small victories remind us that patient, focused effort can still make a measurable difference.</description>
       <source url="https://www.theguardian.com/environment/2026/sep/30/england-tern-colonies-signs-of-recovery-national-trust">The Guardian</source>
-    </item>
-    <item>
-      <title>How AI is creating a UK super-museum and revealing our planet's history</title>
-      <link>https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Wed, 30 Sep 2026 02:04:22 GMT</pubDate>
-      <description>A decade-long project is underway to create a vast digital museum bringing together around 70 million natural history specimens from collections across the United Kingdom. Using robots and artificial intelligence, researchers are digitizing animals, plants, fossils, and rocks—many collected centuries ago—transforming what would have been a process taking hundreds of years into something achievable within ten years. The Distributed System of Scientific Collections (DiSSCo UK) will make these treasures accessible to both scientists and the public through phones and computers.
-
-One hundred institutions are participating, from major venues like the Natural History Museum to smaller regional collections. The initial phase focuses on Wales and Scotland, prioritizing beetles, butterflies, moths, flies, and pressed plants rather than spectacular large specimens. These smaller organisms actually provide the most detailed record of environmental change. In Cardiff alone, half a million specimens will be scanned, while Scotland's collections span two centuries of change across every type of landscape, from sea level to mountaintops. The challenge isn't trivial: each specimen must be photographed along with its tiny labels, often handwritten centuries ago, containing crucial scientific information.
-
-This digital archive promises to reveal how the UK has transformed throughout Earth's entire history and help predict future changes in climate, food supplies, and species loss. It's a resource designed for everyone—from four-year-olds with boundless curiosity to researchers seeking unprecedented analytical scale. The project quietly reminds us that scientific understanding often comes not from the spectacular, but from careful attention to the small and overlooked, and that knowledge locked away in drawers gains meaning only when shared.</description>
-      <source url="https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
