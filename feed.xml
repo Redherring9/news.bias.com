@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 04:03:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:05:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘The future is bright’: breeding programme brings world’s heaviest insect back from the brink</title>
+      <link>https://www.theguardian.com/world/2026/oct/05/new-zealand-worlds-heaviest-insect-breeding-programme</link>
+      <guid isPermaLink="false">https://www.theguardian.com/world/2026/oct/05/new-zealand-worlds-heaviest-insect-breeding-programme</guid>
+      <pubDate>Mon, 05 Oct 2026 06:03:23 GMT</pubDate>
+      <description>New Zealand's wētāpunga, a cricket-like creature believed to be the world's heaviest insect, is making a remarkable comeback. Thanks to an ambitious fifteen-year breeding programme, more than 11,000 of these extraordinary insects have been released into the wild, prompting conservationists to upgrade their status from "nationally endangered" to "nationally recovering." Female wētāpunga can weigh as much as a mouse, with bodies reaching 10 centimeters in length and leg spans stretching to 20 centimeters.
+
+Once widespread across New Zealand's North Island, the wētāpunga fell victim to introduced predators and habitat loss, becoming presumed extinct on the mainland by the 1990s. Their survival hinged on small populations clinging to predator-free islands. But two institutions—Butterfly Creek wildlife facility and Auckland Zoo—developed innovative husbandry techniques to breed the insects in large communal groups. The secret to their success includes a carefully balanced diet of fresh foliage, fish flake protein, and leaf litter, with the protein proving critical for the youngest nymphs. Once mature enough, the insects are relocated to protected habitats across 45 separate sites.
+
+Monitoring reveals that populations on at least two islands are now self-sustaining, with fourth and fifth generations thriving independently. Dr. Chris Green, who documented the programme's success, believes this represents a rare conservation victory in a country struggling with species decline due to high endemism and invasive pests. The story offers something quietly hopeful: proof that thoughtful, patient conservation work can reverse what seemed inevitable, and a blueprint that other institutions might follow to protect their own threatened species.</description>
+      <source url="https://www.theguardian.com/world/2026/oct/05/new-zealand-worlds-heaviest-insect-breeding-programme">The Guardian</source>
+    </item>
     <item>
       <title>To cull or not to cull: Greenland debates fate of world’s slowest shark</title>
       <link>https://www.theguardian.com/environment/2026/oct/05/to-cull-or-not-to-cull-greenland-debates-fate-of-worlds-slowest-shark</link>
@@ -594,18 +606,6 @@ Physician associates work under doctor supervision to help with patient assessme
 
 The change hasn't come without concern. Some health workers questioned whether introducing PAs represents good value, while the New Zealand Resident Doctors' Association has raised patient safety issues based on international experience. They point to reports from the UK citing confusion over the role leading to patient harm and preventable deaths, with recommendations that PAs not diagnose patients who haven't first seen a doctor. The association emphasizes that patients have the right to know who is treating them and to request a doctor. This story matters because it reflects a global conversation about how healthcare systems balance workforce shortages with maintaining safety and clarity in patient care.</description>
       <source url="https://www.rnz.co.nz/news/health/1669372/newly-regulated-physician-associates-able-to-register-from-today">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Floating scarecrows: how Cornish fishers are stopping seabirds drowning in their nets</title>
-      <link>https://www.theguardian.com/environment/2026/oct/01/scarecrows-cornish-fishers-stop-seabirds-drowning-in-nets</link>
-      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/oct/01/scarecrows-cornish-fishers-stop-seabirds-drowning-in-nets</guid>
-      <pubDate>Thu, 01 Oct 2026 00:04:01 GMT</pubDate>
-      <description>Off the coast of Cornwall, a creative collaboration between fishers, scientists, and conservationists is showing promising results in protecting endangered seabirds from accidental drowning. Each year, an estimated 95,000 diving birds—including razorbills and guillemots—become fatally entangled in fishing nets across European waters. Now, simple devices that mimic predatory threats are proving remarkably effective at steering these birds away from danger.
-
-The two-year trial tested a "looming-eyes buoy"—a floating scarecrow with a spinning head and large, intimidating eyes—alongside a commercially available bird-shaped kite. Ten Cornish fishers equipped their boats with cameras to document how seabirds responded to these deterrents near gillnets, the vertical walls of netting that hang beneath the water's surface. The results, published in Conservation Letters by University of Exeter researchers, revealed that the kites reduced seabird deaths by 71%, while the buoys achieved a 59% reduction. The study also identified winter as the season of highest risk in Cornish waters, offering valuable guidance for when these protections matter most.
-
-This research represents more than a decade of effort to find solutions that protect wildlife without burdening fishers. The devices are practical, affordable, and don't interfere with fishing operations—a rare win-win in conservation. For seabird populations already under pressure, these unassuming tools could make a meaningful difference, transforming an accidental tragedy into an opportunity for coexistence between human livelihood and the natural world.</description>
-      <source url="https://www.theguardian.com/environment/2026/oct/01/scarecrows-cornish-fishers-stop-seabirds-drowning-in-nets">The Guardian</source>
     </item>
   </channel>
 </rss>
