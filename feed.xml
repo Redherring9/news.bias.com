@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:03:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:02:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How to assemble science</title>
+      <link>https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight</link>
+      <guid isPermaLink="false">https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight</guid>
+      <pubDate>Tue, 06 Oct 2026 10:01:59 GMT</pubDate>
+      <description>In an era when roughly 19,000 scholarly articles are published daily, science journalist Siobhan O'Connor explores a troubling paradox: we're drowning in research but struggling to understand what it all means. The problem isn't just volume—it's that individual studies are reported in isolation, creating whiplash narratives where coffee is alternately good and bad for us, and critical health guidance flip-flops dangerously. O'Connor points to a stark example: when the FDA announced in 2025 that acetaminophen during pregnancy raised autism risk, global headlines sparked widespread alarm. Yet a comprehensive review months later found no clear link, leaving countless women needlessly frightened about one of pregnancy's safest painkillers.
+
+The root cause, O'Connor argues, is systemic. Scientists chase publications to advance careers. Journalists pursue flashy headlines for clicks. Almost no one prioritizes the unglamorous work of synthesizing what we already know—what physician Iain Chalmers called science's "scandalous failure to cumulate evidence scientifically." This gap becomes especially concerning when diverse forms of knowledge, from lived experience to Indigenous insights, rarely make it into scholarly databases at all. The essay traces a pivotal moment in addressing this crisis: statistician Gene Glass's 1976 presentation of an innovative technique for integrating findings across multiple studies, a method so transformative it would reshape how science assembles knowledge.
+
+This story matters because it reveals something quietly radical: for many of our toughest challenges, humanity may already possess the knowledge needed to solve them. The real work isn't generating more studies—it's learning to assemble what we know, and then acting on it.</description>
+      <source url="https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight">Aeon</source>
+    </item>
     <item>
       <title>The pest I’ll never forget: the cockroaches I still dream about</title>
       <link>https://www.theguardian.com/lifeandstyle/2026/oct/06/the-pest-ill-never-forget-cockroaches-i-still-dream-about</link>
@@ -594,18 +606,6 @@ The bear showed up early, just as vendors were setting up for the day. Wildlife 
 
 This story offers a window into the intersection of wildlife and human spaces, especially as environmental pressures push animals closer to populated areas. It's a reminder that nature doesn't always follow our schedules or boundaries—and sometimes, it just really wants a croissant. The encounter is both a charming glimpse of wildlife behavior and a quiet signal of the broader challenges animals face as their habitats change.</description>
       <source url="https://www.theguardian.com/us-news/2026/oct/01/colorado-bear-farmers-market">The Guardian</source>
-    </item>
-    <item>
-      <title>Dozens of men failed to stop an alleged gang rape at Cornell – here’s the misperception that keeps bystanders from intervening and how to short-circuit it</title>
-      <link>https://theconversation.com/dozens-of-men-failed-to-stop-an-alleged-gang-rape-at-cornell-heres-the-misperception-that-keeps-bystanders-from-intervening-and-how-to-short-circuit-it-293321</link>
-      <guid isPermaLink="false">https://theconversation.com/dozens-of-men-failed-to-stop-an-alleged-gang-rape-at-cornell-heres-the-misperception-that-keeps-bystanders-from-intervening-and-how-to-short-circuit-it-293321</guid>
-      <pubDate>Thu, 01 Oct 2026 20:02:26 GMT</pubDate>
-      <description>When news emerged of an alleged gang rape by fraternity members at Cornell University, one detail stood out: over 50 men reportedly learned of the assault through a group chat as it unfolded, yet none apparently intervened or alerted authorities. A social psychologist examining this troubling silence points to a pervasive misperception that helps explain bystander inaction in cases of sexual violence.
-
-Research reveals a surprising disconnect: while only about 6.5% of male college students in the U.S. and Canada have committed rape, many men who personally oppose sexual violence mistakenly believe their peers are more accepting of it than they actually are. Studies show college men consistently overestimate how much their friends and classmates endorse rape myths and aggressive behavior. This flawed assumption becomes a powerful deterrent to intervention—men's beliefs about their peers' attitudes predict their willingness to act even more strongly than their own stated views. The fear of being ridiculed or appearing weak to other men emerges as the most common reason for failing to step in. Meanwhile, the small percentage of men who do commit assaults tend to overestimate support for their actions and openly describe their behavior, inadvertently reinforcing the false impression that such conduct is widespread and socially accepted.
-
-This story matters because it reveals that the problem isn't necessarily changing social norms around sexual violence—it's helping people see that the norm is already better than they think. Correcting these misperceptions through targeted education programs shows real promise in reducing assault and empowering bystanders to act, suggesting that silence often stems not from approval, but from a fundamental misreading of the room.</description>
-      <source url="https://theconversation.com/dozens-of-men-failed-to-stop-an-alleged-gang-rape-at-cornell-heres-the-misperception-that-keeps-bystanders-from-intervening-and-how-to-short-circuit-it-293321">The Conversation</source>
     </item>
   </channel>
 </rss>
