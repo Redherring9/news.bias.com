@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 22:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:03:04 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Three researchers studying brain diseases win the Nobel Prize in Medicine</title>
+      <link>https://g1.globo.com/jornal-nacional/noticia/2026/10/05/tres-pesquisadores-que-estudam-doencas-do-cerebro-ganham-o-premio-nobel-de-medicina.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/jornal-nacional/noticia/2026/10/05/tres-pesquisadores-que-estudam-doencas-do-cerebro-ganham-o-premio-nobel-de-medicina.ghtml</guid>
+      <pubDate>Tue, 06 Oct 2026 02:03:02 GMT</pubDate>
+      <description>The 2026 Nobel Prize in Medicine celebrates a discovery that began with a deceptively simple question: how does a single-celled alga always swim toward light? Nearly three decades ago, German scientist Peter Hegemann and colleague Georg Nagel found the answer in a light-sensitive protein within the alga. What seemed like a modest curiosity about pond life would spark a revolution in how we understand the brain.
+
+American researcher Karl Deisseroth took the discovery further by introducing this protein into rat neurons, making them responsive to light. By shining light through an optical fiber inserted into the skull, he could trigger precise reactions—like the movement of a mouse's whiskers. This breakthrough birthed optogenetics, a technique that allows scientists to switch specific nerve cells on and off with remarkable precision. For the first time, researchers could test exactly what happens when individual neurons fire or fall silent, moving beyond identifying broad brain regions to understanding the role of specific cells in memory, emotion, and behavior.
+
+This story matters because it shows how fundamental curiosity can lead to transformative applications. Optogenetics is now being explored for medical uses, including psychiatric disorder research and efforts to restore vision in blind individuals. Hegemann's advice to young scientists—stay curious and work on something new—echoes through this achievement. It's a reminder that today's questions about the smallest organisms might unlock tomorrow's solutions to some of humanity's most complex challenges.</description>
+      <source url="https://g1.globo.com/jornal-nacional/noticia/2026/10/05/tres-pesquisadores-que-estudam-doencas-do-cerebro-ganham-o-premio-nobel-de-medicina.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Smooth sailing for new passenger zones at Melbourne Airport</title>
       <link>https://www.abc.net.au/news/2026-10-06/vic-new-melbourne-airport-drop-off-pick-up-area-opens/107231868</link>
@@ -594,18 +606,6 @@ Using a solar-powered acoustic wave glider equipped with underwater microphones 
 
 This research offers more than a glimpse into dolphin social structure; it provides a practical tool for conservation. By mapping where dolphins feed versus where they socialize, marine managers can better target protections, such as reducing noise pollution in critical habitats. As coastal waters face mounting pressures from heat waves and human development, understanding how dolphins adapt their behavior could serve as an early warning system for broader environmental changes. The study reminds us that animals aren't just inhabitants of their ecosystems—they're sentinels, revealing shifts we might otherwise miss.</description>
       <source url="https://news.mongabay.com/2026/10/dolphins-keep-their-social-and-hunting-lives-in-separate-waters-study-finds/">Mongabay</source>
-    </item>
-    <item>
-      <title>From ‘community-based’ to ‘community-led conservation’ in Kenya: Interview with Dickson Kaelo</title>
-      <link>https://news.mongabay.com/2026/10/from-community-based-to-community-led-conservation-in-kenya-interview-with-dickson-kaelo/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/10/from-community-based-to-community-led-conservation-in-kenya-interview-with-dickson-kaelo/</guid>
-      <pubDate>Thu, 01 Oct 2026 14:02:32 GMT</pubDate>
-      <description>Dickson Kaelo's path to becoming a leading voice in Kenyan conservation began with lived experience. Growing up Maasai, herding livestock alongside wildlife, he witnessed the high cost of coexistence—lions killing cattle, elephants destroying crops, hyenas raiding animals families depended on for survival. Nearly three decades ago, fresh from college, he sought a middle ground between human-wildlife conflict and exclusionary conservation models that pushed communities out of protected areas.
-
-His first attempt in 1998, organizing a community trust near the Maasai Mara, showed promise. It built infrastructure, funded scholarships, and experimented with tourism while keeping livestock on the land. Then it collapsed when the land was subdivided. Kaelo nearly walked away entirely, but returned with a new approach: privately owned land managed collectively. Between 2004 and 2012, working mostly unpaid, he helped establish eight community conserved areas covering 870 square kilometers. That grassroots work eventually led him to head the Kenya Wildlife Conservancies Association in 2013. Today, Kenya has roughly 240 conservancies covering about 15% of the country.
-
-Yet Kaelo speaks openly about what hasn't worked. Elite capture, poor governance, unfavorable deals with private investors, unresolved land disputes, and donor dependency remain persistent challenges. Some conservancies have stalled; others have vanished. This story matters because it resists the tidy narrative of conservation success, offering instead an honest account from someone who understands both the promise and the friction of trying to make people, livestock, and wildlife share the same ground.</description>
-      <source url="https://news.mongabay.com/2026/10/from-community-based-to-community-led-conservation-in-kenya-interview-with-dickson-kaelo/">Mongabay</source>
     </item>
   </channel>
 </rss>
