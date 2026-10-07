@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 20:03:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:03:36 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gene therapy can partly restore sight in blind people, researchers reveal</title>
+      <link>https://www.theguardian.com/society/2026/oct/07/gene-therapy-can-partly-restore-sight-in-blind-people-researchers-reveal</link>
+      <guid isPermaLink="false">https://www.theguardian.com/society/2026/oct/07/gene-therapy-can-partly-restore-sight-in-blind-people-researchers-reveal</guid>
+      <pubDate>Wed, 07 Oct 2026 22:03:34 GMT</pubDate>
+      <description>A pioneering gene therapy that uses light to restore partial vision in blind people has shown promising results in a clinical trial, offering hope to millions affected by degenerative eye diseases. The optogenetic approach, which builds on Nobel Prize-winning research, has now been successfully tested in ten participants with advanced retinitis pigmentosa—a group of genetic disorders affecting light-sensitive cells in the retina.
+
+The treatment involves a single injection into the eye containing a harmless virus that delivers genetic instructions to surviving retinal cells, making them light-sensitive. Patients then wear special goggles that capture visual information and convert it into light pulses, which activate the modified cells to create a monochrome image. Six of the ten participants experienced meaningful improvements in light sensitivity, and some could perform tasks like locating objects, detecting doors, and walking along lines when wearing the goggles. The therapy proved safe over a follow-up period of up to five years, with only one minor side effect. Importantly, the technique works regardless of the specific genetic cause of vision loss, potentially broadening its application.
+
+While the results represent significant progress—moving from one patient in 2021 to ten now—the researchers acknowledge current limitations. Patients cannot yet recognize faces, as the treated cells form a ring around the fovea, the area responsible for sharp central vision. Still, the study demonstrates that optogenetics can safely provide stable vision restoration lasting several years. With researchers aiming to achieve high-resolution vision within five to ten years, this quiet breakthrough offers a glimpse of how light itself might become a tool for seeing again.</description>
+      <source url="https://www.theguardian.com/society/2026/oct/07/gene-therapy-can-partly-restore-sight-in-blind-people-researchers-reveal">The Guardian</source>
+    </item>
     <item>
       <title>Canada suspends plans to expand assisted dying to people with mental illness</title>
       <link>https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The pursuit demands extraordinary dedication. A "peal"—the pinnacle achievemen
 
 This story offers a window into a living tradition that thrives quietly in church towers across the world. It's a reminder that some of humanity's most intricate arts are preserved not through institutions but through patient mentorship and the peculiar devotion of small communities. The bellringers' dedication—traveling hours to teach, training like athletes, passing skills across five generations—speaks to something deeper than hobby: a commitment to keeping beautiful, difficult things alive simply because they matter.</description>
       <source url="https://www.abc.net.au/news/2026-10-03/ancient-craft-of-bellringing-thriving-in-central-west-nsw/107216292">ABC Australia</source>
-    </item>
-    <item>
-      <title>One bolt, ¥400,000: Why Japan’s Oshima ‘tsumugi’ silk costs a pretty penny</title>
-      <link>https://www.japantimes.co.jp/life/2026/10/03/style-design/kimono-fabric-oshima-tsumugi-silk-ginza-fashion/</link>
-      <guid isPermaLink="false">https://www.japantimes.co.jp/life/2026/10/03/style-design/kimono-fabric-oshima-tsumugi-silk-ginza-fashion/</guid>
-      <pubDate>Sat, 03 Oct 2026 00:02:31 GMT</pubDate>
-      <description>In the world of Japanese textiles, Oshima tsumugi stands apart as a marvel of patience and precision. A single bolt of this silk fabric can cost ¥400,000 (roughly $2,700), and once you understand the process behind it, the price begins to make sense. What might appear to be printed patterns are actually created through an intricate technique where threads are dyed before weaving, then carefully aligned on the loom so that designs emerge from the fabric's very structure. As one textile specialist observes, the process is almost mathematical in its exactitude—weavers can't simply work continuously but must constantly adjust to ensure perfect alignment.
-
-Originating from Amami Oshima, a remote island between Okinawa and southern Kyushu, this textile tradition represents one of Japan's most elaborate and rare crafts. Creating a standard five-square-meter bolt involves approximately 60 distinct processes, each performed by highly skilled specialists. The timeline reflects this complexity: a single tanmono, the standard bolt used for kimono fabric, can require up to a year to complete. The tradition embodies a kind of slow craft that stands in stark contrast to modern production methods, with knowledge passed between generations of artisans who have dedicated their lives to mastering specific steps in the lengthy process.
-
-This story offers a window into a textile tradition where artistry, mathematics, and extraordinary patience converge. In an age of fast fashion and instant gratification, Oshima tsumugi reminds us that some beautiful things simply cannot be rushed—and that true craftsmanship sometimes demands we measure time not in hours or days, but in seasons and years.</description>
-      <source url="https://www.japantimes.co.jp/life/2026/10/03/style-design/kimono-fabric-oshima-tsumugi-silk-ginza-fashion/">The Japan Times</source>
     </item>
   </channel>
 </rss>
