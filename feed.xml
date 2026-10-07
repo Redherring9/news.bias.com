@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 10:04:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:02:00 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chemistry Nobel awarded for solving mystery of life's asymmetry</title>
+      <link>https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Wed, 07 Oct 2026 12:01:59 GMT</pubDate>
+      <description>The Nobel Prize in Chemistry has been awarded to Henri B. Kagan of France and Kenso Soai of Japan for solving one of chemistry's most enduring puzzles: why life exclusively uses one form of certain molecules rather than their mirror images. Their work explains a phenomenon called chirality, where molecules exist in two forms that are mirror images of each other, much like our left and right hands.
+
+This discovery has profound implications for understanding life itself. All living organisms on Earth use only one version of amino acids, the building blocks of proteins, even though both mirror-image forms exist. In laboratory settings, chemical reactions typically produce equal amounts of both versions, making the natural world's selectivity all the more mysterious. Kagan's breakthrough came in 1986 when he developed methods to create an excess of one mirror image. Soai then took this further, achieving in 2003 what the Nobel Committee called a feat matched only by life itself: a chemical reaction producing exclusively one mirror-image form. The practical applications are particularly important in medicine, where one version of a molecule might fight disease while its mirror image could be ineffective or even harmful.
+
+This research matters because it bridges fundamental science with everyday human concerns. Beyond helping chemists design better pharmaceuticals, it offers insights into life's basic architecture—explaining quirks as varied as why our hearts sit on the left side of our bodies and why snail shells tend to coil in one direction. The work represents more than a technical achievement; it's a window into understanding why the chemistry of life took the particular path it did, turning an ancient mystery into actionable knowledge.</description>
+      <source url="https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Moment Karl Deisseroth tells his family he won the Nobel prize in medicine – video</title>
       <link>https://www.theguardian.com/science/video/2026/oct/07/moment-karl-deisseroth-tells-his-family-he-won-the-nobel-prize-in-medicine-video</link>
@@ -594,18 +606,6 @@ The research, led by microbial ecologist Raquel Peixoto at King Abdullah Univers
 
 With coral reefs facing an existential crisis—scientists predict 70-90% could face severe degradation by 2100 if temperatures rise 1.5°C above pre-industrial levels—this research offers a glimmer of hope. While questions remain about long-term survival rates and implementation challenges, the study represents an important tool in a broader conservation strategy. As one independent researcher noted, demonstrating that probiotics can mitigate heat stress on actual reefs, not just in controlled settings, is truly remarkable. It's a quiet reminder that sometimes the smallest organisms hold answers to our biggest environmental challenges.</description>
       <source url="https://news.mongabay.com/2026/10/probiotics-prevented-coral-bleaching-during-a-red-sea-heat-wave-study/">Mongabay</source>
-    </item>
-    <item>
-      <title>Wolf encounter: A photographer on what humans have lost</title>
-      <link>https://www.aljazeera.com/features/longform/2026/10/2/wolf-encounter-a-photographer-on-what-humans-have-lost?traffic_source=rss</link>
-      <guid isPermaLink="false">https://www.aljazeera.com/features/longform/2026/10/2/wolf-encounter-a-photographer-on-what-humans-have-lost?traffic_source=rss</guid>
-      <pubDate>Fri, 02 Oct 2026 14:03:00 GMT</pubDate>
-      <description>Norwegian wildlife photographer Lasse Huldt Pedersen experienced a profound encounter with a wild wolf in eastern Norway's pine forests in 2022 that revealed something essential about what modern humans have lost. Standing barefoot on the mossy forest floor, Pedersen came nearly face-to-face with the apex predator when favorable winds prevented the animal from detecting his scent. The wolf, perched on a rocky outcrop above him, locked eyes with the photographer in a sustained gaze that triggered a visceral physical response—surging adrenaline, racing heart, and eventually synchronized breathing between human and animal.
-
-The moment was both electrifying and clarifying. Pedersen, who has tracked wolves for years, describes the wolf's bright blue eyes as strikingly human-like. Despite knowing wolves rarely attack humans, he found himself hyperaware as the everyday noise of stress and distraction fell away. When a twig snapped beneath his feet as he photographed the encounter, the wolf briefly growled—possibly warning others nearby—before disappearing with feline grace into the forest, its curved tail suggesting unease. The entire exchange lasted only minutes but left an indelible mark.
-
-Pedersen believes such close encounters with wild predators awaken something primal in us, forcing recognition of how thin the boundary is between ourselves and the natural world. These moments aren't primarily about danger, he suggests, but about reconnecting with deep, instinctual awareness that modern life has dulled. In a world where we rarely meet nature on its own terms, this story reminds us what it feels like to be truly present—and truly seen—by something that refuses to adapt to human expectations.</description>
-      <source url="https://www.aljazeera.com/features/longform/2026/10/2/wolf-encounter-a-photographer-on-what-humans-have-lost?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
