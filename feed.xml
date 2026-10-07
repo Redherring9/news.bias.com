@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:03:03 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why Darwin could become 'a major interconnection point' for global data</title>
+      <link>https://www.abc.net.au/news/2026-10-07/fannie-bay-subsea-cables-development-northern-territory-darwin/107235602</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-07/fannie-bay-subsea-cables-development-northern-territory-darwin/107235602</guid>
+      <pubDate>Wed, 07 Oct 2026 00:03:01 GMT</pubDate>
+      <description>Darwin, a city of just over 150,000 people in Australia's Northern Territory, is quietly positioning itself as a critical node in the global internet infrastructure. Planning documents reveal that tech giant Google and multinational company Inligo Networks are among several firms seeking to connect subsea fibre-optic cables to the tropical capital, potentially transforming it into what analysts call a "network ecosystem" for international data traffic.
+
+The city's appeal lies in its geography and stability. Located closer to southeast Asian capitals like Jakarta and Singapore than to Sydney or Melbourne, Darwin offers telecommunications companies a strategic alternative route that bypasses the geopolitically sensitive South China Sea. Already home to one international cable that went live in 2023, Darwin is on track to host five such systems in coming years, including Meta's globe-spanning Project Waterworth and connections stretching from Singapore to the Philippines, Guam, and the U.S. mainland. These cables—fibre-optic lines running along the ocean floor—are the literal backbone of the internet, carrying data between continents and enabling everything from video calls to financial transactions.
+
+What makes this story quietly remarkable is how infrastructure decisions in a regional Australian city ripple outward to shape global connectivity. Darwin's transformation into an international data hub reflects both the physics of geography and the politics of digital security, as companies seek stable, well-connected locations outside traditional routes. For a city more often associated with crocodiles and tropical weather than technology, becoming a crossroads for hundreds of millions of internet users across multiple continents represents an unexpected but significant role in the digital age.</description>
+      <source url="https://www.abc.net.au/news/2026-10-07/fannie-bay-subsea-cables-development-northern-territory-darwin/107235602">ABC Australia</source>
+    </item>
     <item>
       <title>Sombre Bondi vigil marks October 7 terror attack</title>
       <link>https://www.abc.net.au/news/2026-10-07/october-7-bondi-sydney-vigil-jewish-community/107234708</link>
@@ -594,18 +606,6 @@ The Achilles connects calf muscles to the heel and acts as a spring during runni
 
 This story captures something quietly extraordinary about human determination and the mysteries of the body under extreme duress. Assefa collapsed after crossing the finish line and was immediately flown to Munich for complex surgery. Her performance raises fascinating questions about pain, biomechanics, and what becomes possible when elite athletes operate at the absolute edge of physical capability—even when the body itself begins to fail.</description>
       <source url="https://www.abc.net.au/news/2026-10-02/tigst-assefa-surgery-achilles-tendon-rupture-berlin-marathon/107216866">ABC Australia</source>
-    </item>
-    <item>
-      <title>Multiple organ donation performed at Macaé Public Hospital transforms grief into hope</title>
-      <link>https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/10/02/doacao-multipla-de-orgaos-realizada-no-hpm-de-macae-transforma-luto-em-esperanca.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/10/02/doacao-multipla-de-orgaos-realizada-no-hpm-de-macae-transforma-luto-em-esperanca.ghtml</guid>
-      <pubDate>Fri, 02 Oct 2026 04:02:08 GMT</pubDate>
-      <description>In the coastal city of Macaé, Brazil, a tragic traffic accident became the catalyst for an extraordinary act of generosity. Lucas Nunes Hardie, a 40-year-old public health worker, became a multiple organ and tissue donor following the crash, providing a heart, liver, kidneys, pancreas, corneas, and bones to patients waiting for transplants. His sister Lidiane honored wishes Lucas had expressed during his lifetime, aided by the compassionate support of the hospital's specialized donation team.
-
-What makes this story particularly remarkable is the context in which it unfolded. Macaé has achieved a family consent rate for organ donation of 55.5%—significantly higher than the state average of 33%. Health officials attribute this success to the humanized care provided by the Hospital Donation Team, which supports families through grief while respecting donors' wishes. The heart, one of the most complex organs to match, was transported by helicopter directly from the municipal hospital on the same day, underscoring the coordinated effort behind such procedures.
-
-This story matters because it illuminates how communities can transform cultural taboos around death and donation through education and compassionate care. Macaé is now hosting a free public congress on organ donation awareness, encouraging residents to have these vital conversations with their families. In a moment of profound loss, Lucas's decision—and his sister's courage to honor it—created ripples of hope for multiple families, turning personal tragedy into a quiet testament to human connection and the possibility of life continuing through generosity.</description>
-      <source url="https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/10/02/doacao-multipla-de-orgaos-realizada-no-hpm-de-macae-transforma-luto-em-esperanca.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
