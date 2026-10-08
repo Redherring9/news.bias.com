@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 04:03:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:04:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Scientists in Vienna and Beijing create world's first nuclear clocks</title>
+      <link>https://g1.globo.com/ciencia/noticia/2026/10/08/cientistas-em-viena-e-pequim-criam-primeiros-relogios-nucleares-do-mundo.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/ciencia/noticia/2026/10/08/cientistas-em-viena-e-pequim-criam-primeiros-relogios-nucleares-do-mundo.ghtml</guid>
+      <pubDate>Thu, 08 Oct 2026 06:02:34 GMT</pubDate>
+      <description>Two research teams working independently in Vienna and Beijing have achieved a milestone nearly five decades in the making: the world's first operational nuclear clocks. These devices represent the next generation beyond atomic clocks, which have been the gold standard for precision timekeeping since 1949. The breakthrough, published simultaneously in the journal Nature, marks a significant leap in humanity's ability to measure time with extraordinary accuracy.
+
+Unlike atomic clocks that monitor electrons jumping between energy levels in an atom's outer shell, nuclear clocks track similar transitions within the nucleus itself—specifically, protons and neutrons in thorium-229 atoms trapped in calcium fluoride crystals. Because the atomic nucleus is far smaller than the electron shell surrounding it, scientists believe this approach could eventually achieve even greater precision than today's best atomic clocks, which would lose or gain only one second over billions of years. The Vienna team, led by physicist Thorsten Schumm, and the Beijing team, guided by Shiqian Ding, used different experimental approaches, demonstrating the robustness of the concept. Intriguingly, each team's strengths complement the other: Vienna has superior crystals while Beijing has a more powerful laser.
+
+While nuclear clocks don't yet outperform conventional atomic clocks, researchers are optimistic about refining the technology. The potential applications span satellite navigation, data synchronization, surveying, and fundamental physics research. This story is worth attention not just for its technical achievement, but for what it represents: a patient, collaborative pursuit of precision that could quietly transform technologies we rely on daily, from GPS to internet communications—proof that some of science's most practical advances emerge from dreams nurtured across generations.</description>
+      <source url="https://g1.globo.com/ciencia/noticia/2026/10/08/cientistas-em-viena-e-pequim-criam-primeiros-relogios-nucleares-do-mundo.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Climate change strips island’s title of largest penguin colony, study shows</title>
       <link>https://www.japantimes.co.jp/environment/2026/10/08/wildlife/penguin-island-colony-climate-change/</link>
@@ -594,18 +606,6 @@ After watching Japanese Coast Guard divers search for bodies and belongings for 
 
 This story offers a quietly profound look at grief, ritual, and resilience in a region accustomed to nature's overwhelming force. Yasuo doesn't hate the sea that took his wife—he's come to accept that natural disasters are beyond human control, part of living in a landscape shaped by earthquakes and tsunamis. His ongoing dives are a testament to enduring love and the human need to remain connected to those we've lost, even in the depths.</description>
       <source url="https://www.bbc.com/mundo/articles/cm5ydnne3e01o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>Olympic star takes on challengers at pool's grand reopening</title>
-      <link>https://www.abc.net.au/news/2026-10-03/glenorchy-war-memorial-pool-reopens-in-hobart/107221584</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-03/glenorchy-war-memorial-pool-reopens-in-hobart/107221584</guid>
-      <pubDate>Sat, 03 Oct 2026 08:04:32 GMT</pubDate>
-      <description>A beloved community pool in Hobart's northern suburbs has reopened after a three-year closure, bringing generations of families back to the water just in time for summer. The Glenorchy War Memorial pool, built in the 1960s to honor World War II veterans, was forced to shut down in 2023 after inspectors found serious structural problems with the pool shell, concrete grandstand, and electrical systems. Facing potential permanent closure, the community rallied to save it, and after $7.5 million in repairs, the facility welcomed hundreds of eager swimmers back through its gates.
-
-The reopening celebration featured Olympic bronze medalist Max Giuliani, a local Tasmanian, who spent the day racing against community members of all ages and abilities. The friendly competitions proved surprisingly competitive—Giuliani joked about potential retirement after losing several races to swimmers he'd given a head start. Meanwhile, volunteers worked overtime to keep up with demand, grilling more than 600 sausages and even making emergency supermarket runs. For longtime residents like Diane Kasprzak, the pool holds deep personal meaning: her daughter met her future husband there at age 14, and now her granddaughter works as a lifeguard at the same facility.
-
-This story captures something quietly essential about public spaces—how a swimming pool can become a thread connecting generations, a place where romances bloom and Olympic medalists graciously lose races to determined locals. While the council acknowledges this $7.5 million fix is temporary and a new $84 million aquatic center will eventually be needed, the reopening represents a community's determination to preserve what matters to them, one summer at a time.</description>
-      <source url="https://www.abc.net.au/news/2026-10-03/glenorchy-war-memorial-pool-reopens-in-hobart/107221584">ABC Australia</source>
     </item>
   </channel>
 </rss>
