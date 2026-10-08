@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 12:03:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 14:04:15 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pioneer of the program that took the US to the Moon dies</title>
+      <link>https://g1.globo.com/ciencia/noticia/2026/10/08/morre-a-pioneira-do-programa-que-levou-os-eua-a-lua.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/ciencia/noticia/2026/10/08/morre-a-pioneira-do-programa-que-levou-os-eua-a-lua.ghtml</guid>
+      <pubDate>Thu, 08 Oct 2026 14:04:13 GMT</pubDate>
+      <description>Margaret Hamilton, the software engineer who led the team that programmed the computers for NASA's Apollo moon missions, has died at age 90. The Massachusetts Institute of Technology, where she worked from 1959 through the mid-1970s, announced her passing and described her as profoundly influential in software development, someone who "blazed new trails in computer science and engineering."
+
+Hamilton's journey began with mathematics studies before she moved to Boston in 1959 and joined MIT. In 1965, she applied for a position at a university laboratory seeking people to develop software to "put a man on the moon." She became the project's first programmer and the first woman to hold that role. Starting with unmanned Apollo missions, she was later promoted to lead the team developing flight software for crewed missions. By 1968, she directed the Command and Service Module team, overseeing more than 400 people working on Apollo software. As one MIT professor noted, calling her a pioneer understates her achievement—she was engineering software when the field was in its infancy, both writing advanced code herself and leading a team to create one of humanity's most complex systems.
+
+Hamilton later founded two software companies and published over 130 papers. In 2016, President Barack Obama awarded her the Presidential Medal of Freedom, the highest civilian honor in the United States. Her story reminds us that transformative technological achievements often begin with young people taking leaps into the unknown—Hamilton herself was in her twenties when this work began—and that the code written by dedicated hands can quite literally help humanity reach for the stars.</description>
+      <source url="https://g1.globo.com/ciencia/noticia/2026/10/08/morre-a-pioneira-do-programa-que-levou-os-eua-a-lua.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>How to Win the Nobel Prize in Literature - A Look Behind the Scenes of the Selection Process</title>
       <link>https://www.dw.com/de/so-gewinnt-man-den-literaturnobelpreis-ein-blick-hinter-die-kulissen-des-vergabeprozesses/a-79548310?maca=de-rss-de-all-1119-xml-mrss</link>
@@ -594,18 +606,6 @@ The evening opens with Edvard Grieg's "Holberg Suite," then shifts to stories ro
 
 This concert is part of the orchestra's Amazônia Series, an ongoing effort to make symphonic music feel less remote and more rooted in the culture and imagination of the region it calls home. It's a quieter, more intimate performance than the series opener, featuring primarily strings with select percussion and woodwinds. What makes this story worth attention is its gentle insistence that classical music can hold space for local voices — that a flute born from legend and a dance from the forest belong just as much on the concert stage as any European masterwork.</description>
       <source url="https://g1.globo.com/am/amazonas/role-amazonas/noticia/2026/10/03/orquestra-sinfonica-da-amazonia-leva-lendas-amazonicas-carimbo-e-toadas-para-concerto-gratuito-no-teatro-icbeu.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Hunter-gatherer societies are often put on a pedestal as paragons of equality – but the reality is more complicated</title>
-      <link>https://theconversation.com/hunter-gatherer-societies-are-often-put-on-a-pedestal-as-paragons-of-equality-but-the-reality-is-more-complicated-289009</link>
-      <guid isPermaLink="false">https://theconversation.com/hunter-gatherer-societies-are-often-put-on-a-pedestal-as-paragons-of-equality-but-the-reality-is-more-complicated-289009</guid>
-      <pubDate>Sat, 03 Oct 2026 16:02:40 GMT</pubDate>
-      <description>Hunter-gatherer societies like Tanzania's Hadza people are often celebrated as models of equality, where resources are shared generously and hierarchies seem absent. When a Hadza hunter brings down an animal, the entire camp participates in dividing the meat, with families from miles around receiving portions. This vivid image has fueled a popular narrative that early human societies were naturally egalitarian, free from the inequalities that plague modern life. But anthropologists who work directly with these communities are finding a more nuanced reality.
-
-A comprehensive review of over a century of ethnographic research reveals that no society, not even those living traditional hunter-gatherer lifestyles, completely lacks inequality. Among the Ju/'Hoansi of the Kalahari, certain families controlled valuable hunting territories around waterholes. The Bayaka of central Africa traded and hoarded ritual knowledge despite having little material wealth. Gender inequalities appear nearly universal, with women performing more childcare and men dominating community decision-making. Even the Hadza reserve certain cuts of meat exclusively for older men and accord greater respect to successful hunters.
-
-This research doesn't diminish the genuine equalities these societies do maintain—modest possessions, constrained leadership, consensus decision-making—but it challenges romanticized portrayals that paint them as utopian paradises. The truth, researchers suggest, lies somewhere between the "Garden of Eden narrative" and claims that hierarchy is inevitable. Understanding these complexities matters as modern societies grapple with growing inequality, offering realistic rather than mythologized insights into human nature and social organization.</description>
-      <source url="https://theconversation.com/hunter-gatherer-societies-are-often-put-on-a-pedestal-as-paragons-of-equality-but-the-reality-is-more-complicated-289009">The Conversation</source>
     </item>
   </channel>
 </rss>
