@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:03:35 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Seychelles giant tortoise numbers hit record 180,000 in conservation triumph</title>
+      <link>https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles</link>
+      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles</guid>
+      <pubDate>Thu, 08 Oct 2026 18:03:34 GMT</pubDate>
+      <description>A remote atoll in the Seychelles has become home to approximately 180,000 Aldabra giant tortoises, the highest population ever recorded for this once-endangered species and a figure that now dwarfs the human population of the entire island nation. The count, conducted by the Seychelles Islands Foundation and the University of Exeter over five years, represents a remarkable turnaround for creatures that numbered fewer than 1,000 in the 19th century due to exploitation.
+
+Aldabra Atoll is one of only two places worldwide where giant tortoises roam freely in the wild, the other being the Galápagos Islands with a much smaller population. The recovery began in earnest when the atoll became a strict nature reserve in 1981 and a UNESCO World Heritage site the following year. Researchers faced significant challenges in producing this updated estimate, as the atoll's dense vegetation makes direct counting difficult in many areas. By modeling both observed and unobserved tortoises, the team created what they consider the most reliable baseline for tracking the population into the future.
+
+While the numbers tell a conservation success story for the Indian Ocean region, researchers caution that continued vigilance is essential. Climate change poses growing threats through longer droughts that reduce available food and shade, while rising sea levels endanger low-lying portions of the atoll. Invasive species like feral cats and black rats continue to prey on tortoise eggs and hatchlings. This story matters because it demonstrates what sustained conservation commitment can achieve, while also reminding us that even spectacular recoveries require ongoing attention. These ancient creatures, thriving against the odds, need stewards who understand that protecting their future means preparing for challenges still to come.</description>
+      <source url="https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles">The Guardian</source>
+    </item>
     <item>
       <title>Crew-12 mission astronauts return to Earth after 237 days in space</title>
       <link>https://g1.globo.com/ciencia/noticia/2026/10/08/astronautas-crew-12-terra.ghtml</link>
@@ -594,18 +606,6 @@ The closure highlights a broader challenge facing regional Australia. Many counc
 
 This story quietly captures the compounding disadvantages of rural life—where a closed pool becomes more than an inconvenience. It's about community connection, childhood memories, safety, and the feeling of being forgotten by distant decision-makers. In towns like Walgett, a swimming pool isn't a luxury; it's a lifeline against heat, isolation, and the widening gap between country and city.</description>
       <source url="https://www.abc.net.au/news/2026-10-04/outback-town-walgett-loses-swimming-pool-ahead-of-hot-summer/107211758">ABC Australia</source>
-    </item>
-    <item>
-      <title>Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years</title>
-      <link>https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss</link>
-      <guid isPermaLink="false">https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss</guid>
-      <pubDate>Sat, 03 Oct 2026 20:02:28 GMT</pubDate>
-      <description>After more than a millennium, the remains of Czar Samuel, a medieval Bulgarian ruler who died in 1014, have returned to Bulgaria in a ceremony that blended historical reverence with contemporary diplomacy. The warrior emperor, who expanded his kingdom through battles with the Byzantine Empire before his defeat, has long been a powerful symbol of Bulgarian national identity. His supposed remains were discovered in a Greek border region in the 1960s, setting the stage for years of delicate negotiations between the two neighboring nations.
-
-The repatriation unfolded with considerable ceremony: a military aircraft flanked by fighter jets delivered the coffin to Sofia, where thousands gathered in a public square. Politicians from across Bulgaria's political spectrum paid tribute with the national anthem and a 21-gun salute, while crowds cheered a military flypast. Attendees spoke of welcoming a fellow Bulgarian home. The remains were then processed to the Church of Saint Sofia, a sixth-century basilica where church officials say Samuel was baptized. The handover was part of a broader cultural exchange, with Bulgaria returning 48 objects looted from Greek churches during World War I.
-
-This story resonates beyond bilateral relations. Greek Prime Minister Kyriakos Mitsotakis connected the exchange to Greece's ongoing campaign to reclaim the Parthenon Marbles from the British Museum, suggesting a shifting global conversation about cultural heritage and historical artifacts. Adding another layer of complexity, North Macedonia also claims Samuel as part of its heritage, with a statue of the czar standing in Skopje. The return of these ancient remains offers a quiet reminder of how history, identity, and belonging remain deeply contested—and deeply felt—across borders and centuries.</description>
-      <source url="https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
