@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 14:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 16:02:20 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hiroo Kanamori, the Japanese scientist who created the scale that replaced Richter's (and why it's better for measuring large earthquakes)</title>
+      <link>https://www.bbc.com/mundo/articles/c6dj4ne2p0njo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/c6dj4ne2p0njo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sat, 10 Oct 2026 16:02:16 GMT</pubDate>
+      <description>When Hiroo Kanamori was a child in wartime Japan, he saw snow-covered mountains in Nagano for the first time and wondered how such natural grandeur came to be. Growing up during World War II without school supplies or formal classes, he learned to entertain himself by building small motors from salvaged materials—a practice that taught him to think independently. That curiosity about the natural world eventually led him to geophysics and to one of seismology's most important innovations: the moment magnitude scale, which now measures earthquakes worldwide.
+
+Kanamori developed his scale in 1977, later expanding it in collaboration with American seismologist Thomas Hanks. It replaced the famous Richter scale, particularly for larger earthquakes, though Richter's method remains in use for smaller tremors. The challenge scientists faced for decades was distilling the complexity of an earthquake into a single, quickly calculable number. Before Richter's 1935 breakthrough, researchers relied on "intensity" measurements—how strongly a quake was felt in different locations—which generated many numbers for a single event. Richter focused on the maximum amplitude of seismic waves recorded by identical instruments in Southern California, creating the first unified magnitude system.
+
+Now 90 and professor emeritus at Caltech, Kanamori has spent over half a century advancing our understanding of earthquakes. His story reminds us that scientific breakthroughs often begin with childhood wonder and the habit of asking questions. The tools he developed help communities around the world understand and prepare for seismic events, turning a boy's curiosity about mountains into knowledge that saves lives.</description>
+      <source url="https://www.bbc.com/mundo/articles/c6dj4ne2p0njo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>High silver prices threaten Lucknow’s famed bridal nagra craft</title>
       <link>https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss</link>
@@ -594,18 +606,6 @@ The story offers a glimpse into the patient, specialized world of bomb disposal�
 
 This story matters because it reveals a hidden dimension of history that remains literally underfoot. The bombs are relics of wartime terror, but their discovery and disposal require a blend of historical research, technical skill, and nerve that goes largely unnoticed. It's a reminder that the past doesn't always stay buried, and that some professions demand a remarkable combination of knowledge, patience, and courage to keep communities safe from dangers most people never know exist.</description>
       <source url="https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb">The Guardian</source>
-    </item>
-    <item>
-      <title>Three researchers studying brain diseases win the Nobel Prize in Medicine</title>
-      <link>https://g1.globo.com/jornal-nacional/noticia/2026/10/05/tres-pesquisadores-que-estudam-doencas-do-cerebro-ganham-o-premio-nobel-de-medicina.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/jornal-nacional/noticia/2026/10/05/tres-pesquisadores-que-estudam-doencas-do-cerebro-ganham-o-premio-nobel-de-medicina.ghtml</guid>
-      <pubDate>Tue, 06 Oct 2026 02:03:02 GMT</pubDate>
-      <description>The 2026 Nobel Prize in Medicine celebrates a discovery that began with a deceptively simple question: how does a single-celled alga always swim toward light? Nearly three decades ago, German scientist Peter Hegemann and colleague Georg Nagel found the answer in a light-sensitive protein within the alga. What seemed like a modest curiosity about pond life would spark a revolution in how we understand the brain.
-
-American researcher Karl Deisseroth took the discovery further by introducing this protein into rat neurons, making them responsive to light. By shining light through an optical fiber inserted into the skull, he could trigger precise reactions—like the movement of a mouse's whiskers. This breakthrough birthed optogenetics, a technique that allows scientists to switch specific nerve cells on and off with remarkable precision. For the first time, researchers could test exactly what happens when individual neurons fire or fall silent, moving beyond identifying broad brain regions to understanding the role of specific cells in memory, emotion, and behavior.
-
-This story matters because it shows how fundamental curiosity can lead to transformative applications. Optogenetics is now being explored for medical uses, including psychiatric disorder research and efforts to restore vision in blind individuals. Hegemann's advice to young scientists—stay curious and work on something new—echoes through this achievement. It's a reminder that today's questions about the smallest organisms might unlock tomorrow's solutions to some of humanity's most complex challenges.</description>
-      <source url="https://g1.globo.com/jornal-nacional/noticia/2026/10/05/tres-pesquisadores-que-estudam-doencas-do-cerebro-ganham-o-premio-nobel-de-medicina.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
