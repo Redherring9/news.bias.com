@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 20:03:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 22:01:36 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Drying wetlands create genetic risk for southern Australia's brolgas</title>
+      <link>https://www.abc.net.au/news/2026-10-11/brolga-study-genetic-differences-victoria-climate-change/107207286</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-11/brolga-study-genetic-differences-victoria-climate-change/107207286</guid>
+      <pubDate>Sat, 10 Oct 2026 22:01:34 GMT</pubDate>
+      <description>Australia's elegant brolgas—tall, graceful cranes known for their elaborate mating dances and lifelong pair bonds—are facing a quiet crisis in the country's south. A new genetic study from Macquarie University has revealed that Victoria's small population of roughly 1,000 birds has become genetically distinct from their northern relatives, with worryingly low genetic variation among individuals. This genetic bottleneck leaves the southern birds more vulnerable to future threats, as the diversity needed to survive extreme events or environmental changes steadily diminishes.
+
+The root cause lies in disappearing wetlands. As land has been drained for agriculture across Victoria and south-east South Australia, brolgas have lost the swampy breeding and feeding grounds they depend on. Climate change compounds the problem, further degrading what habitat remains and forcing the birds into smaller, more isolated ranges. For the Gunditjmara people of south-west Victoria, who call the birds kurout, brolgas are both totem and indicator of country health—fierce protectors of their nests and a living measure of the landscape's wellbeing.
+
+Yet there are reasons for cautious hope. Wetland restoration projects led by groups like Gunditj Mirring Traditional Owners Aboriginal Corporation and the Nature Glenelg Trust are showing real results. At restored sites like Tae Rak (Lake Condah) and Green Swamp, brolgas are returning—sometimes gathering in flocks of 250 or more. This story matters because it illustrates how habitat loss quietly unravels not just populations but the genetic resilience species need to endure. It also shows that thoughtful restoration, rooted in Indigenous knowledge and care, can begin to mend what seemed irreparably broken.</description>
+      <source url="https://www.abc.net.au/news/2026-10-11/brolga-study-genetic-differences-victoria-climate-change/107207286">ABC Australia</source>
+    </item>
     <item>
       <title>Sampling wizards The Avalanches mine magic from old ads and obsolete tech</title>
       <link>https://www.abc.net.au/news/2026-10-11/the-avalanches-no-bad-memories-sampling-advertising-technology/107248538</link>
@@ -594,18 +606,6 @@ The anniversary offers a moment to reflect on how hip-hop has transformed over t
 
 This story quietly captures something remarkable about cultural evolution—how a space dedicated to an art form can become a community anchor, and how music born from struggle and resistance continues to speak truth even as it reaches wider audiences. La Place's decade-long journey reflects hip-hop's own path: from underground movement to cultural force, never losing its essential spirit of challenge and change.</description>
       <source url="https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261006-hip-hop-la-place-f%C3%AAte-dix-ans-de-rap-de-combats-et-de-nouvelles-voix">France 24</source>
-    </item>
-    <item>
-      <title>How to assemble science</title>
-      <link>https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight</link>
-      <guid isPermaLink="false">https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight</guid>
-      <pubDate>Tue, 06 Oct 2026 10:01:59 GMT</pubDate>
-      <description>In an era when roughly 19,000 scholarly articles are published daily, science journalist Siobhan O'Connor explores a troubling paradox: we're drowning in research but struggling to understand what it all means. The problem isn't just volume—it's that individual studies are reported in isolation, creating whiplash narratives where coffee is alternately good and bad for us, and critical health guidance flip-flops dangerously. O'Connor points to a stark example: when the FDA announced in 2025 that acetaminophen during pregnancy raised autism risk, global headlines sparked widespread alarm. Yet a comprehensive review months later found no clear link, leaving countless women needlessly frightened about one of pregnancy's safest painkillers.
-
-The root cause, O'Connor argues, is systemic. Scientists chase publications to advance careers. Journalists pursue flashy headlines for clicks. Almost no one prioritizes the unglamorous work of synthesizing what we already know—what physician Iain Chalmers called science's "scandalous failure to cumulate evidence scientifically." This gap becomes especially concerning when diverse forms of knowledge, from lived experience to Indigenous insights, rarely make it into scholarly databases at all. The essay traces a pivotal moment in addressing this crisis: statistician Gene Glass's 1976 presentation of an innovative technique for integrating findings across multiple studies, a method so transformative it would reshape how science assembles knowledge.
-
-This story matters because it reveals something quietly radical: for many of our toughest challenges, humanity may already possess the knowledge needed to solve them. The real work isn't generating more studies—it's learning to assemble what we know, and then acting on it.</description>
-      <source url="https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight">Aeon</source>
     </item>
   </channel>
 </rss>
