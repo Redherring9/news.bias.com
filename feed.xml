@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 06:05:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 08:01:51 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>'I watched Apollo 17 launch with Neil Armstrong'</title>
+      <link>https://www.bbc.co.uk/news/articles/ckdd86nglrggo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckdd86nglrggo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sun, 11 Oct 2026 08:01:49 GMT</pubDate>
+      <description>In December 1972, a 16-year-old astronomy enthusiast from Preston found himself standing beside Neil Armstrong, watching humanity's final Apollo mission launch into the night sky. Dermot Gethings, now 70, was handpicked by NASA and the U.S. Embassy from among 16 British students for an all-expenses-paid, 19-day journey to witness Apollo 17's departure—a trip that would include White House dinners, behind-the-scenes tours of NASA facilities, and an unforgettable accidental encounter with the first man on the moon.
+
+Gethings' path to that launchpad began with a childhood glimpse of the Milky Way at age 10, which sparked a passion that led him to start an astronomy club at his Preston school. After local newspaper coverage of his student exhibitions, a letter arrived from the U.S. Embassy, changing his life forever. The highlight came when he literally stumbled into Armstrong outside his motel, stepping on the astronaut's foot before the two walked downstairs chatting. Armstrong's wife snapped a photo of them shaking hands—a moment frozen in time just hours before the launch.
+
+From the VIP viewing box three miles from the pad, Gethings experienced the raw power of a Saturn V rocket: a chest-punching shockwave, ground trembling like an earthquake, and a painful crackling sound against his face as Apollo 17 became a bright star crossing the sky. As a documentary about his experience prepares to screen, Gethings' story reminds us that space exploration wasn't just about astronauts and engineers—it was also about inspiring young dreamers and giving them front-row seats to history.</description>
+      <source url="https://www.bbc.co.uk/news/articles/ckdd86nglrggo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Sons take over father's bar, reinvent the business and triple revenue in São Paulo</title>
       <link>https://g1.globo.com/empreendedorismo/pegn/noticia/2026/10/11/filhos-assumem-bar-do-pai-reinventam-o-negocio-e-triplicam-o-faturamento-em-sp.ghtml</link>
@@ -594,18 +606,6 @@ What began as informal skill-sharing evolved when the group discovered a free-fo
 
 This story offers more than business success metrics. Many of the embroiderers left informal work to support themselves through their craft, finding economic stability in cultural expression. For Francisca, each stitch carries the history of both the town and the women who created the association. It's a quiet testament to how traditional skills, when paired with creativity, collaboration, and modern tools, can preserve heritage while building sustainable futures—one colorful thread at a time.</description>
       <source url="https://g1.globo.com/empreendedorismo/pegn/noticia/2026/10/07/como-32-bordadeiras-transformaram-historias-de-alagoas-em-negocio-que-fatura-r-500-mil.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Why Darwin could become 'a major interconnection point' for global data</title>
-      <link>https://www.abc.net.au/news/2026-10-07/fannie-bay-subsea-cables-development-northern-territory-darwin/107235602</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-07/fannie-bay-subsea-cables-development-northern-territory-darwin/107235602</guid>
-      <pubDate>Wed, 07 Oct 2026 00:03:01 GMT</pubDate>
-      <description>Darwin, a city of just over 150,000 people in Australia's Northern Territory, is quietly positioning itself as a critical node in the global internet infrastructure. Planning documents reveal that tech giant Google and multinational company Inligo Networks are among several firms seeking to connect subsea fibre-optic cables to the tropical capital, potentially transforming it into what analysts call a "network ecosystem" for international data traffic.
-
-The city's appeal lies in its geography and stability. Located closer to southeast Asian capitals like Jakarta and Singapore than to Sydney or Melbourne, Darwin offers telecommunications companies a strategic alternative route that bypasses the geopolitically sensitive South China Sea. Already home to one international cable that went live in 2023, Darwin is on track to host five such systems in coming years, including Meta's globe-spanning Project Waterworth and connections stretching from Singapore to the Philippines, Guam, and the U.S. mainland. These cables—fibre-optic lines running along the ocean floor—are the literal backbone of the internet, carrying data between continents and enabling everything from video calls to financial transactions.
-
-What makes this story quietly remarkable is how infrastructure decisions in a regional Australian city ripple outward to shape global connectivity. Darwin's transformation into an international data hub reflects both the physics of geography and the politics of digital security, as companies seek stable, well-connected locations outside traditional routes. For a city more often associated with crocodiles and tropical weather than technology, becoming a crossroads for hundreds of millions of internet users across multiple continents represents an unexpected but significant role in the digital age.</description>
-      <source url="https://www.abc.net.au/news/2026-10-07/fannie-bay-subsea-cables-development-northern-territory-darwin/107235602">ABC Australia</source>
     </item>
   </channel>
 </rss>
