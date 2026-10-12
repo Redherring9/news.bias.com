@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 20:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 22:02:07 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rain turns dry paddocks into bumper crops after years of drought</title>
+      <link>https://www.abc.net.au/news/2026-10-13/bumper-harvest-post-drought-hopes-south-australia/107257272</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-13/bumper-harvest-post-drought-hopes-south-australia/107257272</guid>
+      <pubDate>Mon, 12 Oct 2026 22:02:04 GMT</pubDate>
+      <description>After four grueling years of drought, farmers across South Australia are preparing for what may be a record-breaking harvest — a dramatic reversal that has transformed both landscapes and livelihoods. At Kiara Fisher's farm in the Riverland, paddocks that were nothing but red sand mounds last year now hold crops so tall her three-year-old daughter nearly vanishes when running through them. The region has received 330 millimetres of rain this year, well above its 250mm average, breathing new life into struggling agricultural communities.
+
+The turnaround has been equally profound for neighboring farmers like Louise Smith, whose property received more than double last year's rainfall. After hand-feeding starving livestock through the drought — a costly gamble that has now paid off — she expects to turn a profit for the first time in seven years. The improved conditions have rippled through entire communities, with townspeople stopping to chat and share genuine smiles rather than anxiety about survival. Grain Producers South Australia predicts the state will harvest approximately 13 million tonnes of grain, far exceeding the typical 9 million tonne average.
+
+This story captures something both humbling and hopeful: nature's capacity for renewal and the resilience of farming families who held on through impossibly lean years. While challenges remain — including frost damage, disease pressure, and the sheer logistics of bringing in such an abundant harvest — the transformation from desperation to cautious optimism offers a quiet reminder of agriculture's fundamental dependence on rain, and the profound relief that comes when it finally falls.</description>
+      <source url="https://www.abc.net.au/news/2026-10-13/bumper-harvest-post-drought-hopes-south-australia/107257272">ABC Australia</source>
+    </item>
     <item>
       <title>Medics swap stethoscopes for sheet music and classical instruments</title>
       <link>https://www.rnz.co.nz/life/music/medics-swap-stethoscopes-for-classical-instruments</link>
@@ -594,18 +606,6 @@ Aldabra Atoll is one of only two places worldwide where giant tortoises roam fre
 
 While the numbers tell a conservation success story for the Indian Ocean region, researchers caution that continued vigilance is essential. Climate change poses growing threats through longer droughts that reduce available food and shade, while rising sea levels endanger low-lying portions of the atoll. Invasive species like feral cats and black rats continue to prey on tortoise eggs and hatchlings. This story matters because it demonstrates what sustained conservation commitment can achieve, while also reminding us that even spectacular recoveries require ongoing attention. These ancient creatures, thriving against the odds, need stewards who understand that protecting their future means preparing for challenges still to come.</description>
       <source url="https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles">The Guardian</source>
-    </item>
-    <item>
-      <title>Crew-12 mission astronauts return to Earth after 237 days in space</title>
-      <link>https://g1.globo.com/ciencia/noticia/2026/10/08/astronautas-crew-12-terra.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/ciencia/noticia/2026/10/08/astronautas-crew-12-terra.ghtml</guid>
-      <pubDate>Thu, 08 Oct 2026 16:02:36 GMT</pubDate>
-      <description>Four astronauts from NASA and SpaceX's Crew-12 mission returned to Earth after spending 237 days aboard the International Space Station, splashing down in the Pacific Ocean off the California coast. The crew—NASA astronauts Jessica Meir and Jack Hathaway, European Space Agency astronaut Sophie Adenot, and Russian cosmonaut Andrey Fedyaev—departed the station after nearly eight months in orbit, with their Dragon capsule completing a 27-hour journey home.
-
-During their extended stay, which lasted longer than originally planned due to delays with the incoming Crew-13 mission, the astronauts circled Earth 3,792 times and traveled nearly 163 million kilometers. Their work focused on important microgravity research, including studies on bone mass loss and recovery, antibiotic-resistant bacteria, and cancer treatments. The mission also marked significant milestones: Meir conducted four spacewalks, bringing her career total to seven, while Adenot became the first French woman to perform a spacewalk, completing three during the mission.
-
-This story offers a glimpse into the quiet perseverance of long-duration spaceflight and the international collaboration that keeps the orbital laboratory running. Beyond the dramatic descent through Earth's atmosphere and parachute-assisted ocean landing, it's the steady accumulation of scientific knowledge and the breaking of barriers—like Adenot's historic achievement—that makes this mission quietly remarkable, reminding us that some of humanity's most important work happens far above our heads.</description>
-      <source url="https://g1.globo.com/ciencia/noticia/2026/10/08/astronautas-crew-12-terra.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
