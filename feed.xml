@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 00:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 02:03:25 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Man pushes cousin 42km in Melbourne Marathon, carries him over line</title>
+      <link>https://www.abc.net.au/news/2026-10-12/cousin-helps-toby-holt-complete-melbourne-marathon/107251188</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-12/cousin-helps-toby-holt-complete-melbourne-marathon/107251188</guid>
+      <pubDate>Mon, 12 Oct 2026 02:03:23 GMT</pubDate>
+      <description>When Nick Morrison decided to run the Melbourne Marathon, he chose to make the 42.2-kilometer journey something far more meaningful than a personal achievement. The Brisbane runner pushed his 21-year-old cousin, Toby Holt, around the entire course in a wheelchair, then carried him across the finish line so they could complete it together. For Toby, who was diagnosed with juvenile Huntington's disease four years ago, the marathon was the latest in a series of once-in-a-lifetime adventures his family and community have rallied to provide.
+
+Juvenile Huntington's is a rare hereditary neurodegenerative disorder with no cure, affecting Toby's speech and movement. His family has responded to the diagnosis by filling his life with extraordinary experiences—trips to the United States and New Zealand, skydiving, extreme sports, and now this marathon. The experience carries additional weight for the family, as Toby's father also lives with Huntington's disease. Toby's mother, Louise, became emotional when Nick first proposed the idea, moved by both the physical challenge and the depth of love it represented. The journey raised over $4,000 for Huntington's Australia and brought greater visibility to the disease.
+
+This story is worth your time because it quietly reframes what it means to complete a marathon. Beyond the athletic accomplishment lies something more elemental: family choosing connection over fear, creating joy in the face of hardship, and two cousins refusing to let a devastating diagnosis define the limits of what's possible. As Nick put it, his cousin is the true inspiration—someone who has accepted his circumstances without complaint and continues to embrace life fully.</description>
+      <source url="https://www.abc.net.au/news/2026-10-12/cousin-helps-toby-holt-complete-melbourne-marathon/107251188">ABC Australia</source>
+    </item>
     <item>
       <title>Watch: Endangered orangutans released back into the wild after Borneo fires</title>
       <link>https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The treatment involves a single injection into the eye containing a harmless vir
 
 While the results represent significant progress—moving from one patient in 2021 to ten now—the researchers acknowledge current limitations. Patients cannot yet recognize faces, as the treated cells form a ring around the fovea, the area responsible for sharp central vision. Still, the study demonstrates that optogenetics can safely provide stable vision restoration lasting several years. With researchers aiming to achieve high-resolution vision within five to ten years, this quiet breakthrough offers a glimpse of how light itself might become a tool for seeing again.</description>
       <source url="https://www.theguardian.com/society/2026/oct/07/gene-therapy-can-partly-restore-sight-in-blind-people-researchers-reveal">The Guardian</source>
-    </item>
-    <item>
-      <title>Canada suspends plans to expand assisted dying to people with mental illness</title>
-      <link>https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Wed, 07 Oct 2026 20:03:01 GMT</pubDate>
-      <description>Canada has announced it will indefinitely suspend plans to expand its medical assistance in dying program to people whose sole condition is mental illness. The decision follows a parliamentary committee recommendation and reflects what Justice Minister Sean Fraser described as a lack of medical consensus on determining eligibility for such cases.
-
-The program, known as Maid, became legal in Canada in 2016 for terminally ill patients and expanded in 2021 to include people with incurable conditions whose death wasn't imminent. Extensions to mental illness have been delayed twice since 2023 as officials studied implementation. Advocacy groups like Dying with Dignity have expressed disappointment, arguing that people with severe mental illness experience suffering as real as those with physical conditions and deserve equal access to care. Meanwhile, opponents raise concerns about whether mental illnesses are medically understood well enough to determine who would qualify, and whether the program risks becoming an alternative to adequate housing and healthcare support.
-
-This story matters because it sits at the intersection of medical ethics, patient autonomy, and societal responsibility. It raises questions about how we define suffering, who gets to make end-of-life decisions, and what obligations exist to provide alternatives before death becomes an option. With a federal court case challenging the restrictions still pending, Canada's debate reflects broader conversations happening worldwide about the boundaries of compassionate care and the complex terrain between relieving suffering and addressing its root causes.</description>
-      <source url="https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
     </item>
   </channel>
 </rss>
