@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 18:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 20:02:15 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Medics swap stethoscopes for sheet music and classical instruments</title>
+      <link>https://www.rnz.co.nz/life/music/medics-swap-stethoscopes-for-classical-instruments</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/life/music/medics-swap-stethoscopes-for-classical-instruments</guid>
+      <pubDate>Mon, 12 Oct 2026 20:02:13 GMT</pubDate>
+      <description>When 84 healthcare professionals gathered in New Plymouth recently, they brought violins, bassoons, and double basses instead of medical equipment. The New Zealand Doctors' Orchestra, founded in 2012, has been touring the country for over a decade, bringing classical music to communities while raising funds for hospices — nearly $100,000 to date.
+
+The ensemble attracts physicians who were serious musicians before medicine took center stage in their lives. Some hold advanced music degrees, others have played professionally with major symphony orchestras. Co-founder Dr. Tim Wilkinson, a geriatrician and double bass player, describes an intensive rehearsal schedule: members receive their program two months ahead, practice independently, then converge for concentrated rehearsals from Friday morning through Sunday, culminating in an afternoon concert before everyone returns to their hospital shifts Monday morning. One violinist, Dr. Justine Bradley, draws parallels between orchestral collaboration and medical teamwork — both require individuals contributing specialized skills toward a unified goal. Dr. Matthew Payne, who plays the contrabassoon and once performed professionally, appreciates the relaxed atmosphere compared to his previous symphony work.
+
+This story offers a gentle reminder that people contain multitudes. Behind the clinical expertise and demanding schedules, these doctors maintain a creative discipline that mirrors their professional one — the same dexterity, consistency, and dedication applied in different contexts. Their sold-out New Plymouth concert raised nearly $10,000 for the local hospice, proving that passion pursued alongside duty can serve communities in unexpected, harmonious ways.</description>
+      <source url="https://www.rnz.co.nz/life/music/medics-swap-stethoscopes-for-classical-instruments">Radio New Zealand</source>
+    </item>
     <item>
       <title>Businessman travels 320 km with 10-meter cross on his back and arrives in Aparecida after 15 days: 'Magical moment'</title>
       <link>https://g1.globo.com/sp/vale-do-paraiba-regiao/festa-da-padroeira/noticia/2026/10/12/empresario-percorre-320-km-com-cruz-de-10-metros-nas-costas-e-chega-a-aparecida-apos-15-dias-momento-magico.ghtml</link>
@@ -594,18 +606,6 @@ During their extended stay, which lasted longer than originally planned due to d
 
 This story offers a glimpse into the quiet perseverance of long-duration spaceflight and the international collaboration that keeps the orbital laboratory running. Beyond the dramatic descent through Earth's atmosphere and parachute-assisted ocean landing, it's the steady accumulation of scientific knowledge and the breaking of barriers—like Adenot's historic achievement—that makes this mission quietly remarkable, reminding us that some of humanity's most important work happens far above our heads.</description>
       <source url="https://g1.globo.com/ciencia/noticia/2026/10/08/astronautas-crew-12-terra.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Pioneer of the program that took the US to the Moon dies</title>
-      <link>https://g1.globo.com/ciencia/noticia/2026/10/08/morre-a-pioneira-do-programa-que-levou-os-eua-a-lua.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/ciencia/noticia/2026/10/08/morre-a-pioneira-do-programa-que-levou-os-eua-a-lua.ghtml</guid>
-      <pubDate>Thu, 08 Oct 2026 14:04:13 GMT</pubDate>
-      <description>Margaret Hamilton, the software engineer who led the team that programmed the computers for NASA's Apollo moon missions, has died at age 90. The Massachusetts Institute of Technology, where she worked from 1959 through the mid-1970s, announced her passing and described her as profoundly influential in software development, someone who "blazed new trails in computer science and engineering."
-
-Hamilton's journey began with mathematics studies before she moved to Boston in 1959 and joined MIT. In 1965, she applied for a position at a university laboratory seeking people to develop software to "put a man on the moon." She became the project's first programmer and the first woman to hold that role. Starting with unmanned Apollo missions, she was later promoted to lead the team developing flight software for crewed missions. By 1968, she directed the Command and Service Module team, overseeing more than 400 people working on Apollo software. As one MIT professor noted, calling her a pioneer understates her achievement—she was engineering software when the field was in its infancy, both writing advanced code herself and leading a team to create one of humanity's most complex systems.
-
-Hamilton later founded two software companies and published over 130 papers. In 2016, President Barack Obama awarded her the Presidential Medal of Freedom, the highest civilian honor in the United States. Her story reminds us that transformative technological achievements often begin with young people taking leaps into the unknown—Hamilton herself was in her twenties when this work began—and that the code written by dedicated hands can quite literally help humanity reach for the stars.</description>
-      <source url="https://g1.globo.com/ciencia/noticia/2026/10/08/morre-a-pioneira-do-programa-que-levou-os-eua-a-lua.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
