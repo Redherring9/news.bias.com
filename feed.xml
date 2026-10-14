@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 00:03:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 02:03:10 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Students risk 'cognitive outsourcing' if AI overused, schools warned</title>
+      <link>https://www.abc.net.au/news/2026-10-14/ai-in-schools-warning-affecting-long-term-learning/107263444</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-14/ai-in-schools-warning-affecting-long-term-learning/107263444</guid>
+      <pubDate>Wed, 14 Oct 2026 02:03:07 GMT</pubDate>
+      <description>Australia's national education research body has issued a caution about artificial intelligence in classrooms, warning that overreliance on the technology could undermine students' ability to think independently. The Australian Education Research Organisation reviewed studies showing that students who lean too heavily on AI struggle to perform when the technology isn't available—a phenomenon researchers call "cognitive outsourcing." When learners depend on tools to do their thinking, they may never build the foundational knowledge needed to become creative, critical thinkers later in life.
+
+The organisation recommends avoiding AI entirely in the first three years of primary school and using it sparingly afterward, always in combination with proven teaching methods. By high school, some exposure becomes important since students will encounter AI in higher education and beyond. However, the guidance emphasizes that AI should guide reasoning rather than simply provide answers. Some Australian states have developed customized versions of tools like ChatGPT that require students to engage more actively with problems rather than outsourcing their homework entirely. Parents are urged to limit unfettered access to AI at home as well.
+
+This story matters because it addresses a tension at the heart of modern education: how to prepare students for a technology-saturated future without sacrificing the deep learning that builds genuine understanding. The research suggests that the path forward isn't rejecting AI outright, but using it thoughtfully—ensuring that digital tools remain servants of learning rather than substitutes for it. It's a reminder that even as technology evolves, the fundamentals of how humans learn remain remarkably constant.</description>
+      <source url="https://www.abc.net.au/news/2026-10-14/ai-in-schools-warning-affecting-long-term-learning/107263444">ABC Australia</source>
+    </item>
     <item>
       <title>Pictured: Winning entries for Wildlife Photographer of the Year 2026</title>
       <link>https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ Shannan Dunn was one of those heroes, racing into the water while the shark was 
 
 Now adjusting to life without his lower leg, Ismail speaks with a firefighter's resolve: "adapt, improvise and overcome." He's already back in the gym and plans to return to both work and surfing. He holds no resentment toward the shark. What he wants people to remember is the human response — the willingness of strangers to run toward fear rather than away from it. In his words, they're legends, and that's the legacy he hopes his story leaves behind.</description>
       <source url="https://www.abc.net.au/news/2026-10-10/mel-ismail-shark-attack-follow-geraldton/107243960">ABC Australia</source>
-    </item>
-    <item>
-      <title>Painted wind turbines can dramatically reduce bird deaths, study finds</title>
-      <link>https://news.mongabay.com/short-article/2026/10/painted-wind-turbines-can-dramatically-reduce-bird-deaths-study-finds/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/10/painted-wind-turbines-can-dramatically-reduce-bird-deaths-study-finds/</guid>
-      <pubDate>Fri, 09 Oct 2026 20:01:46 GMT</pubDate>
-      <description>A surprisingly simple solution may help address one of renewable energy's unintended consequences. Researchers in Spain have found that painting a single blade of wind turbines black can reduce bird fatalities by nearly 74%, offering a low-cost intervention for a problem that affects up to a million birds annually in the United States alone.
-
-The issue stems from what scientists call "motion smear"—when turbine blades spin, their white surfaces blur into near-invisibility for birds in flight. By painting just one of the three blades a contrasting color, the turbines become more discernible, giving birds a better chance to navigate safely around them. The Spanish study, conducted at El Ruedo wind farm between 2012 and 2024, reinforces findings from Norway and South Africa, where similar painting interventions reduced bird deaths by 70% and 83% respectively. A Dutch study, however, found no significant effect, suggesting the approach may work differently depending on local conditions or bird populations. The solution appears especially important for vulnerable species like raptors and migrating songbirds, which have low reproductive rates and long lifespans, making additional mortality particularly damaging to their populations.
-
-While wind turbine collisions represent a fraction of bird deaths compared to cats or building strikes, the findings arrive at a critical moment as the world expands renewable energy infrastructure. The challenge now is scaling up: painting blades after installation is expensive, and manufacturers have hesitated to paint them during production, citing concerns about heat absorption and weight balance. Still, this story offers a quiet reminder that sometimes the most effective solutions are also the simplest, and that addressing climate change needn't come at the expense of the natural world it aims to protect.</description>
-      <source url="https://news.mongabay.com/short-article/2026/10/painted-wind-turbines-can-dramatically-reduce-bird-deaths-study-finds/">Mongabay</source>
     </item>
   </channel>
 </rss>
