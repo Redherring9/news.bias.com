@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 04:02:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:04:49 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Birdwatch: the paradoxical puffin – a comical bird with a fighting spirit</title>
+      <link>https://www.theguardian.com/environment/2026/oct/14/birdwatch-puffin</link>
+      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/oct/14/birdwatch-puffin</guid>
+      <pubDate>Wed, 14 Oct 2026 06:03:35 GMT</pubDate>
+      <description>The Atlantic puffin is a study in contradictions: adored across Britain yet rarely encountered, comically charming yet surprisingly scrappy. These small seabirds spend spring and summer in bustling coastal colonies before disappearing into the open North Atlantic for half the year. Despite their clownish appearance and diminutive size, puffins fiercely defend their catches of sand eels from much larger predators like gulls and skuas, revealing a tenacity that belies their gentle image.
+
+Their appeal is partly rooted in their oddly human quality. Naturalist Bill Oddie once compared them to "old men in dinner jackets, waiting to go into supper at the club," and their scientific name translates to "little brother of the Arctic." Historically, their oversized, vividly colored beaks earned them the nickname "sea parrot," while the name "puffin" itself originally belonged to another seabird entirely—the Manx shearwater, which confusingly still carries the scientific name *Puffinus puffinus*.
+
+Yet these beloved birds now face mounting threats. Climate change is pushing sand eels northward, disrupting the food supply puffins depend on to raise their single chick each season. Avian flu, pollution, and human disturbance add further pressure, with well-meaning visitors sometimes causing harm in their eagerness to photograph the birds up close. This story matters because it highlights how even our most cherished wildlife faces precarious futures, and how the traits that endear animals to us—accessibility, charisma—can ironically contribute to their vulnerability.</description>
+      <source url="https://www.theguardian.com/environment/2026/oct/14/birdwatch-puffin">The Guardian</source>
+    </item>
     <item>
       <title>Israel returns 22 stolen ancient artefacts to Greece</title>
       <link>https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss</link>
@@ -594,18 +606,6 @@ The course has faced considerable headwinds since its creation. Built on the sit
 
 This story offers a quiet lesson in the complicated math of legacy projects. What Marsh envisioned as a world-class course to bring recognition to the region has indeed delivered something distinctive—each hole dramatically different from the next, a serene "core golf" experience unburdened by surrounding housing. Whether the community's investment will fully pay off remains uncertain, but for now, the course hosts national tournaments and continues to grow its local game, a patch of green ambition in the red outback.</description>
       <source url="https://www.abc.net.au/news/2026-10-10/golfing-legend-graham-marsh-kalgoorlie-course-legacy/107242704">ABC Australia</source>
-    </item>
-    <item>
-      <title>Baby flying foxes starving in numbers volunteers have never seen</title>
-      <link>https://www.abc.net.au/news/2026-10-10/premature-flying-fox-births-nsw/107242188</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-10/premature-flying-fox-births-nsw/107242188</guid>
-      <pubDate>Sat, 10 Oct 2026 00:04:02 GMT</pubDate>
-      <description>Wildlife carers across New South Wales are confronting an unprecedented crisis: hundreds of grey-headed flying foxes giving birth prematurely, with most of the tiny pups unlikely to survive. Since late September, rescue groups have received more than 460 reports of severely malnourished bats, many weighing less than half what a healthy newborn should. Some pups have been found on the ground still attached to their umbilical cords, weighing as little as 38 grams instead of the typical 80 to 90. The cause remains uncertain, though authorities suspect a mass starvation event before the October birthing season may have triggered the early deliveries.
-
-Experienced carers say they've never witnessed anything like it. One ecologist with three decades of bat rescue experience described the level of death as "huge," while volunteers estimate that roughly 95 percent of premature pups will die despite intensive care. The crisis has stretched rescue organizations to their limits—with only about 40 vaccinated volunteers available to handle the lyssavirus risk that bats carry, carers are working around the clock on two-hour feeding schedules, sometimes going days without sleep. Testing has confirmed the deceased animals were severely emaciated, though the exact trigger for the food shortage remains a mystery.
-
-This story offers a sobering glimpse into how fragile the balance can be for wildlife populations, and how quickly environmental pressures can cascade into crisis. It's also a testament to the dedication of volunteers who step up when animals need them most, even when the odds feel overwhelming.</description>
-      <source url="https://www.abc.net.au/news/2026-10-10/premature-flying-fox-births-nsw/107242188">ABC Australia</source>
     </item>
   </channel>
 </rss>
