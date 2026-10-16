@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:04:13 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Astronomers discover first green star ever identified; understand what explains the rare color</title>
+      <link>https://g1.globo.com/ciencia/noticia/2026/10/16/estrela-verde-recem-identificada-deixa-astronomos-maravilhados.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/ciencia/noticia/2026/10/16/estrela-verde-recem-identificada-deixa-astronomos-maravilhados.ghtml</guid>
+      <pubDate>Fri, 16 Oct 2026 14:04:10 GMT</pubDate>
+      <description>Astronomers have identified the first green star ever recorded — a white dwarf named WD J1330+6435 located about 280 light-years from Earth in the constellation Draco. This ghostly yellow-green hue represents a rare departure from the usual rules that govern stellar color, where temperature typically determines whether a star appears orange, white, or blue.
+
+The unusual color emerged from a cosmic recycling process. This white dwarf, the dense remnant core of a star that exhausted its nuclear fuel, absorbed rocky debris from planets that once orbited it. That debris enriched the star's outer layers with elements including calcium, lithium, and especially sodium. Under the extreme density of the white dwarf — roughly Earth-sized but containing half the Sun's mass — sodium atoms behave differently than they would in normal stars. Constantly bombarded by surrounding helium atoms, the sodium no longer absorbs just a narrow band of orange wavelengths as it does in ordinary stars or streetlights. Instead, it absorbs yellows, oranges, and some reds, leaving behind a distinctive greenish-yellow glow.
+
+This discovery emerged from a broader project examining how white dwarfs would actually appear to human eyes. The researchers liken the phenomenon to a painter's palette: remove certain colors from the mix, and the final result transforms. For those drawn to the unexpected corners of the cosmos, this green star offers a reminder that the universe still holds visual surprises — not from exotic distant galaxies, but from the quiet fate awaiting ordinary stars, transformed by physics into something entirely unfamiliar.</description>
+      <source url="https://g1.globo.com/ciencia/noticia/2026/10/16/estrela-verde-recem-identificada-deixa-astronomos-maravilhados.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>The wound that suggests Neandertals were more violent than previously believed</title>
       <link>https://www.bbc.com/mundo/articles/cq146k14y55jo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ Gilmara Mageste grew up dancing during study breaks and at carnival celebrations
 
 This story is a gentle reminder that desires don't have expiration dates. What makes it meaningful isn't grand achievement, but the quiet act of honoring who we once were—and discovering that it's never too late to give that younger self what they needed. Sometimes the most radical thing we can do is simply allow ourselves to play again.</description>
       <source url="https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/12/dia-das-criancas-adultos-realizam-sonhos-de-infancia-com-jazz-e-colecao-de-bonecas.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Putting a ring on it: the plan to green London’s beloved edges</title>
-      <link>https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/</link>
-      <guid isPermaLink="false">https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/</guid>
-      <pubDate>Mon, 12 Oct 2026 10:02:34 GMT</pubDate>
-      <description>London is getting an ambitious green makeover with a plan to create a 200-kilometer ring of trees and connected habitats encircling its outer boroughs. Dubbed the "M25 for nature," the London Tree Ring project aims to safeguard greenbelt land, boost biodiversity in overlooked woodlands, and reintroduce species that have nearly vanished from the capital's landscape. Over the next 25 years, the initiative invites community groups, schools, and landowners to plant and care for trees, with benefits ranging from urban cooling to carbon sequestration and community orchards.
-
-The project, spearheaded by CPRE London, has been quietly building momentum since 2023 and officially launches in October following years of research and pilot programs. One showcase effort on London's southwest edge involved planting 1,500 disease-resistant elm trees, a species nearly eliminated by Dutch elm disease in the 1960s and 70s. The elms are critical for the white-letter hairstreak butterfly, whose populations have dropped by 80 percent. Meanwhile, in Sutton, volunteers and schoolchildren created a densely planted Japanese-style Miyawaki microforest, designed to thrive even in drought conditions.
-
-What makes this story quietly remarkable is its emphasis on community engagement and long-term thinking. Rather than a top-down environmental project, the London Tree Ring invites residents to follow trees from seed to maturity, fostering a sense of ownership and connection. With ten million people standing to benefit from a cooler, more biodiverse capital, the project offers a template that could be replicated in cities across the UK—a reminder that large-scale environmental restoration can begin at the local level.</description>
-      <source url="https://www.positive.news/society/putting-a-ring-on-it-the-plan-to-green-londons-beloved-edges/">Positive News</source>
     </item>
   </channel>
 </rss>
