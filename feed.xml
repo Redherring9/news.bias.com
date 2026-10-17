@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 22:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 00:02:56 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Uncovering the secrets of New Zealand’s elusive ‘jungle penguins’</title>
+      <link>https://www.theguardian.com/world/2026/oct/17/secrets-of-new-zealand-fiordland-crested-penguin-tawaki</link>
+      <guid isPermaLink="false">https://www.theguardian.com/world/2026/oct/17/secrets-of-new-zealand-fiordland-crested-penguin-tawaki</guid>
+      <pubDate>Sat, 17 Oct 2026 00:02:54 GMT</pubDate>
+      <description>In the remote fjords of New Zealand's South Island, researchers are unraveling the mysteries of one of the world's most peculiar penguins. The Fiordland crested penguin, known by its Māori name tawaki, has proven so elusive that scientists describe it as a "ghost." These half-meter-tall birds with striking yellow eyebrows dig elaborate tunnel systems to escape capture, sometimes taking researchers days to retrieve tracking devices. Until 2014, almost nothing was known about them.
+
+The Tawaki Project, founded by Dr. Thomas Mattern and his wife Ursula Ellenberg, has mapped over 1,200 nests across nine fjords in twelve years, revealing a population roughly three times larger than previously thought. What makes these penguins truly unusual is their complete rejection of typical penguin behavior. While most penguins nest in coastal colonies, tawaki build solitary burrows deep in dense rainforest, sometimes at high elevations, earning them the nickname "jungle penguins." Their hunting habits vary unpredictably between fjords, with some groups fishing locally while others venture to the open ocean.
+
+Perhaps most baffling is their pre-molting migration. Each December, after breeding season ends and despite abundant local food, these exhausted penguins embark on a 5,000 to 7,000 kilometer journey to sub-Antarctic waters to feed before their annual feather replacement. Mattern likens it to "running a marathon while trying to gain weight." He suspects they're following ancient instincts shared with other crested penguin species. This story reminds us how much remains unknown even about creatures living in well-studied regions, and how patient observation can reveal nature's delightful refusal to follow our expectations.</description>
+      <source url="https://www.theguardian.com/world/2026/oct/17/secrets-of-new-zealand-fiordland-crested-penguin-tawaki">The Guardian</source>
+    </item>
     <item>
       <title>Two sisters and one piano working wonders at dementia village</title>
       <link>https://www.abc.net.au/news/2026-10-17/musical-sisters-play-for-dementia-patients/107273816</link>
@@ -594,18 +606,6 @@ The turnaround has been equally profound for neighboring farmers like Louise Smi
 
 This story captures something both humbling and hopeful: nature's capacity for renewal and the resilience of farming families who held on through impossibly lean years. While challenges remain — including frost damage, disease pressure, and the sheer logistics of bringing in such an abundant harvest — the transformation from desperation to cautious optimism offers a quiet reminder of agriculture's fundamental dependence on rain, and the profound relief that comes when it finally falls.</description>
       <source url="https://www.abc.net.au/news/2026-10-13/bumper-harvest-post-drought-hopes-south-australia/107257272">ABC Australia</source>
-    </item>
-    <item>
-      <title>Medics swap stethoscopes for sheet music and classical instruments</title>
-      <link>https://www.rnz.co.nz/life/music/medics-swap-stethoscopes-for-classical-instruments</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/life/music/medics-swap-stethoscopes-for-classical-instruments</guid>
-      <pubDate>Mon, 12 Oct 2026 20:02:13 GMT</pubDate>
-      <description>When 84 healthcare professionals gathered in New Plymouth recently, they brought violins, bassoons, and double basses instead of medical equipment. The New Zealand Doctors' Orchestra, founded in 2012, has been touring the country for over a decade, bringing classical music to communities while raising funds for hospices — nearly $100,000 to date.
-
-The ensemble attracts physicians who were serious musicians before medicine took center stage in their lives. Some hold advanced music degrees, others have played professionally with major symphony orchestras. Co-founder Dr. Tim Wilkinson, a geriatrician and double bass player, describes an intensive rehearsal schedule: members receive their program two months ahead, practice independently, then converge for concentrated rehearsals from Friday morning through Sunday, culminating in an afternoon concert before everyone returns to their hospital shifts Monday morning. One violinist, Dr. Justine Bradley, draws parallels between orchestral collaboration and medical teamwork — both require individuals contributing specialized skills toward a unified goal. Dr. Matthew Payne, who plays the contrabassoon and once performed professionally, appreciates the relaxed atmosphere compared to his previous symphony work.
-
-This story offers a gentle reminder that people contain multitudes. Behind the clinical expertise and demanding schedules, these doctors maintain a creative discipline that mirrors their professional one — the same dexterity, consistency, and dedication applied in different contexts. Their sold-out New Plymouth concert raised nearly $10,000 for the local hospice, proving that passion pursued alongside duty can serve communities in unexpected, harmonious ways.</description>
-      <source url="https://www.rnz.co.nz/life/music/medics-swap-stethoscopes-for-classical-instruments">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
