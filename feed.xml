@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:04:08 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Margaret Hamilton obituary</title>
+      <link>https://www.theguardian.com/science/2026/oct/18/margaret-hamilton-obituary</link>
+      <guid isPermaLink="false">https://www.theguardian.com/science/2026/oct/18/margaret-hamilton-obituary</guid>
+      <pubDate>Sun, 18 Oct 2026 12:04:06 GMT</pubDate>
+      <description>Margaret Hamilton, who passed away at age 90, was a pioneering software engineer whose work proved essential to the Apollo moon landings. In an era when NASA's space program was overwhelmingly male and white, Hamilton led the software engineering division at MIT's Instrumentation Laboratory, overseeing development of the Apollo Guidance Computer—a revolutionary system that allowed astronauts to navigate and control spacecraft with unprecedented precision.
+
+Hamilton's innovation replaced the joystick controls of earlier Gemini missions with computer-linked keypads, creating more accurate flight paths and freeing astronauts for other critical tasks. The system represented a technological leap: it was the first computer built on silicon-integrated circuits, the same technology that would eventually power everyday devices from smartphones to laptops. Her meticulous preparation proved vital during Apollo 11's historic descent in July 1969, when alarms threatened to abort the landing. Having run countless simulations, Hamilton immediately recognized the problem—a radar switch left active, an error she'd seen Buzz Aldrin make during training. Her prior instructions to mission controllers allowed them to reassure Neil Armstrong the alarm could be ignored, and minutes later, the Eagle landed safely.
+
+Born in Indiana in 1936 and trained in mathematics, Hamilton began her career developing weather-prediction software alongside chaos theory pioneer Edward Lorenz before joining the Apollo program in 1965. Her story offers a quiet reminder of how individual expertise and calm judgment can shape history's most dramatic moments, and how exceptional talent found its place even within the rigid hierarchies of the 1960s space race.</description>
+      <source url="https://www.theguardian.com/science/2026/oct/18/margaret-hamilton-obituary">The Guardian</source>
+    </item>
     <item>
       <title>Japan to launch world-first mission to collect samples from Martian moon</title>
       <link>https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples</link>
@@ -594,18 +606,6 @@ The collective operates from Victorian buildings that once housed a prison, work
 
 Bybi originally intended to employ homeless and marginalized people as a pathway back into mainstream employment, even hiring a social worker to facilitate the transition. But Maxwell discovered that model "just doesn't work"—that the bottom of the job market has collapsed and traditional employment structures often fail vulnerable populations. Now people participate because they want to, not because they're compelled by social services. This story matters because it documents one small group's attempt to answer an increasingly urgent question: when conventional economic systems seem to be failing both people and planet, what alternative arrangements might actually allow communities to thrive?</description>
       <source url="https://www.theguardian.com/lifeandstyle/2026/oct/14/is-the-modern-economic-system-broken-these-urban-beekeepers-think-so-and-this-is-their-solution">The Guardian</source>
-    </item>
-    <item>
-      <title>Court archive reveals untold stories of slavery in Minas Gerais through nearly 300-year-old documents</title>
-      <link>https://g1.globo.com/mg/minas-gerais/noticia/2026/10/14/arquivo-do-tj-revela-historias-ineditas-da-escravidao-em-mg-em-documentos-de-quase-300-anos.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/mg/minas-gerais/noticia/2026/10/14/arquivo-do-tj-revela-historias-ineditas-da-escravidao-em-mg-em-documentos-de-quase-300-anos.ghtml</guid>
-      <pubDate>Wed, 14 Oct 2026 08:02:08 GMT</pubDate>
-      <description>Deep in the archives of Minas Gerais' Court of Justice, historians are uncovering nearly 300 years of untold stories about slavery in Brazil. Sifting through approximately 600,000 legal cases stored in Contagem, researchers are finding documents that reveal not just the cruelty of enslavement, but the remarkable agency of Black people fighting for their own freedom through Brazil's judicial system.
-
-Among the discoveries: legal proceedings showing enslaved people who were about to be auctioned presenting freedom letters from former owners to the courts—and winning their cases. Perhaps most poignant is a worn freedom letter, folded so many times it became tiny enough to fit in a pocket. The creases and damage tell a story of its own: a freed man who carried proof of his liberty everywhere, likely pulled from his pocket during constant street confrontations to prove he wasn't someone's property. The archives also document how financial institutions, including the Banco do Brasil, accepted human beings as collateral for debts owed by plantation owners and merchants.
-
-For the archivists and support staff who handle these records daily, the work is transformative. They describe how seeing an inventory listing one person as the "owner" of 150 others makes the dehumanization visceral in ways textbooks cannot. These documents offer something rare: a chance to understand the past critically, acknowledge historical violence, and consider paths toward greater equity. It's history that refuses to stay on the page, demanding that present-day Brazil reckon with structural racism's deep roots while honoring the resistance embedded in every folded letter and legal petition.</description>
-      <source url="https://g1.globo.com/mg/minas-gerais/noticia/2026/10/14/arquivo-do-tj-revela-historias-ineditas-da-escravidao-em-mg-em-documentos-de-quase-300-anos.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
