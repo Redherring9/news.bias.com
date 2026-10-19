@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 02:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:01:41 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Learn about Colosseum technology from Rome used to monitor structure of Ipiranga Museum in South Zone of São Paulo</title>
+      <link>https://g1.globo.com/sp/sao-paulo/noticia/2026/10/19/conheca-tecnologia-do-coliseu-de-roma-usada-para-monitorar-estrutura-do-museu-do-ipiranga-na-zona-sul-de-sp.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/sp/sao-paulo/noticia/2026/10/19/conheca-tecnologia-do-coliseu-de-roma-usada-para-monitorar-estrutura-do-museu-do-ipiranga-na-zona-sul-de-sp.ghtml</guid>
+      <pubDate>Mon, 19 Oct 2026 04:01:39 GMT</pubDate>
+      <description>Brazilian researchers are using the same laser scanning technology employed at Rome's Colosseum to monitor the structural health of São Paulo's Ipiranga Museum. The cutting-edge approach maps every millimeter of the historic building, inside and out, creating a detailed digital twin that helps preserve one of Brazil's most important cultural landmarks.
+
+The project is a collaboration between the University of São Paulo and the University of Ferrara in Italy, with the Italian team that scanned the Colosseum leading the technical work. Over three weeks in late 2023, portable laser equipment captured the museum's surfaces with millimeter precision, revealing subtle shifts, moisture levels, and even early signs of mold that traditional measuring tools would miss. The technology works like a medical exam for buildings, according to Professor Marcello Balzani, who describes it as creating radiographs and CT scans of the structure. Because the team had previously scanned the museum before its nine-year renovation, they can now compare before-and-after conditions and track how the building responds to environmental changes.
+
+What makes this story quietly remarkable is how it bridges ancient preservation with modern innovation. The digital model allows curators to simulate extreme weather scenarios brought on by climate change and anticipate problems before they become costly repairs. It's preventive care for heritage—less expensive, less invasive, and more effective than waiting for damage to appear. In an era when historic buildings face unprecedented environmental pressures, this approach offers a thoughtful way to honor the past while protecting it for the future.</description>
+      <source url="https://g1.globo.com/sp/sao-paulo/noticia/2026/10/19/conheca-tecnologia-do-coliseu-de-roma-usada-para-monitorar-estrutura-do-museu-do-ipiranga-na-zona-sul-de-sp.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>FNRL clears $300k debt and pays World Cup player allowances</title>
       <link>https://www.rnz.co.nz/news/pacific/2018104/fnrl-clears-300k-debt-and-pays-world-cup-player-allowances</link>
@@ -594,18 +606,6 @@ The initiative responds to a disconnect many younger veterans feel with traditio
 
 The story quietly illustrates how community support is evolving to meet people where they are — not in meeting halls, but in settings that feel natural and comfortable. It's a reminder that healing and connection don't always require formal structures, and that sometimes the most meaningful support comes from simply sitting together around a fire with people who understand what you've been through. The families are included too, recognizing that the impact of war extends beyond those who served.</description>
       <source url="https://www.abc.net.au/news/2026-10-15/bellinger-river-rsl-bid-to-re-engage-isolated-veterans/107204130">ABC Australia</source>
-    </item>
-    <item>
-      <title>Dog that hunts invasive 'sea vomit' honoured as animal of the year</title>
-      <link>https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Thu, 15 Oct 2026 00:01:39 GMT</pubDate>
-      <description>A black Labrador named Sgiath has been honored as animal of the year for her remarkable work tracking down an invasive marine species along Scotland's coast. Working alongside her owner, marine ecologist Dr. Texa Sim, the six-year-old dog uses her exceptional sense of smell to locate colonies of carpet sea squirt—a creature nicknamed "sea vomit" that threatens native marine life and coastal economies. The invasive organism, which arrived in the UK from Japan in 2008, smothers native species and clogs marine infrastructure, costing millions annually in cleanup efforts across Europe.
-
-What makes Sgiath particularly impressive is her versatility. Originally trained as a mountain rescue dog, she learned to apply her scent-detection skills to marine conservation through patient training with Dr. Sim. At low tide, Sgiath searches beaches and investigates beneath seaweed, using what trainers call a "passive indication"—a quiet freeze or stare—to signal her finds. This differs from her mountain rescue work, where she barks and bounces to alert others to lost hikers. The carpet sea squirt can be difficult for humans to spot, resembling slime among seaweed on pontoons and oyster cages, but Sgiath's nose never misses it.
-
-This story offers a heartening example of how traditional working dog skills can be adapted to address emerging environmental challenges. As warming seas threaten to expand the range of invasive species, Sgiath represents an innovative, low-tech solution that combines the ancient bond between humans and dogs with cutting-edge conservation needs—proof that sometimes the best answer to a modern problem has four legs and a wagging tail.</description>
-      <source url="https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
