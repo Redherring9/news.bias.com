@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 22:03:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:01:16 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mission set to blast off for Mars to grab a piece of its moon</title>
+      <link>https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Mon, 19 Oct 2026 00:01:13 GMT</pubDate>
+      <description>A Japanese-led space mission is preparing to launch with an audacious goal: retrieve a sample from Phobos, one of Mars's two small, potato-shaped moons, and bring it back to Earth. If successful, the Mars Moons Exploration (MMX) mission would mark the first time material from the Martian system has been returned for laboratory analysis. The spacecraft is scheduled to lift off on Monday and reach Phobos by August 2027.
+
+The mission faces significant technical challenges. Phobos, only about 20 kilometers across, has minimal gravity of its own while orbiting close to Mars, making it difficult to land a rover on its surface. Scientists plan to deploy a small rover to scout a landing site before the main spacecraft touches down to collect approximately 10 grams of moon dust using a robotic arm and samplers. That tiny capsule of material will return to Earth in 2031, landing in the Australian desert. Despite the modest quantity, researchers emphasize that individual grains can yield valuable scientific insights. There's even a possibility that the sample might contain fragments of Mars itself, ejected by asteroid impacts and embedded in Phobos's surface over time.
+
+The mission aims to solve a longstanding mystery: did Phobos and Deimos form from debris after a catastrophic collision with early Mars, or are they captured asteroids from the outer Solar System? Chemical analysis of the returned sample should provide a definitive answer almost immediately. With NASA's Mars Sample Return mission effectively cancelled after losing congressional funding, this Japanese effort represents humanity's best near-term opportunity to study Martian material in Earth-based laboratories—a quiet but remarkable milestone in our exploration of the Red Planet's neighborhood.</description>
+      <source url="https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>'Shared language of horror' uniting Aussie and Indonesian filmmakers</title>
       <link>https://www.abc.net.au/news/2026-10-19/horror-movies-indonesia-regional-australia-toowoomba/107271162</link>
@@ -594,18 +606,6 @@ Sydney-based ceramics expert Karin Sowada from Macquarie University played a cru
 
 This discovery offers a rare window into the earliest days of seafaring commerce, pushing back our understanding of ancient shipping networks. While tests continue on residue found inside the jars, the investigation is still in its early stages. What makes this find quietly remarkable is how fragments of everyday trade goods—jars once filled with grain, oil, resins, and wine—can reveal stories of human endeavor and peril from nearly five millennia ago.</description>
       <source url="https://www.abc.net.au/news/2026-10-15/worlds-oldest-shipwreck-found-in-turkiye-archaeologists-say/107267406">ABC Australia</source>
-    </item>
-    <item>
-      <title>Spring table settings gain colors, freshness and new flavors</title>
-      <link>https://g1.globo.com/pr/parana/especial-publicitario/italo-supermercados-guia-de-sabores-momentos/noticia/2026/10/14/mesa-posta-de-primavera-ganha-cores-frescor-e-novos-sabores.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/pr/parana/especial-publicitario/italo-supermercados-guia-de-sabores-momentos/noticia/2026/10/14/mesa-posta-de-primavera-ganha-cores-frescor-e-novos-sabores.ghtml</guid>
-      <pubDate>Wed, 14 Oct 2026 20:03:38 GMT</pubDate>
-      <description>As spring arrives in Brazil, the season brings an invitation to refresh not just the landscape, but the dining table as well. With warmer temperatures and longer days, the abundance of fresh fruits, vegetables, and vibrant ingredients inspires lighter meals, refreshing beverages, and outdoor gatherings that celebrate the spirit of renewal.
-
-The article explores how spring's natural palette translates to the table through colorful berries like strawberries, blueberries, and raspberries, alongside fresh greens and lighter preparations. Beyond the food itself, the season encourages a more relaxed approach to dining—think fresh flowers as centerpieces, colorful dishware, and beverages served in pitchers and glasses that invite leisurely conversation. Supermarkets in Brazil are responding to this seasonal shift, with expanded displays of orchids and blooms that mirror the atmosphere outside, while offering tropical fruits like mango, passion fruit, and peach that bring sweetness and acidity to both savory dishes and drinks.
-
-The piece also highlights spring-appropriate beverages, from floral rosé wines and crisp whites to light, vibrant reds with lower tannins, all suited to outdoor dining and seafood pairings. Recipes for spring sangria—combining rosé, strawberries, limoncello, and sparkling water—and salmon tacos with mango salsa offer practical ways to bring these seasonal flavors to life. This story is worth a reader's time because it gently reminds us that eating seasonally isn't just about nutrition; it's about aligning our tables with the world outside, finding joy in what's fresh and fleeting, and creating moments worth savoring.</description>
-      <source url="https://g1.globo.com/pr/parana/especial-publicitario/italo-supermercados-guia-de-sabores-momentos/noticia/2026/10/14/mesa-posta-de-primavera-ganha-cores-frescor-e-novos-sabores.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
