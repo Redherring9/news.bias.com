@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 20:03:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 22:01:35 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The 'immortal' jellyfish capable of rejuvenating and how the secrets of its cells can help us treat diseases</title>
+      <link>https://www.bbc.com/mundo/articles/cr0j0qqj57zeo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cr0j0qqj57zeo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Tue, 20 Oct 2026 22:01:32 GMT</pubDate>
+      <description>The Turritopsis dohrnii, a tiny translucent jellyfish, has earned the nickname "immortal jellyfish" for a remarkable reason: when subjected to stress, starvation, or injury, it doesn't simply die. Instead, it transforms itself back into an earlier life stage, essentially reversing its biological clock. Marine biologist Maria Miglietta has tested these creatures under extreme conditions—cutting them, boiling them, depriving them of food—and watched them repeatedly cheat death by reverting to a cellular mass that sprouts into a polyp, which then develops into a new colony of jellyfish.
+
+This extraordinary ability involves a process called transdifferentiation, where specialized adult cells return to a stem cell-like state and then transform into entirely different cell types needed to form the polyp. First described in 1992 by an Italian scientist who accidentally starved his lab specimens over a weekend, the phenomenon has since captivated researchers exploring the genetic and molecular mechanisms behind it. While some animals can regenerate lost limbs or organs, the Turritopsis dohrnii appears unique in its ability to rejuvenate its entire body repeatedly.
+
+Scientists like Michael Koldobskiy at Johns Hopkins University see profound potential in understanding this process—not to turn elderly humans into babies, but to help cells and tissues recover youthful states for healing wounds and treating age-related diseases. Though practical applications remain distant, unraveling the secrets of this unassuming jellyfish could open doors to regenerative medicine, offering hope for reversing the cellular degradation that comes with aging. It's a quiet reminder that nature's smallest creatures sometimes hold the keys to humanity's biggest questions.</description>
+      <source url="https://www.bbc.com/mundo/articles/cr0j0qqj57zeo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Rare critically endangered potoo found for the first time in National Park in Bahia</title>
       <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/10/20/urutau-raro-e-criticamente-ameacado-e-encontrado-pela-1o-vez-em-parque-nacional-na-ba.ghtml</link>
@@ -594,18 +606,6 @@ Learning to drive held special significance for Kathrein. She traveled from her 
 
 Kathrein's story is worth attention not because it sensationalizes difference, but because it quietly redefines what's possible. Her social media presence offers a window into adaptive living that feels natural and unforced—disability appears as one part of her life, not its defining feature. In sharing both her capabilities and her vulnerabilities, she opens a conversation about accessibility and the importance of society adapting to people, rather than the other way around.</description>
       <source url="https://g1.globo.com/go/goias/noticia/2026/10/16/servidora-publica-que-nasceu-sem-os-bracos-cozinha-dirige-e-faz-rapel-dirigir-e-autonomia.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Exhibition celebrates six generations of Hetet and Te Kanawa weaving whānau</title>
-      <link>https://www.rnz.co.nz/news/te-manu-korihi/1963705/exhibition-celebrates-six-generations-of-hetet-and-te-kanawa-weaving-whanau</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/te-manu-korihi/1963705/exhibition-celebrates-six-generations-of-hetet-and-te-kanawa-weaving-whanau</guid>
-      <pubDate>Fri, 16 Oct 2026 18:03:40 GMT</pubDate>
-      <description>A new exhibition in Hamilton, New Zealand, honors six generations of the Hetet and Te Kanawa whānau, whose dedication to raranga—traditional Māori weaving—has helped preserve and elevate the craft on the world stage. Rīpoi Anamata, Rīpoi Inamata brings together more than 180 years of family legacy at Te Whare Taonga o Waikato Museum and Gallery, showcasing the work of matriarchs like Mere Te Rongopāmamao Aubrey, Dame Rangimārie Hetet, and Diggeress Te Kanawa, alongside their descendants.
-
-The exhibition features over 25 kākahu (woven garments) and explores the connection between portraits and weaving. One striking portrait shows third- and fourth-generation mokopuna wearing korowai crafted by their kuia, Dame Rangimārie Hetet. Ata Te Kanawa, Diggeress's daughter and part of the exhibition's working group, explains the portrait captures the children's strength and confidence—they attend wharekura and are fluent in te reo Māori. The collection includes pieces from across the family, including a garment made from dingo by a niece in Australia and one gifted to opera singer Dame Kiri Te Kanawa. Ata recalls a childhood memory of hiding under a piano during a fundraiser for Kiri's training in London, as no one in the room had experienced opera singing before.
-
-This exhibition is more than a display of beautiful craft—it's a testament to intergenerational dedication, cultural continuity, and the quiet power of teaching. The Hetet and Te Kanawa whānau didn't just preserve raranga; they embedded it in daily life and passed it forward with patience and foresight. It's a story about how art and tradition thrive when they're lived, not just remembered.</description>
-      <source url="https://www.rnz.co.nz/news/te-manu-korihi/1963705/exhibition-celebrates-six-generations-of-hetet-and-te-kanawa-weaving-whanau">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
