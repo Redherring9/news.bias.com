@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:04:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:04:06 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Menopause: why doctors say the fear of hormone therapy is greater than the actual risk</title>
+      <link>https://www.bbc.com/portuguese/articles/c98vzgy2vjzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/c98vzgy2vjzo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Tue, 20 Oct 2026 14:04:02 GMT</pubDate>
+      <description>Brazilian doctors are noticing a persistent disconnect: many women fear hormone replacement therapy (HRT) for menopause far more than the evidence warrants. When patients initially hear the suggestion, their first question is almost always about cancer risk. Yet three months into treatment, these same women often return amazed at the relief they've found, wishing they'd started sooner. One gynecologist describes patients saying the medication eliminated hot flashes "like magic"—though she's quick to point out it's simply effective hormone therapy doing what it's designed to do.
+
+The stakes are significant in Brazil, where approximately 33 million women are currently between ages 40 and 65, the window when most experience menopause symptoms. Yet a 2022 study found that only 22% of Brazilian women who sought medical help for menopause symptoms were offered HRT. The therapy replaces estrogen and progesterone, hormones that drop sharply during menopause and cause hot flashes, night sweats, insomnia, and mood changes. While certain cancer risks exist—estrogen alone can affect uterine tissue, and HRT is contraindicated for some breast cancer survivors—recent research suggests these risks are generally smaller than previously thought.
+
+This story matters because it highlights how outdated fears, rooted in a flawed early-2000s study, continue to shape medical practice decades later. In February, the U.S. FDA removed its most severe safety warnings from HRT labels, reflecting newer evidence. Brazilian physicians hope this shift will help update perceptions at home, potentially improving quality of life for millions of women navigating a natural but often challenging life transition.</description>
+      <source url="https://www.bbc.com/portuguese/articles/c98vzgy2vjzo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Baby with heart condition leaves hospital for the first time after 1 year and 7 months in Natal</title>
       <link>https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/10/20/bebe-doenca-coracao-deixa-hospital-natal.ghtml</link>
@@ -594,18 +606,6 @@ Dr. Emma Pomeroy from Cambridge University notes that the wound's clean, circula
 
 This discovery adds to a growing body of evidence suggesting that violence among early humans was more common than previously thought. Rather than depicting Neandertals as peaceful, these findings hint at a more complex social reality that included conflict alongside the cooperation and care for which they're also known. It's a quiet reminder that certain human behaviors may have deeper roots in our shared prehistoric past than we'd perhaps like to acknowledge.</description>
       <source url="https://www.bbc.com/mundo/articles/cq146k14y55jo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>News in Cartoons: Cartooning for Peace, 20 Years of Commitment to Human Rights and Democracy</title>
-      <link>https://www.france24.com/fr/am%C3%A9riques/20261016-l-actu-en-dessin-cartooning-for-peace-20-ans-d-engagement-pour-les-droits-humains-et-la-d%C3%A9mocratie</link>
-      <guid isPermaLink="false">https://www.france24.com/fr/am%C3%A9riques/20261016-l-actu-en-dessin-cartooning-for-peace-20-ans-d-engagement-pour-les-droits-humains-et-la-d%C3%A9mocratie</guid>
-      <pubDate>Fri, 16 Oct 2026 10:01:30 GMT</pubDate>
-      <description>Cartooning for Peace, an international network of editorial cartoonists, is marking its twentieth anniversary this year. The organization was founded on October 16, 2006, at the United Nations headquarters in New York through an unlikely but powerful partnership: Kofi Annan, then UN Secretary-General and Nobel Peace Prize laureate, joined forces with Plantu, a prominent press cartoonist, to convene twelve international cartoonists for a colloquium titled "Unlearning Intolerance – Drawing for Peace."
-
-The initiative emerged from a turbulent moment in global discourse. Both founders were struck by the intense controversy surrounding the publication of cartoons depicting the Prophet Muhammad, which had ignited fierce debate about free expression, religious sensitivity, and cross-cultural understanding. They recognized that editorial cartoons occupied a unique and vital position in democratic dialogue and intercultural exchange. What began as a gathering of twelve has grown into a network of 374 cartoonists spanning 80 countries, united by their commitment to using visual commentary as a tool for promoting human rights and democratic values.
-
-In an era when press freedom faces mounting challenges worldwide, the work of Cartooning for Peace feels particularly urgent. The organization's mission—to advance freedom of expression, human rights, and mutual respect across cultures and belief systems through the universal language of cartooning—speaks to the enduring power of visual satire. This anniversary offers a moment to appreciate how a simple drawing can transcend language barriers, provoke necessary conversations, and defend the values that sustain open societies, all while reminding us that humor and artistry remain essential instruments of peaceful resistance.</description>
-      <source url="https://www.france24.com/fr/am%C3%A9riques/20261016-l-actu-en-dessin-cartooning-for-peace-20-ans-d-engagement-pour-les-droits-humains-et-la-d%C3%A9mocratie">France 24</source>
     </item>
   </channel>
 </rss>
