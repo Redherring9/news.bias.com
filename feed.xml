@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:04:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:02:41 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos</title>
+      <link>https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks</link>
+      <guid isPermaLink="false">https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks</guid>
+      <pubDate>Tue, 20 Oct 2026 00:02:40 GMT</pubDate>
+      <description>Japan has launched an ambitious mission to collect rocks from Phobos, one of Mars's two small moons, in what scientists are calling a historic first. The Martian Moons Exploration spacecraft lifted off aboard an H3 rocket from Tanegashima island in the pre-dawn hours, watched by thousands via livestream. If successful, the mission will return at least 10 grams of soil and rock from Phobos to Earth by 2031, marking the first time any nation has attempted to land on either of Mars's potato-shaped moons.
+
+The five-year, $578 million mission is a collaborative effort involving five space agencies, including NASA and European partners. After reaching Mars orbit in August 2026, the spacecraft will deploy a French-German rover named Idefix, which will bounce across Phobos's surface for 100 days to scout landing sites. The main lander will then spend just two hours drilling and collecting samples before launching back into space. Scientists hope the samples will help settle a fundamental question: were Phobos and Deimos formed by a giant impact with Mars, or are they captured asteroids? The answer could reveal important clues about how habitable environments arose on Earth and other terrestrial planets.
+
+This mission arrives amid a broader race to return samples from the Martian system. While NASA's Mars sample return has been halted and China's Tianwen-3 mission won't launch until 2028, Japan's focus on Phobos offers a unique window into the early solar system. For the engineers and scientists involved, it represents a career-defining moment—a chance to touch a world no human probe has ever visited and bring home answers to questions billions of years in the making.</description>
+      <source url="https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks">The Guardian</source>
+    </item>
     <item>
       <title>Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds</title>
       <link>https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results</link>
@@ -594,18 +606,6 @@ The fieldwork reflects a thoughtful approach to understanding forest ecosystems.
 
 This story matters because it illustrates conservation as a collaborative, long-term endeavor rather than a dramatic rescue mission. The next monitoring phase is scheduled for late November, marking five years of continuous wildlife tracking. In an era often dominated by headlines about environmental loss, here is a quieter narrative: communities and scientists working side by side, season after season, to know and protect a place. It's the kind of sustained attention that doesn't make for flashy news, but may ultimately prove more enduring than any single intervention.</description>
       <source url="https://g1.globo.com/ap/amapa/noticia/2026/10/15/moradores-e-biologos-se-unem-para-mapear-e-proteger-animais-em-reserva-no-amapa.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Impact of ending the 6x1 schedule on the economy: what examples of reduced working hours in European countries show</title>
-      <link>https://www.bbc.com/portuguese/articles/c6x2v01kke3zo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/c6x2v01kke3zo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Thu, 15 Oct 2026 20:02:51 GMT</pubDate>
-      <description>Brazil's Senate has approved a constitutional amendment ending the controversial 6x1 work schedule—six days on, one day off—and reducing the standard workweek from 44 to 40 hours, with guaranteed pay protection. The measure, which passed by an overwhelming 75-1 vote in two rounds, affects roughly 14.8 million workers, or just under 15% of Brazil's employed population. While labor experts note this represents a relatively small segment that can adapt, industry groups warn of potential economic contraction, estimating a 0.7% drop in GDP.
-
-The backdrop makes the story particularly interesting: Brazil hasn't reduced work hours since 1988, when the Constitution set the limit at 44 hours weekly. Yet in those nearly four decades, worker productivity has grown by 34%, and Brazil's economy has expanded from $320 billion to $2.27 trillion. This suggests Brazilians have been producing more in less time—a pattern mirrored in European countries that reduced working hours. Research from Germany's Institute for Labor Economics found that France, Italy, Belgium, Portugal, and Slovenia all experienced robust GDP growth between 1995 and 2007 after cutting work hours, with minimal impact on employment levels.
-
-This story offers a window into a global conversation about work-life balance and economic productivity. It challenges the assumption that longer hours automatically mean stronger economies, presenting evidence that rest and quality of life might actually enhance output. For anyone wondering whether a healthier work culture can coexist with economic vitality, Brazil's experiment—and Europe's precedent—provides a compelling case study worth watching.</description>
-      <source url="https://www.bbc.com/portuguese/articles/c6x2v01kke3zo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
     </item>
   </channel>
 </rss>
