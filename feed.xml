@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 06:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:03:13 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Who owns India’s textile traditions in age of AI-enabled mass production?</title>
+      <link>https://www.aljazeera.com/features/2026/10/21/who-owns-indias-textile-traditions-in-age-of-ai-enabled-mass-production?traffic_source=rss</link>
+      <guid isPermaLink="false">https://www.aljazeera.com/features/2026/10/21/who-owns-indias-textile-traditions-in-age-of-ai-enabled-mass-production?traffic_source=rss</guid>
+      <pubDate>Wed, 21 Oct 2026 08:03:10 GMT</pubDate>
+      <description>In northeastern India, a computer science professor noticed that traditional scarves in local markets featured only a handful of repetitive patterns. He discovered that weavers were being paid modest one-time fees for their designs rather than ongoing royalties, prompting manufacturers to limit design variety as a cost-saving measure. His response was to create an AI system capable of generating infinite new patterns—a tool he hopes will empower traditional designers rather than replace them.
+
+The tension at the heart of this story runs deeper than technology. India's textile traditions carry centuries of cultural memory: patterns that encode mythology, migration histories, and local ecologies. Weavers inherit designs through generations, their hands guided by the hesitations and choices of their grandmothers. Similar digitization efforts, like the Rekh Sanganeri Dataset for Rajasthani block-printed textiles, meticulously capture even the imperfections that define handmade work. Developers insist these tools exist to preserve craft traditions and support research, not to replace artisans. Yet the paradox is unavoidable: systems built for preservation make it easier to reproduce cultural patterns without involving the communities that created them.
+
+Traditional craftspeople occupy complicated positions in this new landscape. One Rajasthani block-printing designer acknowledges that handcraft cannot meet modern demand at scale and doesn't fault those using digital tools to bridge the gap. His concern lies elsewhere—with the appropriation of regional names and designs that emerged from specific cultural contexts. This story quietly asks a question that reaches beyond textiles: when cultural knowledge becomes data, who has the right to own, use, and profit from it? The answer matters not just for India's weavers, but for indigenous and traditional knowledge systems worldwide navigating the age of artificial intelligence.</description>
+      <source url="https://www.aljazeera.com/features/2026/10/21/who-owns-indias-textile-traditions-in-age-of-ai-enabled-mass-production?traffic_source=rss">Al Jazeera</source>
+    </item>
     <item>
       <title>Country diary: What a privilege it is to witness bird migration on such a scale | Country diary</title>
       <link>https://www.theguardian.com/environment/2026/oct/21/country-diary-what-a-privilege-it-is-to-witness-bird-migration-on-such-a-scale</link>
@@ -594,18 +606,6 @@ The homeowner, Pam Aitchison, had been feeding the pine marten peanut butter and
 
 What makes this story quietly remarkable is how it weaves together wildlife, traditional craft, and local ecology. The replacement reed comes from just down the road in Tayside—Britain's largest continuous reedbed, an eleven-mile arc of Phragmites originally planted as flood defense in the early 19th century. Now managed by the RSPB, this wetland supports a quarter of Britain's bearded tit population, along with marsh harriers and water rails. It's a gentle reminder that traditional building materials and methods remain deeply connected to living landscapes, and that the work of preserving old crafts sometimes means negotiating with the wild neighbors who find them equally useful.</description>
       <source url="https://www.theguardian.com/environment/2026/oct/17/country-diary-the-challenge-of-making-a-thatched-roof-pine-marten-proof">The Guardian</source>
-    </item>
-    <item>
-      <title>Brazil’s Amazon deforestation hits lowest level on record</title>
-      <link>https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss</link>
-      <guid isPermaLink="false">https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss</guid>
-      <pubDate>Sat, 17 Oct 2026 04:01:58 GMT</pubDate>
-      <description>Brazil's Amazon rainforest has reached a remarkable environmental milestone, with deforestation dropping to its lowest level since monitoring began in 1988. According to data from Brazil's space research agency Inpe, just 3,335 square kilometers of forest were cleared in the twelve months through July—a 42 percent decrease from the previous year. The figures represent a dramatic turnaround from the mid-1990s, when annual losses approached 30,000 square kilometers, and mark significant progress since deforestation peaked at a 15-year high under former president Jair Bolsonaro.
-
-The achievement reflects sustained effort over recent years, with deforestation declining annually since 2022 and falling more than 71 percent over four years. Environmental advocates credit increased monitoring and stricter enforcement against illegal logging for the improvements. President Luiz Inacio Lula da Silva, who took office in 2023 with a pledge to end illegal deforestation by 2030, called the results proof that political commitment can curb forest loss and greenhouse gas emissions. The neighboring Cerrado savanna has also seen encouraging trends, with clearing down 24 percent to its lowest level since records began in 2001.
-
-This story matters because it offers a rare piece of encouraging news in the often-discouraging realm of global environmental challenges. It demonstrates that targeted policy interventions can reverse even deeply entrenched environmental damage, providing a potential model for forest conservation efforts worldwide. The Amazon's role as a critical carbon sink and biodiversity reservoir makes every square kilometer preserved a quiet victory for the planet's ecological future.</description>
-      <source url="https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
