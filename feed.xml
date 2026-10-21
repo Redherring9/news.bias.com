@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 00:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 02:03:04 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Plato Mission, featuring Brazilian scientists, will launch 26 cameras to try to detect Earth-like planets</title>
+      <link>https://g1.globo.com/jornal-nacional/noticia/2026/10/20/missao-plato-que-conta-com-cientistas-brasileiros-lancara-26-cameras-para-tentar-detectar-planetas-parecidos-com-a-terra.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/jornal-nacional/noticia/2026/10/20/missao-plato-que-conta-com-cientistas-brasileiros-lancara-26-cameras-para-tentar-detectar-planetas-parecidos-com-a-terra.ghtml</guid>
+      <pubDate>Wed, 21 Oct 2026 02:03:02 GMT</pubDate>
+      <description>European researchers, joined by Brazilian scientists, are preparing to launch an ambitious planet-hunting mission called Plato. Set to lift off in March 2027 from French Guiana, the satellite will search for something quite specific: distant, rocky planets with Earth-like temperatures and the potential for surface water—worlds where life might exist. What makes this mission particularly intriguing is its approach and Brazil's meaningful role in making it happen.
+
+The Plato satellite will carry 26 highly sensitive cameras positioned 1.5 million kilometers from Earth, pointed away from both our planet and the Sun. These cameras will monitor the light from thousands of distant stars, watching for tiny dips in brightness that occur when a planet passes between the star and the observing satellite—a technique called the transit method. Brazil's contribution comes through simulators developed at the Mauá Institute of Technology in São Caetano do Sul. These devices, called Simucams, precisely replicate the satellite's camera behavior, allowing teams to test systems, troubleshoot problems before launch, and train for scenarios that might arise once the satellite is in space.
+
+The partnership offers Brazil more than just participation credit. All discoveries from the Plato mission will be shared with Brazilian scientists, and the knowledge transfer began 15 years ago when the collaboration started. By building the simulators to European specifications, Brazilian researchers gained cutting-edge expertise that will position the next generation of scientists to work with world-class data. It's a story of international cooperation where the journey of preparation proves as valuable as the destination—a reminder that space exploration increasingly depends on shared curiosity across borders.</description>
+      <source url="https://g1.globo.com/jornal-nacional/noticia/2026/10/20/missao-plato-que-conta-com-cientistas-brasileiros-lancara-26-cameras-para-tentar-detectar-planetas-parecidos-com-a-terra.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Kiwi-Tongan leader urges Pasifika youth to push past barriers and back themselves</title>
       <link>https://www.rnz.co.nz/news/pacific/2052270/kiwi-tongan-leader-urges-pasifika-youth-to-push-past-barriers-and-back-themselves</link>
@@ -594,18 +606,6 @@ The Tawaki Project, founded by Dr. Thomas Mattern and his wife Ursula Ellenberg,
 
 Perhaps most baffling is their pre-molting migration. Each December, after breeding season ends and despite abundant local food, these exhausted penguins embark on a 5,000 to 7,000 kilometer journey to sub-Antarctic waters to feed before their annual feather replacement. Mattern likens it to "running a marathon while trying to gain weight." He suspects they're following ancient instincts shared with other crested penguin species. This story reminds us how much remains unknown even about creatures living in well-studied regions, and how patient observation can reveal nature's delightful refusal to follow our expectations.</description>
       <source url="https://www.theguardian.com/world/2026/oct/17/secrets-of-new-zealand-fiordland-crested-penguin-tawaki">The Guardian</source>
-    </item>
-    <item>
-      <title>Two sisters and one piano working wonders at dementia village</title>
-      <link>https://www.abc.net.au/news/2026-10-17/musical-sisters-play-for-dementia-patients/107273816</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-17/musical-sisters-play-for-dementia-patients/107273816</guid>
-      <pubDate>Fri, 16 Oct 2026 22:02:35 GMT</pubDate>
-      <description>Two young sisters in Hobart, Australia, discovered something remarkable while visiting a family friend with dementia: when they played piano for him, his stress seemed to melt away. Min Luo, 12, and Fei Shan, 9, noticed he would tap his hands, hum along, and find a moment of peace in the music. That small observation inspired them to share their gift more widely, performing concerts at aged care facilities for residents living with dementia.
-
-At the Korongee Dementia Village, their performances bring visible joy. Residents tap their feet, nod along, and sometimes reconnect with emotions and memories they struggle to access otherwise. Nick Dickens, a 75-year-old former rock guitarist living with frontotemporal and vascular dementia, describes the effect simply: "The old stress goes out the window … it just makes you feel alive." He's noticed that even residents who seem withdrawn most of the time respond when music fills the room. Researchers have found that the part of the brain responsible for musical memory is unusually resilient to dementia's progression, allowing people to recognize and respond to music even when other cognitive abilities fade. Music also releases dopamine, which can lift mood and ease anxiety.
-
-This story is a gentle reminder of how small acts of generosity can have outsized impact. Two children, armed only with their instruments and curiosity, stumbled upon a way to reach people that medicine alone cannot. In a world where dementia is now Australia's leading cause of death, their concerts offer something beyond research or treatment—they offer connection, joy, and a language everyone can understand.</description>
-      <source url="https://www.abc.net.au/news/2026-10-17/musical-sisters-play-for-dementia-patients/107273816">ABC Australia</source>
     </item>
   </channel>
 </rss>
