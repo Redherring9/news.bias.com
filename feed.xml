@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 00:01:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 02:04:07 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>World leaders warn of security flaws found in PHP programming language</title>
+      <link>https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss</link>
+      <guid isPermaLink="false">https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss</guid>
+      <pubDate>Thu, 22 Oct 2026 02:04:05 GMT</pubDate>
+      <description>Government websites across Europe and Asia went temporarily dark this week after cybersecurity researchers discovered two critical security flaws in PHP, a programming language that powers more than 70 percent of websites worldwide. The vulnerabilities, collectively called PHP2Shell, were unusual enough to prompt a rare public warning from the U.S. National Security Agency, urging organizations to take sites offline if immediate updates weren't possible.
+
+What makes this discovery particularly notable is how it was found: researchers used artificial intelligence to identify weaknesses that had lurked in PHP's code for decades but were nearly impossible for human programmers to detect on their own. Security firms Calif and Wiz, working with AI models, uncovered the flaws in August. The vulnerabilities allow attackers to remotely execute commands on servers without passwords or legitimate credentials by exploiting unauthorized memory access—a severe breach that experts at Wiz called among the most critical "arguably in software history."
+
+This story offers a revealing glimpse into how AI is reshaping cybersecurity in both promising and unsettling ways. While these tools can help defenders find and patch vulnerabilities faster than ever, they're also available to attackers seeking new exploits. The PHP Foundation, a nonprofit that maintains the volunteer-run language, warned that the number of AI-discovered bugs will only grow and called for coordinated industry responses. For anyone who's ever clicked on a website—which is to say, nearly everyone—this quiet drama unfolding in the background of the internet is a reminder of the invisible infrastructure we rely on daily and the evolving challenges of keeping it secure.</description>
+      <source url="https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss">Al Jazeera</source>
+    </item>
     <item>
       <title>Outback giant yabby Australia's latest 'big thing'</title>
       <link>https://www.abc.net.au/news/2026-10-22/big-yabby-statue-windorah-outback-queensland/107286084</link>
@@ -594,18 +606,6 @@ New research published in Gondwana Research offers an elegant explanation for th
 
 This story quietly rewrites our understanding of how the Earth's interior shapes the surface we see. It reminds us that even familiar landmarks like Lord Howe Island are chapter markers in a planetary story written over millions of years, and that the ground beneath our feet—or beneath the waves—remains full of surprises waiting to be decoded.</description>
       <source url="https://www.abc.net.au/news/2026-10-18/lord-howe-island-and-the-volcanic-chains-of-australia/107204522">ABC Australia</source>
-    </item>
-    <item>
-      <title>What images of a female elephant carrying a dead calf tell us about animal grief</title>
-      <link>https://www.bbc.com/portuguese/articles/c63r583p3pw4o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/c63r583p3pw4o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sat, 17 Oct 2026 20:01:38 GMT</pubDate>
-      <description>A photograph capturing a female elephant carrying a stillborn calf through Namibia's desert has won the 2026 Wildlife Photographer of the Year award, but the story behind the image reveals something even more profound than it first appears. Photographer Federico Veronesi encountered the scene while following a herd along a dry riverbed in September 2025, watching as the elephant carefully held the tiny body in her trunk for hours, pausing only to eat or drink before continuing her journey.
-
-The most striking detail emerged later: the elephant wasn't carrying her own calf. Conservation director Christin Winter discovered that this 14-year-old female had lost her own baby two years earlier, and since then has been observed carrying the stillborn calves of other mothers on four separate occasions—the first time such behavior has been documented in the region. Winter suggests this may be a form of emotional processing, a way the elephant attempts to reconnect with her own lost offspring, or perhaps an effort to protect the bodies from predators. The behavior hints at trauma that persists across years.
-
-This photograph offers more than a glimpse of grief; it reveals the complex emotional lives of Namibia's desert elephants, a population of about 150 individuals who have adapted to arid conditions through learned knowledge rather than genetic change. Their survival depends on passing down this cultural wisdom about where to find water and food in an unforgiving landscape. The image is a quiet reminder that elephants experience loss and memory in ways that mirror our own—a connection that makes their vulnerability, and their resilience, all the more remarkable.</description>
-      <source url="https://www.bbc.com/portuguese/articles/c63r583p3pw4o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
     </item>
   </channel>
 </rss>
