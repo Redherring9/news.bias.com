@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 12:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:02:00 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The immortal jellyfish that may inspire treatments for age-related diseases</title>
+      <link>https://www.bbc.com/portuguese/articles/cmp3gqwe13wzo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/cmp3gqwe13wzo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Thu, 22 Oct 2026 14:01:53 GMT</pubDate>
+      <description>A tiny, translucent jellyfish called Turritopsis dohrnii has captured scientists' attention for its remarkable ability to cheat death. Marine biologist Maria Miglietta has tried nearly everything to kill these creatures—cutting, boiling, starving, exposing them to extreme salinity—yet they persist. When stressed, the jellyfish sink to the bottom of their tanks and transform into balls of cells, completely losing their characteristic umbrella shape. Within days, these cell clusters develop into polyps, an early life stage that grows into a colony capable of producing hundreds of new jellyfish, each potentially able to repeat the cycle indefinitely.
+
+This regenerative phenomenon was first documented in 1992 when an Italian scientist accidentally left his jellyfish unfed over a weekend and returned to find new polyps instead of dead specimens. Researchers discovered that during rejuvenation, certain tissues undergo "transdifferentiation," reverting to stem cell states before specializing into different cell types needed to form the polyp. This ability has earned Turritopsis dohrnii the nickname "immortal jellyfish" and represents what scientists believe is a unique capability in the animal kingdom.
+
+While transforming elderly humans into babies remains science fiction, researchers hope understanding these molecular and genetic processes could revolutionize regenerative medicine. The goal is to help cells and tissues return to younger states to heal wounds and treat age-related diseases. Though practical human applications remain distant, studying organisms that evolved these processes millions of years ago offers a window into possibilities that might one day help address degeneration and aging in meaningful ways.</description>
+      <source url="https://www.bbc.com/portuguese/articles/cmp3gqwe13wzo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Southeast Asia’s toxic haze spurs calls for legal action against polluters</title>
       <link>https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss</link>
@@ -594,18 +606,6 @@ Phobos and its smaller companion Deimos have puzzled scientists for decades. Des
 
 This mission matters because it represents a careful, collaborative effort to explore what project scientists call "the most important unclimbed mountains in the solar system." Beyond satisfying scientific curiosity about our celestial neighborhood, the data gathered could inform future human missions to Mars, potentially identifying these moons as staging areas for astronauts. It's a reminder that even in our own backyard of space, profound mysteries remain waiting to be solved.</description>
       <source url="https://www.theguardian.com/science/2026/oct/18/japan-mission-mars-moon-phobos-samples">The Guardian</source>
-    </item>
-    <item>
-      <title>Origin of animals may be up to 200 million years older</title>
-      <link>https://g1.globo.com/ciencia/noticia/2026/10/18/origem-dos-animais-pode-ser-ate-200-milhoes-de-anos-mais-antiga.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/ciencia/noticia/2026/10/18/origem-dos-animais-pode-ser-ate-200-milhoes-de-anos-mais-antiga.ghtml</guid>
-      <pubDate>Sun, 18 Oct 2026 08:01:30 GMT</pubDate>
-      <description>One of evolutionary biology's enduring puzzles centers on the relatively sudden appearance of animals in the fossil record during the Cambrian period, roughly 539 to 487 million years ago. Though some evidence has hinted at earlier origins, the precise timing has remained elusive. Now, after analyzing microscopic organisms from ancient Mongolian deposits, researchers propose that the animal kingdom may have emerged up to 200 million years earlier than previously thought—between 800 and 700 million years ago, before Earth experienced its most severe ice ages.
-
-The study challenges long-held assumptions based on China's Weng'an biota, a 590-million-year-old fossil site renowned for its exceptional preservation of microscopic organisms. Scientists had reasoned that if animals existed before Weng'an, such a well-preserved site would surely have captured their fossils. But the newly studied Kheseen biota from Mongolia—40 million years younger than Weng'an and equally well-preserved—also contains no animal fossils, despite clear evidence that animals existed elsewhere at that time. This absence, researchers argue, likely reflects differences in habitat or chemical conditions rather than the non-existence of animals. Using molecular clock analysis alongside much older fossil deposits from Norway, Australia, and Arizona, the team pushed back estimates for animal origins by some 200 million years.
-
-This story offers a reminder that absence of evidence isn't always evidence of absence. It illustrates how scientific understanding evolves not through dramatic finds alone, but through careful reconsideration of what we haven't found—and why. For anyone curious about life's deep history, it's a quietly profound shift in perspective on when our fellow creatures first appeared on Earth.</description>
-      <source url="https://g1.globo.com/ciencia/noticia/2026/10/18/origem-dos-animais-pode-ser-ate-200-milhoes-de-anos-mais-antiga.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
