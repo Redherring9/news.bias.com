@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 06:03:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:04:08 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Australia at the heart of 'transformational' cancer vaccine breakthrough</title>
+      <link>https://www.abc.net.au/news/2026-10-23/melanoma-cancer-vaccine-breakthrough-georgina-long/107303082</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-23/melanoma-cancer-vaccine-breakthrough-georgina-long/107303082</guid>
+      <pubDate>Fri, 23 Oct 2026 08:04:06 GMT</pubDate>
+      <description>A groundbreaking cancer vaccine has delivered results that surprised even the researchers behind it. An Australian-led clinical trial involving over 1,100 patients has shown that a personalized mRNA vaccine, when combined with immunotherapy, reduces the risk of melanoma recurrence or death by 42 percent—a figure investigators described as "phenomenal" and better than anticipated.
+
+The treatment works by creating a unique fingerprint of each patient's tumor. Researchers compare the tumor cells to healthy cells, identify the top 34 differences, and encode them into an mRNA vaccine. This personalized vaccine acts like a "wanted poster" inside the body, training the immune system to recognize and target cancer cells. The vaccine, called intismeran, is administered alongside pembrolizumab immunotherapy after surgical removal of melanoma. The phase 3 trial was conducted across 157 sites worldwide, with significant Australian involvement, and targeted patients at high risk of advanced melanoma recurrence—a condition that was historically often fatal.
+
+The breakthrough holds particular significance for Australia, which has the highest melanoma incidence in the world. Someone in the country is diagnosed with melanoma every 30 minutes, and someone dies from it every six hours. Beyond melanoma, researchers are hopeful the approach could transform treatment for other cancers where current immunotherapies fall short. This is a story worth attention because it represents decades of scientific persistence finally paying off—a genuine fork in the road for cancer treatment that moves from promise to proven results.</description>
+      <source url="https://www.abc.net.au/news/2026-10-23/melanoma-cancer-vaccine-breakthrough-georgina-long/107303082">ABC Australia</source>
+    </item>
     <item>
       <title>Country diary: Slugs? Dull? This one is pure showbiz | Charlie Elder</title>
       <link>https://www.theguardian.com/environment/2026/oct/23/country-diary-slugs-dull-this-one-is-pure-showbiz</link>
@@ -594,18 +606,6 @@ On the field, Fiji's teams have shown promise in their opening matches. The wome
 
 This story offers a refreshing look at the less glamorous but essential work happening behind the scenes in international sport. Fiji's financial recovery demonstrates how organizational discipline can support athletic achievement, while the pay disparity conversation raises important questions about fairness in global competition. It's a reminder that sporting success depends not just on talent and training, but on the unglamorous work of balancing budgets and advocating for equity—achievements worth celebrating alongside any scoreline.</description>
       <source url="https://www.rnz.co.nz/news/pacific/2018104/fnrl-clears-300k-debt-and-pays-world-cup-player-allowances">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Mission set to blast off for Mars to grab a piece of its moon</title>
-      <link>https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Mon, 19 Oct 2026 00:01:13 GMT</pubDate>
-      <description>A Japanese-led space mission is preparing to launch with an audacious goal: retrieve a sample from Phobos, one of Mars's two small, potato-shaped moons, and bring it back to Earth. If successful, the Mars Moons Exploration (MMX) mission would mark the first time material from the Martian system has been returned for laboratory analysis. The spacecraft is scheduled to lift off on Monday and reach Phobos by August 2027.
-
-The mission faces significant technical challenges. Phobos, only about 20 kilometers across, has minimal gravity of its own while orbiting close to Mars, making it difficult to land a rover on its surface. Scientists plan to deploy a small rover to scout a landing site before the main spacecraft touches down to collect approximately 10 grams of moon dust using a robotic arm and samplers. That tiny capsule of material will return to Earth in 2031, landing in the Australian desert. Despite the modest quantity, researchers emphasize that individual grains can yield valuable scientific insights. There's even a possibility that the sample might contain fragments of Mars itself, ejected by asteroid impacts and embedded in Phobos's surface over time.
-
-The mission aims to solve a longstanding mystery: did Phobos and Deimos form from debris after a catastrophic collision with early Mars, or are they captured asteroids from the outer Solar System? Chemical analysis of the returned sample should provide a definitive answer almost immediately. With NASA's Mars Sample Return mission effectively cancelled after losing congressional funding, this Japanese effort represents humanity's best near-term opportunity to study Martian material in Earth-based laboratories—a quiet but remarkable milestone in our exploration of the Red Planet's neighborhood.</description>
-      <source url="https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
