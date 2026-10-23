@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 10:04:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 12:03:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Denmark nurdles may be from Tyne spill, agency says</title>
+      <link>https://www.bbc.co.uk/news/articles/cqy43xv1jwv2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqy43xv1jwv2o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 23 Oct 2026 12:03:00 GMT</pubDate>
+      <description>Tiny plastic pellets washing up on Denmark's western coast in September have been traced back to a massive spill in England's River Tyne the previous month, according to Danish environmental authorities. The discovery highlights how ocean currents can carry pollution across international waters, connecting distant coastlines in unexpected ways.
+
+Signe Simonsen, who leads a startup focused on detecting microplastic pollution, first noticed the unusual abundance of milk-white pellets on the island of Mandø in late September. The sheer volume startled her—far more than she'd ever seen in the pristine Wadden Sea area. Driving along nearby islands at roughly the same latitude as Newcastle, she found nurdles scattered wherever the tide had deposited them. She collected samples from ten locations across the Danish coast and Germany's Sylt island, then provided them to Denmark's Environment Protection Agency for analysis. Testing conducted with Aarhus University confirmed the pellets matched those from the River Tyne incident, when roughly one billion nurdles spilled into the water in August. The timing of their arrival in Denmark aligned with known current patterns and circulation in the North Sea, and no other recorded spills could account for their presence.
+
+This story quietly underscores the interconnectedness of our seas and the persistent challenge of plastic pollution. While recovery efforts in northeast England have retrieved about 28% of the spilled pellets, the rest continue their journey across open water, reaching ecosystems hundreds of miles away and reminding us that environmental consequences rarely respect borders.</description>
+      <source url="https://www.bbc.co.uk/news/articles/cqy43xv1jwv2o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>Women-led institute from Piauí helps communities face climate change and receives global award</title>
       <link>https://g1.globo.com/pi/piaui/noticia/2026/10/23/instituto-ajuda-comunidades.ghtml</link>
@@ -594,18 +606,6 @@ The planting campaign is coordinated by the Lancashire Woodland Partnership, a c
 
 This story offers a quiet antidote to climate anxiety, showing what communities can accomplish when they work together toward a shared goal. The new woodlands will support local wildlife, improve air quality, and provide spaces for people to connect with nature. It's a reminder that environmental action doesn't always require grand policy shifts—sometimes it starts with neighbours, landowners, and volunteers simply showing up with shovels and saplings, planting the seeds of a greener future.</description>
       <source url="https://www.bbc.co.uk/news/articles/cxp8gdzj606zo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Learn about Colosseum technology from Rome used to monitor structure of Ipiranga Museum in South Zone of São Paulo</title>
-      <link>https://g1.globo.com/sp/sao-paulo/noticia/2026/10/19/conheca-tecnologia-do-coliseu-de-roma-usada-para-monitorar-estrutura-do-museu-do-ipiranga-na-zona-sul-de-sp.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/sp/sao-paulo/noticia/2026/10/19/conheca-tecnologia-do-coliseu-de-roma-usada-para-monitorar-estrutura-do-museu-do-ipiranga-na-zona-sul-de-sp.ghtml</guid>
-      <pubDate>Mon, 19 Oct 2026 04:01:39 GMT</pubDate>
-      <description>Brazilian researchers are using the same laser scanning technology employed at Rome's Colosseum to monitor the structural health of São Paulo's Ipiranga Museum. The cutting-edge approach maps every millimeter of the historic building, inside and out, creating a detailed digital twin that helps preserve one of Brazil's most important cultural landmarks.
-
-The project is a collaboration between the University of São Paulo and the University of Ferrara in Italy, with the Italian team that scanned the Colosseum leading the technical work. Over three weeks in late 2023, portable laser equipment captured the museum's surfaces with millimeter precision, revealing subtle shifts, moisture levels, and even early signs of mold that traditional measuring tools would miss. The technology works like a medical exam for buildings, according to Professor Marcello Balzani, who describes it as creating radiographs and CT scans of the structure. Because the team had previously scanned the museum before its nine-year renovation, they can now compare before-and-after conditions and track how the building responds to environmental changes.
-
-What makes this story quietly remarkable is how it bridges ancient preservation with modern innovation. The digital model allows curators to simulate extreme weather scenarios brought on by climate change and anticipate problems before they become costly repairs. It's preventive care for heritage—less expensive, less invasive, and more effective than waiting for damage to appear. In an era when historic buildings face unprecedented environmental pressures, this approach offers a thoughtful way to honor the past while protecting it for the future.</description>
-      <source url="https://g1.globo.com/sp/sao-paulo/noticia/2026/10/19/conheca-tecnologia-do-coliseu-de-roma-usada-para-monitorar-estrutura-do-museu-do-ipiranga-na-zona-sul-de-sp.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
