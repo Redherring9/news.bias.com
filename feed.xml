@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 02:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:03:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How a data centre united Australia's gaming community</title>
+      <link>https://www.abc.net.au/news/2026-10-24/final-fantasy-xiv-australian-oceania-server/107301548</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-24/final-fantasy-xiv-australian-oceania-server/107301548</guid>
+      <pubDate>Sat, 24 Oct 2026 06:02:26 GMT</pubDate>
+      <description>For years, Australian players of the popular online role-playing game Final Fantasy XIV faced a frustrating paradox: playing a multiplayer game that felt surprisingly solitary. Scattered across distant servers in Asia, America, and Europe, they struggled with language barriers, mismatched time zones, and connectivity issues that could doom collaborative quests. That isolation ended in January 2022 when developer Square Enix launched dedicated Oceania servers, revealing a thriving local community that had been hidden in plain sight. Community organizer Lin from Melbourne recalls the revelation: thousands of players suddenly discovered each other, no longer needing to guess whether teammates spoke the same language or understood local references.
+
+The newly unified community has flourished both online and off. While most interaction happens in the game—including award shows, theater productions, and musical performances organized by groups like Limsa Extreme—the annual meet-up at PAX Australia has become a highlight. This year's gathering required a larger venue at the Melbourne Convention and Exhibition Centre, where standing-room-only crowds greeted visiting Japanese developers with thunderous cheers. For Newcastle-based streamer Mark Withers, the moment felt significant: "Many popular online games don't visit, or host dedicated servers, for Australian players. It's encouraging to be recognized and to be seen."
+
+This story offers a quiet reminder that digital communities need infrastructure to thrive. It also reveals an unexpected footnote to gaming history: Australia has shaped Final Fantasy's English identity since the 1990s, when Australian translator Richard Honeywood founded Square Enix's localization team—though modern voice acting has curtailed some distinctly Australian linguistic flourishes, like rhyming "hypa" with "paipa."</description>
+      <source url="https://www.abc.net.au/news/2026-10-24/final-fantasy-xiv-australian-oceania-server/107301548">ABC Australia</source>
+    </item>
     <item>
       <title>'Esther you can do that': Perth woman, 75, smashes handstand record</title>
       <link>https://www.abc.net.au/news/2026-10-24/perth-woman-sets-record-oldest-person-to-do-handstand/107301504</link>
@@ -594,18 +606,6 @@ The structure spans six lanes of traffic and measures 200 feet wide and 209 feet
 
 This story matters because it demonstrates how thoughtful infrastructure can reconcile human development with wildlife needs. Research shows such crossings nearly eliminate animal-vehicle accidents and often pay for themselves by preventing costly crashes. With nearly 20 similar projects underway across the United States, Colorado's success—completed under budget at $15 million instead of the anticipated $30 million—offers a compelling model for protecting both people and animals in an increasingly fragmented landscape.</description>
       <source url="https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results">The Guardian</source>
-    </item>
-    <item>
-      <title>Athletes out for gold at 'really important' Special Olympics Australia</title>
-      <link>https://www.abc.net.au/news/2026-10-20/special-olympics-australia-national-games-melbourne/107282812</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-20/special-olympics-australia-national-games-melbourne/107282812</guid>
-      <pubDate>Mon, 19 Oct 2026 20:04:07 GMT</pubDate>
-      <description>Melbourne is hosting the Special Olympics Australia National Games, the largest edition yet of an event that brings together more than 850 athletes with intellectual disabilities and autism to compete across 13 sports. Held every four years since 1986, this year's games run through late October at the Albert Park sporting precinct, featuring everything from swimming and athletics to DanceSport and equestrian events. The focus extends beyond competition to celebrate courage, connection, and the power of inclusion.
-
-Among the competitors is Charlotte Bailey, a 25-year-old tenpin bowler from the ACT who lives with Down syndrome. Bailey has already made her mark as an advocate, speaking at United Nations events about workplace rights for people with disabilities. Now she's channeling that same determination into her first appearance at this level of competition. She took up bowling for fun about five years ago, watched her scores improve, and realized she had the skill to compete seriously. For Bailey, events like these matter because they shift public attention toward what athletes with disabilities can accomplish—their skills, hard work, and determination rather than their limitations.
-
-Bailey's story underscores a broader message about support and opportunity. Working at both the ACT Down Syndrome &amp; Intellectual Disability Association and a local bistro, she credits her employers with encouraging her athletic pursuits. She knows not everyone receives such backing, and she hopes her own achievements—from the UN stage to the bowling lanes—show others with disabilities that dreaming big is possible. This story is worth your time because it quietly reminds us that with the right support, barriers become stepping stones, and personal goals can inspire collective change.</description>
-      <source url="https://www.abc.net.au/news/2026-10-20/special-olympics-australia-national-games-melbourne/107282812">ABC Australia</source>
     </item>
   </channel>
 </rss>
