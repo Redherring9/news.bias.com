@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 16:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:04:45 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI’s ‘opportunity divide’ could deepen global inequality, UN official warns</title>
+      <link>https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss</link>
+      <guid isPermaLink="false">https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss</guid>
+      <pubDate>Sun, 25 Oct 2026 18:04:43 GMT</pubDate>
+      <description>A senior United Nations official is raising concerns about how artificial intelligence might widen the gap between wealthy and developing nations, creating what he calls an "opportunity divide." Tomas Lamanauskas, deputy secretary-general of the International Telecommunication Union, warns that unequal access to AI technology could deepen existing social and economic inequalities rather than help bridge them.
+
+The disparities are already visible in digital infrastructure. Africa and Latin America together hold just 3.3 percent of the world's data center capacity, while 2.2 billion people globally still lack internet access. Only seven percent of African languages are represented in AI translation tools, limiting who can benefit from the technology. The adoption gap is stark: roughly 29 percent of working-age people in developed countries use generative AI, compared to 16 percent in those in developing nations. Bridging this infrastructure divide would require an estimated $2.8 trillion in investment by 2030. A December 2025 UN Development Programme report cautioned that countries with unreliable power, limited connectivity, and insufficient technological skills risk missing out entirely on AI's economic benefits.
+
+This story matters because it frames AI not just as a technological shift, but as a potential turning point in global equality. While AI could create more jobs than it displaces—170 million new positions versus 90 million lost, by some estimates—the benefits may flow primarily to those already advantaged. It's a reminder that technological progress doesn't automatically lift all boats, and that without intentional investment, innovation can paradoxically deepen the divides it promises to overcome.</description>
+      <source url="https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss">Al Jazeera</source>
+    </item>
     <item>
       <title>Born before women's right to vote, 106-year-old shows up to vote in Caxias do Sul: 'I always come'</title>
       <link>https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/25/nascida-antes-do-direito-ao-voto-feminino-idosa-de-106-anos-vota-em-caxias-do-sul-sempre-venho.ghtml</link>
@@ -594,18 +606,6 @@ The match showcased strategic coaching adjustments on both sides, with Australia
 
 This story offers a window into elite women's sport at its finest: high-level tactical adjustments, clutch performances under pressure, and the continuation of a historic rivalry between two netball powerhouses. With the series now heading to Australia—where New Zealand has won just one of their last nine matches—the Silver Ferns face their toughest challenge yet. The stakes are clear: if the series splits 2-2, goal percentage will determine the winner, making every possession in the remaining matches matter even more.</description>
       <source url="https://www.rnz.co.nz/news/sport/2062182/silver-ferns-beat-australia-again-to-take-commanding-constellation-cup-position">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Who owns India’s textile traditions in age of AI-enabled mass production?</title>
-      <link>https://www.aljazeera.com/features/2026/10/21/who-owns-indias-textile-traditions-in-age-of-ai-enabled-mass-production?traffic_source=rss</link>
-      <guid isPermaLink="false">https://www.aljazeera.com/features/2026/10/21/who-owns-indias-textile-traditions-in-age-of-ai-enabled-mass-production?traffic_source=rss</guid>
-      <pubDate>Wed, 21 Oct 2026 08:03:10 GMT</pubDate>
-      <description>In northeastern India, a computer science professor noticed that traditional scarves in local markets featured only a handful of repetitive patterns. He discovered that weavers were being paid modest one-time fees for their designs rather than ongoing royalties, prompting manufacturers to limit design variety as a cost-saving measure. His response was to create an AI system capable of generating infinite new patterns—a tool he hopes will empower traditional designers rather than replace them.
-
-The tension at the heart of this story runs deeper than technology. India's textile traditions carry centuries of cultural memory: patterns that encode mythology, migration histories, and local ecologies. Weavers inherit designs through generations, their hands guided by the hesitations and choices of their grandmothers. Similar digitization efforts, like the Rekh Sanganeri Dataset for Rajasthani block-printed textiles, meticulously capture even the imperfections that define handmade work. Developers insist these tools exist to preserve craft traditions and support research, not to replace artisans. Yet the paradox is unavoidable: systems built for preservation make it easier to reproduce cultural patterns without involving the communities that created them.
-
-Traditional craftspeople occupy complicated positions in this new landscape. One Rajasthani block-printing designer acknowledges that handcraft cannot meet modern demand at scale and doesn't fault those using digital tools to bridge the gap. His concern lies elsewhere—with the appropriation of regional names and designs that emerged from specific cultural contexts. This story quietly asks a question that reaches beyond textiles: when cultural knowledge becomes data, who has the right to own, use, and profit from it? The answer matters not just for India's weavers, but for indigenous and traditional knowledge systems worldwide navigating the age of artificial intelligence.</description>
-      <source url="https://www.aljazeera.com/features/2026/10/21/who-owns-indias-textile-traditions-in-age-of-ai-enabled-mass-production?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
