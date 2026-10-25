@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:04:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:03:32 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lights out: the island that goes dark to save young seabirds – in pictures</title>
+      <link>https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe</link>
+      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe</guid>
+      <pubDate>Sun, 25 Oct 2026 12:03:30 GMT</pubDate>
+      <description>On a tiny island in the Azores, an entire community chooses darkness to save lives. Every autumn for five nights, Corvo—home to just 450 people and the smallest island in Portugal's Atlantic archipelago—switches off all public lights. The reason is both simple and profound: to help young Cory's shearwaters find their way safely to the ocean for the first time.
+
+The story began in 1991 when locals noticed alarming numbers of juvenile seabirds dying in their streets. These fledglings spend three months in their nests before taking their maiden flight, navigating by starlight toward the sea. But artificial streetlights fatally confuse them, causing crashes in the narrow lanes of Vila do Corvo. Residents began venturing out in darkness to rescue disoriented birds, an effort that inspired a regional campaign now spanning all nine Azorean islands. Yet Corvo remains unique—the only island committed to a complete blackout. During these nights, volunteers walk through the darkened village collecting fallen birds, placing them in cardboard boxes to recover, then releasing them from oceanside cliffs the following day. Since 2015, more than 30,000 shearwater fledglings have been rescued across the Azores, with 6,000 saved on Corvo alone.
+
+This story matters because it demonstrates something quietly radical: that a small community can choose collective inconvenience for the sake of another species. It's a reminder that conservation doesn't always require grand policies or cutting-edge technology—sometimes it simply asks us to turn off the lights and let the stars guide those who depend on them.</description>
+      <source url="https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe">The Guardian</source>
+    </item>
     <item>
       <title>The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster</title>
       <link>https://www.bbc.co.uk/news/articles/c6dxwklr409eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ For the 42 employees losing their jobs, the final day was deeply emotional. Brew
 
 This story captures a bittersweet moment of industrial transition—the quiet closing of a local institution that outlasted generations. While the beer will continue under the Boag's name, brewed in Victoria, New South Wales, and Queensland with water designed to replicate Tasmania's mineral profile, something intangible has been lost. It's a reminder of how global consolidation reshapes regional identity, and how the end of local craftsmanship, even in an age of technological precision, carries a weight that numbers alone cannot measure.</description>
       <source url="https://www.abc.net.au/news/2026-10-21/tas-boags-launceston-last-beers-on-production-line/107282468">ABC Australia</source>
-    </item>
-    <item>
-      <title>Plato Mission, featuring Brazilian scientists, will launch 26 cameras to try to detect Earth-like planets</title>
-      <link>https://g1.globo.com/jornal-nacional/noticia/2026/10/20/missao-plato-que-conta-com-cientistas-brasileiros-lancara-26-cameras-para-tentar-detectar-planetas-parecidos-com-a-terra.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/jornal-nacional/noticia/2026/10/20/missao-plato-que-conta-com-cientistas-brasileiros-lancara-26-cameras-para-tentar-detectar-planetas-parecidos-com-a-terra.ghtml</guid>
-      <pubDate>Wed, 21 Oct 2026 02:03:02 GMT</pubDate>
-      <description>European researchers, joined by Brazilian scientists, are preparing to launch an ambitious planet-hunting mission called Plato. Set to lift off in March 2027 from French Guiana, the satellite will search for something quite specific: distant, rocky planets with Earth-like temperatures and the potential for surface water—worlds where life might exist. What makes this mission particularly intriguing is its approach and Brazil's meaningful role in making it happen.
-
-The Plato satellite will carry 26 highly sensitive cameras positioned 1.5 million kilometers from Earth, pointed away from both our planet and the Sun. These cameras will monitor the light from thousands of distant stars, watching for tiny dips in brightness that occur when a planet passes between the star and the observing satellite—a technique called the transit method. Brazil's contribution comes through simulators developed at the Mauá Institute of Technology in São Caetano do Sul. These devices, called Simucams, precisely replicate the satellite's camera behavior, allowing teams to test systems, troubleshoot problems before launch, and train for scenarios that might arise once the satellite is in space.
-
-The partnership offers Brazil more than just participation credit. All discoveries from the Plato mission will be shared with Brazilian scientists, and the knowledge transfer began 15 years ago when the collaboration started. By building the simulators to European specifications, Brazilian researchers gained cutting-edge expertise that will position the next generation of scientists to work with world-class data. It's a story of international cooperation where the journey of preparation proves as valuable as the destination—a reminder that space exploration increasingly depends on shared curiosity across borders.</description>
-      <source url="https://g1.globo.com/jornal-nacional/noticia/2026/10/20/missao-plato-que-conta-com-cientistas-brasileiros-lancara-26-cameras-para-tentar-detectar-planetas-parecidos-com-a-terra.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
