@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 12:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:03:05 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>German Environmental Prize Honors 'Courage-Makers'</title>
+      <link>https://www.dw.com/de/deutscher-umweltpreis-würdigt-mutmacher/a-79755528?maca=de-rss-de-all-1119-xml-mrss</link>
+      <guid isPermaLink="false">https://www.dw.com/de/deutscher-umweltpreis-würdigt-mutmacher/a-79755528?maca=de-rss-de-all-1119-xml-mrss</guid>
+      <pubDate>Sun, 25 Oct 2026 14:03:03 GMT</pubDate>
+      <description>Germany's highest environmental prize has honored two figures whose work embodies different paths to protecting the planet. Engineer Klaus Vossenkaul and lawyer Roda Verheyen received the German Environmental Prize in Aachen, sharing a €500,000 award — one of Europe's most generous in the environmental field. The prize recognizes those who contribute meaningfully to environmental preservation, and this year's recipients show how technical innovation and legal advocacy can both serve that goal.
+
+Vossenkaul earned recognition for advancing membrane filter technology used in wastewater treatment plants, helping make clean water more accessible. Verheyen, known as Germany's leading climate lawyer, has pursued legal cases establishing that emission producers can be held liable for climate damage. Notably, in 2021 Germany's Constitutional Court sided with one of her cases, ruling that insufficient climate protection violates the freedom rights of future generations. President Frank-Walter Steinmeier, presenting the award for his final time before leaving office, emphasized the need to prioritize climate action despite political pressures, noting that last summer's extreme weather — wildfires, drought-stricken waterways, and 16,000 heat-related deaths — illustrated the urgency.
+
+What makes this story quietly compelling is its dual portrait of persistence: one person working in laboratories to refine the mechanics of water purification, another wielding legal precedent to redefine responsibility for the planet's future. Together, they represent what the prize foundation called "courage-makers," demonstrating that progress comes through both innovation and accountability, technical skill and moral clarity.</description>
+      <source url="https://www.dw.com/de/deutscher-umweltpreis-würdigt-mutmacher/a-79755528?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
+    </item>
     <item>
       <title>Lights out: the island that goes dark to save young seabirds – in pictures</title>
       <link>https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe</link>
@@ -594,18 +606,6 @@ Recent weeks have brought a flurry of comings and goings: swallows bound for sou
 
 What makes these dunlins especially remarkable is the distance some have traveled: they may have bred as far away as eastern Russia, journeying thousands of miles to reach this harbour. This story offers a front-row seat to migration's quiet drama—a reminder that monumental feats of endurance unfold in mudflats and shallows every autumn, performed by creatures small enough to hold in your hand.</description>
       <source url="https://www.theguardian.com/environment/2026/oct/21/country-diary-what-a-privilege-it-is-to-witness-bird-migration-on-such-a-scale">The Guardian</source>
-    </item>
-    <item>
-      <title>Last drinks for Boag's as final Tasmanian beers roll off production line</title>
-      <link>https://www.abc.net.au/news/2026-10-21/tas-boags-launceston-last-beers-on-production-line/107282468</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-21/tas-boags-launceston-last-beers-on-production-line/107282468</guid>
-      <pubDate>Wed, 21 Oct 2026 04:03:25 GMT</pubDate>
-      <description>After 145 years of brewing in Tasmania, the final bottles of locally made Boag's beer rolled off the production line in Launceston this week, marking the end of an era for one of the island state's most iconic brands. The brewery, which has existed longer than electricity in Tasmania, was founded by Scottish migrant James Boag and his son in 1881. Parent company Lion announced the closure in June, citing inflation and declining beer sales, and production will now shift entirely to the mainland—meaning Tasmania will import what was once its homegrown beverage icon.
-
-For the 42 employees losing their jobs, the final day was deeply emotional. Brewer Adrian Hinds, who spent 22 years at Boag's, described how staff gathered to watch the last bottles pass through the labeller and each added a handful of grain to the final mash. He spent quiet moments alone in the brew house, listening to the familiar sounds of pumps and hops one last time. The brand, purchased by Japanese-owned Lion Australia in 2008 for $325 million, had already moved most production interstate the previous year, leaving the Launceston facility running at just one-fifth capacity.
-
-This story captures a bittersweet moment of industrial transition—the quiet closing of a local institution that outlasted generations. While the beer will continue under the Boag's name, brewed in Victoria, New South Wales, and Queensland with water designed to replicate Tasmania's mineral profile, something intangible has been lost. It's a reminder of how global consolidation reshapes regional identity, and how the end of local craftsmanship, even in an age of technological precision, carries a weight that numbers alone cannot measure.</description>
-      <source url="https://www.abc.net.au/news/2026-10-21/tas-boags-launceston-last-beers-on-production-line/107282468">ABC Australia</source>
     </item>
   </channel>
 </rss>
