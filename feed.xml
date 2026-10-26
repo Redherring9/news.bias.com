@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:03:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:02:44 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Milton Nascimento's songs guide 'Travessia', a Studio3 Dance Company show premiering in November</title>
+      <link>https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/26/cancoes-de-milton-nascimento-pautam-travessia-espetaculo-da-studio3-cia-de-danca-que-estreia-em-novembro.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/26/cancoes-de-milton-nascimento-pautam-travessia-espetaculo-da-studio3-cia-de-danca-que-estreia-em-novembro.ghtml</guid>
+      <pubDate>Mon, 26 Oct 2026 14:02:41 GMT</pubDate>
+      <description>A Brazilian dance company is bringing the music of Milton Nascimento to life through movement. Studio3 Cia. de Dança will premiere "Travessia" (Crossing) in early November at São Paulo's Sala São Paulo, marking the fourth chapter in their tetralogy honoring Brazilian musical masters. The timing is poignant: the performance coincides with Nascimento's 84th birthday, celebrating a composer whose work has shaped Brazilian popular music for decades.
+
+The production weaves together 19 songs from Nascimento's repertoire, with newly arranged orchestrations performed by the Osesp Academic Orchestra and Choir. Nine of these songs were co-written with Fernando Brant, the lyricist from Minas Gerais who was Nascimento's essential creative partner until his death in 2015. Through choreography by Anselmo Zolla and theatrical direction by William Pereira, the dancers aim to express the vast, pluralistic spirit of Nascimento's songbook—a body of work that harmonizes African ancestral traditions, spirituality, the culture of Minas Gerais, and connections across Latin America.
+
+This performance offers a window into how one art form can honor another. Dance becomes a language for exploring music that already speaks to brotherhood, earth, and memory. For anyone curious about how movement and melody intertwine, or how Brazilian culture celebrates its living legends, "Travessia" promises a quietly powerful tribute to a composer whose songs have carried generations across their own crossings.</description>
+      <source url="https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/26/cancoes-de-milton-nascimento-pautam-travessia-espetaculo-da-studio3-cia-de-danca-que-estreia-em-novembro.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>What photonics is and how it can make AI data centers consume less water and energy</title>
       <link>https://www.bbc.com/mundo/articles/cmd93xe1w0vjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ Unlike the first find, which featured bulbous characteristics that led to its mi
 
 This story offers a gentle reminder that history sometimes hides in unexpected places—even under our beds. The fact that two specimens have emerged in the same year that marks 90 years since the thylacine's extinction feels quietly poignant. It suggests there may be more forgotten treasures waiting to be rediscovered, connecting us to species we can no longer encounter in the wild.</description>
       <source url="https://www.abc.net.au/news/2026-10-22/second-thylacine-head-found-in-uk-has-hit-auction-house/107295076">ABC Australia</source>
-    </item>
-    <item>
-      <title>World leaders warn of security flaws found in PHP programming language</title>
-      <link>https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss</link>
-      <guid isPermaLink="false">https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss</guid>
-      <pubDate>Thu, 22 Oct 2026 02:04:05 GMT</pubDate>
-      <description>Government websites across Europe and Asia went temporarily dark this week after cybersecurity researchers discovered two critical security flaws in PHP, a programming language that powers more than 70 percent of websites worldwide. The vulnerabilities, collectively called PHP2Shell, were unusual enough to prompt a rare public warning from the U.S. National Security Agency, urging organizations to take sites offline if immediate updates weren't possible.
-
-What makes this discovery particularly notable is how it was found: researchers used artificial intelligence to identify weaknesses that had lurked in PHP's code for decades but were nearly impossible for human programmers to detect on their own. Security firms Calif and Wiz, working with AI models, uncovered the flaws in August. The vulnerabilities allow attackers to remotely execute commands on servers without passwords or legitimate credentials by exploiting unauthorized memory access—a severe breach that experts at Wiz called among the most critical "arguably in software history."
-
-This story offers a revealing glimpse into how AI is reshaping cybersecurity in both promising and unsettling ways. While these tools can help defenders find and patch vulnerabilities faster than ever, they're also available to attackers seeking new exploits. The PHP Foundation, a nonprofit that maintains the volunteer-run language, warned that the number of AI-discovered bugs will only grow and called for coordinated industry responses. For anyone who's ever clicked on a website—which is to say, nearly everyone—this quiet drama unfolding in the background of the internet is a reminder of the invisible infrastructure we rely on daily and the evolving challenges of keeping it secure.</description>
-      <source url="https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
