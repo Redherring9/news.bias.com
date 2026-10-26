@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 08:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:03:02 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI models cost more when you don’t use English</title>
+      <link>https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds</link>
+      <guid isPermaLink="false">https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds</guid>
+      <pubDate>Mon, 26 Oct 2026 10:02:59 GMT</pubDate>
+      <description>A new study has uncovered a surprising economic disparity hiding in plain sight within artificial intelligence systems: people using less common languages may pay significantly more to access AI services than English speakers. The research, published by the Coalition for Language Equity in AI Research, reveals that AI models require vastly different numbers of "tokens"—the basic units these systems process—depending on the language used. Even among the internet's 20 most popular languages, some require up to five times more tokens than others. When the analysis expanded to 200 languages, one model showed a 17-fold gap in token costs.
+
+This isn't just about money. Higher token counts mean slower response times and reduced capacity to retain conversation history or context—imagine a tutor who can't remember your earlier questions as clearly. The disadvantage hits hardest in regions where computing resources and internet connectivity are already limited, potentially determining who can participate meaningfully in the AI economy. A startup in Bengaluru might face surcharges that its Austin-based competitor doesn't encounter. The script a language uses matters as much as its prevalence: Asturian, with few speakers, benefits from using the Latin alphabet and resembling Italian, while languages written in Burmese, Tibetan, or Khmer scripts face consistent disadvantages across nearly all models.
+
+This story matters because it reveals how technical design choices can create invisible barriers in ostensibly borderless technology. While token prices are falling and researchers are collecting better multilingual data, experts say truly fixing the problem will require deliberate effort to design tokenizers that treat all languages and scripts more equitably—turning language efficiency into a core requirement alongside speed and accuracy.</description>
+      <source url="https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds">Rest of World</source>
+    </item>
     <item>
       <title>MPs urged 'let light win' as cockatoo sits in for Helen Haines</title>
       <link>https://www.abc.net.au/news/2026-10-26/helen-haines-tributes-in-federal-parliament/107307826</link>
@@ -594,18 +606,6 @@ Artist Jobella Bennett spent three months constructing the sculpture from bird w
 
 What makes this story quietly remarkable is how it reflects both continuity and evolution in Australian culture. While countries like Canada and the United States have moved away from building these roadside giants, Australia continues enthusiastically creating them. History lecturer Amy Clarke notes the trend has "professionalised" since the 1960s, with specialized artists and companies now crafting these landmarks. Yet the heart remains community-driven — local councils, chambers of commerce, and charity groups coming together to champion their towns. Windorah's giant yabby isn't just about attracting tourists for an extra day; it's about small communities investing in joy, identity, and the artists who help them express both.</description>
       <source url="https://www.abc.net.au/news/2026-10-22/big-yabby-statue-windorah-outback-queensland/107286084">ABC Australia</source>
-    </item>
-    <item>
-      <title>Polluted Lake Ōmāpere should be returned to health within next 10 years</title>
-      <link>https://www.rnz.co.nz/news/environment/2074854/polluted-lake-omapere-should-be-returned-to-health-within-next-10-years</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/environment/2074854/polluted-lake-omapere-should-be-returned-to-health-within-next-10-years</guid>
-      <pubDate>Wed, 21 Oct 2026 22:01:32 GMT</pubDate>
-      <description>In New Zealand's Northland region, a decades-long effort to restore Lake Ōmāpere is entering an exciting new phase. The 1200-hectare lake, once a treasured Ngāpuhi taonga rich with eels and freshwater mussels, suffered an ecological collapse in the 1980s after a century of decline that began with deforestation. For forty years, algal blooms have rendered the water unsuitable for recreation, drinking, or irrigation, severing the community's connection to this vital resource.
-
-Now, the Lake Ōmāpere Trust has secured $3 million in government funding to advance restoration work. The project's second phase involves installing a weir to control water levels, which will create additional storage capacity potentially serving Kaikohe's municipal needs and supporting local agriculture. The trust is simultaneously pursuing riparian planting, wetland restoration, and planning to remove nutrient-laden sediment that feeds the persistent algal blooms. Led by chair Dr. Marise Stuart and guided by international freshwater restoration expert Professor David Hamilton, the team is optimistic that clean water could return within seven to eight years.
-
-This story offers a hopeful template for ecological restoration at scale. It demonstrates how methodical planning, scientific expertise, and community collaboration can tackle environmental damage accumulated over generations. For the people of Northland, the lake's recovery promises more than environmental gains—it means reconnecting rangatahi with traditional practices like waka ama, reviving spaces for recreation, and restoring a cultural treasure that has been inaccessible for most living residents' lifetimes. It's a quiet testament to patience, partnership, and the possibility of healing what once seemed irreversibly broken.</description>
-      <source url="https://www.rnz.co.nz/news/environment/2074854/polluted-lake-omapere-should-be-returned-to-health-within-next-10-years">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
