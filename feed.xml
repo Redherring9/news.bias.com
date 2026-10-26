@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 10:03:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:03:27 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What photonics is and how it can make AI data centers consume less water and energy</title>
+      <link>https://www.bbc.com/mundo/articles/cmd93xe1w0vjo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cmd93xe1w0vjo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Mon, 26 Oct 2026 12:03:24 GMT</pubDate>
+      <description>As artificial intelligence drives unprecedented growth in data centers, industry leaders are looking to replace copper wiring with light-based photonics technology. Chris Sharp of Digital Realty suggests we're reaching "the end of the copper era" — not because supplies are running low, but because a better alternative is emerging. A typical 100-megawatt data center uses around 400 tons of copper, with roughly 20 tons dedicated solely to network cabling that connects servers and processing units.
+
+The solution lies in photonics: transmitting data as photons of light through fiber optic cables rather than as electrons through copper wire. While fiber optics have carried long-distance communications for decades, researchers are now working to bring this technology inside data centers themselves, sometimes integrating optical components directly onto computer chips. The key advantage is thermal: light generates far less heat than electricity, meaning data centers would require significantly less energy for cooling — a major contributor to their substantial environmental footprint. Photonics also allows multiple data streams to travel through a single channel, increasing capacity.
+
+After years of laboratory development, the technology appears ready for widespread adoption, bolstered by support from AI chip giant Nvidia. Yet challenges remain in manufacturing and cost reduction, as photonics brings together different engineering traditions and supply chains scattered across the globe. For readers concerned about technology's environmental impact, this story offers a glimpse of how innovation might quietly reduce the resource intensity of our digital infrastructure — making the invisible machinery of the internet age just a bit lighter on the planet.</description>
+      <source url="https://www.bbc.com/mundo/articles/cmd93xe1w0vjo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>AI models cost more when you don’t use English</title>
       <link>https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds</link>
@@ -594,18 +606,6 @@ What makes this discovery particularly notable is how it was found: researchers 
 
 This story offers a revealing glimpse into how AI is reshaping cybersecurity in both promising and unsettling ways. While these tools can help defenders find and patch vulnerabilities faster than ever, they're also available to attackers seeking new exploits. The PHP Foundation, a nonprofit that maintains the volunteer-run language, warned that the number of AI-discovered bugs will only grow and called for coordinated industry responses. For anyone who's ever clicked on a website—which is to say, nearly everyone—this quiet drama unfolding in the background of the internet is a reminder of the invisible infrastructure we rely on daily and the evolving challenges of keeping it secure.</description>
       <source url="https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss">Al Jazeera</source>
-    </item>
-    <item>
-      <title>Outback giant yabby Australia's latest 'big thing'</title>
-      <link>https://www.abc.net.au/news/2026-10-22/big-yabby-statue-windorah-outback-queensland/107286084</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-22/big-yabby-statue-windorah-outback-queensland/107286084</guid>
-      <pubDate>Thu, 22 Oct 2026 00:01:36 GMT</pubDate>
-      <description>The Australian outback town of Windorah, home to just 100 residents, has unveiled its latest claim to fame: a 4.6-metre-tall yabby statue. The freshwater crustacean sculpture joins the country's beloved collection of "big things" — oversized roadside attractions that have become cultural landmarks across Australia. For Windorah, known for hosting "international yabby races" and the yabby-rich waters of Cooper Creek, the giant statue feels like a natural fit.
-
-Artist Jobella Bennett spent three months constructing the sculpture from bird wire and sheet metal after receiving a simple brief from the local council: make a yabby as big as possible. The $13,000 state-funded project represents Bennett's largest work to date and her entry into a uniquely Australian artistic tradition. The statue now stands alongside other iconic big things like Ballina's big prawn, Bowen's big mango, and Woombye's big pineapple, each celebrating what makes their communities special.
-
-What makes this story quietly remarkable is how it reflects both continuity and evolution in Australian culture. While countries like Canada and the United States have moved away from building these roadside giants, Australia continues enthusiastically creating them. History lecturer Amy Clarke notes the trend has "professionalised" since the 1960s, with specialized artists and companies now crafting these landmarks. Yet the heart remains community-driven — local councils, chambers of commerce, and charity groups coming together to champion their towns. Windorah's giant yabby isn't just about attracting tourists for an extra day; it's about small communities investing in joy, identity, and the artists who help them express both.</description>
-      <source url="https://www.abc.net.au/news/2026-10-22/big-yabby-statue-windorah-outback-queensland/107286084">ABC Australia</source>
     </item>
   </channel>
 </rss>
