@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 10:02:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:04:21 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Five new mussel species reveal how much biodiversity US rivers still conceal</title>
+      <link>https://news.mongabay.com/2026/10/five-new-mussel-species-reveal-how-much-biodiversity-us-rivers-still-conceal/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/10/five-new-mussel-species-reveal-how-much-biodiversity-us-rivers-still-conceal/</guid>
+      <pubDate>Tue, 27 Oct 2026 12:04:18 GMT</pubDate>
+      <description>For two decades, researchers waded through rivers across the southeastern United States, collecting what appeared to be familiar freshwater mussels. Visual inspection suggested nothing unusual, but DNA analysis revealed a hidden truth: five species that science had never formally recognized. The discovery, published in Zootaxa by teams from Shedd Aquarium, Arkansas State University, and the U.S. Geological Survey, underscores how much biodiversity remains undocumented even in well-studied waterways.
+
+The challenge lies in the mussels themselves. Shell shape varies dramatically depending on habitat—headwater individuals grow flat, while downstream relatives grow round—and males and females look different too. So the researchers relied on genetic sequencing of three genes and detailed analysis of more than 440 shell outlines. Each major river basin turned out to harbor its own distinct lineage. The newly described species carry names rooted in place and Indigenous language: the Mobile hickorynut from Alabama's Sipsey River (a Choctaw word meaning "swamp"), the Acolapissa hickorynut honoring the people who lived along the Pearl River, and the Big Thicket hickorynut clinging to scattered spots in Louisiana and Texas pine forests. Several species are rare, confined to single river systems, with one known only from a ten-mile stretch of Mississippi's Big Black River.
+
+This story matters because freshwater mussels are both essential and imperiled—they filter and clean river water, serving as quiet sentinels of ecosystem health, yet remain the most endangered group of animals in North America. The discovery reminds us that even familiar landscapes hold secrets, and that understanding what lives in our rivers is the first step toward protecting it.</description>
+      <source url="https://news.mongabay.com/2026/10/five-new-mussel-species-reveal-how-much-biodiversity-us-rivers-still-conceal/">Mongabay</source>
+    </item>
     <item>
       <title>Festival de Frue offers an antidote to Japan’s samey music festivals</title>
       <link>https://www.japantimes.co.jp/culture/2026/10/27/music/festival-de-frue/</link>
@@ -594,18 +606,6 @@ The state housing agency Kāinga Ora's decision to sell the Nuku Street properti
 
 This story captures a broader tension in housing policy: whether to preserve affordable options in their current form or seek alternatives when buildings deteriorate. What makes it quietly remarkable is hearing directly from someone whose life trajectory changed because such housing existed when he needed it most—a reminder that policy decisions play out in individual lives, shaping futures in ways that ripple forward for years.</description>
       <source url="https://www.rnz.co.nz/news/community/2100286/wellington-social-housing-sale-living-there-changed-my-life-councillor-says">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Almost all shallow-water coral reefs now face extinction risk, study warns</title>
-      <link>https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss</link>
-      <guid isPermaLink="false">https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss</guid>
-      <pubDate>Fri, 23 Oct 2026 00:03:33 GMT</pubDate>
-      <description>The International Union for Conservation of Nature has issued a sobering assessment of the world's coral reefs, finding that 96 percent of shallow-water coral systems now face the highest level of extinction risk. The report, released at the UN's biodiversity summit in Armenia, warns that without significant intervention, total extinction could occur by 2075. The evaluation examined 127 tropical and subtropical coral systems spanning more than 188,000 square kilometers, using climate projections that anticipate global temperatures rising 2.7°C above pre-industrial levels by the end of the century.
-
-Corals are particularly vulnerable to warming oceans, which trigger damaging bleaching events with increasing frequency and intensity. When reefs collapse, the vibrant hard corals that form their foundation disappear, replaced by algae, rubble, and sponges. This transformation decimates the diverse ecosystems that depend on healthy reefs, from tiny invertebrates to commercially important fish species. The world's most celebrated reef systems—including Australia's Great Barrier Reef, the Coral Triangle, and the Red Sea reefs—are all classified as critically endangered. The timing is especially precarious, as the emergence of a strong El Niño pattern compounds the climate-related threats these ecosystems already face.
-
-Yet amid the stark warnings, scientists emphasize that coral reefs have demonstrated surprising resilience, with the ability to recover from severe bleaching when conditions allow. The assessment reminds us that these "rainforests of the sea" support a quarter of all marine species and provide essential resources—food, tourism revenue, and coastal protection—to communities worldwide. This story matters because it frames a critical moment: coral reefs are not yet lost, but the window for meaningful action is rapidly closing.</description>
-      <source url="https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss">Al Jazeera</source>
     </item>
   </channel>
 </rss>
