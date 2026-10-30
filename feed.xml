@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 10:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:01:41 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>My brother unknowingly bought the cesium-137 capsule that triggered Brazil's largest radioactive accident</title>
+      <link>https://www.bbc.com/portuguese/articles/ckeq3wgzx83eo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/ckeq3wgzx83eo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 30 Oct 2026 12:01:39 GMT</pubDate>
+      <description>In September 1987, a mysterious capsule containing glowing blue crystals arrived at a scrapyard in Goiânia, Brazil, setting off a chain of events that would become the country's worst radiological accident. Devair Alves Ferreira had purchased the capsule from scrap collectors who found it in an abandoned clinic, captivated by its mesmerizing glow and even dreaming of turning the crystals into a ring for his wife. Word spread quickly through the neighborhood, and soon friends and family gathered to marvel at the strange object. Some even took samples home to show their loved ones. No one realized they were handling cesium-137, a highly radioactive material.
+
+Within a week, dozens fell mysteriously ill. When the capsule was finally brought to health authorities and examined, radiation readings were so extreme that officials initially thought their equipment was broken. Odesson Ferreira, Devair's brother who had urged him to throw the object away, received the devastating news that 56 extended family members had been exposed. The first to die was six-year-old Leide das Neves Ferreira, who had played with a fragment her father brought home in a matchbox, eating dinner with contaminated hands. Four people died in total, and over 100,000 Goiânia residents were summoned for testing at the Olympic stadium.
+
+This story offers a haunting reminder of how invisible dangers can hide behind beautiful appearances, and how a moment of curiosity can ripple through entire communities. It's a quietly devastating account of ordinary people caught in an extraordinary tragedy, told through the eyes of someone who watched it unfold from the inside.</description>
+      <source url="https://www.bbc.com/portuguese/articles/ckeq3wgzx83eo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>A historic land restitution process offers new hope for Botswana’s Indigenous San</title>
       <link>https://news.mongabay.com/2026/10/a-historic-land-restitution-process-offers-new-hope-for-botswanas-indigenous-san/</link>
@@ -594,18 +606,6 @@ This isn't just about money. Higher token counts mean slower response times and 
 
 This story matters because it reveals how technical design choices can create invisible barriers in ostensibly borderless technology. While token prices are falling and researchers are collecting better multilingual data, experts say truly fixing the problem will require deliberate effort to design tokenizers that treat all languages and scripts more equitably—turning language efficiency into a core requirement alongside speed and accuracy.</description>
       <source url="https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds">Rest of World</source>
-    </item>
-    <item>
-      <title>MPs urged 'let light win' as cockatoo sits in for Helen Haines</title>
-      <link>https://www.abc.net.au/news/2026-10-26/helen-haines-tributes-in-federal-parliament/107307826</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-10-26/helen-haines-tributes-in-federal-parliament/107307826</guid>
-      <pubDate>Mon, 26 Oct 2026 08:02:56 GMT</pubDate>
-      <description>When Australian MP Helen Haines was violently attacked outside her office in Wangaratta, sustaining injuries so severe that both her legs required amputation, the nation's parliament paused to reflect on more than one woman's courage. A cardboard cockatoo—a nod to the noisy flocks of her north-east Victoria electorate—sat in her empty seat as colleagues from across the political spectrum rose to honor her uncommon kindness and dedication to civil discourse. The Independent Member for Indi, known for her calm demeanor amid parliament's usual raucousness, had built her career on grassroots community organizing and a reputation for making regional voices impossible to ignore.
-
-The tributes revealed something deeper than sympathy. Speaker after speaker acknowledged Haines as a matriarch of Australia's independent movement, someone who guided newly elected crossbenchers through the machinery of parliament without major party support. Her first words after the attack, relayed by her husband, were concern for her staff and gratitude toward first responders—a gesture colleagues said perfectly captured her character. Yet they were careful to note she was no passive presence: beneath the empathy and grace lay a determined advocate for climate action and regional health services, someone voters had rewarded with three consecutive terms.
-
-What makes this story quietly remarkable is how a moment of violence became a catalyst for reflection on political culture itself. MPs openly questioned whether the tenor of Australian politics must change, whether the country needs a better way to argue. The cardboard cockatoo, lonely in the chamber, became an unlikely symbol—not just of one leader's absence, but of a call to "let light win over darkness."</description>
-      <source url="https://www.abc.net.au/news/2026-10-26/helen-haines-tributes-in-federal-parliament/107307826">ABC Australia</source>
     </item>
   </channel>
 </rss>
