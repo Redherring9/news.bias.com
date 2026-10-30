@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 14:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:03:10 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Attenborough-backed appeal secures £30m estate</title>
+      <link>https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 30 Oct 2026 16:03:08 GMT</pubDate>
+      <description>After a two-year fundraising campaign that captured international attention, conservationists have secured the entire 9,500-acre Rothbury Estate in Northumberland for £30 million. The Wildlife Trusts and Northumberland Wildlife Trust successfully completed the purchase of the former grouse moor, woodland, and farmland—previously owned by the Percy family for roughly 700 years—bridging a final funding gap with a low-interest loan after donations and government support brought them close to their target.
+
+More than 25,000 people from around the world contributed to the appeal, including a surge of £1 million in one week following endorsement by Sir David Attenborough, who serves as president emeritus of the Wildlife Trusts. Major funding also came from a £5 million National Lottery Heritage Fund grant and nearly £2 million from the government. The estate hosts Sites of Special Scientific Interest and provides habitat for endangered species like red squirrels, curlew, and mountain bumblebees. Conservationists envision a 40-mile "wild" corridor stretching from the North East coast to the Scottish border, with hopes that pine martens, beavers, and heritage cattle breeds might return over the next decade. Not everyone celebrated the purchase, however, with some local farmers warning it could prove to be "a folly."
+
+This story matters because opportunities to protect landscapes at this scale are exceptionally rare in England. It represents a test case for how conservation can coexist with farming and local communities—a vision of nature recovery that depends as much on careful stewardship as on the initial enthusiasm that made the purchase possible.</description>
+      <source url="https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>400-year-old archaeological site in Rio Grande do Sul hosts film festival with screenings inside ruins</title>
       <link>https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/30/400-anos-no-rs-recebe-festival-de-cinema-com-sessoes-dentro-de-ruinas.ghtml</link>
@@ -594,18 +606,6 @@ The production weaves together 19 songs from Nascimento's repertoire, with newly
 
 This performance offers a window into how one art form can honor another. Dance becomes a language for exploring music that already speaks to brotherhood, earth, and memory. For anyone curious about how movement and melody intertwine, or how Brazilian culture celebrates its living legends, "Travessia" promises a quietly powerful tribute to a composer whose songs have carried generations across their own crossings.</description>
       <source url="https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/26/cancoes-de-milton-nascimento-pautam-travessia-espetaculo-da-studio3-cia-de-danca-que-estreia-em-novembro.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>What photonics is and how it can make AI data centers consume less water and energy</title>
-      <link>https://www.bbc.com/mundo/articles/cmd93xe1w0vjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cmd93xe1w0vjo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Mon, 26 Oct 2026 12:03:24 GMT</pubDate>
-      <description>As artificial intelligence drives unprecedented growth in data centers, industry leaders are looking to replace copper wiring with light-based photonics technology. Chris Sharp of Digital Realty suggests we're reaching "the end of the copper era" — not because supplies are running low, but because a better alternative is emerging. A typical 100-megawatt data center uses around 400 tons of copper, with roughly 20 tons dedicated solely to network cabling that connects servers and processing units.
-
-The solution lies in photonics: transmitting data as photons of light through fiber optic cables rather than as electrons through copper wire. While fiber optics have carried long-distance communications for decades, researchers are now working to bring this technology inside data centers themselves, sometimes integrating optical components directly onto computer chips. The key advantage is thermal: light generates far less heat than electricity, meaning data centers would require significantly less energy for cooling — a major contributor to their substantial environmental footprint. Photonics also allows multiple data streams to travel through a single channel, increasing capacity.
-
-After years of laboratory development, the technology appears ready for widespread adoption, bolstered by support from AI chip giant Nvidia. Yet challenges remain in manufacturing and cost reduction, as photonics brings together different engineering traditions and supply chains scattered across the globe. For readers concerned about technology's environmental impact, this story offers a glimpse of how innovation might quietly reduce the resource intensity of our digital infrastructure — making the invisible machinery of the internet age just a bit lighter on the planet.</description>
-      <source url="https://www.bbc.com/mundo/articles/cmd93xe1w0vjo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
