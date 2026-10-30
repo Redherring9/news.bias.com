@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:04:44 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>400-year-old archaeological site in Rio Grande do Sul hosts film festival with screenings inside ruins</title>
+      <link>https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/30/400-anos-no-rs-recebe-festival-de-cinema-com-sessoes-dentro-de-ruinas.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/30/400-anos-no-rs-recebe-festival-de-cinema-com-sessoes-dentro-de-ruinas.ghtml</guid>
+      <pubDate>Fri, 30 Oct 2026 14:04:42 GMT</pubDate>
+      <description>In the southern Brazilian state of Rio Grande do Sul, a film festival is offering audiences an unusual venue: the 400-year-old ruins of São Miguel Arcanjo, a UNESCO World Heritage site that once served as a Jesuit mission church. The 4th Mostra de Cinema das Missões runs through the weekend, screening 36 Brazilian and international films free of charge, with 17 shown on a screen set up inside the main hall of the historic ruins.
+
+Festival director Manuela Fetter Nicoletti describes the approach as "cinema in ceremony"—a respectful way of illuminating the heritage site through film while inviting both visitors and locals to connect with history. The event's highlight comes Saturday with a screening of "The Mission," the 1986 film that dramatizes the story of the Jesuit missions. It's a fitting choice: the film is marking its 40th anniversary during the same year that celebrates 400 years since the Jesuit missions were established in the region. Co-director Darius Pippi emphasizes the power of experiencing a story in the very place where it unfolded, noting that the careful use of lighting and atmosphere transforms each screening into something distinct.
+
+This festival represents a quiet innovation in how communities can engage with their own history—not through dusty exhibits alone, but through living cultural experiences that make the past feel immediate and tangible. For audiences sitting among centuries-old stone walls, watching actors portray events that happened in those very spaces, the boundary between then and now becomes beautifully blurred.</description>
+      <source url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/30/400-anos-no-rs-recebe-festival-de-cinema-com-sessoes-dentro-de-ruinas.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>My brother unknowingly bought the cesium-137 capsule that triggered Brazil's largest radioactive accident</title>
       <link>https://www.bbc.com/portuguese/articles/ckeq3wgzx83eo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ The solution lies in photonics: transmitting data as photons of light through fi
 
 After years of laboratory development, the technology appears ready for widespread adoption, bolstered by support from AI chip giant Nvidia. Yet challenges remain in manufacturing and cost reduction, as photonics brings together different engineering traditions and supply chains scattered across the globe. For readers concerned about technology's environmental impact, this story offers a glimpse of how innovation might quietly reduce the resource intensity of our digital infrastructure — making the invisible machinery of the internet age just a bit lighter on the planet.</description>
       <source url="https://www.bbc.com/mundo/articles/cmd93xe1w0vjo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>AI models cost more when you don’t use English</title>
-      <link>https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds</link>
-      <guid isPermaLink="false">https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds</guid>
-      <pubDate>Mon, 26 Oct 2026 10:02:59 GMT</pubDate>
-      <description>A new study has uncovered a surprising economic disparity hiding in plain sight within artificial intelligence systems: people using less common languages may pay significantly more to access AI services than English speakers. The research, published by the Coalition for Language Equity in AI Research, reveals that AI models require vastly different numbers of "tokens"—the basic units these systems process—depending on the language used. Even among the internet's 20 most popular languages, some require up to five times more tokens than others. When the analysis expanded to 200 languages, one model showed a 17-fold gap in token costs.
-
-This isn't just about money. Higher token counts mean slower response times and reduced capacity to retain conversation history or context—imagine a tutor who can't remember your earlier questions as clearly. The disadvantage hits hardest in regions where computing resources and internet connectivity are already limited, potentially determining who can participate meaningfully in the AI economy. A startup in Bengaluru might face surcharges that its Austin-based competitor doesn't encounter. The script a language uses matters as much as its prevalence: Asturian, with few speakers, benefits from using the Latin alphabet and resembling Italian, while languages written in Burmese, Tibetan, or Khmer scripts face consistent disadvantages across nearly all models.
-
-This story matters because it reveals how technical design choices can create invisible barriers in ostensibly borderless technology. While token prices are falling and researchers are collecting better multilingual data, experts say truly fixing the problem will require deliberate effort to design tokenizers that treat all languages and scripts more equitably—turning language efficiency into a core requirement alongside speed and accuracy.</description>
-      <source url="https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds">Rest of World</source>
     </item>
   </channel>
 </rss>
