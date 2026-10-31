@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 10:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:03:39 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>From gold rush to cosmic questions: a South Dakota mine and the search for the secrets of the universe</title>
+      <link>https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter</link>
+      <guid isPermaLink="false">https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter</guid>
+      <pubDate>Sat, 31 Oct 2026 12:03:38 GMT</pubDate>
+      <description>In the Black Hills of South Dakota, a former gold mine is being transformed into one of the world's most ambitious physics experiments. The Deep Underground Neutrino Experiment (Dune), set to begin construction in the historic Homestake mine, will place four massive detectors a mile beneath the surface to catch some of the universe's most elusive particles. The detectors—each up to five storeys tall and filled with 70,000 tonnes of supercooled liquid argon—will observe neutrinos arriving from the sun, distant supernovae, and an 800-mile beam shot through solid rock from Illinois.
+
+Neutrinos are strange particles that barely interact with matter, with trillions passing through our bodies every second. They come in three varieties and mysteriously transform from one type to another as they travel—as one physicist puts it, like throwing an apple that turns into a banana mid-flight. By studying these transformations, scientists hope to answer fundamental questions about why our universe is made of matter rather than antimatter, and ultimately, why anything exists at all. The site has history with neutrino research: in the 1960s, physicist Ray Davis built the first detector to capture solar neutrinos deep in the same mine.
+
+For the town of Lead, the transition from mining gold to mining cosmic secrets represents both continuity and renewal. The Sanford Underground Research Facility, which already hosts experiments like the recent dark matter detection at Lux-Zeplin, brings new opportunities to a community shaped by generations of working beneath the earth. This story offers a quiet reminder that humanity's most profound questions sometimes require descending into darkness—and that the pursuit of understanding can breathe new life into places built on older dreams of discovery.</description>
+      <source url="https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter">The Guardian</source>
+    </item>
     <item>
       <title>After floods, merchants of Juiz de Fora reinvent themselves to start over</title>
       <link>https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/31/apos-enchentes-comerciantes-de-juiz-de-fora-se-reinventam-para-recomecar.ghtml</link>
@@ -594,18 +606,6 @@ The festival's persistence is noteworthy in an environment where more adventurou
 
 This story offers a glimpse into the tensions shaping live music culture in Japan today: the pull between safe, familiar programming and the desire for something distinctive. For anyone who's ever wondered why cultural offerings sometimes feel so uniform, or who's curious about what it takes to sustain an independent creative vision, Frue's decade-long journey suggests that there's still room for the unconventional — it just requires persistence and principle.</description>
       <source url="https://www.japantimes.co.jp/culture/2026/10/27/music/festival-de-frue/">The Japan Times</source>
-    </item>
-    <item>
-      <title>237-million-year-old amphibian may have been the first to live only in the sea</title>
-      <link>https://g1.globo.com/ciencia/noticia/2026/10/27/anfibio-de-237-milhoes-de-anos-pode-ter-sido-o-primeiro-a-viver-so-no-mar.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/ciencia/noticia/2026/10/27/anfibio-de-237-milhoes-de-anos-pode-ter-sido-o-primeiro-a-viver-so-no-mar.ghtml</guid>
-      <pubDate>Tue, 27 Oct 2026 08:01:43 GMT</pubDate>
-      <description>Scientists in China have discovered what may be the oldest amphibian to spend its entire life in the ocean. Two nearly complete skeletons of Gerrothorax maritimus, dating back 237 million years, were found in Guizhou Province in southern China. The find is remarkable because none of today's 8,000-plus amphibian species are fully marine—frogs, toads, and salamanders all struggle with saltwater due to their highly permeable skin, which causes them to lose body water in ocean environments.
-
-G. maritimus appears to have solved this problem through some clever adaptations. The creature had a flattened body covered in heavy bony armor, which researchers believe acted as a physical barrier against water loss. It also possessed gills and a specialized digestive system that may have helped expel excess salt and absorb seawater, much like modern marine fish. Chemical analysis of the bones revealed a signature matching ancient seawater from that period, and the fossils were found in rocks formed at least 30 kilometers from the nearest islands of the time. The animal likely spent much of its time on the ocean floor, using its wide mouth and strong throat structure to capture prey by suction—a strategy similar to some modern bottom-dwelling sharks.
-
-This story offers a fascinating glimpse into how ancient life experimented with different solutions to environmental challenges. While soft tissues weren't preserved—leaving questions about reproduction and detailed physiology unanswered—the discovery reminds us that evolution has explored pathways that no longer exist today, and that the boundaries we observe in modern nature aren't necessarily fixed across deep time.</description>
-      <source url="https://g1.globo.com/ciencia/noticia/2026/10/27/anfibio-de-237-milhoes-de-anos-pode-ter-sido-o-primeiro-a-viver-so-no-mar.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
