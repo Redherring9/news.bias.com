@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 06:04:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:03:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>13-ton load, Embraer aircraft, and simulation in São Paulo's interior: how Brazil prepares to transport new satellite</title>
+      <link>https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/31/carga-de-13-toneladas-aviao-da-embraer-e-simulacao-no-interior-de-sp-como-o-brasil-prepara-transporte-de-novo-satelite.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/31/carga-de-13-toneladas-aviao-da-embraer-e-simulacao-no-interior-de-sp-como-o-brasil-prepara-transporte-de-novo-satelite.ghtml</guid>
+      <pubDate>Sat, 31 Oct 2026 08:03:38 GMT</pubDate>
+      <description>In a hangar at São José dos Campos airport in Brazil's interior, teams recently rehearsed an intricate dance: fitting a 7-ton protective container into the cargo hold of a KC-390, a military transport plane built by Brazilian aerospace manufacturer Embraer. Inside that container, come September 2027, will sit the Amazônia 1B satellite—a 638-kilogram Earth observation instrument developed by Brazil's National Institute for Space Research (Inpe). The successful dry run confirmed that Brazil can transport its own satellite to the launch site in French Guiana using domestically produced aircraft, a logistical achievement that required coordination among roughly 30 professionals from Inpe, the Brazilian Air Force, and airport staff.
+
+The satellite itself represents a technological leap for Brazil. Beyond capturing images of Earth, Amazônia 1B will employ GNSS reflectometry—a technique that analyzes navigation signals bouncing off the planet's surface to measure soil moisture, ocean wind patterns, wetland characteristics, and permafrost conditions. According to project coordinator Adenilson Roberto da Silva, this marks the first time Brazil has deployed such technology in space. The planning differs markedly from the 2021 launch of Amazônia 1, which required a larger Boeing aircraft for the longer journey to India; this time, the closer French Guiana launch site and streamlined equipment load—totaling about 13 tons—make the operation more manageable with Brazilian resources.
+
+This story offers a quiet glimpse into the meticulous preparation behind space missions, where success hinges on careful simulations and precision engineering. It showcases Brazil's growing self-sufficiency in space technology and highlights how regional expertise in São Paulo's Paraíba Valley contributes to scientific advancement—a reminder that exploration often begins with methodical groundwork long before anything leaves the atmosphere.</description>
+      <source url="https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/31/carga-de-13-toneladas-aviao-da-embraer-e-simulacao-no-interior-de-sp-como-o-brasil-prepara-transporte-de-novo-satelite.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Country diary: An impromptu birding trip with a total stranger – and it was magical | Eben Muse</title>
       <link>https://www.theguardian.com/environment/2026/oct/31/country-diary-an-impromptu-birding-trip-with-a-total-stranger-and-it-was-magical</link>
@@ -594,18 +606,6 @@ The expedition proved remarkably fruitful. Over two days of careful surveying, t
 
 This story offers a quiet reminder that biodiversity hotspots can exist in the most unexpected places, and that entire kingdoms of life await discovery literally beneath our feet. The careful documentation of species like the globally at-risk blushing and mealy waxcaps underscores how citizen science and expert collaboration can illuminate the hidden richness of even the smallest islands.</description>
       <source url="https://www.theguardian.com/environment/2026/oct/27/country-diary-our-tiny-island-is-awash-with-waxcaps">The Guardian</source>
-    </item>
-    <item>
-      <title>Scientists video REM-like sleep in Australian jumping spider species</title>
-      <link>https://www.abc.net.au/news/science/2026-10-27/jumping-spider-rem-sleep/107309370</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/science/2026-10-27/jumping-spider-rem-sleep/107309370</guid>
-      <pubDate>Tue, 27 Oct 2026 04:02:36 GMT</pubDate>
-      <description>A tiny Australian jumping spider is offering scientists a remarkable window into the evolution of sleep across the animal kingdom. Researchers have documented that Portia fimbriata, a species found in northern Australia, experiences at least two distinct sleep stages—including one that closely resembles REM sleep in humans, complete with leg twitches, eye movements, and little arm jerks as the spider dozes suspended upside down in its web.
-
-The research team, led by behavioral ecologists from the University of Bonn, used careful video analysis to identify the sleep patterns. They observed a quiescent stage where the spiders groomed themselves and slowly drooped down, followed by the more active REM-like phase. To confirm the spiders were truly sleeping, the researchers tested their responsiveness to loud noises at different times. Just like humans roused from deep sleep, the spiders were slow to respond—or didn't respond at all—when disturbed during their REM-like state. One Australian expert described the study as "the most complete behavioral case for sleep in any arachnid."
-
-While it might seem surprising to compare spider sleep to our own, scientists note that similar behaviors have been observed across vastly different species, from dogs to reptiles. The fact that a creature separated from humans by 500 million years of evolution exhibits such familiar sleep patterns raises intriguing questions about how fundamental rest may be to life itself. This story is worth your time because it gently expands our understanding of what we share with even the smallest, most alien-seeming creatures—and reminds us that the need for a good night's sleep might be more universal than we ever imagined.</description>
-      <source url="https://www.abc.net.au/news/science/2026-10-27/jumping-spider-rem-sleep/107309370">ABC Australia</source>
     </item>
   </channel>
 </rss>
