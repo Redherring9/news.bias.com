@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 04:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:04:13 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘They have schedules to follow’: how fast ferries can threaten endangered whales in the Mediterranean</title>
+      <link>https://www.theguardian.com/environment/2026/nov/02/fast-ferries-threaten-endangered-whales-mediterranean</link>
+      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/nov/02/fast-ferries-threaten-endangered-whales-mediterranean</guid>
+      <pubDate>Mon, 02 Nov 2026 06:01:43 GMT</pubDate>
+      <description>In the protected waters of the Pelagos sanctuary in the north-western Mediterranean, marine biologist Alice Barbarioli spots a telling mark on a sperm whale's tail—a clean cut likely left by a vessel collision. These strikes have long threatened the region's endangered whales, and new data reveals the scale of the problem. An investigation using maritime tracking information found that large passenger and cargo vessels from four major ferry companies routinely travel through this protected habitat at speeds of 15 knots or higher—velocities that almost always prove fatal to whales in the event of a collision. Slowing to below 10 knots dramatically reduces lethality, yet the voluntary speed recommendations introduced in 2023 appear largely ignored.
+
+The numbers tell a stark story. Ships spent more than 280,000 hours traveling at dangerous speeds through the particularly sensitive sea area in 2025, with some ferries exceeding 25 knots. Just seven vessels—four from Baleària and three from Grimaldi—accounted for 70% of the fastest travel times. Six ship captains, speaking candidly, explained that without binding regulations, commercial pressures make compliance nearly impossible. "They have schedules to follow," one Grimaldi captain noted, pointing to the tourism industry's tight timetables. The companies named in the investigation did not respond to requests for comment.
+
+This story matters because it illuminates a quiet collision between conservation ideals and commercial realities. The Mediterranean hosts two-thirds of the region's fin whales and more than a fifth of its sperm whales in these waters, yet voluntary protections seem insufficient against the momentum of global trade and tourism. It's a reminder that saving endangered species often requires more than good intentions—it demands accountability.</description>
+      <source url="https://www.theguardian.com/environment/2026/nov/02/fast-ferries-threaten-endangered-whales-mediterranean">The Guardian</source>
+    </item>
     <item>
       <title>Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city</title>
       <link>https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss</link>
@@ -594,18 +606,6 @@ While the headline promises insight into WBBL winners facing significant life tr
 
 This piece represents an interesting disconnect between editorial intent and published content, serving as a reminder of how sports journalism balances data delivery with human storytelling. For readers seeking the promised story about athletes navigating career milestones alongside personal life changes, the scores alone offer only the statistical backbone of their professional achievements, leaving the more meaningful human narrative untold. It's a peculiar example of how sports coverage sometimes privileges the numbers over the narratives that give them meaning.</description>
       <source url="https://www.abc.net.au/news/2026-10-29/wbbl-hobart-hurricanes-nicola-carey-elyse-villani-life-changes/107322278">ABC Australia</source>
-    </item>
-    <item>
-      <title>Building boom puts 300,000 people in the path of potential Himalayan disasters</title>
-      <link>https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Thu, 29 Oct 2026 00:04:09 GMT</pubDate>
-      <description>A new study reveals that rapid development in the Himalayas has placed at least 300,000 people in the path of potential disasters from glacial lake floods and river flooding. Between 2016 and 2023, built-up land in high-risk zones across northern Nepal, southeastern Tibet, and India's Uttarakhand increased by 45%, with areas near glacial lakes seeing an even sharper 78% rise. Researchers warn the true number of people at risk may be significantly higher, as their analysis covered only a portion of the vulnerable region.
-
-The growth is driven by tourism expansion, hydropower development, and real estate construction along riverbanks fed by Himalayan glaciers. In Pokhara, a major tourism hub, buildings stand just five meters from the Seti Gandaki River despite newer safety regulations. Hotel owners in the Annapurna trekking region describe living in "constant fear" of glacial lake outbursts, while business has plummeted following recent floods. One homestay operator who has worked in the area for 40 years says he's never witnessed disasters of this scale. Local officials and industry representatives acknowledge that development has proceeded "haphazardly" without proper planning or adequate consideration of geological risks.
-
-This story matters because it illuminates a collision between economic development and environmental reality in one of the world's most geologically volatile regions. The research, published before August's devastating floods that killed over 1,400 people in Nepal, proves grimly prescient. As climate change accelerates glacial melting and extreme weather events, decisions being made today about where to build hotels, homes, and infrastructure will determine the safety of Himalayan communities for generations to come.</description>
-      <source url="https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
