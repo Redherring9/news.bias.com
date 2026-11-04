@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 18:03:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:03:20 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Water rationing in Recife, Brazil, falls along racial lines</title>
+      <link>https://news.mongabay.com/2026/11/water-rationing-in-recife-brazil-falls-along-racial-lines/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/2026/11/water-rationing-in-recife-brazil-falls-along-racial-lines/</guid>
+      <pubDate>Wed, 04 Nov 2026 20:03:18 GMT</pubDate>
+      <description>In Recife, Brazil, a new data analysis reveals a stark pattern: access to running water divides sharply along lines of race and class. Mongabay mapped water supply schedules against census data and found that neighborhoods with large Black populations receive piped water for as few as 91 hours per month—leaving taps dry for up to fifteen consecutive days. Meanwhile, wealthier, whiter areas enjoy consistent service.
+
+The story follows Jeyne Araújo, a young mother in the neighborhood of Ibura de Baixo, who wakes at 4 a.m. to collect water during the brief six-hour window it flows. The water that does arrive is heavily chlorinated, frothing and undrinkable. After her son developed a months-long intestinal infection from tap water, Araújo now spends part of her modest welfare benefit on bottled water. Her home sits in a flood-prone zone classified as high-risk; she lost her partner in 2022 when he was electrocuted by a submerged wire during flooding. The dual crisis—chronic water scarcity and acute flood vulnerability—defines life in Recife's peripheral communities.
+
+This quiet investigation into infrastructure inequality offers a sobering portrait of environmental racism in practice. It shows how essential services become tools of exclusion, and how daily survival in some neighborhoods demands resourcefulness that should never be necessary. The story matters because it makes visible a crisis often hidden in administrative data, and because it asks who gets to take clean water for granted—and who must fight for every drop.</description>
+      <source url="https://news.mongabay.com/2026/11/water-rationing-in-recife-brazil-falls-along-racial-lines/">Mongabay</source>
+    </item>
     <item>
       <title>Hope for Westport families as aged care home expands</title>
       <link>https://www.rnz.co.nz/news/regional/2347985/hope-for-westport-families-as-aged-care-home-expands</link>
@@ -594,18 +606,6 @@ Eric appears to be a former pet emu, which explains her unusually sociable behav
 
 This story captures the sometimes-awkward reality of living alongside wildlife in regional Australia, where the line between wild, domestic, and suburban can blur in unexpected ways. It's a gentle reminder that not all neighborhood disputes involve noisy parties or boundary fences—sometimes they involve a determined flightless bird with a talent for fence-hopping and an apparent fondness for one particular pensioner's morning routine.</description>
       <source url="https://www.abc.net.au/news/2026-11-01/eric-the-emu-terrorising-pensioner/107288146">ABC Australia</source>
-    </item>
-    <item>
-      <title>Losing our baby shaped us in ways we never expected</title>
-      <link>https://www.abc.net.au/news/2026-11-01/love-story-robert-yeomans-heidy-perez-stillbirth/107288004</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-11-01/love-story-robert-yeomans-heidy-perez-stillbirth/107288004</guid>
-      <pubDate>Sun, 01 Nov 2026 00:03:30 GMT</pubDate>
-      <description>Robert Yeomans and Heidy Perez Perez met through a language-learning app in Adelaide, where Robert was studying Spanish and Heidy was an international student. After an initial meeting that didn't quite click, they reconnected a year later and built a life together, marrying in 2021. Just months after their wedding, they discovered they were expecting their first child, Thiago, conceived on Valentine's Day—a baby born of their love.
-
-At 28 weeks, doctors discovered Thiago wasn't growing properly due to placental issues. On their wedding anniversary, Heidy woke in pain, and at the hospital they received devastating news: Thiago's heartbeat could no longer be detected. Heidy gave birth to him later that day via C-section. The loss tested their relationship profoundly, as they each grieved differently while trying to support one another through unimaginable pain. They learned that loving someone through grief doesn't always mean having the right words—sometimes it simply means being present, listening, and holding space for each other's sorrow.
-
-This is a story about how love adapts and deepens through tragedy. Robert and Heidy describe not moving past their grief, but growing around it—becoming more compassionate, understanding, and aware of how precious their time together is. Thiago remains part of their family story, carried forward in how they love and see the world, even as they've welcomed their daughter Sienna. It's a quietly powerful reminder that resilience in relationships isn't about strength without pain, but about choosing to hold onto each other through it.</description>
-      <source url="https://www.abc.net.au/news/2026-11-01/love-story-robert-yeomans-heidy-perez-stillbirth/107288004">ABC Australia</source>
     </item>
   </channel>
 </rss>
