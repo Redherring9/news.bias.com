@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 10:05:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:07:49 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Acing the ENEM: the chemistry behind safety matches</title>
+      <link>https://g1.globo.com/mg/triangulo-mineiro/especial-publicitario/colegio-nacional/mandando-bem-no-enem/noticia/2026/11/04/mandando-bem-no-enem-a-quimica-por-tras-dos-fosforos-de-seguranca.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/mg/triangulo-mineiro/especial-publicitario/colegio-nacional/mandando-bem-no-enem/noticia/2026/11/04/mandando-bem-no-enem-a-quimica-por-tras-dos-fosforos-de-seguranca.ghtml</guid>
+      <pubDate>Wed, 04 Nov 2026 10:07:47 GMT</pubDate>
+      <description>A humble matchbox offers a surprisingly rich lesson in chemistry, safety engineering, and technological progress. Brazilian chemistry teacher Robson Carneiro uses safety matches as a teaching tool to help students prepare for Brazil's national high school exam, the ENEM, demonstrating how everyday objects can unlock understanding of complex scientific concepts.
+
+The key to safety matches lies in clever separation: the colorful match head contains potassium chlorate (an oxidizing agent) and combustible materials, while the rough striking surface on the box holds red phosphorus and abrasives. Only when the two surfaces meet through friction do the components react, generating enough heat to ignite the match head and spread flame down the wooden stick. This design keeps the most reactive ingredients apart until the moment of use, significantly reducing accidental ignition. The history behind this simple object is sobering—nineteenth-century matches used highly toxic white phosphorus, exposing factory workers to severe illness and creating dangerous fire hazards. The shift to red phosphorus and the separation of ignition components represented a major safety breakthrough, protecting both consumers and manufacturers.
+
+Carneiro's approach reflects a broader educational philosophy: rather than memorizing definitions, students learn to observe phenomena, connect evidence to concepts, and explain what they see. This story is worth a reader's time because it reveals how thoughtful engineering transforms ordinary objects into small marvels of safety and function, and how curiosity about the familiar can open doors to deeper scientific understanding.</description>
+      <source url="https://g1.globo.com/mg/triangulo-mineiro/especial-publicitario/colegio-nacional/mandando-bem-no-enem/noticia/2026/11/04/mandando-bem-no-enem-a-quimica-por-tras-dos-fosforos-de-seguranca.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Microplastics pollute nearly two-thirds of corals in Malaysia’s marine protected area, study finds</title>
       <link>https://news.mongabay.com/2026/11/microplastics-pollute-nearly-two-thirds-of-corals-in-malaysias-marine-protected-area-study-finds/</link>
@@ -594,18 +606,6 @@ Neutrinos are strange particles that barely interact with matter, with trillions
 
 For the town of Lead, the transition from mining gold to mining cosmic secrets represents both continuity and renewal. The Sanford Underground Research Facility, which already hosts experiments like the recent dark matter detection at Lux-Zeplin, brings new opportunities to a community shaped by generations of working beneath the earth. This story offers a quiet reminder that humanity's most profound questions sometimes require descending into darkness—and that the pursuit of understanding can breathe new life into places built on older dreams of discovery.</description>
       <source url="https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter">The Guardian</source>
-    </item>
-    <item>
-      <title>After floods, merchants of Juiz de Fora reinvent themselves to start over</title>
-      <link>https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/31/apos-enchentes-comerciantes-de-juiz-de-fora-se-reinventam-para-recomecar.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/31/apos-enchentes-comerciantes-de-juiz-de-fora-se-reinventam-para-recomecar.ghtml</guid>
-      <pubDate>Sat, 31 Oct 2026 10:04:24 GMT</pubDate>
-      <description>In Juiz de Fora, Brazil, a city with a 120-year history of recurring floods, local merchants are finding creative ways to rebuild their businesses after devastating floods in February 2026. The story weaves together generations of resilience, from a 1906 newspaper account to present-day shopkeepers who refuse to give up despite repeated losses.
-
-At the heart of the narrative is 88-year-old Mounira Haddad Rahme, whose nearly century-old fabric shop has weathered multiple floods. She recalls how in 1940, when her family's stock was soaked, a neighboring merchant suggested they advertise a "wet fabric sale"—a strategy that cleared inventory and funded restocking. Her grandfather's advice still guides her: "Don't lose heart. In this life, everything passes. The good passes and the bad passes." Meanwhile, paint shop owners Ive and Márcio shifted to selling by special order after losing nearly 300,000 reais in stock, a change that actually increased revenue by 20 percent as loyal customers adapted. Not everyone faces the future with the same optimism—José Joaquim, who nearly drowned in his auto parts shop during a 2018 flood, has lost over 170,000 reais in the past year alone and now works nights as a security guard to supplement his income.
-
-This story matters because it captures something essential about human adaptability in the face of recurring disaster. Rather than a tale of defeat, it's a quiet testament to ingenuity, community loyalty, and the stubborn determination to continue—even when the floodwaters keep returning. It asks us to consider what it takes, generation after generation, to rebuild not just businesses but hope itself.</description>
-      <source url="https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/31/apos-enchentes-comerciantes-de-juiz-de-fora-se-reinventam-para-recomecar.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
