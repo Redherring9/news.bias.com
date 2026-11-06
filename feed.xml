@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 08:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 10:04:37 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>India repatriates seized orangutan, raising hopes for five more</title>
+      <link>https://news.mongabay.com/short-article/2026/11/india-repatriates-seized-orangutan-raising-hopes-for-five-more/</link>
+      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/11/india-repatriates-seized-orangutan-raising-hopes-for-five-more/</guid>
+      <pubDate>Fri, 06 Nov 2026 10:04:35 GMT</pubDate>
+      <description>A young orangutan confiscated from a Mumbai apartment in 2024 has been successfully returned to Indonesia after two years of health assessments and bureaucratic processes. The endangered primate now resides at the Sumatra Rescue Alliance facility, where conservationists will prepare it for life in the wild through a forest school program—a rehabilitation process expected to take about four years before the animal can be released.
+
+This marks India's first successful repatriation of a seized animal protected under CITES, the international wildlife trade treaty that prohibits commercial trade in wild-caught orangutans. The achievement has brought renewed attention to five infant orangutans discovered in India's Odisha state in September, currently housed at a zoological park while authorities trace their origins and investigate suspected trafficking networks. Indonesia has proposed sending a team of veterinarians and specialists to assess these infants, who appear to be Sumatran orangutans based on physical observations, though genetic testing will provide definitive confirmation.
+
+What makes this story quietly remarkable is how it illuminates both the shadowy routes of illegal wildlife trade and the patient, coordinated effort required to reverse its damage. Beyond the immediate rescue, conservationists hope these cases will strengthen cooperation between India and Indonesia to dismantle smuggling networks before more critically endangered animals are pulled from their forest homes. It's a reminder that conservation sometimes unfolds one individual at a time, with years of careful work behind each small victory.</description>
+      <source url="https://news.mongabay.com/short-article/2026/11/india-repatriates-seized-orangutan-raising-hopes-for-five-more/">Mongabay</source>
+    </item>
     <item>
       <title>Woman rescues baby koala from grips of python in Brisbane</title>
       <link>https://www.abc.net.au/news/2026-11-06/koala-rescue-from-snake-brisbane/107357818</link>
@@ -594,18 +606,6 @@ Using satellite imagery to track forest "greenness" during and after climate eve
 
 The study also revealed important nuances. Diversity's protective power varied depending on the type of climate event, and other factors like soil quality and baseline rainfall remained influential. Still, for forest managers facing an uncertain climate future, the research offers practical guidance: nurturing a mix of tree species may be one of the most effective strategies for building resilience. In an era of intersecting environmental pressures, this quietly remarkable study reminds us that nature's own diversity might be among our best defenses.</description>
       <source url="https://news.mongabay.com/2026/11/diverse-forests-can-better-withstand-extreme-weather-events-study-finds-heres-why/">Mongabay</source>
-    </item>
-    <item>
-      <title>Molecular traces from 'blood cells' found in 115-million-year-old dinosaur bones</title>
-      <link>https://www.abc.net.au/news/science/2026-11-03/signs-of-mineralised-molecules-from-dinosaurs-red-blood-cell/107335770</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/science/2026-11-03/signs-of-mineralised-molecules-from-dinosaurs-red-blood-cell/107335770</guid>
-      <pubDate>Mon, 02 Nov 2026 20:04:00 GMT</pubDate>
-      <description>Scientists studying the fossilized bones of a 115-million-year-old Brazilian dinosaur have reported finding molecular traces of heme—a key component of hemoglobin that carries oxygen in red blood cells. The discovery, made by a team led by Curtin University's Kliti Grice, was found within ellipsoid structures in the vascular canals of Aratasaurus museunacionali, a feathered dinosaur estimated to have been about four years old when it died. According to Professor Grice, this marks the first time anyone has detected heme inside a fossil blood cell, opening new avenues for understanding dinosaur metabolism and physiology.
-
-The remarkable preservation may have been aided by microbial mats—colonies of bacteria and archaea common in coastal environments—that engulfed the dinosaur's remains. The researchers believe that conditions created by these microorganisms, including oxidation and simultaneous mineralization, helped preserve soft tissue over millions of years. The bones, discovered in a Brazilian mine in 2008, were analyzed using multiple techniques including electron microscopy and mass spectrometry. Surprisingly, the samples were found to be nearly 80 percent heme, though tests for ancient DNA came back negative.
-
-While the findings add to growing evidence that soft tissue can survive in dinosaur fossils longer than once thought possible, some experts remain cautious. Not all scientists are convinced the structures definitively represent red blood cells, noting that interpretation is still required when examining chemical remnants and mineralized shapes. Still, even skeptics acknowledge the presence of heme and collagen is remarkable. The study offers a glimpse into how ancient life might be preserved in unexpected ways, and researchers are now testing whether similar fossilization could occur with human blood in microbial mats from Western Australia.</description>
-      <source url="https://www.abc.net.au/news/science/2026-11-03/signs-of-mineralised-molecules-from-dinosaurs-red-blood-cell/107335770">ABC Australia</source>
     </item>
   </channel>
 </rss>
