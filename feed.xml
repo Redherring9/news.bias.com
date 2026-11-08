@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 20:03:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 22:03:36 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why the human body may be cooling down</title>
+      <link>https://www.bbc.com/portuguese/articles/cqn8d3nd2pj8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/cqn8d3nd2pj8o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sun, 08 Nov 2026 22:03:34 GMT</pubDate>
+      <description>In the 1860s, German physician Carl Wunderlich collected over one million temperature measurements from 25,000 patients, establishing 37°C (98.6°F) as the standard for normal human body temperature. His extensive dataset became the universal diagnostic benchmark that has guided medical practice for more than a century. Yet recent research suggests something intriguing: our bodies may actually be cooler than they were in Wunderlich's time.
+
+Studies analyzing temperature data from nearly 190,000 Americans between 1862 and 2017 reveal that average body temperature has declined, with men's temperatures dropping by about 0.59°C since the early 19th century. The new normal appears closer to 36.39°C (97.5°F). This cooling trend isn't limited to developed nations—the Tsimané, a semi-nomadic indigenous community in the Amazon rainforest, experienced a similar drop from 37°C to 36.5°C between the early 2000s and 2018, coinciding with rapid socioeconomic changes in their region.
+
+Researchers believe this shift reflects improving public health. In Wunderlich's era, when life expectancy hovered around 38 years, people routinely battled tuberculosis, rheumatic fever, and other serious infections. Fighting these threats required significant caloric energy—which generates heat. Today's generally healthier populations may simply need less metabolic firepower to maintain wellness. This story offers a quiet reminder that our baseline understanding of the human body continues to evolve, and that broad improvements in living conditions can literally change our biology in measurable ways.</description>
+      <source url="https://www.bbc.com/portuguese/articles/cqn8d3nd2pj8o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Traditional owners and uni students work together to unearth history</title>
       <link>https://www.abc.net.au/news/2026-11-09/archaeology-students-traditional-owners-pilot-program/107359186</link>
@@ -594,18 +606,6 @@ The warmed Pacific is forming typhoons further east than usual, allowing them to
 
 This story offers a window into how natural climate cycles can collide with a warming world to produce weather that surprises even seasoned forecasters. It's a reminder of the resilience required by millions who live in typhoon country—and a quiet alarm about what may lie ahead as the season, which normally winds down in autumn, threatens to extend its fury into the coming months.</description>
       <source url="https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>How a moth 'maelstrom' gave scientists hope for an endangered species</title>
-      <link>https://www.abc.net.au/news/2026-11-05/bogong-moth-zoos-victoria-tracking-alps/107328100</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-11-05/bogong-moth-zoos-victoria-tracking-alps/107328100</guid>
-      <pubDate>Wed, 04 Nov 2026 22:01:31 GMT</pubDate>
-      <description>A spectacular evening encounter on a Victorian mountaintop has offered fresh hope for one of Australia's most remarkable yet vulnerable insects. When citizen scientist Kale Munro climbed to the summit of Mount Wills, he witnessed what began as a handful of bogong moths at dusk transform into a swirling maelstrom of thousands. By morning, granite crevices were carpeted with the resting insects—a sight that has become increasingly rare in recent decades.
-
-Every spring, bogong moths undertake an extraordinary migration of more than 1,000 kilometers from breeding grounds in Queensland, New South Wales, and western Victoria to alpine caves, where they spend the summer before returning to breed. The species has faced alarming declines since the 1980s, with devastating population crashes in 2017 and 2019 linked to severe droughts that starved their underground larvae of nutrients. This year, however, citizen science project Moth Tracker has logged more than 14,000 sightings—seven times the previous record—suggesting wet seasons may be helping populations recover. Scientists still don't fully understand why moths choose particular caves or why they gather in swirling groups, though theories range from seeking light and warmth to finding water sources.
-
-The resurgence matters beyond the moths themselves. Critically endangered mountain pygmy possums depend on bogongs as their preferred food after winter hibernation, and in recent lean years, more than half of female possums lost entire litters due to food scarcity. This story quietly reminds us how species are woven together, and how the return of a nocturnal insect swarm on a distant mountaintop can ripple through an entire ecosystem with unexpected grace.</description>
-      <source url="https://www.abc.net.au/news/2026-11-05/bogong-moth-zoos-victoria-tracking-alps/107328100">ABC Australia</source>
     </item>
   </channel>
 </rss>
