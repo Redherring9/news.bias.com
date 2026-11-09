@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 00:03:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 02:01:57 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>A glimmer of good news for Britain's sleepy dormouse</title>
+      <link>https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Mon, 09 Nov 2026 02:01:55 GMT</pubDate>
+      <description>After decades of decline, Britain's hazel dormouse may finally be staging a modest comeback. New monitoring data suggests the population of these beloved small mammals increased by nearly 10% between 2020 and 2025, offering conservationists a rare glimmer of hope. The hazel dormouse, once common across England and Wales, has vanished from roughly 20 counties as woodlands and hedgerows have disappeared, with overall numbers plummeting almost 60% since 2000.
+
+The recent uptick coincides with a stretch of warmer, drier springs and summers, conditions researchers believe may be helping dormice thrive. These famously sleepy creatures hibernate from October through May and even enter torpor—brief periods of deep sleep—during chilly or wet summer days when food is scarce. Warmer weather appears to reduce their need for torpor, giving them more active time to feed, build fat reserves, and potentially raise additional litters. It's a striking example of how shifting climate patterns can reshape the fortunes of a species in unexpected ways.
+
+Yet conservationists urge caution. The population remains far below historical levels, and many questions linger about how dormice will cope with warmer, wetter winters and other long-term climate shifts. Protecting the woodlands and hedgerows these animals depend on remains essential. This story matters because it captures both the fragility and resilience of wildlife in a changing world—a reminder that even small improvements are worth celebrating, while acknowledging the hard work still ahead to ensure these enchanting sleepers don't slip away for good.</description>
+      <source url="https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
+    </item>
     <item>
       <title>This is Fantástico — Manila Norte: the cemetery of the living</title>
       <link>https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2026/11/08/isso-e-fantastico-manila-norte-o-cemiterio-dos-vivos.ghtml</link>
@@ -594,18 +606,6 @@ What began as McKenny's careful observations evolved into a full scientific stud
 
 The findings suggest this koala community has been geographically isolated long enough to avoid the disease, though that isolation may also mean lower genetic diversity. This story matters because it offers a glimpse of what healthy koala populations can look like, and raises important questions about how to protect these animals without exposing them to threats from outside. It's a reminder that sometimes thriving wildlife populations exist in unexpected places, quietly persisting on the edges of our cities.</description>
       <source url="https://www.abc.net.au/news/2026-11-05/chlamydia-free-koalas-discovered-newcastle/107344308">ABC Australia</source>
-    </item>
-    <item>
-      <title>New Zealand's oldest man, Sir Lloyd Geering, dies aged 108</title>
-      <link>https://www.rnz.co.nz/news/community/2356524/new-zealand-s-oldest-man-sir-lloyd-geering-dies-aged-108</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/community/2356524/new-zealand-s-oldest-man-sir-lloyd-geering-dies-aged-108</guid>
-      <pubDate>Thu, 05 Nov 2026 02:01:16 GMT</pubDate>
-      <description>Sir Lloyd Geering, New Zealand's oldest man and one of its most influential theological voices, has died at 108. A Presbyterian minister turned progressive scholar, Sir Lloyd sparked national controversy in the 1960s when he was tried for heresy after publicly denying the immortality of the soul and the physical resurrection of Jesus. The charges were eventually withdrawn, but the experience transformed his understanding of religious institutions and reshaped how many New Zealanders approached questions of faith.
-
-Born in Rangiora during the final days of World War I, Sir Lloyd lived through extraordinary change—spending his first quarter-century without electricity, yet in his later years playing Scrabble on Skype with opponents around the globe. He went on to establish the religious studies program at Victoria University of Wellington, where his writings and lectures as principal of Knox College helped shift the broader cultural conversation around Christianity. His theological positions, shaped by personal experiences of loss—he outlived three wives and one of his three children—emphasized pastoral compassion alongside intellectual courage.
-
-This story matters not only as the passing of a remarkable centenarian, but as a reminder of how one person's willingness to question inherited beliefs can gently reshape a nation's spiritual landscape. Sir Lloyd's family described him as a figure of "integrity, humour, compassion and goodwill," someone whose clear articulation of difficult truths brought consolation to many. His century-long journey from rural New Zealand to national treasure offers a quietly extraordinary portrait of intellectual bravery meeting pastoral care.</description>
-      <source url="https://www.rnz.co.nz/news/community/2356524/new-zealand-s-oldest-man-sir-lloyd-geering-dies-aged-108">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
