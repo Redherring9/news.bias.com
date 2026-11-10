@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 14:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:02:36 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Latin America's first quantum computer to be installed in Paraíba; learn the details</title>
+      <link>https://g1.globo.com/pb/paraiba/noticia/2026/11/10/primeiro-computador-quantico-da-america-latina-paraiba-detalhes.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/pb/paraiba/noticia/2026/11/10/primeiro-computador-quantico-da-america-latina-paraiba-detalhes.ghtml</guid>
+      <pubDate>Tue, 10 Nov 2026 16:02:34 GMT</pubDate>
+      <description>A replica of Latin America's first quantum computers has been installed at a technology park in João Pessoa, Brazil, offering the public a glimpse of cutting-edge technology soon to arrive in the northeastern state of Paraíba. The actual quantum computers, currently being shipped from China, are expected to be operational by December at the new Quantum Computing Center of Paraíba, backed by an initial investment of approximately 150 million reais.
+
+Unlike classical computers, quantum computers don't simply work faster—they solve problems differently. By harnessing the principles of quantum physics applied to extremely small particles, these machines can tackle complex calculations involving millions of variables that would stump traditional systems. The technology holds promise for advances in artificial intelligence, cybersecurity, banking, logistics, and drug development. One of the most striking features visitors notice is the cooling system: the quantum chip must be kept at an astonishingly cold temperature of 10 millikelvin—just a fraction of a degree above absolute zero—maintained by a sophisticated dilution refrigerator visible in the replica.
+
+This story matters because it marks a significant technological milestone for Latin America and challenges assumptions about where advanced scientific infrastructure takes root. That a state in northeastern Brazil is becoming home to this rare technology speaks to the global spread of quantum research and the potential for emerging regions to leap forward in fields once dominated by a handful of wealthy nations. It's a quiet reminder that the future of computing is being built in unexpected places.</description>
+      <source url="https://g1.globo.com/pb/paraiba/noticia/2026/11/10/primeiro-computador-quantico-da-america-latina-paraiba-detalhes.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>French wartime resistance heroine Solange Alexandre dies aged 104</title>
       <link>https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ Bsharat comes from a karate family—her father runs a dojo, her mother was also
 
 This story is worth a reader's time because it quietly illustrates how talent and determination can flourish even under the most constraining circumstances, and how one young athlete's personal journey has become a source of pride and possibility for an entire community.</description>
       <source url="https://www.dw.com/de/karateka-mariam-bsharat-17-gewinnt-zweimal-u21-wm-gold-für-palästina-trotz-reisebeschränkungen-finanzieller-not-und-olympia-ausschluss/a-79874096?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
-    </item>
-    <item>
-      <title>India repatriates seized orangutan, raising hopes for five more</title>
-      <link>https://news.mongabay.com/short-article/2026/11/india-repatriates-seized-orangutan-raising-hopes-for-five-more/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/11/india-repatriates-seized-orangutan-raising-hopes-for-five-more/</guid>
-      <pubDate>Fri, 06 Nov 2026 10:04:35 GMT</pubDate>
-      <description>A young orangutan confiscated from a Mumbai apartment in 2024 has been successfully returned to Indonesia after two years of health assessments and bureaucratic processes. The endangered primate now resides at the Sumatra Rescue Alliance facility, where conservationists will prepare it for life in the wild through a forest school program—a rehabilitation process expected to take about four years before the animal can be released.
-
-This marks India's first successful repatriation of a seized animal protected under CITES, the international wildlife trade treaty that prohibits commercial trade in wild-caught orangutans. The achievement has brought renewed attention to five infant orangutans discovered in India's Odisha state in September, currently housed at a zoological park while authorities trace their origins and investigate suspected trafficking networks. Indonesia has proposed sending a team of veterinarians and specialists to assess these infants, who appear to be Sumatran orangutans based on physical observations, though genetic testing will provide definitive confirmation.
-
-What makes this story quietly remarkable is how it illuminates both the shadowy routes of illegal wildlife trade and the patient, coordinated effort required to reverse its damage. Beyond the immediate rescue, conservationists hope these cases will strengthen cooperation between India and Indonesia to dismantle smuggling networks before more critically endangered animals are pulled from their forest homes. It's a reminder that conservation sometimes unfolds one individual at a time, with years of careful work behind each small victory.</description>
-      <source url="https://news.mongabay.com/short-article/2026/11/india-repatriates-seized-orangutan-raising-hopes-for-five-more/">Mongabay</source>
     </item>
   </channel>
 </rss>
