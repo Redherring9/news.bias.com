@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 22:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:02:41 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Culturally safe medical hub stops men 'walking out the door'</title>
+      <link>https://www.abc.net.au/news/2026-11-11/kununurra-hub-changes-aboriginal-mens-behaviour/107357470</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-11-11/kununurra-hub-changes-aboriginal-mens-behaviour/107357470</guid>
+      <pubDate>Wed, 11 Nov 2026 00:02:39 GMT</pubDate>
+      <description>In the remote town of Kununurra, in northern Western Australia, a new Men's Hub is addressing a troubling health gap: Indigenous men are significantly less likely to seek medical care than women, with one in five men not visiting a doctor at all. The dedicated center, opened earlier this year by Ord Valley Aboriginal Health Service, offers walk-in GP appointments and support for mental health and addiction in a space designed specifically to make Indigenous men feel comfortable and safe.
+
+The need is urgent. Indigenous men are 2.3 times more likely to experience disease than non-Indigenous men, with significantly higher rates of chronic conditions like diabetes and kidney disease. Yet cultural barriers often prevented them from accessing care at mixed-gender clinics. As manager Shaun Cox explains, men would sometimes "walk straight back out" if they encountered female relatives they were culturally prohibited from being near. By staffing the hub entirely with Aboriginal men, the service has created an environment where patients can relax. Field officer Michael Merrison, known as Tucker, sometimes visits potential patients 15 times to build the trust needed to get them through the door. Since opening, about 180 men have used the hub, many returning for follow-up care.
+
+This story matters because it shows how culturally informed design can dissolve barriers that statistics alone cannot explain. The hub isn't just providing medical care—it's creating a space where "having a yarn is one of the best medicines," as patient Peter Brandy puts it. It's a quiet reminder that healthcare access isn't only about availability, but about understanding the human complexities that keep people away.</description>
+      <source url="https://www.abc.net.au/news/2026-11-11/kununurra-hub-changes-aboriginal-mens-behaviour/107357470">ABC Australia</source>
+    </item>
     <item>
       <title>Investigation: Fungus may have killed Atlantic Forest amphibians in the 1970s and ’80s</title>
       <link>https://news.mongabay.com/2026/11/investigation-fungus-may-have-killed-atlantic-forest-amphibians-in-the-1979s-and-80s/</link>
@@ -594,18 +606,6 @@ The learning curve proved steep for hatchery staff, who discovered their charges
 
 This story offers a window into the quiet, meticulous work of conservation in an era of intensifying climate pressures. It's a reminder that saving biodiversity sometimes means learning as you go, one temperamental crayfish at a time, and that hope for vulnerable species often depends on the dedication of scientists willing to wade through ash-covered streams with rescue buckets in hand.</description>
       <source url="https://www.abc.net.au/news/2026-11-07/crayfish-rescued-from-bushfires-victoria/107349640">ABC Australia</source>
-    </item>
-    <item>
-      <title>As loggerhead turtles spread west, Mediterranean beach resorts learn to share the sand</title>
-      <link>https://news.mongabay.com/2026/11/as-loggerhead-turtles-spread-west-mediterranean-beach-resorts-learn-to-share-the-sand/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/2026/11/as-loggerhead-turtles-spread-west-mediterranean-beach-resorts-learn-to-share-the-sand/</guid>
-      <pubDate>Fri, 06 Nov 2026 18:03:56 GMT</pubDate>
-      <description>Loggerhead sea turtles are rewriting the map of their Mediterranean nesting grounds, moving westward from their traditional beaches in Greece, Turkey, and Cyprus to establish new colonies along the coasts of Italy, France, and Spain. What researchers are witnessing is rare: the real-time colonization of new territory by a vulnerable species, with the first Spanish nest confirmed in 2001 and regular nesting beginning by 2014. The shift represents a remarkable biological milestone unfolding across human lifetimes.
-
-Scientists believe rising sea temperatures are accelerating the growth of juvenile loggerheads in western Mediterranean feeding grounds, causing them to reach sexual maturity earlier and thousands of kilometers from their ancestral nesting sites. Rather than making the long journey back east, these turtles are choosing nearby beaches to lay their eggs. This expansion, however, brings the animals into direct contact with some of Europe's most developed coastlines, where rows of beach umbrellas, artificial lighting, and resort infrastructure dominate the sand.
-
-The collision between pioneer turtles and crowded shores has sparked an urgent conservation response. Drone patrols now scan beaches at dawn for telltale tracks emerging from the waves, and volunteers quickly fence off nests when they're discovered. The EU-funded Life Turtlenest project coordinates protection efforts across three countries, racing to identify which beaches the turtles will choose next and establish safeguards before they arrive. This story captures a quiet drama of adaptation and coexistence—a species expanding its range in response to a changing climate, while humans scramble to make room on beaches long claimed for leisure.</description>
-      <source url="https://news.mongabay.com/2026/11/as-loggerhead-turtles-spread-west-mediterranean-beach-resorts-learn-to-share-the-sand/">Mongabay</source>
     </item>
   </channel>
 </rss>
