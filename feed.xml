@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:04:05 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Award-winning photographer lets once-incarcerated teens tell their own story</title>
+      <link>https://www.abc.net.au/news/2026-11-13/hoda-afshar-exhibition-a-part-buxton-contemporary-melbourne/107377504</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-11-13/hoda-afshar-exhibition-a-part-buxton-contemporary-melbourne/107377504</guid>
+      <pubDate>Fri, 13 Nov 2026 04:04:03 GMT</pubDate>
+      <description>When artist Vernon Ah Kee reached out to photographer Hoda Afshar in 2023, he carried an urgent message: the mass incarceration of Indigenous youth in Far North Queensland was too overwhelming for his community to confront alone. The statistics are stark—Indigenous children aged 10 to 17 represent just 6 percent of the population but are 20 times more likely to be imprisoned. What emerged from that call is "Code Black/Riot," a photography and video project that hands creative control back to the young people whose stories are so often told by others.
+
+Afshar set up a large-format camera in the backyard of Youth Empowered Towards Independence (YETI) in Cairns and waited. For nine days, she returned to the same spot, allowing trust to build gradually. Eventually, formerly incarcerated teenagers began to engage, asking to help, to take pictures, to participate. Using props—fresh flowers, a handmade mask, Joker makeup, an outstretched arm from outside the frame—the young subjects shaped their own portraits while maintaining anonymity. In one image, a young man wraps himself in an Aboriginal flag, only one eye visible. In another, a youth holds a mask of Melpomene, the Greek symbol of tragedy, over his face. A companion video installation reveals harder truths: testimonies of physical assaults by guards, prolonged "night mode" lockdowns, and a 14-year-old who has been incarcerated five times.
+
+This project, now on display at Buxton Contemporary in Melbourne, is a quiet act of resistance. It reminds us that how we frame a story—what we include, what we leave out, who controls the camera—shapes everything. By letting these teenagers direct their own image, Afshar offers something rare: dignity, agency, and a chance to be seen on their own terms.</description>
+      <source url="https://www.abc.net.au/news/2026-11-13/hoda-afshar-exhibition-a-part-buxton-contemporary-melbourne/107377504">ABC Australia</source>
+    </item>
     <item>
       <title>Japan’s &lt;em&gt;gyaru&lt;/em&gt; crown their slang words of the year</title>
       <link>https://www.japantimes.co.jp/life/2026/11/13/language/japanese-gyaru-slang-buzzwords/</link>
@@ -594,18 +606,6 @@ Brazilian news program Fantástico sent a team to document daily life in this ce
 
 What makes this story quietly remarkable is its human focus. Rather than treating the cemetery residents as curiosities, the reporting team sought to understand the textures of everyday life in such an unconventional setting. The accompanying podcast features conversations with the producers about what surprised them most during their time in Manila Norte. It's a story that asks us to consider how housing insecurity shapes communities in unexpected ways, and how people create homes and build lives even in the most unlikely places.</description>
       <source url="https://g1.globo.com/fantastico/podcast/isso-e-fantastico/noticia/2026/11/08/isso-e-fantastico-manila-norte-o-cemiterio-dos-vivos.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Why the human body may be cooling down</title>
-      <link>https://www.bbc.com/portuguese/articles/cqn8d3nd2pj8o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/cqn8d3nd2pj8o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sun, 08 Nov 2026 22:03:34 GMT</pubDate>
-      <description>In the 1860s, German physician Carl Wunderlich collected over one million temperature measurements from 25,000 patients, establishing 37°C (98.6°F) as the standard for normal human body temperature. His extensive dataset became the universal diagnostic benchmark that has guided medical practice for more than a century. Yet recent research suggests something intriguing: our bodies may actually be cooler than they were in Wunderlich's time.
-
-Studies analyzing temperature data from nearly 190,000 Americans between 1862 and 2017 reveal that average body temperature has declined, with men's temperatures dropping by about 0.59°C since the early 19th century. The new normal appears closer to 36.39°C (97.5°F). This cooling trend isn't limited to developed nations—the Tsimané, a semi-nomadic indigenous community in the Amazon rainforest, experienced a similar drop from 37°C to 36.5°C between the early 2000s and 2018, coinciding with rapid socioeconomic changes in their region.
-
-Researchers believe this shift reflects improving public health. In Wunderlich's era, when life expectancy hovered around 38 years, people routinely battled tuberculosis, rheumatic fever, and other serious infections. Fighting these threats required significant caloric energy—which generates heat. Today's generally healthier populations may simply need less metabolic firepower to maintain wellness. This story offers a quiet reminder that our baseline understanding of the human body continues to evolve, and that broad improvements in living conditions can literally change our biology in measurable ways.</description>
-      <source url="https://www.bbc.com/portuguese/articles/cqn8d3nd2pj8o?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
     </item>
   </channel>
 </rss>
