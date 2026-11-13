@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 20:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:01:34 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tracking down Tasmania's rare, flightless pandani moth</title>
+      <link>https://www.abc.net.au/news/2026-11-14/tasmanian-volunteers-find-flightless-pandani-moth/107354720</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-11-14/tasmanian-volunteers-find-flightless-pandani-moth/107354720</guid>
+      <pubDate>Fri, 13 Nov 2026 22:01:32 GMT</pubDate>
+      <description>In the remote alpine regions of Tasmania, a peculiar bronze-brown moth hops among the fronds of pandani plants, having long ago traded flight for a more grounded existence. The pandani moth is one of Tasmania's many "living relics," ancient species that have vanished elsewhere but persist on this island ark. First spotted in the 1980s and formally named in the early 2000s, the moth remained elusive until a dedicated group of volunteers—calling themselves the Friends of the Pandani Moth—set out to find it.
+
+Their search required patience and creativity. Unlike most moths, this species isn't drawn to light, so the team visited Mount Field National Park armed with white sheets and a plan to physically shake the pandani plants after dark. After hours of effort in the snow, a single moth tumbled onto their sheet—a moment ecologist Jarrah Dale described as "something out of a fairy tale." The discovery sparked a follow-up expedition to gather genetic samples and population data, helping researchers piece together the moth's mysterious life cycle and ecology.
+
+This story offers a quiet reminder of how much remains unknown even in well-studied places. Tasmania hosts roughly 2,000 native moth species, yet hundreds remain unnamed—a biodiversity rivaling that of native plants. With climate change and bushfires accelerating, scientists face a race to document these species before they vanish. The pandani moth, found nowhere else on Earth, represents both the wonder of Tasmania's unique evolutionary path and the fragility of ecosystems we're only beginning to understand. It's a tale of curiosity rewarded and the enduring appeal of seeking out life's smaller, stranger mysteries.</description>
+      <source url="https://www.abc.net.au/news/2026-11-14/tasmanian-volunteers-find-flightless-pandani-moth/107354720">ABC Australia</source>
+    </item>
     <item>
       <title>'Shrouded': free performance unites clowning and pajelança on tour through rural Pará</title>
       <link>https://g1.globo.com/pa/para/noticia/2026/11/13/amortalhado-espetaculo-gratuito-une-palhacaria-e-pajelanca-em-turne-pelo-interior-do-para.ghtml</link>
@@ -594,18 +606,6 @@ What sets Noronha apart geologically is its remarkable variety of alkaline rocks
 
 This recognition places Fernando de Noronha alongside iconic global landmarks like Mount Fuji, Norway's fjords, and California's San Andreas Fault. Beyond scientific validation, researchers believe the designation may attract a new kind of visitor—those drawn not just to turquoise waters, but to the ancient volcanic forces that shaped this extraordinary landscape. It's a reminder that some places offer layers of wonder: what catches the eye today took millions of years to create.</description>
       <source url="https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2026/11/09/fernando-de-noronha-entra-para-lista-dos-100-novos-patrimonios-geologicos-do-mundo.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>The small breaks that help the brain learn new things</title>
-      <link>https://www.bbc.com/portuguese/articles/c3vgxxdlzkkqo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/c3vgxxdlzkkqo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Mon, 09 Nov 2026 18:01:47 GMT</pubDate>
-      <description>Common wisdom says practice makes perfect, but recent neuroscience research suggests the brain needs something else to truly lock in new skills: brief pauses. Scientists at the U.S. National Institutes of Health have discovered that during short breaks between practice sessions, the brain performs lightning-fast mental "replays" of what it just learned—up to 50 times faster than the actual movements. This phenomenon helps transform fleeting memories into lasting ones, offering fresh insight into how we master everything from piano scales to athletic techniques.
-
-In a 2021 study published in Cell Reports, researchers tracked brain activity in volunteers learning to type number sequences with their non-dominant hand. Using magnetoencephalography, they observed that after brief ten-second rest intervals, participants not only improved in speed and accuracy, but their brains were actively replaying the motor sequences in milliseconds. Researcher Leonardo Claudino explains that this consolidation happens far more quickly than previously believed, challenging the assumption that memory consolidation occurs mainly during sleep. While sleep may encode the broader context of an experience, these micro-breaks appear to cement the precise, repetitive details—the exact synergy between fingers on keys, for instance.
-
-This research holds promise beyond the practice room. Athletes, musicians, and stroke patients relearning lost skills might all benefit from structured rest intervals. The findings quietly reframe how we think about learning: mastery isn't just about relentless repetition, but about giving the brain space to weave new knowledge into its neural fabric. It's a reminder that progress sometimes happens not in the doing, but in the pausing—a small shift in approach with potentially profound implications for education, rehabilitation, and human potential.</description>
-      <source url="https://www.bbc.com/portuguese/articles/c3vgxxdlzkkqo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
     </item>
   </channel>
 </rss>
