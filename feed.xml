@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 20:03:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 22:03:30 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ocean that once covered Flinders Ranges preserved Earth's earliest life</title>
+      <link>https://www.abc.net.au/news/2026-11-15/flinders-ranges-ocean-ediacaran-fossils-research-earth-life/107377008</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-11-15/flinders-ranges-ocean-ediacaran-fossils-research-earth-life/107377008</guid>
+      <pubDate>Sat, 14 Nov 2026 22:03:28 GMT</pubDate>
+      <description>Deep beneath the rugged peaks of South Australia's Flinders Ranges lies evidence of an ancient ocean that cradled some of Earth's very first complex organisms. Researchers from the University of Adelaide have mapped unusual rock formations across the region, revealing a network of massive submarine canyons—some reaching 280 metres deep and 6 kilometres wide—that formed roughly 550 million years ago during the Ediacaran period.
+
+The discovery offers fresh insight into how rising sea levels and flooding seawater carved these underwater valleys, creating ideal conditions for early life to flourish. As sediment filled the canyons and shallow shelf environments developed, microbial mats took hold, supporting the diverse community of soft-bodied organisms known as Ediacaran biota. These strange, alien-looking creatures represent a pivotal moment in Earth's history: the dawn of complex life, appearing just before the explosion of animal diversity that would follow. The Flinders Ranges became famous for these fossils when they were first discovered in 1946, and the site remains one of the world's most important windows into this distant era.
+
+This story matters because it helps us understand not just what early life looked like, but where and why it emerged. The research contributes to an ongoing effort to secure UNESCO World Heritage status for the Flinders Ranges, recognizing the area's unique geological and biological significance. For anyone curious about our planet's deep past, this work offers a rare glimpse into a world so ancient it predates nearly every form of life we recognize today—a landscape that is, in the words of the researchers, perhaps the most alien environment we can still touch.</description>
+      <source url="https://www.abc.net.au/news/2026-11-15/flinders-ranges-ocean-ediacaran-fossils-research-earth-life/107377008">ABC Australia</source>
+    </item>
     <item>
       <title>Two rappers went into youth detention. What they heard surprised them</title>
       <link>https://www.abc.net.au/news/2026-11-15/dobby-kobie-dee-hear-me-out-music-behind-bars-acmf/107374608</link>
@@ -594,18 +606,6 @@ The buyout means manufacturing will continue without interruption, with director
 
 This story offers a quietly hopeful counterpoint to familiar narratives of manufacturing decline. It demonstrates that local investment and confidence in skilled workers can create viable alternatives to offshoring. In an era when envelope usage might seem diminished by digital communication, the survival of this nearly 50-year-old New Zealand operation suggests there remains real value—and real demand—for domestic manufacturing capabilities and the specialized expertise required to keep those machines running.</description>
       <source url="https://www.rnz.co.nz/news/business/2529574/dozens-of-jobs-saved-after-local-investors-buy-candida-s-nz-manufacturing-plant">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>What does a biologist find around Brazil? Travels reveal surprising landscapes and stories</title>
-      <link>https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/11/10/o-que-uma-biologa-encontra-pelo-brasil-viagens-revelam-paisagens-e-historias-surpreendentes.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/11/10/o-que-uma-biologa-encontra-pelo-brasil-viagens-revelam-paisagens-e-historias-surpreendentes.ghtml</guid>
-      <pubDate>Tue, 10 Nov 2026 18:04:07 GMT</pubDate>
-      <description>A Brazilian biologist's journey through her country's diverse ecosystems reveals both the wonder of nature and the power of accessible education. Thamires Freitas Campos, originally from Pernambuco, has spent her career traveling across northeastern Brazil for environmental research and conservation projects, camera in hand to document the landscapes and creatures she encounters along the way.
-
-From childhood curiosity about plants and animals to earning degrees in biological sciences and biodiversity conservation, Thamires credits public education policies for making her academic path possible. Her work has taken her across six northeastern states, studying everything from microplastics in amphibians to coordinating environmental licensing programs that involve flora rescue and wildlife management. The dynamic nature of her work means each project brings new challenges and requires adaptation to different environmental and administrative realities. She holds particular affection for the Caatinga, a semi-arid biome often overlooked despite its remarkable biodiversity and specially adapted species.
-
-Among her most memorable experiences was participating in the reintroduction project for the Lear's macaw, an emblematic species with an extremely restricted range in the Bahian sertão. Working alongside conservation coordinator Érica Pacífico, Thamires helped with bird releases and population censuses, then tracked the animals after their return to the wild. Her story quietly illustrates how scientific careers can open doors to extraordinary encounters with nature while connecting professionals to local communities across varied landscapes—a reminder that conservation work is as much about people and place as it is about protecting species.</description>
-      <source url="https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/11/10/o-que-uma-biologa-encontra-pelo-brasil-viagens-revelam-paisagens-e-historias-surpreendentes.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
