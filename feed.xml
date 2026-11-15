@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 08:04:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 10:03:29 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Starship Rocket Returns to Launch Pad for First Time After Flight</title>
+      <link>https://www.dw.com/de/starship-rakete-kehrt-erstmals-nach-flug-zur-rampe-zurück/a-79951426?maca=de-rss-de-all-1119-xml-mrss</link>
+      <guid isPermaLink="false">https://www.dw.com/de/starship-rakete-kehrt-erstmals-nach-flug-zur-rampe-zurück/a-79951426?maca=de-rss-de-all-1119-xml-mrss</guid>
+      <pubDate>Sun, 15 Nov 2026 10:03:28 GMT</pubDate>
+      <description>SpaceX has achieved a milestone in reusable rocket technology by successfully catching the upper stage of its Starship system as it returned to Earth. After completing its longest orbital flight to date—circling Earth 14 times over more than 22 hours—the massive rocket was grasped mid-hover by mechanical arms at the launch tower in Texas. The precision required for this maneuver, which involved slowing from orbital speeds of roughly 27,000 kilometers per hour and enduring extreme atmospheric reentry heat, made it a particularly risky endeavor.
+
+Before returning, Starship deployed 26 Starlink satellites to expand the company's internet network. The mission wasn't entirely flawless: the lower booster stage, called Super Heavy, experienced technical issues with its guidance system shortly after launch and had to be diverted into the ocean, where it exploded. This component had been successfully recovered on three previous test flights. Despite this setback, SpaceX representatives called the upper stage capture a "holy grail" of spaceflight, with NASA administrator Jared Isaacman describing the landing as "almost magical."
+
+This development matters because it represents a significant step toward fully reusable rocket systems—technology that could transform space access in the way commercial aviation changed travel. SpaceX founder Elon Musk envisions Starship operating with the frequency and reliability of airliners, supporting everything from satellite deployment to NASA's planned moon missions and eventual Mars exploration. While challenges remain, including perfecting the heat shield for complete reusability, the successful catch demonstrates that catching giant rockets from space may become routine rather than remarkable.</description>
+      <source url="https://www.dw.com/de/starship-rakete-kehrt-erstmals-nach-flug-zur-rampe-zurück/a-79951426?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
+    </item>
     <item>
       <title>Return of the wild oyster: conservationists bring shellfish back from local extinction off Scottish coast</title>
       <link>https://www.theguardian.com/environment/2026/nov/15/return-of-the-wild-oyster-conservationists-bring-shellfish-back-from-local-extinction-off-scottish-coast</link>
@@ -594,18 +606,6 @@ For Lisa and Donia, life in Russia proved unexpectedly difficult. Grappling with
 
 This story offers a quiet but powerful look at displacement that goes beyond headlines. It's a reminder that behind migration statistics are families navigating impossible trade-offs, measuring safety against belonging, and holding onto home even when home has become unreachable. The Ashours' experience illuminates something rarely captured in news coverage: how people build new lives while refusing to let go of old ones, and how the concept of home can stretch across continents without ever truly letting go.</description>
       <source url="https://www.aljazeera.com/video/al-jazeera-world/2026/11/11/gaza-grad-a-palestinian-russian-familys-longing-for-home?traffic_source=rss">Al Jazeera</source>
-    </item>
-    <item>
-      <title>VIDEO: Dog that 'stole' dog food from store in RS changes tactics and 'waits for service' at the register</title>
-      <link>https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/11/video-cachorro-que-furtava-racao-de-loja-no-rs-muda-tatica-e-aguarda-atendimento-no-caixa.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/11/video-cachorro-que-furtava-racao-de-loja-no-rs-muda-tatica-e-aguarda-atendimento-no-caixa.ghtml</guid>
-      <pubDate>Wed, 11 Nov 2026 08:03:37 GMT</pubDate>
-      <description>A clever dog in Arroio do Sal, a coastal town in Rio Grande do Sul, Brazil, has become a local celebrity after evolving his strategy for securing meals at a farm supply store. What began as outright theft—the dog was caught on security cameras in October making off with bags of dog food, including one memorable incident where he carried two at once—has transformed into something far more charming: the dog now walks up to the counter, barks politely, and waits to be served.
-
-The store staff describe the canine visitor as "very intelligent" and note that he comes in daily with a clear mission. Rather than eating the food himself, he expects employees to pour fresh kibble into a feeding station the store maintains for street animals. Though the dog has an owner, he's made this agropecuária his regular stop for dietary variety. The staff have grown fond of their persistent guest, though they admit he can be impatient when service isn't fast enough. His transition from what the store jokingly called "aggravated theft" to waiting his turn at the register reveals an animal who learned that cooperation works better than stealth.
-
-This story offers a delightful glimpse into animal intelligence and the warmth of a community that not only tolerates but celebrates a resourceful dog's daily routine. It's a reminder that animals constantly observe and adapt to human behavior, and that small acts of kindness—like maintaining a feeding station—create unexpected moments of connection and joy.</description>
-      <source url="https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/11/video-cachorro-que-furtava-racao-de-loja-no-rs-muda-tatica-e-aguarda-atendimento-no-caixa.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
