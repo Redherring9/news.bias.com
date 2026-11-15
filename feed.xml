@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 00:22:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:02:43 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SpaceX Successfully Catches Starship Upper Stage for the First Time on Its Return to Earth</title>
+      <link>https://www.bbc.com/mundo/articles/cq4gnx86l5m2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cq4gnx86l5m2o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sun, 15 Nov 2026 02:02:42 GMT</pubDate>
+      <description>SpaceX achieved a significant milestone in its quest for fully reusable rockets, successfully catching the upper section of its massive Starship vehicle for the first time. After a 22-and-a-half-hour flight that included deploying 26 Starlink satellites and completing 14 Earth orbits, the spacecraft returned to its launch tower in Boca Chica, Texas, where mechanical arms nicknamed "chopsticks" grabbed and secured it mid-air. The achievement sparked cheers among SpaceX employees watching the test.
+
+The mission didn't go entirely as planned, however. While the company hoped to recover both the upper spacecraft and the Super Heavy booster, the lower section aborted its catch attempt minutes after Friday's launch due to slightly low fuel levels, diverting to the ocean where it hovered briefly before exploding. SpaceX had previously caught the Super Heavy booster on three earlier test flights, but this marked the first successful capture of the upper stage, which had only reached orbit for the first time last September.
+
+This fifteenth Starship test represents meaningful progress toward Elon Musk's long-held ambition of making space travel dramatically cheaper through complete rocket reusability. While SpaceX has already mastered this concept with its Falcon 9 rockets—flying them over 100 times yearly—achieving it with the much larger Starship system would be transformative. The development carries particular weight for NASA's ambitious 2028 timeline to return humans to the Moon, as the agency contracted SpaceX to adapt Starship as a lunar lander. Though the company hasn't yet combined both recovery achievements in a single flight, demonstrating mastery of each component separately marks a quiet but significant step toward reshaping spaceflight economics.</description>
+      <source url="https://www.bbc.com/mundo/articles/cq4gnx86l5m2o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>'I don't paint fat women': what lies behind the unique style of Colombian artist Fernando Botero</title>
       <link>https://www.bbc.com/portuguese/articles/cqd09mr2e3eko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ Reporters from the BBC first met Zaher a year earlier amid the ruins of Khartoum
 
 This story matters because it captures both the staggering human cost of a war too often overlooked and the unexpected connections that can emerge from tragedy. In Zaher's journey from the rubble of Khartoum to standing tall in Cairo—and perhaps one day to the Santiago Bernabéu—we see how small acts of recognition can restore dignity and hope to lives shattered by conflict.</description>
       <source url="https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&amp;at_campaign=rss">BBC World Service</source>
-    </item>
-    <item>
-      <title>Culturally safe medical hub stops men 'walking out the door'</title>
-      <link>https://www.abc.net.au/news/2026-11-11/kununurra-hub-changes-aboriginal-mens-behaviour/107357470</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-11-11/kununurra-hub-changes-aboriginal-mens-behaviour/107357470</guid>
-      <pubDate>Wed, 11 Nov 2026 00:02:39 GMT</pubDate>
-      <description>In the remote town of Kununurra, in northern Western Australia, a new Men's Hub is addressing a troubling health gap: Indigenous men are significantly less likely to seek medical care than women, with one in five men not visiting a doctor at all. The dedicated center, opened earlier this year by Ord Valley Aboriginal Health Service, offers walk-in GP appointments and support for mental health and addiction in a space designed specifically to make Indigenous men feel comfortable and safe.
-
-The need is urgent. Indigenous men are 2.3 times more likely to experience disease than non-Indigenous men, with significantly higher rates of chronic conditions like diabetes and kidney disease. Yet cultural barriers often prevented them from accessing care at mixed-gender clinics. As manager Shaun Cox explains, men would sometimes "walk straight back out" if they encountered female relatives they were culturally prohibited from being near. By staffing the hub entirely with Aboriginal men, the service has created an environment where patients can relax. Field officer Michael Merrison, known as Tucker, sometimes visits potential patients 15 times to build the trust needed to get them through the door. Since opening, about 180 men have used the hub, many returning for follow-up care.
-
-This story matters because it shows how culturally informed design can dissolve barriers that statistics alone cannot explain. The hub isn't just providing medical care—it's creating a space where "having a yarn is one of the best medicines," as patient Peter Brandy puts it. It's a quiet reminder that healthcare access isn't only about availability, but about understanding the human complexities that keep people away.</description>
-      <source url="https://www.abc.net.au/news/2026-11-11/kununurra-hub-changes-aboriginal-mens-behaviour/107357470">ABC Australia</source>
     </item>
   </channel>
 </rss>
