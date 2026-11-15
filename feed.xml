@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 18:03:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:06:04 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How China finally reduced pollutant emissions and plans a 'renewable energy revolution'</title>
+      <link>https://www.bbc.com/portuguese/articles/ckpqgqq307xlo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/ckpqgqq307xlo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sun, 15 Nov 2026 18:06:02 GMT</pubDate>
+      <description>China has reached a striking milestone in its energy transformation: for the first time in the country's history, less than half of its electricity came from coal during the first half of 2026. This shift is particularly remarkable given that just two decades ago, coal supplied 80% of China's power during its rapid modernization. As the world's largest carbon dioxide emitter, responsible for more than 30% of global CO₂ emissions, China's trajectory carries immense weight for planetary climate efforts.
+
+Recent analyses suggest the nation may have already hit peak emissions in 2025—five years ahead of its own target. Unlike previous temporary dips caused by industrial slowdowns or pandemic lockdowns, this decline appears driven by a fundamental change: massive expansion of solar and wind power, combined with widespread electrification of vehicles and machinery. China's emissions have remained stable or fallen since March 2024, supported by everything from sprawling solar farms to electric trucks reshaping the transportation sector.
+
+This story matters because it offers a rare glimmer of hope in climate reporting. While challenges remain and political language from Beijing stays carefully ambiguous about what "peak emissions" truly means, the data reveals that rapid decarbonization at scale is possible even in a growing economy. China's path toward its 2060 net-zero goal provides a real-world test case that could influence climate strategies worldwide, demonstrating that economic growth and emissions reduction need not be incompatible goals.</description>
+      <source url="https://www.bbc.com/portuguese/articles/ckpqgqq307xlo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>What do we do with the works of problematic people?</title>
       <link>https://www.rnz.co.nz/life/culture/what-do-we-do-with-the-works-of-problematic-pop-culture-figures</link>
@@ -594,18 +606,6 @@ The achievement reflects years of careful collaboration involving the Department
 
 This milestone represents a meaningful step toward New Zealand becoming a "Dark Sky Nation," a vision championed by DarkSky International president Nalayini Brito-Davies, who experienced Fiordland's night skies firsthand while hiking the Milford Track. The story matters because it illustrates how environmental protection extends beyond daytime landscapes to include something increasingly rare in our modern world: true darkness and the celestial wonder it reveals, inviting visitors and locals alike to rediscover the night sky while safeguarding ecosystems that have evolved under starlight for millennia.</description>
       <source url="https://www.rnz.co.nz/news/environment/2551341/international-dark-sky-park-status-for-fiordland-national-park">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>Bug warfare at century-old Sydney rose garden to help deter pests</title>
-      <link>https://www.abc.net.au/news/2026-11-12/sydney-centennial-park-rose-garden-pest-battle/107350088</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-11-12/sydney-centennial-park-rose-garden-pest-battle/107350088</guid>
-      <pubDate>Wed, 11 Nov 2026 20:03:35 GMT</pubDate>
-      <description>In Sydney's Centennial Park, a century-old rose garden is being protected by an unusual army: thousands of ladybirds and parasitic wasps deployed to combat aphid infestations. The historic rosarium, planted around 1908 and now home to 33 rose varieties and roughly 800 plants, faces an annual challenge when aphids swarm the new shoots after winter pruning. Left unchecked, these pests would distort the roses, spread viruses, and encourage unsightly black mould.
-
-The solution involves releasing five batches of predatory insects between September and early November. While ladybirds simply eat the aphids, the parasitic wasps employ a more dramatic strategy: laying eggs inside the aphids' bodies, which hatch and consume their hosts from within. The insects arrive by mail from South Australia in polystyrene coolers, packed with shredded newspaper like precious cargo. Senior horticulturalist Tristan Harman oversees the operation, which costs about $1,300 annually—comparable to chemical treatments but far gentler on the garden's ecosystem, particularly its bee population.
-
-What makes this story quietly remarkable is how rapidly biological pest control has shifted from fringe practice to mainstream gardening. Harman notes that when he studied horticulture three decades ago, using predatory insects seemed like "black magic." Today, it represents a thoughtful approach to stewardship—one that protects not just the roses but the entire community of creatures that share the garden. It's a reminder that sometimes the most effective solutions work with nature rather than against it, turning what once seemed mystical into simple common sense.</description>
-      <source url="https://www.abc.net.au/news/2026-11-12/sydney-centennial-park-rose-garden-pest-battle/107350088">ABC Australia</source>
     </item>
   </channel>
 </rss>
