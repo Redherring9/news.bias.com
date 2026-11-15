@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 17:22:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:03:31 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What do we do with the works of problematic people?</title>
+      <link>https://www.rnz.co.nz/life/culture/what-do-we-do-with-the-works-of-problematic-pop-culture-figures</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/life/culture/what-do-we-do-with-the-works-of-problematic-pop-culture-figures</guid>
+      <pubDate>Sun, 15 Nov 2026 18:03:29 GMT</pubDate>
+      <description>When allegations emerged against British comedian and author David Walliams, New Zealand bookstores quietly began removing his children's books from their shelves. The move has reignited a longstanding cultural question: what do we do with art created by people whose actions or views we find troubling?
+
+From Michael Jackson to J.K. Rowling, the dilemma touches something personal. Media studies professor Nicholas Holm points to nostalgia as a complicating factor—many people formed attachments to these works before controversies surfaced. Writer Lucy Black suggests we can't erase the "collective consciousness" surrounding culturally significant works, even when we later learn uncomfortable truths about their creators. The decision often comes down to context: how much of the artist appears in their work, the nature of the allegations, and whether we can still enjoy what they made. Some customers at Auckland's Real Groovy Records seem to separate art from artist except in cases of "particularly horrific" crimes, while staff at a Wellington record shop noticed John Lennon badges gathering dust compared to other Beatles members.
+
+This quiet sorting—what stays on shelves, what gets donated to second-hand stores, which legacies persist and which fade—reflects something genuinely human: our struggle to hold complexity without easy answers. The story matters because it doesn't offer a tidy resolution. Instead, it acknowledges that our cultural lives are messy, that childhood favourites can become complicated, and that each of us draws different lines about what we can stomach and still call meaningful.</description>
+      <source url="https://www.rnz.co.nz/life/culture/what-do-we-do-with-the-works-of-problematic-pop-culture-figures">Radio New Zealand</source>
+    </item>
     <item>
       <title>Rare 1941 plane returns to Nelson skies</title>
       <link>https://www.rnz.co.nz/news/regional/2618241/rare-1941-plane-returns-to-nelson-skies</link>
@@ -594,18 +606,6 @@ The solution involves releasing five batches of predatory insects between Septem
 
 What makes this story quietly remarkable is how rapidly biological pest control has shifted from fringe practice to mainstream gardening. Harman notes that when he studied horticulture three decades ago, using predatory insects seemed like "black magic." Today, it represents a thoughtful approach to stewardship—one that protects not just the roses but the entire community of creatures that share the garden. It's a reminder that sometimes the most effective solutions work with nature rather than against it, turning what once seemed mystical into simple common sense.</description>
       <source url="https://www.abc.net.au/news/2026-11-12/sydney-centennial-park-rose-garden-pest-battle/107350088">ABC Australia</source>
-    </item>
-    <item>
-      <title>Genetic study describes two new species of Amazonian howler monkeys</title>
-      <link>https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/</guid>
-      <pubDate>Wed, 11 Nov 2026 18:03:34 GMT</pubDate>
-      <description>A comprehensive genetic analysis of howler monkeys has unveiled two new species in the Amazon rainforest, reshaping scientists' understanding of primate diversity in the region. Researchers formally described the Pantepui red howler monkey in northwestern Amazonia and the Mato Grosso red howler monkey in the southern Brazilian Amazon, following more than a decade of fieldwork and the analysis of over 2 terabytes of genomic data.
-
-The discovery emerged when biologist Romina Batista noticed distinct genetic lineages on opposite sides of Brazil's Branco River, differences reinforced by physical characteristics like the more yellowish fur of the Pantepui species. Historical museum specimens proved invaluable, allowing researchers to revisit older samples with modern genomic tools and identify distinguishing features that had been overlooked. The study also recommends elevating the howler monkey population in Trinidad and Tobago to full species status, highlighting how genomic approaches can reveal evolutionary complexity that earlier methods missed.
-
-These findings carry urgent conservation implications. The Mato Grosso red howler monkey lives in Brazil's arc of deforestation, where agricultural expansion has severely fragmented its habitat, potentially qualifying it as critically endangered. Meanwhile, a proposed hydroelectric dam on the Branco River threatens the Pantepui species and its relatives. Conservation efforts are already underway, including canopy bridges that reconnect isolated forest patches—structures that researchers have documented the monkeys successfully using. This story matters because it demonstrates how modern science continues to reveal hidden diversity in well-studied regions, and how each discovery carries immediate real-world stakes for protecting species we're only just learning exist.</description>
-      <source url="https://news.mongabay.com/short-article/2026/11/genetic-study-describes-two-new-species-of-amazonian-howler-monkeys/">Mongabay</source>
     </item>
   </channel>
 </rss>
