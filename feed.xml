@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 16:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 18:02:42 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>New Zealand-made superconductor returns from trip to space</title>
+      <link>https://www.rnz.co.nz/news/science-and-technology/2647999/new-zealand-made-superconductor-returns-from-trip-to-space</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/science-and-technology/2647999/new-zealand-made-superconductor-returns-from-trip-to-space</guid>
+      <pubDate>Tue, 17 Nov 2026 18:02:40 GMT</pubDate>
+      <description>A New Zealand-built superconducting magnet has returned to Earth after spending six months aboard the International Space Station, marking a quiet milestone in space propulsion research. Created by scientists at Victoria University's Paihau-Robinson Research Institute, the disk-shaped device was the first high-temperature superconducting magnet of its kind to be tested in orbit, part of the Hēki Space Mission that launched in September 2025.
+
+For Randy Pollock, the institute's chief scientist and engineer for space research, the homecoming was particularly meaningful—the first time in his 30-year career that his work physically returned from space. The magnet, designed to eventually help propel spacecraft using superpowered magnetic fields, performed well during its extended mission, managing its magnetic field and power consumption as Earth's shadow cycled past. The mission also carried cultural significance: named Hēki (egg in te reo Māori) and adorned with art by Māori artist Reweti Arapere, the protective cover told the story of how the kōkako bird got its blue wattle—a nod to the thruster's distinctive blue glow.
+
+While the six-month test couldn't replicate the 10 to 15 years required for long-duration missions, bringing the equipment home allows testing to continue on Earth. The story offers a gentle reminder that innovation often unfolds quietly, requiring patience and collaboration across borders. It's a tale of technical ambition grounded in cultural storytelling, where cutting-edge physics meets traditional narrative—and where something as seemingly mundane as slightly sun-browned plastic cables tells the story of a journey beyond our atmosphere.</description>
+      <source url="https://www.rnz.co.nz/news/science-and-technology/2647999/new-zealand-made-superconductor-returns-from-trip-to-space">Radio New Zealand</source>
+    </item>
     <item>
       <title>Why conservation needs independent journalism (commentary)</title>
       <link>https://news.mongabay.com/2026/11/why-conservation-needs-independent-journalism/</link>
@@ -594,18 +606,6 @@ The show draws directly from the family history of actor-researcher Edson Elias,
 
 By performing outside the metropolitan area of Belém, the production aims to decentralize arts access and honor the cultural wealth of Pará's interior regions. After more than 20 performances in major cities, the show returns to the geographic and spiritual landscapes that inspired it, creating exchanges with communities whose traditions inform its very existence. It's a quietly radical act: using laughter and ancestral memory to bridge contemporary theater and living tradition, reminding us that the most meaningful stories often grow from the soil beneath our feet.</description>
       <source url="https://g1.globo.com/pa/para/noticia/2026/11/13/amortalhado-espetaculo-gratuito-une-palhacaria-e-pajelanca-em-turne-pelo-interior-do-para.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Country Life: Woodchester Station 10 years after the Kaikōura quake</title>
-      <link>https://www.rnz.co.nz/news/country/2585888/country-life-woodchester-station-10-years-after-the-kaikoura-quake</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/country/2585888/country-life-woodchester-station-10-years-after-the-kaikoura-quake</guid>
-      <pubDate>Fri, 13 Nov 2026 18:03:38 GMT</pubDate>
-      <description>When a 7.8 magnitude earthquake struck near Kaikōura, New Zealand, at two minutes past midnight on November 14, 2016, Dave and Rebekah Kelly were twelve years into a careful thirty-year plan to develop Woodchester Station, Rebekah's family farm in North Canterbury. The ninety-second quake jolted furniture across floors, sent the couple racing to their four children, and transformed their land in ways they could barely comprehend in the darkness. By dawn, the farm they thought they knew had revealed what Rebekah calls "this other underbelly"—hillsides that had dropped up to four meters, water systems destroyed, and danger lurking over every rise.
-
-The immediate aftermath brought not one disaster but two: the physical destruction and a looming financial crisis. The Kellys spent close to $200,000 on unbudgeted repairs in the first six weeks alone, racing to restore water, power, and basic infrastructure. Rebekah briefly questioned whether she could continue raising her children on land that suddenly felt unpredictable, yet she realized this was the place where she knew herself best. The couple responded by diversifying further—adding beef cattle, sheep, honey, forestry, and eventually farm tours showcasing the earthquake's dramatic reshaping of their property, including a kilometer-long lake that formed when the quake dammed a river.
-
-This story is a quiet testament to resilience not as a single heroic moment, but as a decade of adaptation. It reminds us that recovery from natural disaster is rarely linear, and that the land we think we know can surprise us—sometimes with devastation, sometimes with unexpected lakes and waterfalls, and always with reasons to stay.</description>
-      <source url="https://www.rnz.co.nz/news/country/2585888/country-life-woodchester-station-10-years-after-the-kaikoura-quake">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
