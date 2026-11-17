@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 12:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:04:46 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Your gut bacteria helps your body keep track of time, and when you eat influences how much nutrition you get from food</title>
+      <link>https://theconversation.com/your-gut-bacteria-helps-your-body-keep-track-of-time-and-when-you-eat-influences-how-much-nutrition-you-get-from-food-295323</link>
+      <guid isPermaLink="false">https://theconversation.com/your-gut-bacteria-helps-your-body-keep-track-of-time-and-when-you-eat-influences-how-much-nutrition-you-get-from-food-295323</guid>
+      <pubDate>Tue, 17 Nov 2026 14:04:45 GMT</pubDate>
+      <description>Scientists have discovered that the trillions of microbes living in the human gut serve as biological clocks, coordinating when and how efficiently the body absorbs nutrients from food. This research, published in Cell Host &amp; Microbe, reveals that gut bacteria don't rely on light like the brain does—instead, they use feeding times as their signal to synchronize the body's digestive rhythms.
+
+The mechanism centers on phytate, a compound found in grains, beans, nuts, and seeds. Gut microbes metabolize phytate and convert it into molecules that activate nutrient transport genes in intestinal cells. When we eat, phytate levels rise and microbial activity increases, boosting nutrient absorption. During fasting, the opposite occurs. In experiments with mice, this microbial timekeeping system proved remarkably important: undernourished young mice given specific gut bacteria or their metabolic products grew taller and healthier than those without, suggesting the system evolved to help maximize nutrition during times of scarcity.
+
+But there's a catch. The same mechanism that helped ancestors survive lean times can backfire in today's calorie-abundant environment. Mice fed high-calorie diets experienced accelerated obesity when this microbial pathway remained active, absorbing excess fat more efficiently than their bodies needed. The finding illustrates what researchers call "evolutionary mismatch"—a biological adaptation that once offered survival advantages now contributing to modern health challenges like obesity. This quiet revelation about the hidden timekeepers in our intestines offers a fresh perspective on why meal timing matters and how deeply our ancient microbial partners shape our metabolism, for better or worse.</description>
+      <source url="https://theconversation.com/your-gut-bacteria-helps-your-body-keep-track-of-time-and-when-you-eat-influences-how-much-nutrition-you-get-from-food-295323">The Conversation</source>
+    </item>
     <item>
       <title>Red crabs form crimson carpet in migration on Christmas Island; SEE</title>
       <link>https://g1.globo.com/meio-ambiente/noticia/2026/11/17/caranguejos-formam-tapete-vermelho-em-migracao-na-ilha-christmas-veja.ghtml</link>
@@ -594,18 +606,6 @@ For over two decades, researchers have been studying how to harness this natural
 
 This research reflects a broader shift in how ecologists view bats—not as creatures of horror, but as essential ecosystem engineers. Professor Lays Parolin, who became captivated by these animals early in her career and now sports a tattoo of the great fruit-eating bat, notes that people tend to overlook bats' role as seed dispersers. The emerging scent-based strategy offers a promising complement to conventional restoration techniques, turning these nocturnal fliers into active participants in healing fragmented forests.</description>
       <source url="https://news.mongabay.com/2026/11/fruit-bats-emerge-as-unlikely-allies-in-the-atlantic-forest-restoration/">Mongabay</source>
-    </item>
-    <item>
-      <title>Debate in New York City over city-run groceries is not just about food, but something bigger</title>
-      <link>https://theconversation.com/debate-in-new-york-city-over-city-run-groceries-is-not-just-about-food-but-something-bigger-291749</link>
-      <guid isPermaLink="false">https://theconversation.com/debate-in-new-york-city-over-city-run-groceries-is-not-just-about-food-but-something-bigger-291749</guid>
-      <pubDate>Fri, 13 Nov 2026 14:03:01 GMT</pubDate>
-      <description>New York City is preparing to open five city-run grocery stores in lower-income neighborhoods, beginning with locations in the South Bronx and East Harlem in 2027. With $70 million committed, the stores will sell essential foods at prices 30% below typical retail, operating as a "public option" alongside the city's nearly 1,000 existing supermarkets. While five stores seem unlikely to reshape grocery prices across a city of 8 million, they represent something more significant than immediate economic impact.
-
-The initiative has sparked strong opposition from independent grocers, trade associations, and immigrant-owned food businesses—not because of the competitive threat from just five stores, but because of the precedent they might set. For over a century, government has quietly shaped New York's food landscape through subsidies, zoning incentives, and assistance programs. What makes this different is visibility: these stores put government directly in the role of food provider, creating a benchmark against which shoppers can judge private retailers and making city leaders more accountable for results.
-
-This story matters because it quietly reframes a fundamental question about public services. If the stores succeed, they may shift not only what New Yorkers expect to pay for groceries, but what they expect their government to provide. It's a modest experiment with potentially far-reaching implications—five stores that could change the conversation about the boundary between public good and private enterprise in meeting basic needs.</description>
-      <source url="https://theconversation.com/debate-in-new-york-city-over-city-run-groceries-is-not-just-about-food-but-something-bigger-291749">The Conversation</source>
     </item>
   </channel>
 </rss>
