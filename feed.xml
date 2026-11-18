@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 12:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:02:51 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>NASA’s Voyager 1 has reached 1 light-day from Earth, the first human-made object in space to reach that distance</title>
+      <link>https://theconversation.com/nasas-voyager-1-has-reached-1-light-day-from-earth-the-first-human-made-object-in-space-to-reach-that-distance-296026</link>
+      <guid isPermaLink="false">https://theconversation.com/nasas-voyager-1-has-reached-1-light-day-from-earth-the-first-human-made-object-in-space-to-reach-that-distance-296026</guid>
+      <pubDate>Wed, 18 Nov 2026 14:02:49 GMT</pubDate>
+      <description>On November 18, 2026, NASA's Voyager 1 spacecraft will become the first human-made object to reach one light-day from Earth—a distance of roughly 16 billion miles, more than four times the span between the Sun and Pluto. At that point, any signal from the probe will take a full 24 hours to reach home. This milestone arrives just months before Voyager 1 and its twin, Voyager 2, celebrate their 50th anniversaries in space in 2027, making them the oldest operating spacecraft in history.
+
+Launched in 1977, the Voyagers were designed to explore the outer planets. Voyager 1 flew past Jupiter and Saturn, capturing unprecedented images and making discoveries like faint rings around Jupiter and new details of Saturn's moons. Its close encounter with Titan in 1980 revealed a moon shrouded in a dense atmosphere, findings that continue to inform missions like NASA's upcoming Dragonfly. After its planetary tour, Voyager 1 was flung out of the plane of the solar system and eventually crossed into interstellar space—the region between stars. Despite being built with 1970s technology, the spacecraft continues to send back data, though only two of its original ten instruments remain functional and its plutonium power source weakens each year.
+
+This story is a quiet testament to human ingenuity and endurance. A relic from another era of exploration, Voyager 1 has far outlasted its expected lifespan, reshaping our understanding of the solar system and beyond. As it drifts ever farther into the cosmic unknown, it reminds us that some journeys, once begun, continue long after we expect them to end.</description>
+      <source url="https://theconversation.com/nasas-voyager-1-has-reached-1-light-day-from-earth-the-first-human-made-object-in-space-to-reach-that-distance-296026">The Conversation</source>
+    </item>
     <item>
       <title>‘When it roars, we roar back’: the man who faces Bengal tigers armed only with a stick</title>
       <link>https://www.theguardian.com/environment/2026/nov/18/abdul-goni-gazi-tigers-bangladesh-sundarbans-aoe</link>
@@ -594,18 +606,6 @@ In 2021, Maria made the decision to return to school through Brazil's adult educ
 
 Maria's story is part of a broader movement in her region, where educators are seeing more older adults return to the classroom. Nearly 90% of the over 10,000 adult education students in Rondônia are enrolled in state programs, with flexible pacing that allows learners to progress at their own speed. Her school director emphasizes that there is no age limit on education or dreams. This quiet triumph is a reminder that learning is lifelong, that persistence pays off across decades, and that it's never too late to become the person you once hoped to be.</description>
       <source url="https://g1.globo.com/ro/rondonia/noticia/2026/11/14/aos-74-anos-mulher-conclui-o-ensino-medio-e-realiza-sonho-cultivado-desde-a-infancia-em-ro.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>"I never thought I had a Nazi father": Edith Pagot, born in a Lebensborn</title>
-      <link>https://www.france24.com/fr/france/20261114-lebensborn-pouponniere-nazie-allemagne-enfants-seconde-guerre-mondiale-edith</link>
-      <guid isPermaLink="false">https://www.france24.com/fr/france/20261114-lebensborn-pouponniere-nazie-allemagne-enfants-seconde-guerre-mondiale-edith</guid>
-      <pubDate>Sat, 14 Nov 2026 14:03:04 GMT</pubDate>
-      <description>Edith Pagot lived nearly eight decades without knowing the circumstances of her birth. This year, at 80 years old, she learned she was born in a Lebensborn—one of the Nazi "maternity homes" established by Heinrich Himmler in 1935 to produce children meeting the regime's Aryan ideals. Born on April 11, 1944, in northern France under the name Edith de Vicar, she was photographed as an 18-month-old at an orphanage in Indersdorf, Germany, holding a placard with her name—part of an effort to reunite displaced children with family after the war.
-
-Edith was among the children brought to Commercy, France, in 1946, and adopted two years later by a couple in the Meuse region. Her adoptive parents told her she was adopted but offered no further details, despite her repeated questions. She built a life around those silences, becoming a healthcare administrator and raising two children. It was her daughter, Émilie, who finally sought answers. After reading a book about another Lebensborn child, Émilie noticed striking similarities to her mother's sparse records and reached out to the author, who confirmed Edith's origins.
-
-The revelation was overwhelming for both women—Émilie feared her mother's reaction, while Edith struggled to absorb the truth. This story matters because it quietly illuminates how the shadows of history can stretch across generations, hidden in plain sight. It's a testament to the courage required to confront painful truths and the enduring human need to understand where we come from, even when the answers arrive late in life.</description>
-      <source url="https://www.france24.com/fr/france/20261114-lebensborn-pouponniere-nazie-allemagne-enfants-seconde-guerre-mondiale-edith">France 24</source>
     </item>
   </channel>
 </rss>
