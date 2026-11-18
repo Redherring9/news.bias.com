@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 22:02:46 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Could insects help turn Marlborough's primary industry waste into animal feed?</title>
+      <link>https://www.rnz.co.nz/news/country/2673115/could-insects-help-turn-marlborough-s-primary-industry-waste-into-animal-feed</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/country/2673115/could-insects-help-turn-marlborough-s-primary-industry-waste-into-animal-feed</guid>
+      <pubDate>Wed, 18 Nov 2026 22:02:44 GMT</pubDate>
+      <description>In Marlborough, New Zealand, researchers are exploring an innovative solution to a dual challenge: what to do with mountains of organic waste from the wine and seafood industries, and where to source protein for animal feed. Their answer involves black soldier flies, insects capable of transforming grape marc and aquaculture byproducts into high-quality protein in less than two weeks.
+
+The three-year, $2.6 million pilot project will operate out of two shipping containers, functioning as both a fly nursery and processing facility. Black soldier fly larvae—chosen because they're the most widely farmed insect globally and grow remarkably fast—will be mixed with slurries of organic waste. Within days, they'll reach harvestable size and can be dried and milled into protein for fish and pet food. The operation aims to process 250 kilograms of waste daily, producing around nine tonnes of insect biomass annually. Even the leftovers have value: the remaining frass, a mixture of uneaten food and insect waste, is nutrient-rich and could improve soil quality. The biggest challenge will be maintaining consistent feed quality across seasons, requiring careful blending of grape waste with seafood byproducts to keep nutrient levels balanced.
+
+This story matters because it represents a genuinely circular approach to resource use—turning what would otherwise go to landfill into valuable products while reducing New Zealand's reliance on imported animal feed. With organic matter comprising 40 percent of Marlborough's landfill waste and feed protein shortages looming globally, the project addresses real environmental and economic pressures with an elegantly simple biological solution. It's a quiet example of innovation that works with nature rather than against it.</description>
+      <source url="https://www.rnz.co.nz/news/country/2673115/could-insects-help-turn-marlborough-s-primary-industry-waste-into-animal-feed">Radio New Zealand</source>
+    </item>
     <item>
       <title>Why rare encounter with isolated Awá Indigenous people worries Brazilian authorities</title>
       <link>https://g1.globo.com/ma/maranhao/noticia/2026/11/18/por-que-encontro-raro-com-indigenas-awas-isolados-preocupa-autoridades-brasileiras.ghtml</link>
@@ -594,18 +606,6 @@ Each abridor de letras develops a signature style—unique combinations of color
 
 This story offers a window into how cultural traditions adapt and endure in riverine communities, and how documentation efforts can support both preservation and fair recognition. The project invites local participation—residents can share information about artisans they know—and includes workshops for students, a public mural, and a free screening of a documentary about the letter-painters of Marajó. It's a quiet reminder that everyday objects, even the names painted on working boats, carry generations of artistry and regional identity.</description>
       <source url="https://g1.globo.com/pa/para/noticia/2026/11/14/pesquisa-inicia-novo-mapeamento-de-abridores-de-letras-apos-oficio-ser-reconhecido-como-patrimonio-cultural-do-para.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Ocean that once covered Flinders Ranges preserved Earth's earliest life</title>
-      <link>https://www.abc.net.au/news/2026-11-15/flinders-ranges-ocean-ediacaran-fossils-research-earth-life/107377008</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/2026-11-15/flinders-ranges-ocean-ediacaran-fossils-research-earth-life/107377008</guid>
-      <pubDate>Sat, 14 Nov 2026 22:03:28 GMT</pubDate>
-      <description>Deep beneath the rugged peaks of South Australia's Flinders Ranges lies evidence of an ancient ocean that cradled some of Earth's very first complex organisms. Researchers from the University of Adelaide have mapped unusual rock formations across the region, revealing a network of massive submarine canyons—some reaching 280 metres deep and 6 kilometres wide—that formed roughly 550 million years ago during the Ediacaran period.
-
-The discovery offers fresh insight into how rising sea levels and flooding seawater carved these underwater valleys, creating ideal conditions for early life to flourish. As sediment filled the canyons and shallow shelf environments developed, microbial mats took hold, supporting the diverse community of soft-bodied organisms known as Ediacaran biota. These strange, alien-looking creatures represent a pivotal moment in Earth's history: the dawn of complex life, appearing just before the explosion of animal diversity that would follow. The Flinders Ranges became famous for these fossils when they were first discovered in 1946, and the site remains one of the world's most important windows into this distant era.
-
-This story matters because it helps us understand not just what early life looked like, but where and why it emerged. The research contributes to an ongoing effort to secure UNESCO World Heritage status for the Flinders Ranges, recognizing the area's unique geological and biological significance. For anyone curious about our planet's deep past, this work offers a rare glimpse into a world so ancient it predates nearly every form of life we recognize today—a landscape that is, in the words of the researchers, perhaps the most alien environment we can still touch.</description>
-      <source url="https://www.abc.net.au/news/2026-11-15/flinders-ranges-ocean-ediacaran-fossils-research-earth-life/107377008">ABC Australia</source>
     </item>
   </channel>
 </rss>
