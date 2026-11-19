@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:01:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:03:46 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>After more than a year alone, llama Babalu gets company at zoo in São Paulo's interior</title>
+      <link>https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/19/apos-mais-de-um-ano-sozinha-lhama-babalu-ganha-companhia-em-zoo-do-interior-de-sp.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/19/apos-mais-de-um-ano-sozinha-lhama-babalu-ganha-companhia-em-zoo-do-interior-de-sp.ghtml</guid>
+      <pubDate>Thu, 19 Nov 2026 12:03:44 GMT</pubDate>
+      <description>After spending more than a year alone, Babalu the llama has found a friend at the Americana Zoo in São Paulo state, Brazil. The zoo recently welcomed Bonsai, a two-and-a-half-year-old male llama from Bauru Zoo, specifically to provide companionship for the solitary female.
+
+The introduction was handled thoughtfully by the zoo's staff. The two llamas first met through a gate separating their spaces, allowing them to become acquainted safely. When neither displayed aggressive behavior, they were placed together the following day. According to the team at the Municipal Ecological Park, the pairing has been a success—both animals are sociable and showing no signs of stress. Babalu, born in 2015 at Sorocaba Zoo, had previously lived with other llamas before her year of solitude began. Bonsai earned his name—a reference to the ancient art of cultivating miniature trees—because he was unusually small at birth, though he has since grown to a typical size for his species, Lama glama, a South American camelid.
+
+This gentle story of animal companionship offers a quiet reminder of how social bonds matter across species. The careful, patient introduction reflects the zoo's commitment to animal welfare, and visitors can now observe the pair together at the 120,000-square-meter park, which houses over 400 animals. It's a small but meaningful example of how thoughtful care can transform the daily life of animals in human care, turning loneliness into friendship.</description>
+      <source url="https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/19/apos-mais-de-um-ano-sozinha-lhama-babalu-ganha-companhia-em-zoo-do-interior-de-sp.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Mother who lost daughter to cervical cancer alerts to importance of exams in Acre: 'The sooner, the better'</title>
       <link>https://g1.globo.com/ac/acre/noticia/2026/11/19/mae-que-perdeu-filha-com-cancer-no-colo-do-utero-alerta-para-importancia-de-exames-no-ac-quanto-mais-cedo-melhor.ghtml</link>
@@ -594,18 +606,6 @@ The initiative began when retired resident Edith Alves Borges Azevedo personally
 
 What makes this story quietly remarkable is the ripple of dignity it creates. For many young mothers arriving at the hospital without even a single diaper, these handmade layettes represent not just practical support but a tangible message that their babies matter. As nursing technician Eliane Rosa Alves observes, receiving these beautiful clothes marks "the beginning of a new life." The volunteers themselves find deep meaning in the work—describing it as something that "does good for the heart" and driven by love for serving others. It's a gentle reminder that profound change often comes through simple acts of care, threaded with patience and compassion.</description>
       <source url="https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/15/voluntarias-transformam-tecidos-doados-em-enxoval-para-bebes-carentes-faz-bem-ao-coracao.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Starship Rocket Returns to Launch Pad for First Time After Flight</title>
-      <link>https://www.dw.com/de/starship-rakete-kehrt-erstmals-nach-flug-zur-rampe-zurück/a-79951426?maca=de-rss-de-all-1119-xml-mrss</link>
-      <guid isPermaLink="false">https://www.dw.com/de/starship-rakete-kehrt-erstmals-nach-flug-zur-rampe-zurück/a-79951426?maca=de-rss-de-all-1119-xml-mrss</guid>
-      <pubDate>Sun, 15 Nov 2026 10:03:28 GMT</pubDate>
-      <description>SpaceX has achieved a milestone in reusable rocket technology by successfully catching the upper stage of its Starship system as it returned to Earth. After completing its longest orbital flight to date—circling Earth 14 times over more than 22 hours—the massive rocket was grasped mid-hover by mechanical arms at the launch tower in Texas. The precision required for this maneuver, which involved slowing from orbital speeds of roughly 27,000 kilometers per hour and enduring extreme atmospheric reentry heat, made it a particularly risky endeavor.
-
-Before returning, Starship deployed 26 Starlink satellites to expand the company's internet network. The mission wasn't entirely flawless: the lower booster stage, called Super Heavy, experienced technical issues with its guidance system shortly after launch and had to be diverted into the ocean, where it exploded. This component had been successfully recovered on three previous test flights. Despite this setback, SpaceX representatives called the upper stage capture a "holy grail" of spaceflight, with NASA administrator Jared Isaacman describing the landing as "almost magical."
-
-This development matters because it represents a significant step toward fully reusable rocket systems—technology that could transform space access in the way commercial aviation changed travel. SpaceX founder Elon Musk envisions Starship operating with the frequency and reliability of airliners, supporting everything from satellite deployment to NASA's planned moon missions and eventual Mars exploration. While challenges remain, including perfecting the heat shield for complete reusability, the successful catch demonstrates that catching giant rockets from space may become routine rather than remarkable.</description>
-      <source url="https://www.dw.com/de/starship-rakete-kehrt-erstmals-nach-flug-zur-rampe-zurück/a-79951426?maca=de-rss-de-all-1119-xml-mrss">Deutsche Welle</source>
     </item>
   </channel>
 </rss>
