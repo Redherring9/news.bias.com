@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 02:03:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:03:04 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Star 350 times larger than the Sun caught eating its neighbour</title>
+      <link>https://www.abc.net.au/news/science/2026-11-19/scientists-watch-red-giant-star-eat-another-the-size-of-our-sun/107394074</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/science/2026-11-19/scientists-watch-red-giant-star-eat-another-the-size-of-our-sun/107394074</guid>
+      <pubDate>Thu, 19 Nov 2026 04:03:03 GMT</pubDate>
+      <description>For the first time, astronomers have watched a stellar merger unfold from start to finish. Over seven years, an international team led by Columbia University tracked a star system called AT2025abao in the Andromeda galaxy, observing as a red giant—nicknamed Big Bao—gradually consumed its smaller companion, Little Bao. Big Bao, roughly 350 times larger than our Sun, swelled with age and engulfed the Sun-like star orbiting nearby. The dramatic finale came in October 2025, when the system suddenly brightened, signaling Little Bao's final moments.
+
+This process, called common envelope evolution, happens when an aging giant star expands and traps a smaller neighbor inside its outer plasma shell. The smaller star spirals inward, either merging with the core or ejecting the shell and forming a tight binary system. Such interactions are thought to produce some of the universe's most extreme objects, like merging neutron stars and white dwarfs. Yet witnessing the event in real time had been nearly impossible—it lasts only a few years against the backdrop of stellar lifespans measured in millions of years. The team got lucky, noticing unusual brightness in 2023 and tracing it back through archival data to 2018.
+
+This discovery offers more than cosmic spectacle. It provides direct evidence for a process long understood only in theory, allowing scientists to refine models of how binary star systems evolve. As more powerful telescopes come online, researchers expect to catch similar events more often, turning rare glimpses into a richer understanding of the universe's hidden dynamics. It's a reminder that patience, timing, and a little luck can reveal the universe's most dramatic transformations.</description>
+      <source url="https://www.abc.net.au/news/science/2026-11-19/scientists-watch-red-giant-star-eat-another-the-size-of-our-sun/107394074">ABC Australia</source>
+    </item>
     <item>
       <title>Nagoya animation festival celebrates human-made art</title>
       <link>https://www.japantimes.co.jp/culture/2026/11/19/film/aniaff-nagoya-animation-festival/</link>
@@ -594,18 +606,6 @@ Hawa's conservation efforts unfold in a biodiversity hotspot where Kenya's longe
 
 This story matters because it reveals the stark gap between international biodiversity commitments and the dangerous reality facing frontline defenders. Hawa's recognition highlights not just individual courage, but the often-invisible struggles of those protecting ecosystems in conflict zones, where conservation work requires navigating corruption, physical danger, and institutional neglect. Her dedication to her late father and her community underscores a quieter truth: that meaningful environmental progress often depends on individuals willing to risk everything for the places they call home.</description>
       <source url="https://news.mongabay.com/2026/11/targeted-by-al-shabaab-for-defending-kenyas-ecosystems-foundation-founder-gets-award/">Mongabay</source>
-    </item>
-    <item>
-      <title>SpaceX Successfully Catches Starship Upper Stage for the First Time on Its Return to Earth</title>
-      <link>https://www.bbc.com/mundo/articles/cq4gnx86l5m2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cq4gnx86l5m2o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sun, 15 Nov 2026 02:02:42 GMT</pubDate>
-      <description>SpaceX achieved a significant milestone in its quest for fully reusable rockets, successfully catching the upper section of its massive Starship vehicle for the first time. After a 22-and-a-half-hour flight that included deploying 26 Starlink satellites and completing 14 Earth orbits, the spacecraft returned to its launch tower in Boca Chica, Texas, where mechanical arms nicknamed "chopsticks" grabbed and secured it mid-air. The achievement sparked cheers among SpaceX employees watching the test.
-
-The mission didn't go entirely as planned, however. While the company hoped to recover both the upper spacecraft and the Super Heavy booster, the lower section aborted its catch attempt minutes after Friday's launch due to slightly low fuel levels, diverting to the ocean where it hovered briefly before exploding. SpaceX had previously caught the Super Heavy booster on three earlier test flights, but this marked the first successful capture of the upper stage, which had only reached orbit for the first time last September.
-
-This fifteenth Starship test represents meaningful progress toward Elon Musk's long-held ambition of making space travel dramatically cheaper through complete rocket reusability. While SpaceX has already mastered this concept with its Falcon 9 rockets—flying them over 100 times yearly—achieving it with the much larger Starship system would be transformative. The development carries particular weight for NASA's ambitious 2028 timeline to return humans to the Moon, as the agency contracted SpaceX to adapt Starship as a lunar lander. Though the company hasn't yet combined both recovery achievements in a single flight, demonstrating mastery of each component separately marks a quiet but significant step toward reshaping spaceflight economics.</description>
-      <source url="https://www.bbc.com/mundo/articles/cq4gnx86l5m2o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
     </item>
   </channel>
 </rss>
