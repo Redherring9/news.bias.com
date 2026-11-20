@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 20:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 22:02:55 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Striking snakes released into the wild in historic fight to save species from extinction</title>
+      <link>https://www.theguardian.com/us-news/2026/nov/20/garter-snake-conservation-san-francisco</link>
+      <guid isPermaLink="false">https://www.theguardian.com/us-news/2026/nov/20/garter-snake-conservation-san-francisco</guid>
+      <pubDate>Fri, 20 Nov 2026 22:02:54 GMT</pubDate>
+      <description>In a carefully orchestrated conservation effort, 62 San Francisco garter snakes—born and raised at the San Francisco Zoo—have been released into the wild for the first time this autumn. These non-venomous reptiles, distinguished by their vivid red heads, turquoise bellies, and bold red-and-black stripes, are found nowhere else on Earth but the San Francisco peninsula. Listed as endangered for more than fifty years, the species has faced a cascade of challenges: habitat loss from urban development, illegal poaching, prey decline, drought, disease, and dwindling genetic diversity.
+
+The release marks a milestone in a "head-starting" program, a novel approach in which pregnant snakes were brought to the zoo in 2025, their offspring raised in captivity during the most vulnerable months of life, and then returned to carefully selected sites in San Mateo County. The mothers were released back into the wild shortly after giving birth. Each young snake underwent genetic testing to ensure it was returned to the habitat best suited to its lineage—a detail that underscores the precision and collaboration behind the project, which involved state and federal agencies, nonprofits, and zoo scientists. More than 130 additional snakes born at the zoo this year are slated for release in 2027.
+
+This story is a quiet testament to what patience, science, and cooperation can achieve. It reminds us that even species on the edge of disappearing can find a path back—one young snake at a time.</description>
+      <source url="https://www.theguardian.com/us-news/2026/nov/20/garter-snake-conservation-san-francisco">The Guardian</source>
+    </item>
     <item>
       <title>Country Life: A young deer farmer's journey to the top</title>
       <link>https://www.rnz.co.nz/news/country/2718221/country-life-a-young-deer-farmer-s-journey-to-the-top</link>
@@ -594,18 +606,6 @@ The winning projects span a remarkable range of practical solutions. Elementary 
 
 This story quietly exemplifies how scientific thinking and genuine care for community can flourish when students are given the space to observe the world around them and imagine solutions. Organized by São Paulo's research foundation and a cultural organization, the award demonstrates that meaningful innovation doesn't require prestigious laboratories—just curiosity, guidance, and the belief that young people have something valuable to contribute to the challenges we all face.</description>
       <source url="https://g1.globo.com/educacao/noticia/2026/11/16/premio-ciencia-para-todos-reconhece-10-escolas-publicas-de-sp.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>VIDEO: Runners help Kenyan athlete cross finish line after she falls ill during marathon in Curitiba</title>
-      <link>https://g1.globo.com/pr/parana/noticia/2026/11/16/video-corredores-ajudam-atleta-queniana-apos-ela-passar-maratona-curitiba.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/pr/parana/noticia/2026/11/16/video-corredores-ajudam-atleta-queniana-apos-ela-passar-maratona-curitiba.ghtml</guid>
-      <pubDate>Mon, 16 Nov 2026 16:02:59 GMT</pubDate>
-      <description>A moment of quiet grace unfolded at the Curitiba Marathon in Brazil when two runners stopped mid-race to help a Kenyan athlete who had collapsed near the finish line. The incident, captured on video, shows the compassion that can emerge even in the heat of competition among more than 16,000 runners from 20 countries.
-
-Marcos Braz was the first to notice the fallen runner and stopped to assist. He was quickly joined by Robson Luiz Santana, who had been at the marathon to support a friend. Together, they helped the struggling athlete to her feet and accompanied her across the finish line, cheered on by the crowd. Robson, who has been running marathons for four years, didn't hesitate. "Much more than the podium and everything else that would come after, it's a life, it's health, it's the athlete's well-being first," he explained. He had already helped another runner earlier that day.
-
-The story offers a gentle reminder of what lies at the heart of endurance sports. Robson reflected that running, often seen as solitary, is actually deeply collective—a space where mutual aid transforms everyone into winners. For a brief stretch of pavement in Curitiba, competition gave way to care, and three people crossed a finish line together that only one of them had planned to reach.</description>
-      <source url="https://g1.globo.com/pr/parana/noticia/2026/11/16/video-corredores-ajudam-atleta-queniana-apos-ela-passar-maratona-curitiba.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
