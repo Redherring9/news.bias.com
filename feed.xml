@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 16:03:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 18:02:59 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Comics Project from Amazonas Public Library Gains Recognition at Event in Colombia</title>
+      <link>https://g1.globo.com/am/amazonas/noticia/2026/11/21/projeto-com-historias-em-quadrinhos-da-biblioteca-publica-do-am-ganha-destaque-em-evento-na-colombia.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/am/amazonas/noticia/2026/11/21/projeto-com-historias-em-quadrinhos-da-biblioteca-publica-do-am-ganha-destaque-em-evento-na-colombia.ghtml</guid>
+      <pubDate>Sat, 21 Nov 2026 18:02:57 GMT</pubDate>
+      <description>A public library in the Brazilian state of Amazonas is drawing international attention for an innovative approach to literacy: a dedicated comics collection space called the Quadrioteca. The project was recently showcased at the 8th International Iberbibliotecas Workshop in Medellín, Colombia, marking the first time a library professional from Brazil's northern region participated in the event.
+
+Librarian David Carvalho represented the Public Library of Amazonas at the gathering, which brought together library professionals from Chile, Peru, Colombia, Ecuador, Panama, El Salvador, and Spain. His presentation highlighted how the Quadrioteca uses graphic novels and comics to engage readers and connect the community with diverse literary and artistic forms. The initiative also partners with local comic artists and creative professionals to expand both programming and the collection itself. Beyond presentations, participants visited bookstores and cultural spaces, including the landmark Pilot Public Library for Latin America, fostering cross-border exchange of ideas and practices.
+
+This story offers a quiet reminder that innovation in literacy doesn't always require cutting-edge technology—sometimes it takes recognizing the power of a medium often dismissed as mere entertainment. By creating a dedicated space for comics, the Amazonas library is meeting readers where their interests lie while building bridges between popular culture and reading habits. The international recognition suggests that this Brazilian approach may inspire similar initiatives elsewhere, proving that thoughtful curation and community partnership can transform how public institutions connect people with stories.</description>
+      <source url="https://g1.globo.com/am/amazonas/noticia/2026/11/21/projeto-com-historias-em-quadrinhos-da-biblioteca-publica-do-am-ganha-destaque-em-evento-na-colombia.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Teenager who created startup to develop food-growing technology for Mars missions was once told her idea was 'unrealistic'</title>
       <link>https://g1.globo.com/pi/piaui/noticia/2026/11/21/adolescente-startup-pi.ghtml</link>
@@ -594,18 +606,6 @@ A 2021 investigation into a Malaysian carbon credit deal illustrates the point. 
 
 The commentary argues that conservation philanthropy's focus on quantifiable metrics—hectares conserved, trees planted, animals counted—misses something essential. These numbers reveal outcomes but obscure the decision-making processes, power dynamics, and community engagement that determine whether conservation efforts are just and sustainable. Independent reporting fills that gap, especially in places where governance is weak and information scarce. The story offers a quiet reminder that sometimes the most effective conservation tool isn't a scientific instrument or a policy document, but a journalist willing to ask difficult questions and a source brave enough to trust them with answers.</description>
       <source url="https://news.mongabay.com/2026/11/why-conservation-needs-independent-journalism/">Mongabay</source>
-    </item>
-    <item>
-      <title>Your gut bacteria helps your body keep track of time, and when you eat influences how much nutrition you get from food</title>
-      <link>https://theconversation.com/your-gut-bacteria-helps-your-body-keep-track-of-time-and-when-you-eat-influences-how-much-nutrition-you-get-from-food-295323</link>
-      <guid isPermaLink="false">https://theconversation.com/your-gut-bacteria-helps-your-body-keep-track-of-time-and-when-you-eat-influences-how-much-nutrition-you-get-from-food-295323</guid>
-      <pubDate>Tue, 17 Nov 2026 14:04:45 GMT</pubDate>
-      <description>Scientists have discovered that the trillions of microbes living in the human gut serve as biological clocks, coordinating when and how efficiently the body absorbs nutrients from food. This research, published in Cell Host &amp; Microbe, reveals that gut bacteria don't rely on light like the brain does—instead, they use feeding times as their signal to synchronize the body's digestive rhythms.
-
-The mechanism centers on phytate, a compound found in grains, beans, nuts, and seeds. Gut microbes metabolize phytate and convert it into molecules that activate nutrient transport genes in intestinal cells. When we eat, phytate levels rise and microbial activity increases, boosting nutrient absorption. During fasting, the opposite occurs. In experiments with mice, this microbial timekeeping system proved remarkably important: undernourished young mice given specific gut bacteria or their metabolic products grew taller and healthier than those without, suggesting the system evolved to help maximize nutrition during times of scarcity.
-
-But there's a catch. The same mechanism that helped ancestors survive lean times can backfire in today's calorie-abundant environment. Mice fed high-calorie diets experienced accelerated obesity when this microbial pathway remained active, absorbing excess fat more efficiently than their bodies needed. The finding illustrates what researchers call "evolutionary mismatch"—a biological adaptation that once offered survival advantages now contributing to modern health challenges like obesity. This quiet revelation about the hidden timekeepers in our intestines offers a fresh perspective on why meal timing matters and how deeply our ancient microbial partners shape our metabolism, for better or worse.</description>
-      <source url="https://theconversation.com/your-gut-bacteria-helps-your-body-keep-track-of-time-and-when-you-eat-influences-how-much-nutrition-you-get-from-food-295323">The Conversation</source>
     </item>
   </channel>
 </rss>
