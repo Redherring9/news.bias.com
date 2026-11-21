@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:04:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 14:03:53 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Army’s plan to blow up aging explosives will spread lead over part of Iowa – what you need to know about the risks</title>
+      <link>https://theconversation.com/armys-plan-to-blow-up-aging-explosives-will-spread-lead-over-part-of-iowa-what-you-need-to-know-about-the-risks-297225</link>
+      <guid isPermaLink="false">https://theconversation.com/armys-plan-to-blow-up-aging-explosives-will-spread-lead-over-part-of-iowa-what-you-need-to-know-about-the-risks-297225</guid>
+      <pubDate>Sat, 21 Nov 2026 14:03:51 GMT</pubDate>
+      <description>A tense situation is unfolding in rural Iowa, where the U.S. Army plans to intentionally detonate dozens of aging barrels containing lead azide—an explosive used in detonators—that have become dangerously unstable at an ammunition plant. The controlled explosions, now scheduled for late November 2026 after community backlash and legal challenges, are expected to send a plume of toxic lead particles drifting over Middletown, a small town of 360 residents, and surrounding farms. The Army maintains the detonation is the safest way to manage an immediate threat, though the decision has sparked anxiety about health risks and environmental contamination.
+
+Lead is a potent neurotoxin with no safe exposure level, according to the CDC. It poses particular dangers to young children and pregnant women, potentially slowing brain development and reducing IQ with chronic exposure. Patrick O'Shaughnessy, a professor of occupational and environmental health at the University of Iowa, explains that the explosion will create a dust cloud that people can inhale and that will settle on surfaces for miles downwind. Wind speed and direction will determine how far the plume travels and how concentrated the exposure becomes—slower winds mean fewer people affected but higher concentrations for those in the plume's path.
+
+This story matters because it illuminates the difficult balance between immediate safety and public health, and the genuine fears of small communities caught in the path of necessary but hazardous decisions. It's also a reminder of the long legacy of industrial and military activities, and the complex challenges that emerge when aging materials become too dangerous to leave untouched.</description>
+      <source url="https://theconversation.com/armys-plan-to-blow-up-aging-explosives-will-spread-lead-over-part-of-iowa-what-you-need-to-know-about-the-risks-297225">The Conversation</source>
+    </item>
     <item>
       <title>‘Legally, they don’t exist’: the hybrid crabs puzzling biologists and fishers</title>
       <link>https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas</link>
@@ -594,18 +606,6 @@ The migration is driven by reproduction. Male and female crabs make the trek to 
 
 This story offers a window into one of nature's most dramatic mass movements, a reminder that even small creatures can command an entire landscape when acting in concert. It's a vivid example of ecological balance and the lengths taken to preserve it—proof that coexistence between human activity and wild rhythms is both possible and worth witnessing.</description>
       <source url="https://g1.globo.com/meio-ambiente/noticia/2026/11/17/caranguejos-formam-tapete-vermelho-em-migracao-na-ilha-christmas-veja.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>Dazzling Leonid meteor shower to peak on Tuesday night</title>
-      <link>https://www.bbc.co.uk/weather/articles/c6742xzg3eljo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/weather/articles/c6742xzg3eljo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Tue, 17 Nov 2026 10:03:41 GMT</pubDate>
-      <description>The Leonid meteor shower reaches its annual peak this Tuesday night, offering sky watchers across the UK a chance to witness one of nature's faster celestial displays. These streaking lights are debris from Comet 55P/Tempel-Tuttle, entering Earth's atmosphere at speeds up to 44 miles per second—making them the fastest meteors visible from our planet. Observers may spot between 10 and 15 meteors per hour during the peak viewing window.
-
-Timing and location matter for catching the show. The meteors appear to radiate from the constellation Leo, which doesn't rise until around midnight, making the hours between midnight and dawn ideal for watching. No special equipment is needed—just the naked eye, though experts recommend allowing 20 to 30 minutes for eyes to adjust to darkness. Finding a dark spot away from street lights will improve the experience considerably. This year's peak comes with a viewing advantage: the Moon sets around 11:30 PM, reducing light pollution in the critical post-midnight hours.
-
-Weather will play the deciding role in who sees what. The far north of Scotland, including Orkney and Shetland, is forecast to have the clearest skies with only broken cloud. Parts of Northern Ireland, Wales, and southern England will see intermittent clear spells mixed with cloudier periods. For anyone willing to brave a November night, this story offers a reminder that some of the cosmos's quiet wonders require nothing more than patience, darkness, and looking up at the right moment.</description>
-      <source url="https://www.bbc.co.uk/weather/articles/c6742xzg3eljo?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
