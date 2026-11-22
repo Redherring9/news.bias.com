@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:02:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 02:03:40 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Remote island's 30,000-hectare carbon forestry project begins</title>
+      <link>https://www.abc.net.au/news/2026-11-22/new-chapter-for-tiwi-forestry-with-eucalyptus-pellita-plantation/107369820</link>
+      <guid isPermaLink="false">https://www.abc.net.au/news/2026-11-22/new-chapter-for-tiwi-forestry-with-eucalyptus-pellita-plantation/107369820</guid>
+      <pubDate>Sun, 22 Nov 2026 02:03:39 GMT</pubDate>
+      <description>On the Tiwi Islands in Australia's Northern Territory, a remarkable partnership between Indigenous landowners and investors is planting more than 2 million eucalyptus seedlings as part of what's believed to be the country's largest First Nations-led carbon forestry initiative. The project aims to transform 30,000 hectares of Melville Island with Eucalyptus pellita trees that will sequester carbon while producing timber for construction and local housing needs.
+
+The story is particularly meaningful because it represents a turning point after decades of forestry challenges on the islands. Previous attempts with Acacia mangium trees in the 2000s ended in receivership and commercial disappointment. But the Tiwi people formed their own forestry company, learned from past setbacks, and secured an $81 million investment to begin again with a better-suited species. Chairman Gibson Farmer Illortaminni calls the new seedlings "his grandchildren," noting they come from seeds collected from trees he planted in 1989. The project is already providing jobs for young Tiwi workers in a region where employment opportunities are scarce.
+
+What makes this story quietly remarkable is its blend of ecological restoration, economic self-determination, and intergenerational continuity. The trees will generate an estimated 5 million carbon credits over their lifespan while producing 12 million cubic metres of timber—some potentially used for local housing construction. It's a story about patience, Indigenous leadership, and the long view: planting forests that future generations will harvest, while addressing climate change in the present.</description>
+      <source url="https://www.abc.net.au/news/2026-11-22/new-chapter-for-tiwi-forestry-with-eucalyptus-pellita-plantation/107369820">ABC Australia</source>
+    </item>
     <item>
       <title>Sarah advertised for a roommate. The love of her life applied</title>
       <link>https://www.abc.net.au/news/2026-11-22/from-roommates-to-soul-mates/107389996</link>
@@ -594,18 +606,6 @@ The mission itself was born from ingenious problem-solving. In the 1970s, rocket
 
 What makes this story quietly remarkable is its ambitious optimism. Humanity crafted a time capsule not knowing if anyone will ever find it, or if they could decipher its contents. It's a gesture of hope and curiosity, a testament to our desire to be known and understood across the vast loneliness of space. The golden record represents both our technological ingenuity and our fundamentally human need to reach out and say: we were here, and this is who we are.</description>
       <source url="https://www.bbc.com/mundo/articles/ck1l0v4yy6p0o?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
-    </item>
-    <item>
-      <title>There's Silicon Valley - but ever heard of Superconductor Valley?</title>
-      <link>https://www.rnz.co.nz/news/business/2647986/there-s-silicon-valley-but-ever-heard-of-superconductor-valley</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/business/2647986/there-s-silicon-valley-but-ever-heard-of-superconductor-valley</guid>
-      <pubDate>Tue, 17 Nov 2026 22:03:48 GMT</pubDate>
-      <description>In New Zealand's Hutt Valley, a quiet hub of innovation is taking shape around superconducting technology — the science of moving electricity with almost no resistance while generating powerful magnetic fields. Since the late 1980s, researchers have been developing applications for this phenomenon, and now academics and industry leaders are calling their ecosystem "Superconductor Valley," a nod to Silicon Valley that's meant to represent a collaborative mindset as much as a physical place.
-
-The recent Superconductor Valley event in Wellington showcased where this technology is heading. Among the most tangible applications is hydrogen-electric aviation. Dana Goodwin of Crux Aerospace outlined plans for the Southern Hemisphere's first crewed hydrogen-electric flight next year, with commercial aircraft expected by 2031. Passengers would hardly notice the difference — flights might just be a bit quieter — but the environmental impact could be significant. Goodwin emphasized urgency: delays in developing this technology could cost New Zealand both economically and environmentally, while early success could position the country as a problem-solver the world turns to. Meanwhile, professor Randy Pollock discussed how superconducting technology could make space travel more fuel-efficient, reducing space debris and making orbital activities more sustainable.
-
-This story offers a refreshing glimpse at how specialized science, quietly pursued over decades, can suddenly converge into practical solutions for some of our most pressing challenges — from decarbonizing aviation to cleaning up space. It's a reminder that innovation doesn't always announce itself with fanfare; sometimes it grows steadily in unexpected places, waiting for the right moment to take flight.</description>
-      <source url="https://www.rnz.co.nz/news/business/2647986/there-s-silicon-valley-but-ever-heard-of-superconductor-valley">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
