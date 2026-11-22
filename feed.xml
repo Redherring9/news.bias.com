@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:03:59 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BepiColombo, the mission to Mercury seeking to discover why the planet is shrinking (and other mysteries)</title>
+      <link>https://www.bbc.com/mundo/articles/c68x04de2nzgo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/c68x04de2nzgo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sun, 22 Nov 2026 14:03:58 GMT</pubDate>
+      <description>After an eight-year journey through the inner Solar System, the spacecraft BepiColombo is approaching Mercury to study one of our least understood planetary neighbors. Despite being relatively close to Earth, Mercury has received far less scientific attention than Mars—only two NASA missions have studied it closely, compared to more than fifty sent to the Red Planet. The disparity stems partly from public fascination with Mars's potential for life, but also from the genuine difficulty of reaching Mercury: the Sun's powerful gravitational pull requires spacecraft to constantly decelerate or risk plunging into our star.
+
+BepiColombo, a joint mission between the European Space Agency and Japan's JAXA, has taken a winding path involving nine flybys of Earth, Venus, and Mercury itself to use their gravity for braking rather than burning precious fuel. The mission honors Italian engineer Giuseppe "Bepi" Colombo, who first suggested using Venus flybys to reach Mercury in the 1970s. Scientists hope the mission will solve several puzzles, including why water ice appears to exist in some craters despite surface temperatures reaching 430°C, and why the planet's surface contains chemicals inconsistent with its current proximity to the Sun—suggesting it may have formed much farther out in the solar system.
+
+This story offers a reminder that some of the most accessible objects in our cosmic neighborhood remain deeply mysterious. BepiColombo's arrival promises to reveal whether Mercury is truly shrinking, as suggested, and to open a new chapter in understanding how rocky planets form and evolve—questions that reach far beyond this small, scorched world.</description>
+      <source url="https://www.bbc.com/mundo/articles/c68x04de2nzgo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>The 'socialist utopia' that took a group of idealistic Australians to Paraguay more than 130 years ago</title>
       <link>https://www.bbc.com/portuguese/articles/cqrkgxv7xxgzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ Gazi's work is a delicate balance of protecting both species. He's helped save 3
 
 This story matters because it shows conservation at its most human scale. As tiger populations slowly recover in Bangladesh—from 106 in 2015 to 125 in 2024—the potential for conflict grows. Gazi's approach offers a model of courage without cruelty, protecting both the people who fish these waters and the magnificent predators who hunt them. It's a reminder that sometimes the bravest conservation work happens not in laboratories or policy rooms, but in tense face-offs along muddy riverbanks.</description>
       <source url="https://www.theguardian.com/environment/2026/nov/18/abdul-goni-gazi-tigers-bangladesh-sundarbans-aoe">The Guardian</source>
-    </item>
-    <item>
-      <title>Lucio Usobiaga wins 2026 ‘Nobel Prize of Gastronomy’ for protecting Mexico’s chinampas ecosystem</title>
-      <link>https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem/</link>
-      <guid isPermaLink="false">https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem/</guid>
-      <pubDate>Wed, 18 Nov 2026 10:03:13 GMT</pubDate>
-      <description>Lucio Usobiaga has been awarded the 2026 Basque Culinary World Prize for his work protecting one of Mexico City's most remarkable agricultural traditions. Through his project Arca Tierra, Usobiaga connects traditional farmers with the culinary community to preserve the chinampas—an ancient system of canal-fed agricultural islands dating back before the Aztec civilization. These artificial plots, built in the wetlands of Xochimilco in southern Mexico City, are still farmed today by chinamperos who grow flowers, maize, vegetables, and legumes using methods passed down through millennia.
-
-Arca Tierra cultivates six hectares within the chinampas and collaborates with 50 farming families across the region, supplying around 60 Mexico City restaurants with fresh produce. The lake sediment that enriches the soil gives the food a distinctive flavor that chefs can recognize immediately. Beyond gastronomy, the chinampas provide crucial ecosystem services: they filter water back into the aquifer, sequester carbon, and support biodiversity—including serving as the last remaining wild habitat for the famously endearing axolotl salamander. Yet these vital landscapes face threats from urbanization and abandonment, and the chinampero farmers who steward them have largely worked in obscurity.
-
-Usobiaga hopes the international recognition—and the prize's 100,000 euro award—will draw attention to the chinamperos' essential but underappreciated work. He envisions more people buying their products, visiting the farms, and supporting the ecosystem services they provide. Most importantly, he wants to inspire young people to continue this ancient practice. In connecting food, culture, and conservation, this story reminds us that some of the most innovative solutions for our environmental future may lie in honoring and sustaining the wisdom of the past.</description>
-      <source url="https://news.mongabay.com/short-article/2026/11/lucio-usobiaga-wins-2026-nobel-prize-of-gastronomy-for-protecting-mexicos-chinampas-ecosystem/">Mongabay</source>
     </item>
   </channel>
 </rss>
