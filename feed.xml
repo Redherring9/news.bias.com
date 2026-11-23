@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:04:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 08:03:16 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Seeds grown in simulated atmosphere secured in Arctic Circle doomsday vault</title>
+      <link>https://www.rnz.co.nz/news/environment/2751858/seeds-grown-in-simulated-atmosphere-secured-in-arctic-circle-doomsday-vault</link>
+      <guid isPermaLink="false">https://www.rnz.co.nz/news/environment/2751858/seeds-grown-in-simulated-atmosphere-secured-in-arctic-circle-doomsday-vault</guid>
+      <pubDate>Mon, 23 Nov 2026 08:03:14 GMT</pubDate>
+      <description>In a remarkable act of forward-thinking preservation, hundreds of New Zealand seeds have been deposited in the Svalbard Global Seed Vault, a fortified repository buried deep in Arctic permafrost. This latest shipment marks a decade since New Zealand's first contribution to the vault, which now safeguards over 1.4 million seed samples from around the world. Among the 300 samples sent this year are seeds with a particularly unusual distinction: they've been grown for more than 25 years in an atmosphere enriched with carbon dioxide, simulating conditions plants might face in Earth's changing climate.
+
+Kioumars Ghamkhar, director of the Margot Forde Genebank in Palmerston North, explains that these seeds represent vital genetic material that could help develop future crop varieties capable of withstanding extreme environmental shifts. The climate-adapted varieties emerged through natural selection rather than genetic modification—plants simply responding to the conditions imposed upon them over decades. The genebank's selection criteria balance what matters to New Zealand's agricultural heritage with what might prove valuable to the world, particularly as climate patterns continue to shift. The long-term goal is to secure roughly 18,000 samples—about ten percent of the collection—in the Norwegian vault.
+
+This story offers a quiet reminder that preparation needn't be pessimistic. As Ghamkhar notes, things change and disappear over time, and without deliberate preservation efforts, they're "gone forever." There's something both humbling and hopeful about scientists carefully drying seeds, sealing them in double-layered aluminum pouches, and sending them to a mountain vault guarded by polar bears and permafrost—not out of despair, but out of realistic care for future generations who may need these botanical time capsules.</description>
+      <source url="https://www.rnz.co.nz/news/environment/2751858/seeds-grown-in-simulated-atmosphere-secured-in-arctic-circle-doomsday-vault">Radio New Zealand</source>
+    </item>
     <item>
       <title>Country diary 1906: Peace reigns again in the deer park</title>
       <link>https://www.theguardian.com/environment/2026/nov/23/country-diary-1906-peace-reigns-in-deer-park</link>
@@ -594,18 +606,6 @@ Phil's journey took him from the Wash estuary to the Wadden Sea coastlines of th
 
 This story matters because it illuminates the invisible threads connecting distant ecosystems across continents. Phil's successful journey underscores why conservation must be collaborative and international—these birds depend on a chain of wetlands, each one essential to their survival. The mudflats of the Wash aren't just a local treasure; they're a critical link in a hemispheric network. In naming the bird after longtime research leader Phil Ireland, scientists have created a touching reminder that understanding and protecting migratory species requires patience, dedication, and a recognition that borders mean nothing to wings.</description>
       <source url="https://www.theguardian.com/environment/2026/nov/19/phil-bar-tailed-godwit-bird-tracked-round-trip-siberia">The Guardian</source>
-    </item>
-    <item>
-      <title>Star 350 times larger than the Sun caught eating its neighbour</title>
-      <link>https://www.abc.net.au/news/science/2026-11-19/scientists-watch-red-giant-star-eat-another-the-size-of-our-sun/107394074</link>
-      <guid isPermaLink="false">https://www.abc.net.au/news/science/2026-11-19/scientists-watch-red-giant-star-eat-another-the-size-of-our-sun/107394074</guid>
-      <pubDate>Thu, 19 Nov 2026 04:03:03 GMT</pubDate>
-      <description>For the first time, astronomers have watched a stellar merger unfold from start to finish. Over seven years, an international team led by Columbia University tracked a star system called AT2025abao in the Andromeda galaxy, observing as a red giant—nicknamed Big Bao—gradually consumed its smaller companion, Little Bao. Big Bao, roughly 350 times larger than our Sun, swelled with age and engulfed the Sun-like star orbiting nearby. The dramatic finale came in October 2025, when the system suddenly brightened, signaling Little Bao's final moments.
-
-This process, called common envelope evolution, happens when an aging giant star expands and traps a smaller neighbor inside its outer plasma shell. The smaller star spirals inward, either merging with the core or ejecting the shell and forming a tight binary system. Such interactions are thought to produce some of the universe's most extreme objects, like merging neutron stars and white dwarfs. Yet witnessing the event in real time had been nearly impossible—it lasts only a few years against the backdrop of stellar lifespans measured in millions of years. The team got lucky, noticing unusual brightness in 2023 and tracing it back through archival data to 2018.
-
-This discovery offers more than cosmic spectacle. It provides direct evidence for a process long understood only in theory, allowing scientists to refine models of how binary star systems evolve. As more powerful telescopes come online, researchers expect to catch similar events more often, turning rare glimpses into a richer understanding of the universe's hidden dynamics. It's a reminder that patience, timing, and a little luck can reveal the universe's most dramatic transformations.</description>
-      <source url="https://www.abc.net.au/news/science/2026-11-19/scientists-watch-red-giant-star-eat-another-the-size-of-our-sun/107394074">ABC Australia</source>
     </item>
   </channel>
 </rss>
