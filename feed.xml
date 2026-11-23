@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:02:48 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>American completes one year with genetically modified pig kidney</title>
+      <link>https://g1.globo.com/fantastico/noticia/2026/11/22/americana-completa-um-ano-com-rim-de-porco-geneticamente-modificado.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/fantastico/noticia/2026/11/22/americana-completa-um-ano-com-rim-de-porco-geneticamente-modificado.ghtml</guid>
+      <pubDate>Mon, 23 Nov 2026 02:02:47 GMT</pubDate>
+      <description>In a quiet milestone for medical science, an American woman named Molly Falco has now lived for a year with a kidney from a genetically modified pig. The experimental xenotransplant surgery was performed at Massachusetts General Hospital by a team led by Dr. Leonardo Riella, a Brazilian physician who heads the hospital's xenotransplant department. Falco, 56, who had spent years limited by chronic kidney disease and grueling dialysis sessions, now finds herself walking briskly past other patients in hospital corridors — a small but meaningful marker of her transformation.
+
+Falco was born with a condition causing recurrent urinary infections and learned at 38 that her kidneys were failing. By 2020, simple daily tasks had become exhausting. After nearly a year on dialysis, she received a call while driving with her husband: the medical team believed she was a good candidate for the experimental procedure. She agreed before the question was even finished. The technique involves pigs bred specifically for organ donation, with scientists modifying their genes to increase compatibility with human recipients and reduce rejection risk. It's a potential answer to a profound problem: in the United States alone, over 100,000 people wait years on transplant lists, with many not surviving the wait.
+
+This story matters because it represents both scientific ingenuity and deeply human hope. Falco is currently the longest-living person with a functional pig kidney, and her case is part of a broader effort that has already helped six patients. One has even successfully transitioned from a pig kidney to a human organ. Dr. Riella's team aims to expand this technology to Brazil and beyond, offering a bridge for patients trapped between failing organs and scarce donors. It's a reminder that breakthroughs often arrive quietly, one patient at a time.</description>
+      <source url="https://g1.globo.com/fantastico/noticia/2026/11/22/americana-completa-um-ano-com-rim-de-porco-geneticamente-modificado.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Māori word 'kaitiakitanga' greets travellers in Berlin</title>
       <link>https://www.rnz.co.nz/news/te-manu-korihi/2745322/maori-word-kaitiakitanga-greets-travellers-in-berlin</link>
@@ -594,18 +606,6 @@ The conflict began in 2018 when residents discovered logging activity had starte
 
 What makes this story quietly powerful is its dual nature: it's both a celebration and a cautionary tale. Even as communities mark their success, leaders warn that new threats may be emerging, including government proposals to expand the national park in ways that could affect Indigenous land claims. The memorial stands as a reminder to current and future generations that protecting ancestral territory requires constant vigilance, and that victories, however significant, are rarely final.</description>
       <source url="https://news.mongabay.com/2026/11/borneo-indigenous-groups-turn-land-rights-victory-into-warning-for-future-generations/">Mongabay</source>
-    </item>
-    <item>
-      <title>Could insects help turn Marlborough's primary industry waste into animal feed?</title>
-      <link>https://www.rnz.co.nz/news/country/2673115/could-insects-help-turn-marlborough-s-primary-industry-waste-into-animal-feed</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/country/2673115/could-insects-help-turn-marlborough-s-primary-industry-waste-into-animal-feed</guid>
-      <pubDate>Wed, 18 Nov 2026 22:02:44 GMT</pubDate>
-      <description>In Marlborough, New Zealand, researchers are exploring an innovative solution to a dual challenge: what to do with mountains of organic waste from the wine and seafood industries, and where to source protein for animal feed. Their answer involves black soldier flies, insects capable of transforming grape marc and aquaculture byproducts into high-quality protein in less than two weeks.
-
-The three-year, $2.6 million pilot project will operate out of two shipping containers, functioning as both a fly nursery and processing facility. Black soldier fly larvae—chosen because they're the most widely farmed insect globally and grow remarkably fast—will be mixed with slurries of organic waste. Within days, they'll reach harvestable size and can be dried and milled into protein for fish and pet food. The operation aims to process 250 kilograms of waste daily, producing around nine tonnes of insect biomass annually. Even the leftovers have value: the remaining frass, a mixture of uneaten food and insect waste, is nutrient-rich and could improve soil quality. The biggest challenge will be maintaining consistent feed quality across seasons, requiring careful blending of grape waste with seafood byproducts to keep nutrient levels balanced.
-
-This story matters because it represents a genuinely circular approach to resource use—turning what would otherwise go to landfill into valuable products while reducing New Zealand's reliance on imported animal feed. With organic matter comprising 40 percent of Marlborough's landfill waste and feed protein shortages looming globally, the project addresses real environmental and economic pressures with an elegantly simple biological solution. It's a quiet example of innovation that works with nature rather than against it.</description>
-      <source url="https://www.rnz.co.nz/news/country/2673115/could-insects-help-turn-marlborough-s-primary-industry-waste-into-animal-feed">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
