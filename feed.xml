@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 12:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:03:18 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>From solving to ‘digesting’: How mathematicians can adapt to the dramatic changes AI has brought to their field</title>
+      <link>https://theconversation.com/from-solving-to-digesting-how-mathematicians-can-adapt-to-the-dramatic-changes-ai-has-brought-to-their-field-295539</link>
+      <guid isPermaLink="false">https://theconversation.com/from-solving-to-digesting-how-mathematicians-can-adapt-to-the-dramatic-changes-ai-has-brought-to-their-field-295539</guid>
+      <pubDate>Tue, 24 Nov 2026 14:03:16 GMT</pubDate>
+      <description>Mathematics is grappling with a profound shift following recent breakthroughs in artificial intelligence. In late 2026, a mathematician working with the AI model Claude claimed to have solved the generalized Riemann hypothesis, one of math's most famous unsolved problems—though the proof spans roughly 250,000 pages. Around the same time, OpenAI released hundreds of AI-generated mathematics papers, some containing work impressive enough to merit a Fields Medal, the field's highest honor.
+
+This development has sparked an identity crisis within mathematics. For over a century, the discipline has prized solutions and proofs above all else. But as one mathematician with 45 years of experience argues, the true heart of mathematics isn't just solving problems—it's understanding why solutions work and extending that knowledge to new contexts. The concern is that if AI can generate proofs but not genuine understanding, something essential may be lost. The article illustrates this through the example of compressed sensing, the mathematics behind modern MRI technology. This breakthrough required deep cross-disciplinary understanding and the ability to ask the right questions—capabilities current AI may lack when working independently.
+
+This story matters beyond academia because mathematics underpins much of modern technology, from medical imaging to countless other applications that shape daily life. As mathematicians reconsider what problems to give doctoral students and how to value different types of work, they're wrestling with timeless questions about what makes knowledge meaningful. It's a reminder that even in fields built on logic and proof, the human elements of curiosity, understanding, and knowing which questions to ask remain quietly irreplaceable.</description>
+      <source url="https://theconversation.com/from-solving-to-digesting-how-mathematicians-can-adapt-to-the-dramatic-changes-ai-has-brought-to-their-field-295539">The Conversation</source>
+    </item>
     <item>
       <title>Their loss changed Appalachian forests for ever. Now the American chestnut is back</title>
       <link>https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe</link>
@@ -594,18 +606,6 @@ The tale was collected by the Irish Folklore Commission, which became a 3-millio
 
 This story offers something quietly profound: a window into how communities preserved identity and memory through folklore, even when colonialism and catastrophe threatened to erase them. The selkie tales—neither quite human nor animal, caught between two worlds—may have resonated especially deeply with people whose own culture existed in a precarious in-between state, holding onto something ancient while navigating forces of assimilation and loss.</description>
       <source url="https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family">Aeon</source>
-    </item>
-    <item>
-      <title>From ukiyo-e to ‘Godzilla,’ where do Japanese monsters stand in the Asian imagination?</title>
-      <link>https://www.japantimes.co.jp/culture/2026/11/20/art/japanese-monsters-asian-art-exhibition-hong-kong/</link>
-      <guid isPermaLink="false">https://www.japantimes.co.jp/culture/2026/11/20/art/japanese-monsters-asian-art-exhibition-hong-kong/</guid>
-      <pubDate>Fri, 20 Nov 2026 10:01:46 GMT</pubDate>
-      <description>An exhibition at Hong Kong's M+ museum is exploring how Japanese supernatural creatures have evolved from local folklore into globally recognized icons of Asian fantasy. "Myths and Monsters: The Art of Fantasy in Asia," running until April 2027, features roughly 430 works spanning two centuries, showcasing how Japan's yōkai and other fantastical beings have shaped the broader Asian imagination through various media—from traditional ukiyo-e woodblock prints to contemporary manga, anime, and multimedia installations.
-
-The exhibition traces this journey through multiple artistic expressions, including vintage "Godzilla" film posters, sketches from the groundbreaking anime "Akira," and Mariko Mori's video work featuring a cyborg shaman. A particularly compelling section focuses on the late 1800s, when Japan's yōkai art flourished during a tumultuous period of political upheaval. As the country grappled with the end of shogunate rule and the beginning of the Meiji era, artists like Kyosai Kawanabe used these supernatural creatures for social commentary. His 1874 print "School for Spooks" cleverly satirized the new government by depicting a Western-dressed Chinese ghost king teaching a classroom of Japanese monsters.
-
-This exhibition offers a window into how folklore adapts and endures through changing times. The evolution of yōkai—from tools of political satire in woodblock prints to central figures in blockbuster films and cutting-edge digital art—reveals how traditional storytelling can remain relevant across generations and borders. It's a quiet reminder that the creatures haunting our imaginations often reflect the anxieties and aspirations of their times.</description>
-      <source url="https://www.japantimes.co.jp/culture/2026/11/20/art/japanese-monsters-asian-art-exhibition-hong-kong/">The Japan Times</source>
     </item>
   </channel>
 </rss>
