@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 08:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:02:00 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>‘The numbers are very stark’: This primary school is the heart of a Welsh village. Can it be saved?</title>
+      <link>https://www.theguardian.com/news/2026/nov/24/the-numbers-are-very-stark-this-primary-school-is-the-heart-of-a-welsh-village-can-it-be-saved</link>
+      <guid isPermaLink="false">https://www.theguardian.com/news/2026/nov/24/the-numbers-are-very-stark-this-primary-school-is-the-heart-of-a-welsh-village-can-it-be-saved</guid>
+      <pubDate>Tue, 24 Nov 2026 10:01:58 GMT</pubDate>
+      <description>In the border village of Gladestry, Wales, a small primary school that has educated generations of farming families now faces closure. For Joseph Alman, whose family has sent children there since 1917, the sound of his son Charlie playing football during break time represents something irreplaceable—the heartbeat of a community of 400 people. Last June, Powys county council announced plans to shutter the school, the latest casualty in what residents see as a slow erosion of rural Welsh life.
+
+The challenge facing Gladestry reflects a deeper geographic and administrative puzzle. When Britain reorganized its local governments in 1974, it determined that counties needed at least 250,000 residents to function effectively. But the newly created Powys—combining three historic Welsh counties into an area larger than 2,000 square miles—couldn't meet that threshold even when stretched across a territory too vast to merge easily with neighbors. The result was an administrative exception: a county with fewer people than sheep, struggling ever since to deliver adequate services across its sparse population.
+
+This story matters because it illuminates a question democracies worldwide grapple with: how do you equitably serve people who live far apart without spending disproportionately more money? For the families of Gladestry, the answer isn't academic—it's about whether their children will walk to the school their grandparents attended, or whether another thread connecting past to present will quietly disappear. It's a reminder that behind debates about administrative efficiency are kitchen windows overlooking playgrounds, rosettes on farmhouse walls, and the small rituals that make a place feel like home.</description>
+      <source url="https://www.theguardian.com/news/2026/nov/24/the-numbers-are-very-stark-this-primary-school-is-the-heart-of-a-welsh-village-can-it-be-saved">The Guardian</source>
+    </item>
     <item>
       <title>Indonesian Borneo’s forests go quiet as smoke silences gibbons. Their singing matter</title>
       <link>https://news.mongabay.com/2026/11/indonesian-borneos-forests-go-quiet-as-smoke-silences-gibbons-their-singing-matter/</link>
@@ -594,18 +606,6 @@ The four-year "Coalface to Wildspace" initiative plans to create 48 new ponds an
 
 This story quietly embodies the possibility of ecological renewal. It shows how landscapes scarred by industry can be reimagined as havens for biodiversity, while honoring the history of the communities shaped by coal mining. The transformation from colliery to wildlife corridor offers both a practical boost to local ecosystems and a meaningful way for people to participate in the restoration of their environment—a reminder that conservation can begin right where we live.</description>
       <source url="https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
-    </item>
-    <item>
-      <title>Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage</title>
-      <link>https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Fri, 20 Nov 2026 06:02:32 GMT</pubDate>
-      <description>After an eight-year odyssey covering nearly six billion miles, the spacecraft BepiColombo is preparing to enter orbit around Mercury, the Solar System's smallest and least-explored planet. The mission, which launched in 2018, has had to fight the Sun's gravitational pull the entire way, taking a winding route that looped around Earth once, Venus twice, and Mercury six times just to slow down enough to arrive. A propulsion issue added an extra year to the already epic journey. Now comes the most perilous moment: an 11-minute maneuver to slip into orbit, with no room for error.
-
-Mercury is a world of extremes and mysteries. Temperatures swing from 430°C to -180°C, and despite being the closest planet to the Sun, ice hides in its polar craters. Thousands of strange, shallow depressions called "hollows" dot the surface, their origin unknown. The planet also harbors an outsized metal core, leading scientists to wonder if Mercury was once much larger and lost its outer layers in ancient collisions, or simply formed in a metal-rich pocket of the early Solar System. Time itself behaves oddly there: a year lasts just 88 Earth days, while a single day stretches to 59.
-
-Only two spacecraft have visited Mercury before, both from NASA, leaving much still to discover. BepiColombo's mission is to unravel these puzzles and deepen our understanding of how planets form and evolve in extreme environments. It's a reminder that even in our own cosmic neighborhood, profound mysteries remain—and that patient, carefully orchestrated journeys can still unlock them.</description>
-      <source url="https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
