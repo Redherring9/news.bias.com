@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 10:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:02:16 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Their loss changed Appalachian forests for ever. Now the American chestnut is back</title>
+      <link>https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe</link>
+      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe</guid>
+      <pubDate>Tue, 24 Nov 2026 12:02:14 GMT</pubDate>
+      <description>In the forests of Virginia's Appalachian Trail, a 70-foot American chestnut tree stands as a symbol of one of conservation's most ambitious comeback stories. The American chestnut once dominated eastern North American forests, accounting for one in every four trees, with rot-resistant wood, sweet edible nuts, and spectacular white summer blooms that made mountainsides look snow-covered. But an accidentally introduced fungal blight from Asia devastated the species beginning in 1904, killing an estimated 4 billion trees by 1941 and rendering the chestnut functionally extinct by 1950 in what became one of modern history's worst environmental catastrophes.
+
+Now, researchers at the Lesesne state forest are nurturing hope through innovative restoration efforts. The site houses two experimental orchards where scientists have worked since the late 1960s to bring the species back. Some trees are hybrids crossed with blight-resistant Chinese chestnuts, while others are pure Americans treated with a hypovirus that weakens the deadly fungus. The newest approach, described in a 2026 Science paper, uses recurrent genomic selection—combining DNA profiling with computer modeling to predict which trees will pass on the best traits, including blight resistance while maintaining American chestnut characteristics.
+
+This story matters because it represents more than saving a single species. The American chestnut was a cornerstone of Appalachian ecology and economy, feeding wildlife from bears to the now-extinct passenger pigeon and sustaining rural communities. Its potential return offers a rare glimpse of ecological restoration on a grand scale, blending patience, scientific innovation, and hope that what was lost might, against considerable odds, be found again.</description>
+      <source url="https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe">The Guardian</source>
+    </item>
     <item>
       <title>‘The numbers are very stark’: This primary school is the heart of a Welsh village. Can it be saved?</title>
       <link>https://www.theguardian.com/news/2026/nov/24/the-numbers-are-very-stark-this-primary-school-is-the-heart-of-a-welsh-village-can-it-be-saved</link>
@@ -594,18 +606,6 @@ The exhibition traces this journey through multiple artistic expressions, includ
 
 This exhibition offers a window into how folklore adapts and endures through changing times. The evolution of yōkai—from tools of political satire in woodblock prints to central figures in blockbuster films and cutting-edge digital art—reveals how traditional storytelling can remain relevant across generations and borders. It's a quiet reminder that the creatures haunting our imaginations often reflect the anxieties and aspirations of their times.</description>
       <source url="https://www.japantimes.co.jp/culture/2026/11/20/art/japanese-monsters-asian-art-exhibition-hong-kong/">The Japan Times</source>
-    </item>
-    <item>
-      <title>Wildlife conservation cash targets ex-colliery sites</title>
-      <link>https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Fri, 20 Nov 2026 08:02:02 GMT</pubDate>
-      <description>In South Yorkshire, former coal mining sites are being transformed into thriving wildlife habitats through a nearly £890,000 lottery-funded project. The Froglife charity will restore ponds and create freshwater environments for amphibians and reptiles at locations including Kiveton and Dinnington Community Woodlands—areas that were originally regenerated after the pits closed in the 1990s.
-
-The four-year "Coalface to Wildspace" initiative plans to create 48 new ponds and improve 93 existing freshwater habitats across Yorkshire. A particularly clever element involves establishing "neighbourhood wildlife corridors"—networks of small ponds and bug hotels that act as stepping stones for creatures ranging from insects to birds. These corridors will help wildlife move between habitats while providing essential food, shelter, and water across formerly industrial landscapes. The project also emphasizes community engagement, offering local residents opportunities to learn new skills and connect with the nature emerging in their own backyards.
-
-This story quietly embodies the possibility of ecological renewal. It shows how landscapes scarred by industry can be reimagined as havens for biodiversity, while honoring the history of the communities shaped by coal mining. The transformation from colliery to wildlife corridor offers both a practical boost to local ecosystems and a meaningful way for people to participate in the restoration of their environment—a reminder that conservation can begin right where we live.</description>
-      <source url="https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&amp;at_campaign=rss">BBC Future</source>
     </item>
   </channel>
 </rss>
