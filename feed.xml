@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 08:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:01:11 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What images reveal from the asteroid deliberately struck by NASA to test Earth's defenses</title>
+      <link>https://www.bbc.com/portuguese/articles/cmx29v1ekq9qo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/portuguese/articles/cmx29v1ekq9qo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Thu, 26 Nov 2026 10:01:09 GMT</pubDate>
+      <description>In 2022, NASA deliberately crashed a spacecraft into an asteroid called Dimorphos at 22,000 kilometers per hour, creating a debris trail 10,000 kilometers long visible from Earth. It wasn't a matter of planetary defense against an actual threat—Dimorphos posed no danger—but rather a rehearsal, a test of humanity's ability to nudge a space rock off course should one ever threaten our planet. Now, four years later, the European Space Agency's Hera mission has returned to the scene with fresh images, revealing a stadium-sized crater on the tiny asteroid's surface.
+
+The impact did more than leave a mark. Before the collision, Dimorphos took 11 hours and 55 minutes to orbit its larger companion, Didymos. Afterward, that orbit shortened by 33 minutes—proof that redirecting an asteroid is possible. But Hera's images show the collision also set Dimorphos tumbling chaotically through space, no longer showing the same face to Didymos like our Moon does to Earth. Scientists compare it to a barrel rolling down stairs. Meanwhile, detailed photos of Didymos reveal car- and bus-sized boulders scattered across a surface with gravity 40,000 times weaker than Earth's.
+
+This story matters because it's a quiet rehearsal for a scenario we hope never comes. By measuring Dimorphos's mass and studying the crater in detail, researchers are building a playbook—calculating exactly what size spacecraft, traveling at what speed, would be needed to deflect a real threat. It's planetary defense made tangible, and a reminder that sometimes the most meaningful scientific work happens not in crisis, but in careful preparation.</description>
+      <source url="https://www.bbc.com/portuguese/articles/cmx29v1ekq9qo?at_medium=RSS&amp;at_campaign=rss">BBC Brasil</source>
+    </item>
     <item>
       <title>Shot in the wing and unable to return to nature, the largest bird of prey in the Americas moves to a zoo in RS; meet the 'giant of the skies'</title>
       <link>https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/26/baleada-asa-natureza-ave-zoo-rs-conheca.ghtml</link>
@@ -594,18 +606,6 @@ The workers lived in Deir el-Medina, a desert village on the western bank of The
 
 What makes this story quietly remarkable is how it bridges millennia with such immediacy. The workers didn't revolt against the system itself; they simply wanted what they'd been promised. Their ability to organize, withdraw their labor, and document their grievances reveals a level of agency and literacy that challenges simplistic narratives about ancient labor. It's a reminder that the fundamental tension between workers and administration is as old as organized society itself.</description>
       <source url="https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/22/ha-3000-anos-trabalhadores-do-egito-fizeram-uma-greve-por-salarios-atrasados-conheca-a-historia.ghtml">G1 Globo</source>
-    </item>
-    <item>
-      <title>From laboratory to biofactory: couple goes from research to business and produces up to 9 million seedlings per year</title>
-      <link>https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/22/de-laboratorio-a-biofabrica-casal-vai-da-pesquisa-a-negocio-e-produz-ate-9-milhoes-de-mudas-por-ano.ghtml</link>
-      <guid isPermaLink="false">https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/22/de-laboratorio-a-biofabrica-casal-vai-da-pesquisa-a-negocio-e-produz-ate-9-milhoes-de-mudas-por-ano.ghtml</guid>
-      <pubDate>Sun, 22 Nov 2026 06:03:05 GMT</pubDate>
-      <description>In a laboratory tucked away in Tanguá, a town in Rio de Janeiro's interior, test tubes are giving life to millions of plant seedlings—and to a thriving business built on biotechnology. Biologist Andressa Generoso and engineer Tertuliano Castro have transformed years of academic research into a biofactory capable of producing over 9 million seedlings annually through plant cloning. What began as pandemic-era online orchid sales has evolved into a sophisticated operation that serves agricultural producers across Brazil, offering genetically identical, disease-free seedlings at unprecedented scale.
-
-The couple's journey reflects the arc of science-to-market innovation. Andressa's path took her from undergraduate biology through doctoral research and into coordinating ornamental plant production. The entrepreneurial leap came in 2021 when they secured funding from Rio de Janeiro's research foundation—an initial investment of about 50,000 reais that allowed them to build their biofactory. Their process involves sterilization, multiplication, growth, and rooting stages, transforming a single plant specimen into thousands of clones. While traditional propagation methods might yield only a handful of seedlings per year, their cloning technology multiplies that potential exponentially, delivering uniform plants crucial for commercial agriculture and reforestation projects. Clients cultivating everything from Japanese kiri trees to bananas and pineapples benefit from the standardized growth patterns.
-
-This story offers a quiet glimpse into how scientific expertise can find practical application beyond the laboratory. It's a reminder that innovation doesn't always announce itself with fanfare—sometimes it grows steadily in test tubes, one seedling at a time, bridging the gap between research and real-world impact while potentially reducing agricultural chemical use and supporting environmental restoration efforts.</description>
-      <source url="https://g1.globo.com/empreendedorismo/pegn/noticia/2026/11/22/de-laboratorio-a-biofabrica-casal-vai-da-pesquisa-a-negocio-e-produz-ate-9-milhoes-de-mudas-por-ano.ghtml">G1 Globo</source>
     </item>
   </channel>
 </rss>
