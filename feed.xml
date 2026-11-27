@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:05:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:03:15 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Mexican scientist who helped discover the origin of bats and why they are immune to the viruses they transmit</title>
+      <link>https://www.bbc.com/mundo/articles/cm62y8017lxpo?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="false">https://www.bbc.com/mundo/articles/cm62y8017lxpo?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Fri, 27 Nov 2026 12:03:13 GMT</pubDate>
+      <description>A groundbreaking study involving over 130 scientists has shed new light on both the evolutionary origins of bats and their remarkable resistance to deadly viruses. Mexican evolutionary biologist Ariadna Morales is among the authors of this research, the largest of its kind to date, which analyzed fossils and complete genomes representing all current bat families. The work is part of Bat1K, a global initiative launched in 2017 to sequence the genomes of all existing bat species—roughly 1,500 in total.
+
+One of the great mysteries surrounding bats is why they can carry lethal viruses without falling ill themselves. Understanding what in their genome makes them immune could have profound implications for fighting viral diseases and even cancer in humans. Collecting DNA samples requires careful fieldwork: researchers use mist nets for fruit bats and specialized harp nets for insect-eating species with sophisticated echolocation. Morales describes handling these fragile creatures as like holding "a little cotton ball with wings," emphasizing the delicate care required during capture and sampling.
+
+This research challenges previous assumptions about bat evolution and highlights why these often-misunderstood animals are essential to ecosystems. Beyond their scientific intrigue, bats offer a window into nature's solutions for immunity and disease resistance—knowledge that could one day help protect human health in surprising ways.</description>
+      <source url="https://www.bbc.com/mundo/articles/cm62y8017lxpo?at_medium=RSS&amp;at_campaign=rss">BBC Mundo</source>
+    </item>
     <item>
       <title>Sony's 1999 robot dog toys rehomed in Japan hospitals to offer companionship</title>
       <link>https://www.abc.net.au/news/2026-11-27/sony-s-dog-robot-aibo-gets-rehomed-to-hospitals/107436690</link>
@@ -594,18 +606,6 @@ Meldrum's influence extended far beyond television hosting. He championed Austra
 
 What makes this story quietly remarkable is the consistency of the tributes—not just celebrating Meldrum's fame, but his genuine, agenda-free passion for music and artists. In an industry often characterized by ego and self-interest, he stands out as someone who championed others without seeking personal glory, transforming both individual careers and Australia's entire musical landscape. As Ceberano put it, "He was the fan all artists wish to have."</description>
       <source url="https://www.abc.net.au/news/2026-11-23/molly-meldrum-death-tributes-reactions-/107417564">ABC Australia</source>
-    </item>
-    <item>
-      <title>Seeds grown in simulated atmosphere secured in Arctic Circle doomsday vault</title>
-      <link>https://www.rnz.co.nz/news/environment/2751858/seeds-grown-in-simulated-atmosphere-secured-in-arctic-circle-doomsday-vault</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/environment/2751858/seeds-grown-in-simulated-atmosphere-secured-in-arctic-circle-doomsday-vault</guid>
-      <pubDate>Mon, 23 Nov 2026 08:03:14 GMT</pubDate>
-      <description>In a remarkable act of forward-thinking preservation, hundreds of New Zealand seeds have been deposited in the Svalbard Global Seed Vault, a fortified repository buried deep in Arctic permafrost. This latest shipment marks a decade since New Zealand's first contribution to the vault, which now safeguards over 1.4 million seed samples from around the world. Among the 300 samples sent this year are seeds with a particularly unusual distinction: they've been grown for more than 25 years in an atmosphere enriched with carbon dioxide, simulating conditions plants might face in Earth's changing climate.
-
-Kioumars Ghamkhar, director of the Margot Forde Genebank in Palmerston North, explains that these seeds represent vital genetic material that could help develop future crop varieties capable of withstanding extreme environmental shifts. The climate-adapted varieties emerged through natural selection rather than genetic modification—plants simply responding to the conditions imposed upon them over decades. The genebank's selection criteria balance what matters to New Zealand's agricultural heritage with what might prove valuable to the world, particularly as climate patterns continue to shift. The long-term goal is to secure roughly 18,000 samples—about ten percent of the collection—in the Norwegian vault.
-
-This story offers a quiet reminder that preparation needn't be pessimistic. As Ghamkhar notes, things change and disappear over time, and without deliberate preservation efforts, they're "gone forever." There's something both humbling and hopeful about scientists carefully drying seeds, sealing them in double-layered aluminum pouches, and sending them to a mountain vault guarded by polar bears and permafrost—not out of despair, but out of realistic care for future generations who may need these botanical time capsules.</description>
-      <source url="https://www.rnz.co.nz/news/environment/2751858/seeds-grown-in-simulated-atmosphere-secured-in-arctic-circle-doomsday-vault">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
