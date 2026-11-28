@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Nov 2026 14:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 16:01:56 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>UFRN project brings girls from public schools closer to space sciences</title>
+      <link>https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/28/projeto-da-ufrn-aproxima-meninas-de-escolas-publicas-das-ciencias-espaciais.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/28/projeto-da-ufrn-aproxima-meninas-de-escolas-publicas-das-ciencias-espaciais.ghtml</guid>
+      <pubDate>Sat, 28 Nov 2026 16:01:55 GMT</pubDate>
+      <description>In the northeastern Brazilian state of Rio Grande do Norte, a university program is opening doors to space science for girls from fishing communities and rural areas. "Meninas no Espaço" (Girls in Space) now connects 350 scholarship recipients across 92 public schools, creating pathways into fields where young women have historically been underrepresented.
+
+The initiative began in 2013 when Professor Mariana Rodrigues de Almeida noticed how few girls were choosing engineering programs at the Federal University of Rio Grande do Norte. What started as research evolved into hands-on action in 2023, when partnerships with Brazil's Space Agency and the UN Development Programme expanded the program's reach. Students work with protocols from NASA's Globe program, collecting environmental data, interpreting satellite imagery, building educational rockets, and investigating everything from soil composition to climate patterns. Graduate and undergraduate students serve as mentors, bringing university knowledge directly into classrooms while providing relatable role models—women in science who aren't just names in textbooks, but real people sharing their journeys.
+
+What makes this story quietly powerful is its recognition that opportunity requires more than inspiration. For some participants, the modest scholarships provide essential support, sometimes covering basic needs like food. By combining scientific rigor with practical assistance and meaningful mentorship, the program addresses both the wonder that draws young minds toward discovery and the material realities that can prevent them from pursuing it. It's a reminder that expanding who gets to participate in science isn't just about opening minds—it's about opening doors and making sure students can walk through them.</description>
+      <source url="https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/28/projeto-da-ufrn-aproxima-meninas-de-escolas-publicas-das-ciencias-espaciais.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>Veruschka, the aristocrat who became one of the world's first supermodels</title>
       <link>https://www.bbc.com/mundo/articles/cqp83j2n4554o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -594,18 +606,6 @@ This development has sparked an identity crisis within mathematics. For over a c
 
 This story matters beyond academia because mathematics underpins much of modern technology, from medical imaging to countless other applications that shape daily life. As mathematicians reconsider what problems to give doctoral students and how to value different types of work, they're wrestling with timeless questions about what makes knowledge meaningful. It's a reminder that even in fields built on logic and proof, the human elements of curiosity, understanding, and knowing which questions to ask remain quietly irreplaceable.</description>
       <source url="https://theconversation.com/from-solving-to-digesting-how-mathematicians-can-adapt-to-the-dramatic-changes-ai-has-brought-to-their-field-295539">The Conversation</source>
-    </item>
-    <item>
-      <title>Their loss changed Appalachian forests for ever. Now the American chestnut is back</title>
-      <link>https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe</link>
-      <guid isPermaLink="false">https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe</guid>
-      <pubDate>Tue, 24 Nov 2026 12:02:14 GMT</pubDate>
-      <description>In the forests of Virginia's Appalachian Trail, a 70-foot American chestnut tree stands as a symbol of one of conservation's most ambitious comeback stories. The American chestnut once dominated eastern North American forests, accounting for one in every four trees, with rot-resistant wood, sweet edible nuts, and spectacular white summer blooms that made mountainsides look snow-covered. But an accidentally introduced fungal blight from Asia devastated the species beginning in 1904, killing an estimated 4 billion trees by 1941 and rendering the chestnut functionally extinct by 1950 in what became one of modern history's worst environmental catastrophes.
-
-Now, researchers at the Lesesne state forest are nurturing hope through innovative restoration efforts. The site houses two experimental orchards where scientists have worked since the late 1960s to bring the species back. Some trees are hybrids crossed with blight-resistant Chinese chestnuts, while others are pure Americans treated with a hypovirus that weakens the deadly fungus. The newest approach, described in a 2026 Science paper, uses recurrent genomic selection—combining DNA profiling with computer modeling to predict which trees will pass on the best traits, including blight resistance while maintaining American chestnut characteristics.
-
-This story matters because it represents more than saving a single species. The American chestnut was a cornerstone of Appalachian ecology and economy, feeding wildlife from bears to the now-extinct passenger pigeon and sustaining rural communities. Its potential return offers a rare glimpse of ecological restoration on a grand scale, blending patience, scientific innovation, and hope that what was lost might, against considerable odds, be found again.</description>
-      <source url="https://www.theguardian.com/environment/2026/nov/24/american-chestnut-tree-restored-science-persistence-aoe">The Guardian</source>
     </item>
   </channel>
 </rss>
