@@ -5,8 +5,20 @@
     <link>https://news.bias.com/</link>
     <description>Balanced Information, Actual Stories. Biased toward calm.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Nov 2026 02:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:01:27 GMT</lastBuildDate>
     <atom:link href="https://news.bias.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Measles vaccination saved 60 million lives worldwide in the last 25 years, says WHO</title>
+      <link>https://g1.globo.com/jornal-nacional/noticia/2026/11/27/vacinacao-contra-sarampo-salvou-60-milhoes-de-vidas-no-mundo-nos-ultimos-25-anos-diz-oms.ghtml</link>
+      <guid isPermaLink="false">https://g1.globo.com/jornal-nacional/noticia/2026/11/27/vacinacao-contra-sarampo-salvou-60-milhoes-de-vidas-no-mundo-nos-ultimos-25-anos-diz-oms.ghtml</guid>
+      <pubDate>Sat, 28 Nov 2026 04:01:25 GMT</pubDate>
+      <description>A new report from the World Health Organization reveals a remarkable public health achievement: measles vaccination has saved 60 million lives worldwide over the past 25 years. Deaths from the disease have plummeted by 91% since 2000, dropping to roughly 72,000 in 2025—a historic low that underscores the life-saving power of immunization.
+
+Yet the same report sounds a note of caution. Vaccination coverage remains insufficient and uneven across many countries, threatening to reverse decades of progress. The Americas offer a sobering example: coverage has declined while cases have surged eightfold since 2000, with 73,000 infections reported across the continent in 2025 alone. Bolivia, Mexico, and the United States have recently lost their measles-elimination status, a troubling development that highlights the fragility of these gains. The WHO recommends that at least 95% of children receive both vaccine doses to halt transmission, but many countries fall short. In Brazil, for instance, first-dose coverage reached the target in 2026, while second-dose coverage lagged at just over 80%.
+
+This story is a reminder that progress in public health is never guaranteed. Measles is not a benign childhood rite of passage but a serious illness that can cause pneumonia, brain inflammation, blindness, deafness, and death—and can weaken the immune system for months or years afterward. The contrast between what has been achieved and what remains at risk makes this quiet statistic—60 million lives saved—all the more striking, and all the more worth protecting.</description>
+      <source url="https://g1.globo.com/jornal-nacional/noticia/2026/11/27/vacinacao-contra-sarampo-salvou-60-milhoes-de-vidas-no-mundo-nos-ultimos-25-anos-diz-oms.ghtml">G1 Globo</source>
+    </item>
     <item>
       <title>'Pelo Telefone': Brazil Celebrates 110 Years Since Registration of First Samba</title>
       <link>https://g1.globo.com/jornal-nacional/noticia/2026/11/27/pelo-telefone-brasil-celebra-110-anos-de-registro-do-primeiro-samba.ghtml</link>
@@ -594,18 +606,6 @@ The homecoming represents far more than a wildlife relocation. For Ngāti Rehua,
 
 This story quietly embodies what thoughtful conservation can look like: a collaboration between indigenous knowledge holders, government agencies, zoos, and local communities working in concert. It's a reminder that protecting biodiversity isn't just about preserving animals in isolation, but about restoring connections—between species and their habitats, between people and their ancestral landscapes, and between past and future generations who will inherit these living treasures.</description>
       <source url="https://www.rnz.co.nz/news/te-manu-korihi/2762036/a-proud-moment-for-ngati-rehua-new-zealand-s-longest-lizard-returns-to-aotea-great-barrier-island">Radio New Zealand</source>
-    </item>
-    <item>
-      <title>New research explores kapa haka as tool for improving Māori health</title>
-      <link>https://www.rnz.co.nz/news/te-manu-korihi/2759205/new-research-explores-kapa-haka-as-tool-for-improving-maori-health</link>
-      <guid isPermaLink="false">https://www.rnz.co.nz/news/te-manu-korihi/2759205/new-research-explores-kapa-haka-as-tool-for-improving-maori-health</guid>
-      <pubDate>Tue, 24 Nov 2026 00:03:33 GMT</pubDate>
-      <description>A researcher at Lincoln University is investigating whether kapa haka—the traditional Māori performing arts—could serve as a culturally grounded intervention for preventing type 2 diabetes. Dr. Hoani Smith has received funding to explore how this practice, which combines song, movement, and storytelling, might support metabolic health in communities that face disproportionate rates of diabetes. His study asks a simple but profound question: what if the best health interventions are already woven into cultural life?
-
-Smith notes that kapa haka sessions involve hours of high-intensity activity—not unlike modern interval training—interspersed with singing, instrument playing, and social connection. Participants maintain posture while fatigued, sing while breathless, and engage across generations, from elders to grandchildren. Drawing on Te Whare Tapa Whā, a Māori model of holistic wellbeing, he sees kapa haka as strengthening multiple dimensions of health at once: physical, social, spiritual, and educational. Rather than prescribing exercise regimens that communities may struggle to maintain—or access—Smith suggests meeting people where cultural practices already thrive. For many whānau, barriers like cost, transport, and location make traditional gyms impractical, but kapa haka is already embedded in community life.
-
-This research is worth attention because it reframes health promotion around cultural strengths rather than deficits. It recognizes that sustainable change often comes not from imposing external solutions, but from amplifying what communities already value and practice. In a time when health inequities persist, the study offers a quietly radical idea: that joy, connection, and tradition might be as vital to wellbeing as any clinical prescription.</description>
-      <source url="https://www.rnz.co.nz/news/te-manu-korihi/2759205/new-research-explores-kapa-haka-as-tool-for-improving-maori-health">Radio New Zealand</source>
     </item>
   </channel>
 </rss>
